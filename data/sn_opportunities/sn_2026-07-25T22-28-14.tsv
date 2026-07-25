@@ -1,0 +1,70 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1532565	bitcoin	1	9547	0	4	6.8	1054143	1003	recent@bitcoin|top@bitcoin	HOT,SIGNAL	What Is a UTXO, and Why Does It Matter for Bitcoin Privacy?
+1532724	bitcoin	1	6754	0	9	3.0	1242375	133	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Leave sats on exchange for easy selling of fork or withdraw?
+1532777	meta	1	5711	0	3	1.8	1	26933	recent@meta|top@meta	FRESH,HOT,SIGNAL	SN Saturday Newsletter 7/25/26
+1532577	AI	1	4333	0	12	6.5	900202	2530	recent@AI|top@AI	HOT,SIGNAL	Has intellectual property ever actually existed?
+1532742	AskSN	2	2365	0	5	2.6	296825	4980	recent@bitcoin_beginners|top@bitcoin_beginners	HOT,SIGNAL,SELF_POST_OPP	You got exactly 30 seconds to give a new Bitcoiner one piece of advice.
+1532453	lightning	1	1830	0	2	9.2	440729	206	recent@lightning|top@lightning	HOT,SIGNAL	Biggest Channel Opened Today (2.5 BTC) + New Node Spotlight (0319c14d5533fa2b5…)
+1532516	bitcoin_Mining	1	659	0	1	8.2	273359	634	recent@bitcoin_Mining|top@bitcoin_Mining|recent@mempool	SIGNAL	Mining Pool Health Report [Week 1]
+1532478	gaming	3	497	0	2	8.8	458256	4824	recent@tech|top@tech	SIGNAL	Amazon Adds Video Games Into Prime Video in Expansion Push
+1532554	bitcoin_beginners	1	310	0	0	6.9	296825	4980	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	An interview with Kgothatso Ngako from Machankura, South Africa
+1532699	bitcoin	1	168	0	0	3.8	1532699	2	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	Bitaxe Gamma setup – Braiins + Lightning to Speed Wallet. Anything you'd change?
+1531592	bitcoin	1	24145	0	1	32.9	1014665	218	recent@bitcoin	HOT	Full signature aggregation BIP draft - Bitcoin Optech Newsletter #415
+1531804	news	2	8325	0	2	30.2	74100	11533	recent@bitcoin	HOT	Clams v1: Local-First Accounting for Bitcoin, Lightning, and Liquid
+1531990	security	1	7788	0	11	25.9	440139	4206	recent@security	HOT	US accuses man of wiping his Graphene phone using a 'duress' password
+1532015	bitcoin	1	6908	0	6	25.3	144357	4398	recent@bitcoin	HOT	My interview with a civilian anti defense in Kyiv | SNL #234
+1531695	podcasts	2	6738	0	1	31.3	296825	4980	recent@bitcoin_beginners|recent@bitdevs|recent@lightning	HOT	CD209: MATTHEW VUK - BARK - BITCOIN PAYMENTS ON ARK
+1531953	bitcoin	1	5528	0	1	27.2	298505	835	recent@bitcoin	HOT	Bitcoin Could Split In 15 Days — How To Protect Your Stack | Wicked & Portland
+1532041	bitcoin	1	5524	0	4	24.4	74100	11533	recent@bitcoin|recent@bitdevs	HOT	Implement BIP 54 (Consensus Cleanup) without mainnet activation by darosior
+1531899	bitcoin	1	5325	0	21	28.3	30782	25238	recent@bitcoin	HOT	Unexpected Orange Pilling Success
+1531597	news	2	5188	0	5	32.8	126503	795	recent@bitcoin_Mining	HOT,SELF_POST_OPP	Bitcoin mining pool Poolin files for Chapter 11 bankruptcy
+1532095	bitcoin	1	4999	0	5	22.8	303620	6212	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	HOT	Australian Brewery Uses Excess Solar to Mine Bitcoin
+1531498	tech	1	3936	0	1	35.1	296825	4980	recent@devs|recent@tech	HOT	The Tor Project Sunsetting Tor 0.4.8 – Please update to 0.4.9 by September
+1531888	bitcoin	1	3850	0	5	28.5	724606	11756	recent@bitcoin	HOT	Do You Like Big Bitcoin? "An Open Letter to Big Bitcoin" (X, Remu Karhulahti)
+1532072	science	2	3799	0	13	23.6	51481	4103	recent@tech|top@tech	HOT,SELF_POST_OPP	SpaceX Launch Starship Flight 13
+1532158	devs	1	3619	0	5	20.1	28117	3532	recent@devs|top@devs	HOT	Learning Embedded Rust
+1531606	bitcoin	1	3150	0	15	32.6	1242375	133	recent@bitcoin|recent@bitcoin_Mining	HOT	Do you mine bitcoin?
+1531749	bitcoin	1	1957	0	14	30.7	1242375	133	recent@bitcoin	HOT	Why is there so much overlap between Christians and BIP110?
+1532127	meta	1	1692	0	8	21.6	92827	2762	recent@meta|top@meta	HOT	SNZ appearing on your screen for the first time all week! [issue #66]
+1531934	tech	1	1659	0	0	27.5	1519632	8	recent@nostr|recent@privacy|recent@tech	HOT	"Pantry" nostr bulit shopping lists
+1532307	meta	1	1625	0	1	12.5	36151	1566	recent@meta|top@meta	HOT	This Day on SN: July 25
+1531975	tutorials	2	1537	0	4	26.5	1	26933	recent@devs|recent@tech	HOT	FPGA Development Deep Dive - ModRetro's M64
+1531790	bitcoin	1	1390	0	1	30.4	74100	11533	recent@bitcoin|recent@bitdevs	HOT	templatehash — Ark + OP_TEMPLATEHASH
+1531599	bitcoin_Mining	1	1231	0	1	32.7	74100	11533	recent@bitcoin_Mining	HOT	📣 AMA Announcement: Nick Hansen, CEO of Luxor!
+1531580	lightning	1	1118	0	1	33.2	440729	206	recent@lightning	HOT	Biggest Channel Opened Today (2.1 BTC) + New Node Spotlight (032554ee7e8302f67…)
+1531534	bitcoin_beginners	1	1051	0	3	34.1	30782	25238	recent@bitcoin_beginners	HOT	Top Posts Of The Week
+1531813	bitcoin	1	994	0	3	30.1	223678	5823	recent@bitcoin		Passphrase Magazine #4 just dropped - passphrasemagazine.io
+1532232	bitcoin	1	861	0	2	16.7	48657	14319	recent@bitcoin|top@bitcoin		Looking for opinions on BitPay
+1532241	nostr	1	712	0	0	16.6	341578	5889	recent@nostr|top@nostr		Why my home is on nostr
+1531518	bitcoin	1	598	0	1	34.7	296825	4980	recent@bitcoin_beginners|recent@bitcoin_Mining|recent@bitdevs		Why Bip110 Can't stop spam
+1532207	bitcoin	1	570	0	2	17.8	74100	11533	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		"I don't need to run a node right now" - Steve Barbour
+1532250	AskSN	2	447	0	0	16.1	296825	4980	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus		What's A Cypherpunk?
+1531906	tech	1	444	0	3	28.1	161788	10159	recent@tech		Claude Opus 5
+1531867	AI	1	425	0	1	29.0	328182	3792	recent@tech|recent@AI		The tech-broification of American science has officially begun
+1532012	meta	1	421	0	0	25.5	296825	4980	recent@bitcoin_beginners|recent@lightning|recent@meta		Should Stackers Without a Gun Receive CCs Instead of Sats?
+1531859	nostr	1	408	0	0	29.1	1496326	12	recent@nostr		🔥 New Cordn update: Cordn names and friendly links 🔥
+1532004	meta	1	383	0	6	25.7	296825	4980	recent@bitcoin_beginners|recent@lightning|recent@meta		Should Stackers Without a Gun Receive CCs Instead of Sats?
+1532088	AI	1	376	0	0	23.0	328182	3792	recent@tech|top@tech|recent@AI		A Reconfigurable Framework for AI-FPGA Agent Integration and Acceleration
+1532042	Geyser_community	3	368	0	0	24.4	296825	4980	recent@bitcoin_beginners|recent@lightning		Bitcoin Lexion
+1531870	nostr	1	355	0	1	28.8	74100	11533	recent@nostr|recent@devs		A Classy Nostr Signer — Sidecar
+1532249	AI	1	272	0	3	16.1	104755	12630	recent@AI|top@AI		AI and Innovation Festival in Singapore
+1531664	AI	1	249	0	1	31.6	280679	22572	recent@AI		AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems
+1532262	AI	1	230	0	0	15.2	1054143	1003	recent@bitcoin|top@bitcoin|recent@AI		Lightning Labs’ Wavelength: Bitcoin’s Third Ark for AI Agents [By Marcus Okafor]
+1532294	news	2	180	0	2	13.1	296825	4980	recent@bitcoin|top@bitcoin		What Happened to NoBullshitBitcoin? It's been over a year now.
+1531984	bitcoin	1	151	0	0	26.0	296825	4980	recent@bitcoin_beginners|recent@lightning		Someone seems to be picking at advocates for real Bitcoin adoption
+1531636	lol	2	146	0	1	32.1	280679	22572	recent@AI		Meta launched a new AI optimism ad set to a song about human extinction
+1532271	bitcoin	1	140	0	1	14.6	296825	4980	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		A Cypherpunk's Manifesto
+1532234	AI	1	125	0	0	16.7	296825	4980	recent@AI|top@AI		DeepSeek Is Playing the Long Game
+1531601	AI	1	114	0	2	32.7	296825	4980	recent@AI		Struggling farmers unlock $20,000 in credit by putting cows on the blockchain
+1531849	tech	1	100	0	0	29.2	984933	1727	recent@bitdevs		I got inside FIFA’s Secret World Cup Broadcast Network | NetworkChuck
+1531613	Geyser_community	3	93	0	0	32.5	296825	4980	recent@bitcoin_beginners|recent@bitcoinplusplus|recent@bitdevs		Bitcoin In Action. Ep.64
+1532737	lol	2	86	0	9	2.6	74100	11533	recent@bitcoin|top@bitcoin		Plebly - The Bitcoin Pleb Consortium
+1532261	news	2	85	0	0	15.5	296825	4980	recent@bitcoin_beginners|top@bitcoin_beginners		Citadel Wire: 2026-07-25 | BLOCK 959513
+1531548	tech	1	72	0	0	33.8	296825	4980	recent@bitcoin_beginners|recent@bitcoinplusplus|recent@bitdevs		Radicle Explorer: The distributed code network. For humans and machines alike.
+1531591	Geyser_community	3	72	0	0	32.9	296825	4980	recent@bitcoin_beginners|recent@bitcoinplusplus|recent@bitdevs		Happy Weekend, Friends
+1532570	bitcoin_beginners	1	63	0	0	6.7	296825	4980	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		African Bitcoiners Hall Of Fame
+1532660	AI	1	36	0	0	4.9	1248037	1833	recent@AI|top@AI		People are deceiving the justice system with AI | Hacker News
+1532729	bitcoin	1	18	0	0	2.8	296825	4980	recent@bitcoin_beginners|top@bitcoin_beginners		Adam Back Hid a Convicted Felon's Control of Billions
+1531602	nostr	1	11	0	1	32.7	163128	3670	recent@lightning		After Indian ban BitChat get Mirrored to Radicle ⚡️ Donate Sats to Keep it Alive
+1532247	bitcoin	1	0	0	1	16.3	296825	4980	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		The biggest debate isn't about fiat price tag
+1531641	AI	1	0	0	1	32.0	296825	4980	recent@AI		The End of Rented Intelligence: Keep Your Business AI To Yourself
