@@ -1,20 +1,24 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-07-25T11:10:05.036Z; n=40
-bitcoin	sn:podcasts,sn:news	7.52	yes	
-full	sn:bitcoin	4.33	yes	
-bitcoin optech newsletter	sn:bitcoin	4.33	yes	
-kimi	hn	4.23	no	RISING
-graphene	sn:security	3.88	no	RISING
-kyiv	sn:bitcoin	3.83	yes	
-matthew	sn:podcasts	3.82	no	RISING
-bark	sn:podcasts	3.82	no	RISING
-payments	sn:podcasts	3.82	no	RISING
-admits	sn:Politics_And_Law	3.76	no	RISING
-court it canceled grants based	sn:Politics_And_Law	3.76	no	RISING
-whether	sn:Politics_And_Law	3.76	no	RISING
-state voted blue	sn:Politics_And_Law	3.76	no	RISING
+# generated 2026-07-25T16:57:37.041Z; n=40
+daily bitcoin lore	sn:history	7.55	no	RISING
+risks	sn:AskSN	4.02	no	RISING
+samourai	sn:AskSN	4.02	no	RISING
+daily stock discussion	sn:Stacker_Stocks	4.02	no	RISING
+graphene	sn:security	3.89	no	RISING
+what is	sn:bitcoin	3.85	yes	
+utxo	sn:bitcoin	3.85	yes	
+why does it matter	sn:bitcoin	3.85	yes	
+bitcoin privacy	sn:bitcoin	3.85	yes	
+kyiv	sn:bitcoin	3.84	yes	
+falls	sn:history	3.78	no	RISING
+tied	sn:history	3.78	no	RISING
+missing coins	sn:history	3.78	no	RISING
+controls	sn:history	3.77	no	RISING
+network hash	sn:history	3.77	no	RISING
 which	sn:Design	3.76	no	RISING
 guess	sn:Design	3.76	no	RISING
+implement	sn:bitcoin	3.74	yes	
+consensus cleanup	sn:bitcoin	3.74	yes	
 bitcoin could split in	sn:bitcoin	3.74	yes	
 days	sn:bitcoin	3.74	yes	
 how to protect your stack	sn:bitcoin	3.74	yes	
@@ -25,18 +29,14 @@ here	sn:econ	3.72	no	RISING
 how nancy pelosi beat	sn:econ	3.72	no	RISING
 stock market	sn:econ	3.72	no	RISING
 warren buffett	sn:econ	3.72	no	RISING
-implement	sn:bitcoin	3.71	yes	
-consensus cleanup	sn:bitcoin	3.71	yes	
-poolin	sn:news	3.7	no	RISING
-chapter	sn:news	3.7	no	RISING
-australian brewery uses excess solar	sn:bitcoin	3.66	yes	
-mine bitcoin	sn:bitcoin	3.66	yes	
-the tor project sunsetting tor	sn:tech	3.59	yes	
-please	sn:tech	3.59	yes	
-september	sn:tech	3.59	yes	
-do you like big bitcoin	sn:bitcoin	3.58	yes	
-an open letter	sn:bitcoin	3.58	yes	
-big bitcoin	sn:bitcoin	3.58	yes	
-remu karhulahti	sn:bitcoin	3.58	yes	
-launch starship flight	sn:science	3.57	yes	
-nobody	sn:Politics_And_Law	3.57	no	RISING
+australian brewery uses excess solar	sn:bitcoin	3.7	yes	
+mine bitcoin	sn:bitcoin	3.7	yes	
+coinjoins	sn:Coinjoins	3.68	no	RISING
+learn	sn:Coinjoins	3.68	no	RISING
+taxation without representation	sn:Politics_And_Law	3.67	no	RISING
+an enduring american grievance	sn:Politics_And_Law	3.67	no	RISING
+do you like big bitcoin	sn:bitcoin	3.59	yes	
+an open letter	sn:bitcoin	3.59	yes	
+big bitcoin	sn:bitcoin	3.59	yes	
+remu karhulahti	sn:bitcoin	3.59	yes	
+launch starship flight	sn:science	3.58	yes	
