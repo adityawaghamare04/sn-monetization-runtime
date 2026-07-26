@@ -21455,3 +21455,14 @@
 2026-07-26T14:02:17.196Z	1533168	bitcoin	1	356	0	1	0.9	1518786	4	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Built a burglar alarm for cold storage — alerts the second a sat moves out
 2026-07-26T14:02:17.196Z	1533092	bitcoin	1	331	0	0	2.8	273359	655	recent@bitcoin|top@bitcoin	SIGNAL	BitMart Exchange is shutting down
 2026-07-26T14:02:17.196Z	1533052	AI	1	311	0	1	5.0	12315	2320	recent@AI|top@AI	SIGNAL	"AI Mania" Is About To End: Harris Kupperman
+2026-07-26T15:13:38.873Z	1533167	nostr	1	5866	0	18	2.1	74100	11538	recent@nostr|top@nostr	HOT,SIGNAL	Why Nostr Identity Is Not a Negotiable Feature - alp
+2026-07-26T15:13:38.873Z	1532985	bitcoin	1	3272	0	2	10.6	38225	869	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Blockvase - real-time graphical representation of bitcoin mempool
+2026-07-26T15:13:38.873Z	1533182	lightning	1	2036	0	0	1.6	263526	511	recent@lightning|top@lightning	FRESH,HOT,SIGNAL	Lightning Terminal release passkey support for device-based auth
+2026-07-26T15:13:38.873Z	1533091	meta	1	1649	0	2	4.0	1524952	15	recent@meta|top@meta	HOT,SIGNAL	Improvements to post editing shortcuts
+2026-07-26T15:13:38.873Z	1533173	lightning	1	1594	0	2	2.0	440729	207	recent@lightning|top@lightning	HOT,SIGNAL	Biggest Channel Opened Today (2.0 BTC) + New Node Spotlight (033459f1256c0261e…)
+2026-07-26T15:13:38.873Z	1532971	tech	1	792	0	5	11.7	1527069	11	recent@privacy|top@privacy|recent@devs	SIGNAL	How do you stop YouTube's algorithm from deciding what you watch?
+2026-07-26T15:13:38.873Z	1532984	bitcoin	1	637	0	0	10.7	1527743	9	recent@bitcoin|top@bitcoin	SIGNAL	THE BITCOIN PUZZLE (1000 BTC CHALLENGE)-Complete Deep Research — From A to Z
+2026-07-26T15:13:38.873Z	1533071	meta	1	635	0	0	5.2	36151	1567	recent@meta|top@meta	SIGNAL	This Day on SN: July 26
+2026-07-26T15:13:38.873Z	1533092	bitcoin	1	331	0	1	4.0	273359	659	recent@bitcoin|top@bitcoin	SIGNAL	BitMart Exchange is shutting down
+2026-07-26T15:13:38.873Z	1533052	AI	1	311	0	1	6.1	12315	2320	recent@AI|top@AI	SIGNAL	"AI Mania" Is About To End: Harris Kupperman
+2026-07-26T15:13:38.873Z	1533196	bitcoin	1	157	0	2	1.1	273359	659	recent@bitcoin|top@bitcoin|recent@bitdevs	FRESH,SIGNAL	Omega Splice - Dusty Daemon
