@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-07-26T22:58:33.803Z; n=40
-what	hn,sn:bitcoin,sn:AskSN	8.27	yes	
-chris belcher	sn:Coinjoins	6.97	no	RISING
-show	hn	5.28	no	RISING
-design	hn,sn:Coinjoins	5.12	no	RISING
+# generated 2026-07-27T07:31:26.693Z; n=40
+show	hn	6.83	no	RISING
+what	sn:bitcoin,sn:AskSN	6.11	yes	
+chris belcher	sn:Coinjoins	4.05	no	RISING
 improving	sn:Coinjoins	4.05	no	RISING
-death	sn:science	3.85	no	RISING
-study	sn:science	3.85	no	RISING
-sociology	sn:science	3.85	no	RISING
-good riddance	sn:science	3.85	no	RISING
-pamela paul	sn:science	3.85	no	RISING
-turning	sn:bitcoin	3.82	yes	
-bitaxe	sn:bitcoin	3.82	yes	
-solar bitcoin miner	sn:bitcoin	3.82	yes	
+death	sn:science	3.86	no	RISING
+study	sn:science	3.86	no	RISING
+sociology	sn:science	3.86	no	RISING
+good riddance	sn:science	3.86	no	RISING
+pamela paul	sn:science	3.86	no	RISING
 why nostr identity is not	sn:nostr	3.77	yes	
 negotiable feature	sn:nostr	3.77	yes	
-dachshund	sn:Photography	3.75	no	RISING
-how lightning scales bitcoin	sn:lightning	3.74	no	RISING
-megalith lightning docs	sn:lightning	3.74	no	RISING
-using	hn	3.63	no	RISING
+praxeology	sn:BooksAndArticles	3.58	no	RISING
+privacy book club	sn:BooksAndArticles	3.58	no	RISING
+part	sn:BooksAndArticles	3.58	no	RISING
 return	sn:BooksAndArticles	3.58	no	RISING
 taleb	sn:BooksAndArticles	3.58	no	RISING
 ultimate asymmetrical thinker	sn:BooksAndArticles	3.58	no	RISING
 skin	sn:BooksAndArticles	3.58	no	RISING
 game	sn:BooksAndArticles	3.58	no	RISING
-praxeology	sn:BooksAndArticles	3.52	no	RISING
-privacy book club	sn:BooksAndArticles	3.52	no	RISING
-part	sn:BooksAndArticles	3.52	no	RISING
 sunday survey	sn:bitcoin	3.52	yes	
-blockvase	sn:bitcoin	3.51	yes	
-real-time	sn:bitcoin	3.51	yes	
-downzap	sn:bitcoin	3.49	yes	
-the paradox	sn:bitcoin	3.49	yes	
-privacy	sn:bitcoin	3.49	yes	
 welcome	sn:ideasfromtheedge	3.42	no	RISING
 off-grid	sn:ideasfromtheedge	3.42	no	RISING
-alby go	sn:AskSN	3.4	no	RISING
-alby hub	sn:AskSN	3.4	no	RISING
 creator in	sn:Design	3.38	no	RISING
 consumerist world	sn:Design	3.38	no	RISING
-meiringen	sn:Photography	3.37	no	RISING
+christopher nolan box office	sn:movies	3.37	no	RISING
+review	sn:the_stacker_muse	3.34	no	RISING
+make room	sn:the_stacker_muse	3.34	no	RISING
+harry harrison	sn:the_stacker_muse	3.34	no	RISING
+lightning terminal	sn:lightning	3.34	no	RISING
+device-based	sn:lightning	3.34	no	RISING
+paolo	sn:Animal_World	3.26	no	RISING
+biggest channel opened today	sn:lightning	3.26	no	RISING
+new node spotlight	sn:lightning	3.26	no	RISING
+improvements	sn:meta	3.22	yes	
+daily bitcoin lore	sn:history	3.18	no	RISING
+rejects bitcoin	sn:history	3.18	no	RISING
+crypto mom is born	sn:history	3.18	no	RISING
+beach	sn:art	3.16	no	RISING
+river	sn:art	3.16	no	RISING
+police	sn:news	3.08	no	RISING
