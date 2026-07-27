@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-07-27T12:54:38.690Z; n=40
-what	sn:AskSN,sn:bitcoin	6.11	yes	
-chris belcher	sn:Coinjoins	4.05	no	RISING
-improving	sn:Coinjoins	4.05	no	RISING
-death	sn:science	3.86	no	RISING
-study	sn:science	3.86	no	RISING
-sociology	sn:science	3.86	no	RISING
-good riddance	sn:science	3.86	no	RISING
-pamela paul	sn:science	3.86	no	RISING
-why nostr identity is not	sn:nostr	3.78	yes	
-negotiable feature	sn:nostr	3.78	yes	
+# generated 2026-07-27T17:42:14.795Z; n=40
+inside	sn:Politics_And_Law,sn:bitcoin	7.6	yes	
+bitcoin	sn:bitcoin,sn:AskSN	5.82	yes	
+kimi	hn	5.47	no	RISING
+show	hn	5.37	no	RISING
+more	sn:security	4.02	yes	
+modern	hn	3.92	no	RISING
+germany	sn:Politics_And_Law	3.84	no	RISING
 cryptographic alchemy	sn:bitcoin	3.75	yes	
-inside	sn:bitcoin	3.75	yes	
 magic	sn:bitcoin	3.75	yes	
-bitcoin	sn:bitcoin	3.75	yes	
-praxeology	sn:BooksAndArticles	3.58	no	RISING
-privacy book club	sn:BooksAndArticles	3.58	no	RISING
-part	sn:BooksAndArticles	3.58	no	RISING
-return	sn:BooksAndArticles	3.58	no	RISING
-taleb	sn:BooksAndArticles	3.58	no	RISING
-ultimate asymmetrical thinker	sn:BooksAndArticles	3.58	no	RISING
-skin	sn:BooksAndArticles	3.58	no	RISING
-game	sn:BooksAndArticles	3.58	no	RISING
-sunday survey	sn:bitcoin	3.52	yes	
-situation monitor	sn:bitcoin	3.49	yes	
-live	sn:bitcoin	3.49	yes	
-welcome	sn:ideasfromtheedge	3.44	no	RISING
-off-grid	sn:ideasfromtheedge	3.44	no	RISING
+situation monitor	sn:bitcoin	3.72	yes	
+live	sn:bitcoin	3.72	yes	
+release	sn:lightning	3.72	no	RISING
+movie review	sn:movies	3.58	no	RISING
+christopher nolan	sn:movies	3.58	no	RISING
+the odyssey	sn:movies	3.58	no	RISING
+the messy middle	sn:bitcoin	3.42	yes	
+or what actually happens	sn:bitcoin	3.42	yes	
+splits	sn:bitcoin	3.42	yes	
+chain	sn:bitcoin	3.42	yes	
 christopher nolan box office	sn:movies	3.39	no	RISING
-review	sn:the_stacker_muse	3.34	no	RISING
-make room	sn:the_stacker_muse	3.34	no	RISING
-harry harrison	sn:the_stacker_muse	3.34	no	RISING
-lightning terminal	sn:lightning	3.34	no	RISING
-device-based	sn:lightning	3.34	no	RISING
-buying bitcoin	sn:bitcoin	3.32	yes	
+review	sn:the_stacker_muse	3.35	no	RISING
+make room	sn:the_stacker_muse	3.35	no	RISING
+harry harrison	sn:the_stacker_muse	3.35	no	RISING
+buying bitcoin	sn:bitcoin	3.34	yes	
 paolo	sn:Animal_World	3.27	no	RISING
-biggest channel opened today	sn:lightning	3.26	no	RISING
-new node spotlight	sn:lightning	3.26	no	RISING
-beach	sn:art	3.16	no	RISING
-river	sn:art	3.16	no	RISING
-police	sn:news	3.08	no	RISING
+stacker sports summer league contest	sn:Geyser_community	3.25	no	RISING
+olivetti	sn:Design	3.23	yes	
+how italy beat america	sn:Design	3.23	yes	
+personal computer	sn:Design	3.23	yes	
+lost it	sn:Design	3.23	yes	
+free stuff	sn:BooksAndArticles	3.21	no	RISING
+norway still costs half	sn:BooksAndArticles	3.21	no	RISING
+average pay	sn:BooksAndArticles	3.21	no	RISING
+beach	sn:art	3.19	no	RISING
+river	sn:art	3.19	no	RISING
+publish video	sn:podcasts	3.17	no	RISING
+apple podcasts	sn:podcasts	3.17	no	RISING
+fountain	sn:podcasts	3.17	no	RISING
+transaction	sn:bitcoin	3.15	yes	
+rate-limiting	sn:bitcoin	3.15	yes	
