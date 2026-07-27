@@ -21972,3 +21972,23 @@
 2026-07-27T18:44:00.110Z	1533897	meta	1	129	0	16	4.7	273359	698	recent@meta|top@meta	SIGNAL	Bug fixes?
 2026-07-27T18:44:00.110Z	1534130	AI	1	125	0	0	1.0	934367	935	recent@AI|top@AI	FRESH,SIGNAL	STOLEN COMPUTE — exposed AI is free AI
 2026-07-27T18:44:00.110Z	1533724	news	2	112	0	0	10.3	1490792	347	recent@news|top@news	SIGNAL	US pauses Iran attacks after Trump advised to halt bombing
+2026-07-27T18:55:59.821Z	1533974	security	1	10379	0	1	3.7	1533974	1	recent@bitcoin|top@bitcoin|recent@security	HOT,SIGNAL	More info about arca released
+2026-07-27T18:55:59.821Z	1533741	bitcoin	1	5673	0	0	9.7	133081	689	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Cryptographic Alchemy: Inside the Magic of Bitcoin’s BIP459
+2026-07-27T18:55:59.821Z	1534075	lightning	1	5340	0	1	2.2	280679	22605	recent@lightning|top@lightning	HOT,SIGNAL	ZeusLN/zeus · Release v13.1.3
+2026-07-27T18:55:59.821Z	1533819	bitcoin	1	5216	0	16	7.0	280679	22605	recent@bitcoin|top@bitcoin	HOT,SIGNAL	BIP110 Situation Monitor: Live
+2026-07-27T18:55:59.821Z	1533916	bitcoin	1	2658	0	5	4.4	178	921	recent@bitcoin|top@bitcoin	HOT,SIGNAL	The Messy Middle: Or What Actually Happens if BIP110 Splits the Chain
+2026-07-27T18:55:59.821Z	1533826	bitcoin	1	2196	0	0	6.9	1278026	697	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	Buying Bitcoin KYC/P2P? Do you know your exchange/peer fork policy?
+2026-07-27T18:55:59.821Z	1533832	Design	2	1707	0	4	6.7	776307	1211	recent@tech|top@tech	HOT,SIGNAL	Olivetti: How Italy Beat America to the Personal Computer, and Lost It
+2026-07-27T18:55:59.821Z	1533726	meta	1	1488	0	20	10.3	273359	698	recent@privacy|top@privacy|recent@meta	HOT,SIGNAL	"chan" style territories
+2026-07-27T18:55:59.821Z	1534103	bitcoinplusplus	1	1429	0	1	1.8	280679	22605	recent@bitcoinplusplus|top@bitcoinplusplus	FRESH,HOT,SIGNAL	[LIVE] bitcoin++ Consensus Edition: Fork Strategies Panel
+2026-07-27T18:55:59.822Z	1534047	bitcoin	1	1397	0	0	2.8	280679	22605	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Transaction rate-limiting
+2026-07-27T18:55:59.822Z	1533807	bitcoin	1	1025	0	2	7.5	74100	11565	recent@bitcoin|top@bitcoin|recent@mempool	HOT,SIGNAL	A mempool as a post office - DoktorShift
+2026-07-27T18:55:59.822Z	1534141	nostr	1	1022	0	0	1.0	462245	295	recent@lightning|top@lightning|recent@nostr	FRESH,HOT,SIGNAL	BOLT 12: payer proofs has been merged - Wen BOLT12 zaps?
+2026-07-27T18:55:59.822Z	1534118	meta	1	984	0	10	1.5	984933	1768	recent@meta|top@meta	FRESH,SIGNAL	Is it possible to schedule posts with a deposit on Stacker News?
+2026-07-27T18:55:59.822Z	1533846	AI	1	727	0	1	6.2	68842	616	recent@AI|top@AI	SIGNAL	AI companies are shredding rare books
+2026-07-27T18:55:59.822Z	1533822	science	2	702	0	1	7.0	1490792	347	recent@tech|top@tech	SIGNAL	Telepathic Wheelchair Control | Neuralink
+2026-07-27T18:55:59.822Z	1533862	lightning	1	477	0	0	5.7	440729	209	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (2.1 BTC) + New Node Spotlight (034aa50c4cc29dc84…)
+2026-07-27T18:55:59.822Z	1533902	AskSN	2	263	0	1	4.7	1054143	1014	recent@privacy|top@privacy	SIGNAL	Are We Trading Our Privacy for Convenience Without Even Realizing It?
+2026-07-27T18:55:59.822Z	1533766	meta	1	255	0	0	8.9	36151	1569	recent@meta|top@meta	SIGNAL	This Day on SN: July 27
+2026-07-27T18:55:59.822Z	1533897	meta	1	129	0	16	4.9	273359	698	recent@meta|top@meta	SIGNAL	Bug fixes?
+2026-07-27T18:55:59.822Z	1534130	AI	1	125	0	0	1.2	934367	935	recent@AI|top@AI	FRESH,SIGNAL	STOLEN COMPUTE — exposed AI is free AI
