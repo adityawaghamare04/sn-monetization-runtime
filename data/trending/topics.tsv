@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-07-27T17:42:14.795Z; n=40
-inside	sn:Politics_And_Law,sn:bitcoin	7.6	yes	
-bitcoin	sn:bitcoin,sn:AskSN	5.82	yes	
-kimi	hn	5.47	no	RISING
-show	hn	5.37	no	RISING
+# generated 2026-07-27T23:01:28.186Z; n=40
+bitcoin	hn,sn:AskSN,sn:bitcoin	8.5	yes	
+the odyssey	sn:movies	8.45	no	RISING
+inside	sn:Politics_And_Law,sn:bitcoin	7.61	yes	
+live	sn:bitcoin,sn:bitcoinplusplus	6.91	yes	
+emily wilson	sn:movies	4.86	no	RISING
+what	sn:bitcoin	4.07	yes	
 more	sn:security	4.02	yes	
-modern	hn	3.92	no	RISING
-germany	sn:Politics_And_Law	3.84	no	RISING
+germany	sn:Politics_And_Law	3.86	no	RISING
 cryptographic alchemy	sn:bitcoin	3.75	yes	
 magic	sn:bitcoin	3.75	yes	
-situation monitor	sn:bitcoin	3.72	yes	
-live	sn:bitcoin	3.72	yes	
-release	sn:lightning	3.72	no	RISING
-movie review	sn:movies	3.58	no	RISING
-christopher nolan	sn:movies	3.58	no	RISING
-the odyssey	sn:movies	3.58	no	RISING
-the messy middle	sn:bitcoin	3.42	yes	
-or what actually happens	sn:bitcoin	3.42	yes	
-splits	sn:bitcoin	3.42	yes	
-chain	sn:bitcoin	3.42	yes	
-christopher nolan box office	sn:movies	3.39	no	RISING
+release	sn:lightning	3.74	no	RISING
+situation monitor	sn:bitcoin	3.73	yes	
+covid	sn:Politics_And_Law	3.72	no	RISING
+haiti	sn:Politics_And_Law	3.72	no	RISING
+movie review	sn:movies	3.59	no	RISING
+christopher nolan	sn:movies	3.59	no	RISING
+bolt	sn:nostr	3.54	yes	
+stacker sports summer league contest	sn:Geyser_community	3.5	no	RISING
+will	sn:AskSN	3.43	no	RISING
+the messy middle	sn:bitcoin	3.43	yes	
+or what actually happens	sn:bitcoin	3.43	yes	
+splits	sn:bitcoin	3.43	yes	
+chain	sn:bitcoin	3.43	yes	
+free stuff	sn:BooksAndArticles	3.43	no	RISING
+norway still costs half	sn:BooksAndArticles	3.43	no	RISING
+average pay	sn:BooksAndArticles	3.43	no	RISING
 review	sn:the_stacker_muse	3.35	no	RISING
 make room	sn:the_stacker_muse	3.35	no	RISING
 harry harrison	sn:the_stacker_muse	3.35	no	RISING
-buying bitcoin	sn:bitcoin	3.34	yes	
+buying bitcoin	sn:bitcoin	3.35	yes	
+running	sn:bitcoin	3.32	yes	
+last	sn:Stacker_Sports	3.31	no	RISING
 paolo	sn:Animal_World	3.27	no	RISING
-stacker sports summer league contest	sn:Geyser_community	3.25	no	RISING
 olivetti	sn:Design	3.23	yes	
 how italy beat america	sn:Design	3.23	yes	
 personal computer	sn:Design	3.23	yes	
 lost it	sn:Design	3.23	yes	
-free stuff	sn:BooksAndArticles	3.21	no	RISING
-norway still costs half	sn:BooksAndArticles	3.21	no	RISING
-average pay	sn:BooksAndArticles	3.21	no	RISING
-beach	sn:art	3.19	no	RISING
-river	sn:art	3.19	no	RISING
-publish video	sn:podcasts	3.17	no	RISING
-apple podcasts	sn:podcasts	3.17	no	RISING
-fountain	sn:podcasts	3.17	no	RISING
-transaction	sn:bitcoin	3.15	yes	
-rate-limiting	sn:bitcoin	3.15	yes	
+insider europe	sn:Politics_And_Law	3.22	no	RISING
+booming cocaine market	sn:Politics_And_Law	3.22	no	RISING
+jude webber	sn:Politics_And_Law	3.22	no	RISING
