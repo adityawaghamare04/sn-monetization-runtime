@@ -22071,3 +22071,46 @@
 2026-07-27T21:40:51.996Z	1533766	meta	1	255	0	0	11.7	36151	1569	recent@meta|top@meta	SIGNAL	This Day on SN: July 27
 2026-07-27T21:40:51.996Z	1534130	AI	1	146	0	0	4.0	934367	935	recent@AI|top@AI	SIGNAL	STOLEN COMPUTE — exposed AI is free AI
 2026-07-27T21:40:51.996Z	1533897	meta	1	140	0	16	7.6	273359	704	recent@meta|top@meta	SIGNAL	Bug fixes?
+2026-07-27T22:13:54.778Z	1533833	movies	3	71772	0	11	10.0	440139	4216	recent@BooksAndArticles|top@BooksAndArticles	HOT,SIGNAL,SELF_POST_OPP	Emily Wilson on The Odyssey
+2026-07-27T22:13:54.778Z	1534239	bitcoin	1	10903	0	9	1.7	127838	1131	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	FRESH,HOT,SIGNAL	What’s the difference between a soft fork, a hard fork, and a chain split?
+2026-07-27T22:13:54.778Z	1533974	security	1	10444	0	3	7.0	1533974	1	recent@bitcoin|top@bitcoin|recent@security	HOT,SIGNAL	More info about arca released
+2026-07-27T22:13:54.778Z	1534075	lightning	1	5439	0	1	5.5	280679	22607	recent@lightning|top@lightning	HOT,SIGNAL	ZeusLN/zeus · Release v13.1.3
+2026-07-27T22:13:54.778Z	1533819	bitcoin	1	5341	0	18	10.3	280679	22607	recent@bitcoin|top@bitcoin	HOT,SIGNAL	BIP110 Situation Monitor: Live
+2026-07-27T22:13:54.778Z	1534141	nostr	1	3428	0	0	4.3	462245	295	recent@lightning|top@lightning|recent@nostr	HOT,SIGNAL	BOLT 12: payer proofs has been merged - Wen BOLT12 zaps?
+2026-07-27T22:13:54.778Z	1533846	AI	1	2839	0	2	9.5	68842	616	recent@AI|top@AI	HOT,SIGNAL	AI companies are shredding rare books
+2026-07-27T22:13:54.778Z	1533916	bitcoin	1	2705	0	5	7.7	178	921	recent@bitcoin|top@bitcoin	HOT,SIGNAL	The Messy Middle: Or What Actually Happens if BIP110 Splits the Chain
+2026-07-27T22:13:54.778Z	1534120	AskSN	2	2681	0	7	4.7	273359	704	recent@AskSN|top@AskSN	HOT,SIGNAL,SELF_POST_OPP	Will you quit Bitcoin if your side of the fork isn't the heaviest chain?
+2026-07-27T22:13:54.778Z	1533994	BooksAndArticles	2	2646	0	5	6.8	724606	11793	recent@econ|top@econ|recent@BooksAndArticles	HOT,SIGNAL,SELF_POST_OPP	'Free Stuff' in Norway Still Costs Half of Average Pay (TDE, JB)
+2026-07-27T22:13:54.778Z	1533826	bitcoin	1	2243	0	0	10.2	1278026	699	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	Buying Bitcoin KYC/P2P? Do you know your exchange/peer fork policy?
+2026-07-27T22:13:54.778Z	1534072	Stacker_Stocks	2	2162	0	0	5.5	934429	300	recent@Stacker_Stocks|top@Stacker_Stocks	HOT,SIGNAL	The $100 billion that vanished from leveraged ETFs
+2026-07-27T22:13:54.778Z	1534285	bitcoin	1	1961	0	1	0.5	900202	2539	recent@bitcoin|top@bitcoin|recent@AskSN	FRESH,HOT,SIGNAL	Running more than one implementation for forking drama
+2026-07-27T22:13:54.778Z	1533832	Design	2	1707	0	4	10.0	776307	1211	recent@tech|top@tech|recent@Design	HOT,SIGNAL	Olivetti: How Italy Beat America to the Personal Computer, and Lost It
+2026-07-27T22:13:54.778Z	1534103	bitcoinplusplus	1	1512	0	1	5.1	280679	22607	recent@bitcoinplusplus|top@bitcoinplusplus	HOT,SIGNAL	[LIVE] bitcoin++ Consensus Edition: Fork Strategies Panel
+2026-07-27T22:13:54.778Z	1533837	podcasts	2	1470	0	0	9.8	4081	489	recent@podcasts|top@podcasts	HOT,SIGNAL	Publish Video to Apple Podcasts with Fountain
+2026-07-27T22:13:54.778Z	1534047	bitcoin	1	1439	0	0	6.1	280679	22607	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Transaction rate-limiting
+2026-07-27T22:13:54.778Z	1534241	bitcoin	1	1346	0	0	1.6	74100	11572	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	Market Activated Soft Fork - Steve Barbour
+2026-07-27T22:13:54.778Z	1534118	meta	1	1112	0	10	4.7	984933	1771	recent@meta|top@meta|recent@AskSN	HOT,SIGNAL	Is it possible to schedule posts with a deposit on Stacker News?
+2026-07-27T22:13:54.778Z	1533807	bitcoin	1	1067	0	2	10.8	74100	11572	recent@bitcoin|top@bitcoin|recent@mempool	HOT,SIGNAL	A mempool as a post office - DoktorShift
+2026-07-27T22:13:54.778Z	1534242	bitcoin_beginners	1	1036	0	1	1.6	223678	5838	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH,HOT,SIGNAL	Swapping hardware wallets
+2026-07-27T22:13:54.778Z	1534283	Politics_And_Law	3	963	0	0	0.5	724606	11793	recent@econ|top@econ	FRESH,SIGNAL	Insider Europe's Booming Cocaine Market (FT, Jude Webber & Laura Dubois)
+2026-07-27T22:13:54.778Z	1534281	bitcoin	1	769	0	0	0.6	74100	11572	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	FRESH,SIGNAL	Bitaxe Hex Bitcoin Solo Miner (1300 Model)
+2026-07-27T22:13:54.778Z	1534273	AskSN	2	708	0	0	0.8	724606	11793	recent@econ|top@econ|recent@AskSN	FRESH,SIGNAL	Asking the Public to Improve the Euro Notes (The Economist)
+2026-07-27T22:13:54.778Z	1533822	science	2	702	0	1	10.3	1490792	347	recent@tech|top@tech|recent@science	SIGNAL	Telepathic Wheelchair Control | Neuralink
+2026-07-27T22:13:54.778Z	1533835	Stacker_Stocks	2	607	0	1	9.9	51481	4105	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Strategy repurchased $25 million of STRC, boosted cash reserve to $3.75 billion
+2026-07-27T22:13:54.778Z	1533862	lightning	1	477	0	0	9.0	440729	209	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (2.1 BTC) + New Node Spotlight (034aa50c4cc29dc84…)
+2026-07-27T22:13:54.778Z	1533950	Memes	2	443	0	8	7.2	36151	1569	recent@Memes|top@Memes	SIGNAL,SELF_POST_OPP	Meme Monday - Top Meme Goes in the Newsletter
+2026-07-27T22:13:54.778Z	1534286	science	2	431	0	0	0.5	263596	225	recent@science|top@science	FRESH,SIGNAL	Interview with NASA Administrator Jared Isaacman
+2026-07-27T22:13:54.778Z	1534063	econ	2	403	0	4	5.7	1293586	2077	recent@econ|top@econ	SIGNAL	Generation X is about to inherit a fortune – and about to blow it
+2026-07-27T22:13:54.778Z	1534025	charts_and_maps	2	401	0	2	6.3	280679	22607	recent@charts_and_maps|top@charts_and_maps	SIGNAL	The Mammals That Sleep Most and Least
+2026-07-27T22:13:54.778Z	1533783	news	2	365	0	0	11.4	1054143	1015	recent@econ|top@econ|recent@news	SIGNAL	What lies ahead for Iran’s economy as scope of US war grows beyond Hormuz?
+2026-07-27T22:13:54.778Z	1534224	AskSN	2	331	0	1	2.0	1054143	1015	recent@AskSN|top@AskSN	SIGNAL	What Would You Bring Back?
+2026-07-27T22:13:54.778Z	1533902	AskSN	2	263	0	1	8.0	1054143	1015	recent@privacy|top@privacy|recent@AskSN	SIGNAL	Are We Trading Our Privacy for Convenience Without Even Realizing It?
+2026-07-27T22:13:54.778Z	1534145	art	3	255	0	0	4.3	1208996	376	recent@BooksAndArticles|top@BooksAndArticles	SIGNAL	When ♾️🗓️ and How Many 🔢
+2026-07-27T22:13:54.778Z	1534178	charts_and_maps	2	223	0	3	3.5	280679	22607	recent@econ|top@econ|recent@charts_and_maps	SIGNAL	Economic Inequality
+2026-07-27T22:13:54.778Z	1534214	Design	2	223	0	1	2.2	383547	3411	recent@Design|top@Design	SIGNAL	The era of personal software
+2026-07-27T22:13:54.778Z	1534229	AskSN	2	217	0	0	1.9	976996	13	recent@AskSN|top@AskSN	FRESH,SIGNAL	AskSN: ¿Qué "pecado" cometes contra tu soberanía en Bitcoin?
+2026-07-27T22:13:54.778Z	1533895	AskSN	2	173	0	4	8.2	984933	1771	recent@AskSN|top@AskSN	SIGNAL	Welcome to AskSN Weekly Q&A Awards
+2026-07-27T22:13:54.778Z	1534192	BooksAndArticles	2	159	0	0	3.0	1248037	1855	recent@BooksAndArticles|top@BooksAndArticles	SIGNAL	Magnolias are so old that they're pollinated by beetles, not bees | Hacker News
+2026-07-27T22:13:54.778Z	1534130	AI	1	146	0	0	4.5	934367	935	recent@AI|top@AI	SIGNAL	STOLEN COMPUTE — exposed AI is free AI
+2026-07-27T22:13:54.778Z	1533897	meta	1	140	0	16	8.2	273359	704	recent@meta|top@meta	SIGNAL	Bug fixes?
+2026-07-27T22:13:54.778Z	1533804	AskSN	2	138	0	0	10.9	984933	1771	recent@AskSN|top@AskSN	SIGNAL	Daily Discussion Thread ~AskSN
