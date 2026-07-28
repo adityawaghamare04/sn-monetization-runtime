@@ -22237,3 +22237,13 @@
 2026-07-28T04:19:23.466Z	1534192	BooksAndArticles	2	159	0	0	9.1	1248037	1858	recent@BooksAndArticles|top@BooksAndArticles	SIGNAL	Magnolias are so old that they're pollinated by beetles, not bees | Hacker News
 2026-07-28T04:19:23.466Z	1534130	AI	1	155	0	0	10.6	934367	935	recent@AI|top@AI	SIGNAL	STOLEN COMPUTE — exposed AI is free AI
 2026-07-28T04:19:23.467Z	1534359	AskSN	2	115	0	0	5.2	976996	14	recent@AskSN|top@AskSN	SIGNAL	AskSN: ¿Te preocupa que rastreen la IP de tu nodo LN?
+2026-07-28T04:29:37.289Z	1534239	bitcoin	1	12418	0	13	7.9	127838	1133	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	What’s the difference between a soft fork, a hard fork, and a chain split?
+2026-07-28T04:29:37.289Z	1534075	lightning	1	5460	0	2	11.7	280679	22611	recent@lightning|top@lightning	HOT,SIGNAL	ZeusLN/zeus · Release v13.1.3
+2026-07-28T04:29:37.289Z	1534141	nostr	1	3983	0	1	10.6	462245	295	recent@lightning|top@lightning|recent@nostr	HOT,SIGNAL	BOLT 12: payer proofs has been merged - Wen BOLT12 zaps?
+2026-07-28T04:29:37.289Z	1534285	bitcoin	1	2362	0	10	6.8	900202	2545	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Running more than one implementation for forking drama
+2026-07-28T04:29:37.289Z	1534103	bitcoinplusplus	1	1512	0	1	11.4	280679	22611	recent@bitcoinplusplus|top@bitcoinplusplus	HOT,SIGNAL	[LIVE] bitcoin++ Consensus Edition: Fork Strategies Panel
+2026-07-28T04:29:37.289Z	1534241	bitcoin	1	1476	0	0	7.9	74100	11572	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Market Activated Soft Fork - Steve Barbour
+2026-07-28T04:29:37.289Z	1534118	meta	1	1112	0	11	11.0	984933	1778	recent@meta|top@meta	HOT,SIGNAL	Is it possible to schedule posts with a deposit on Stacker News?
+2026-07-28T04:29:37.289Z	1534242	bitcoin_beginners	1	1036	0	1	7.9	223678	5838	recent@bitcoin_beginners|top@bitcoin_beginners	HOT,SIGNAL	Swapping hardware wallets
+2026-07-28T04:29:37.289Z	1534281	bitcoin	1	830	0	1	6.9	74100	11572	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	SIGNAL	Bitaxe Hex Bitcoin Solo Miner (1300 Model)
+2026-07-28T04:29:37.289Z	1534130	AI	1	155	0	0	10.8	934367	935	recent@AI|top@AI	SIGNAL	STOLEN COMPUTE — exposed AI is free AI
