@@ -22573,3 +22573,26 @@
 2026-07-28T21:50:23.748Z	1535098	bitcoin	1	121	0	1	1.1	296825	5014	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	FRESH,SIGNAL	I Scanned The Entire Bitcoin Blockchain For Images. What I Found Will Shock You
 2026-07-28T21:50:23.748Z	1535139	lightning	1	106	0	1	0.5	496312	262	recent@lightning|top@lightning	FRESH,SIGNAL	How do you all connect your Lightning wallet to SN? I'm having issues
 2026-07-28T21:50:23.748Z	1534696	tech	1	101	0	0	9.6	1490792	353	recent@bitdevs|top@bitdevs	SIGNAL	GitWand — the Git client that actually resolves conflicts
+2026-07-28T23:03:10.267Z	1534801	math	2	3359	0	0	7.6	74100	11583	recent@bitcoin|top@bitcoin|recent@mempool	HOT,SIGNAL	Bitcoin Mempool Linearization - Mollakhani, Wuille, Guo
+2026-07-28T23:03:10.267Z	1535068	bitcoin	1	2578	0	1	3.0	1014665	219	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Sig aggregation, Wasabi, Coinswap, SPs - Bitcoin Optech Newsletter #415 Recap
+2026-07-28T23:03:10.267Z	1534769	lol	2	2144	0	3	8.1	1195179	979	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	HOT,SIGNAL	AMA request: Paul Storcz's dealer
+2026-07-28T23:03:10.267Z	1534869	bitcoin	1	1918	0	3	6.2	900202	2561	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Mike Schmidt on Stephan Livera
+2026-07-28T23:03:10.267Z	1534796	AI	1	1297	0	0	7.6	13531	1685	recent@tech|top@tech|recent@AI	HOT,SIGNAL	Kimi k3 opensourced software stack alongside weights
+2026-07-28T23:03:10.267Z	1535090	tech	1	1266	0	0	2.6	927211	25	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	Silent Payments Sender — Electrum Plugin
+2026-07-28T23:03:10.267Z	1534722	AI	1	724	0	1	9.5	21800	491	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Introducing l402.space — the Universal 402 Gateway for L402, x402 and MPP
+2026-07-28T23:03:10.267Z	1535062	AI	1	707	0	0	3.1	280679	22630	recent@tech|top@tech|recent@AI	SIGNAL	An interview with Elon Musk
+2026-07-28T23:03:10.267Z	1534993	security	1	483	0	6	4.3	12315	2334	recent@security|top@security|recent@privacy	SIGNAL	Windows 11 has a GDID tracker with no off switch, circumventing VPNs
+2026-07-28T23:03:10.267Z	1534719	lightning	1	422	0	1	9.8	440729	210	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (02dfb72b41c9259ef…)
+2026-07-28T23:03:10.267Z	1534998	AI	1	324	0	2	4.3	144357	4411	recent@AI|top@AI	SIGNAL	What Sam Altman thinks about model distillation
+2026-07-28T23:03:10.267Z	1534685	bitcoin_beginners	1	247	0	0	11.0	296825	5018	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	The Breez SDK: Class of Q2 2026
+2026-07-28T23:03:10.267Z	1535152	bitcoin_beginners	1	229	0	1	1.5	296825	5018	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	FRESH,SIGNAL	Running BIP-110? · bip110.run: Nice Dashboard
+2026-07-28T23:03:10.267Z	1534831	bitcoin	1	213	0	0	6.9	273359	729	recent@bitcoin|top@bitcoin|recent@privacy	SIGNAL	Repost: Request: Make this anonymous?
+2026-07-28T23:03:10.267Z	1535108	AI	1	161	0	0	2.1	280679	22630	recent@AI|top@AI	SIGNAL	Estimated Quarter of Llama AI Sources Came From Books
+2026-07-28T23:03:10.267Z	1534845	AI	1	146	0	1	6.7	280679	22630	recent@AI|top@AI	SIGNAL	Hugging Face Incident Initial Post Mortem
+2026-07-28T23:03:10.267Z	1534738	bitcoin_beginners	1	142	0	0	8.9	296825	5018	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	COLDCARD Duress PIN - Advanced Security Feature for Hardware Wallets
+2026-07-28T23:03:10.267Z	1535139	lightning	1	142	0	2	1.7	496312	262	recent@lightning|top@lightning	FRESH,SIGNAL	How do you all connect your Lightning wallet to SN? I'm having issues
+2026-07-28T23:03:10.267Z	1534655	bitcoin	1	139	0	0	11.5	1490792	353	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	A History of Bitcoin Maximalism (2023)
+2026-07-28T23:03:10.268Z	1534675	AI	1	125	0	1	11.1	1490792	353	recent@AI|top@AI	SIGNAL	Impostor Chinese models pretend they're Claude
+2026-07-28T23:03:10.268Z	1535098	bitcoin	1	121	0	1	2.3	296825	5018	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	I Scanned The Entire Bitcoin Blockchain For Images. What I Found Will Shock You
+2026-07-28T23:03:10.268Z	1535047	security	1	111	0	0	3.4	12309	3595	recent@security|top@security	SIGNAL	Microsoft unveils AI security tools it says outperform competing platforms
+2026-07-28T23:03:10.268Z	1534696	tech	1	101	0	0	10.8	1490792	353	recent@bitdevs|top@bitdevs	SIGNAL	GitWand — the Git client that actually resolves conflicts
