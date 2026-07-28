@@ -22425,3 +22425,22 @@
 2026-07-28T17:56:35.487Z	1534675	AI	1	125	0	1	6.0	1490792	353	recent@AI|top@AI	SIGNAL	Impostor Chinese models pretend they're Claude
 2026-07-28T17:56:35.487Z	1534529	Design	2	113	0	3	11.7	1533743	7	top@devs|top@openagents	SIGNAL	10k sats after delivery: one README or landing-page teardown today
 2026-07-28T17:56:35.487Z	1534696	tech	1	101	0	0	5.7	1490792	353	recent@bitdevs|top@bitdevs	SIGNAL	GitWand — the Git client that actually resolves conflicts
+2026-07-28T19:37:58.238Z	1534801	math	2	3359	0	0	4.2	74100	11583	recent@bitcoin|top@bitcoin|recent@mempool	HOT,SIGNAL	Bitcoin Mempool Linearization - Mollakhani, Wuille, Guo
+2026-07-28T19:37:58.238Z	1534769	lol	2	2102	0	3	4.7	1195179	979	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	HOT,SIGNAL	AMA request: Paul Storcz's dealer
+2026-07-28T19:37:58.238Z	1534869	bitcoin	1	1918	0	3	2.8	900202	2561	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Mike Schmidt on Stephan Livera
+2026-07-28T19:37:58.238Z	1534796	AI	1	1154	0	0	4.2	13531	1685	recent@tech|top@tech|recent@AI	HOT,SIGNAL	Kimi k3 opensourced software stack alongside weights
+2026-07-28T19:37:58.238Z	1534561	bitcoin	1	742	0	2	10.4	263526	517	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Bitcoin Lightning payments for MedusaJS eCommerce via CLINK
+2026-07-28T19:37:58.238Z	1534722	AI	1	724	0	1	6.1	21800	491	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Introducing l402.space — the Universal 402 Gateway for L402, x402 and MPP
+2026-07-28T19:37:58.238Z	1534719	lightning	1	422	0	1	6.4	440729	210	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (02dfb72b41c9259ef…)
+2026-07-28T19:37:58.238Z	1534993	security	1	336	0	5	0.9	12315	2334	recent@security|top@security|recent@privacy	FRESH,SIGNAL	Windows 11 has a GDID tracker with no off switch, circumventing VPNs
+2026-07-28T19:37:58.238Z	1534585	AI	1	310	0	0	9.4	1054143	1019	recent@tech|top@tech|recent@AI	SIGNAL	Geopolitics, AI Concerns, & Tech's Summer Slump
+2026-07-28T19:37:58.238Z	1534998	AI	1	303	0	1	0.8	144357	4411	recent@AI|top@AI	FRESH,SIGNAL	What Sam Altman thinks about model distillation
+2026-07-28T19:37:58.238Z	1534577	bitcoin	1	287	0	0	9.6	263526	517	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Enabling Bitcoin Lightning Payments for Vendure eCommerce framework with CLINK
+2026-07-28T19:37:58.238Z	1534685	bitcoin_beginners	1	247	0	0	7.6	296825	5010	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	The Breez SDK: Class of Q2 2026
+2026-07-28T19:37:58.238Z	1534831	bitcoin	1	213	0	0	3.5	273359	725	recent@bitcoin|top@bitcoin|recent@privacy	SIGNAL	Repost: Request: Make this anonymous?
+2026-07-28T19:37:58.238Z	1534845	AI	1	146	0	1	3.2	280679	22625	recent@AI|top@AI	SIGNAL	Hugging Face Incident Initial Post Mortem
+2026-07-28T19:37:58.238Z	1534616	bitcoin_beginners	1	145	0	0	8.7	296825	5010	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	MetroVault — Air-gapped Bitcoin signer for Android
+2026-07-28T19:37:58.238Z	1534738	bitcoin_beginners	1	142	0	0	5.4	296825	5010	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	COLDCARD Duress PIN - Advanced Security Feature for Hardware Wallets
+2026-07-28T19:37:58.238Z	1534655	bitcoin	1	139	0	0	8.1	1490792	353	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	A History of Bitcoin Maximalism (2023)
+2026-07-28T19:37:58.238Z	1534675	AI	1	125	0	1	7.7	1490792	353	recent@AI|top@AI	SIGNAL	Impostor Chinese models pretend they're Claude
+2026-07-28T19:37:58.238Z	1534696	tech	1	101	0	0	7.4	1490792	353	recent@bitdevs|top@bitdevs	SIGNAL	GitWand — the Git client that actually resolves conflicts
