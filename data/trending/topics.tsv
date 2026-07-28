@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-07-28T17:27:19.752Z; n=40
-the economist	sn:Politics_And_Law,sn:AskSN	6.38	no	RISING
-show	hn	6.33	no	RISING
-kimi	hn,sn:AI	4.81	yes	
-what	sn:bitcoin	4.13	yes	
-covid	sn:Politics_And_Law	3.74	no	RISING
-haiti	sn:Politics_And_Law	3.74	no	RISING
-bolt	sn:nostr	3.6	yes	
-bitcoin mempool linearization	sn:math	3.52	yes	
-mollakhani	sn:math	3.52	yes	
-wuille	sn:math	3.52	yes	
+# generated 2026-07-28T22:58:47.642Z; n=40
+kimi	hn,sn:AI	5.51	yes	
+show	hn	4.71	no	RISING
+nick hansen	sn:AMA	3.81	no	RISING
+luxor	sn:AMA	3.81	no	RISING
+bitcoin mempool linearization	sn:math	3.53	yes	
+mollakhani	sn:math	3.53	yes	
+wuille	sn:math	3.53	yes	
 translation	sn:the_stacker_muse	3.49	no	RISING
 homer	sn:the_stacker_muse	3.49	no	RISING
 the illiad	sn:the_stacker_muse	3.49	no	RISING
 the odyssey	sn:the_stacker_muse	3.49	no	RISING
-will	sn:AskSN	3.46	no	RISING
-bitcoin	sn:AskSN	3.46	no	RISING
-running	sn:bitcoin	3.38	yes	
-paul storcz	sn:lol	3.32	yes	
-respectful dialogue with your readers	sn:the_stacker_muse	3.29	no	RISING
-deirdre	sn:the_stacker_muse	3.29	no	RISING
-insider europe	sn:Politics_And_Law	3.26	no	RISING
-booming cocaine market	sn:Politics_And_Law	3.26	no	RISING
-jude webber	sn:Politics_And_Law	3.26	no	RISING
-laura dubois	sn:Politics_And_Law	3.26	no	RISING
-mike schmidt	sn:bitcoin	3.23	yes	
-stephan livera	sn:bitcoin	3.23	yes	
+wasabi	sn:bitcoin	3.41	yes	
+coinswap	sn:bitcoin	3.41	yes	
+bitcoin optech newsletter	sn:bitcoin	3.41	yes	
+recap	sn:bitcoin	3.41	yes	
+paul storcz	sn:lol	3.33	yes	
+respectful dialogue with your readers	sn:the_stacker_muse	3.3	no	RISING
+deirdre	sn:the_stacker_muse	3.3	no	RISING
+mike schmidt	sn:bitcoin	3.28	yes	
+stephan livera	sn:bitcoin	3.28	yes	
 less rent-seeking	sn:Politics_And_Law	3.22	no	RISING
 more wealth	sn:Politics_And_Law	3.22	no	RISING
 in defense	sn:Politics_And_Law	3.22	no	RISING
 billionaires	sn:Politics_And_Law	3.22	no	RISING
-market activated soft fork	sn:bitcoin	3.17	yes	
-steve barbour	sn:bitcoin	3.17	yes	
-asking	sn:AskSN	3.16	no	RISING
-public	sn:AskSN	3.16	yes	
-improve	sn:AskSN	3.16	no	RISING
-euro notes	sn:AskSN	3.16	no	RISING
-stacker news	sn:meta	3.05	yes	
-swapping	sn:bitcoin_beginners	3.02	no	RISING
+the economist	sn:Politics_And_Law	3.22	no	RISING
+which pill would you take	sn:AskSN	3.15	no	RISING
+bitcoin wealth	sn:AskSN	3.15	no	RISING
+reliving history	sn:AskSN	3.15	no	RISING
+silent payments sender	sn:tech	3.1	yes	
+electrum plugin	sn:tech	3.1	yes	
 most	sn:charts_and_maps	2.98	no	RISING
 fastest-growing	sn:charts_and_maps	2.98	no	RISING
+africa	sn:charts_and_maps	2.98	no	RISING
+bitcoin lightning	sn:bitcoin	2.88	yes	
+clink	sn:bitcoin	2.88	yes	
+introducing	sn:AI	2.86	yes	
+universal	sn:AI	2.86	yes	
+gateway	sn:AI	2.86	yes	
+elon musk	sn:AI	2.85	yes	
+common side effects	sn:movies	2.85	no	RISING
