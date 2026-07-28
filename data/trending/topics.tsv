@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-07-28T11:57:41.352Z; n=40
-the odyssey	sn:movies,sn:the_stacker_muse	11.93	no	RISING
-emily wilson	sn:movies	4.86	no	RISING
-what	sn:bitcoin	4.12	yes	
-more	sn:security	4.02	yes	
-inside	sn:Politics_And_Law	3.86	yes	
-germany	sn:Politics_And_Law	3.86	no	RISING
+# generated 2026-07-28T17:27:19.752Z; n=40
+the economist	sn:Politics_And_Law,sn:AskSN	6.38	no	RISING
+show	hn	6.33	no	RISING
+kimi	hn,sn:AI	4.81	yes	
+what	sn:bitcoin	4.13	yes	
 covid	sn:Politics_And_Law	3.74	no	RISING
 haiti	sn:Politics_And_Law	3.74	no	RISING
-release	sn:lightning	3.74	no	RISING
 bolt	sn:nostr	3.6	yes	
-movie review	sn:movies	3.59	no	RISING
-christopher nolan	sn:movies	3.59	no	RISING
-stacker sports summer league contest	sn:Geyser_community	3.53	no	RISING
-translation	sn:the_stacker_muse	3.48	no	RISING
-homer	sn:the_stacker_muse	3.48	no	RISING
-the illiad	sn:the_stacker_muse	3.48	no	RISING
+bitcoin mempool linearization	sn:math	3.52	yes	
+mollakhani	sn:math	3.52	yes	
+wuille	sn:math	3.52	yes	
+translation	sn:the_stacker_muse	3.49	no	RISING
+homer	sn:the_stacker_muse	3.49	no	RISING
+the illiad	sn:the_stacker_muse	3.49	no	RISING
+the odyssey	sn:the_stacker_muse	3.49	no	RISING
 will	sn:AskSN	3.46	no	RISING
-bitcoin	sn:AskSN	3.46	yes	
-free stuff	sn:BooksAndArticles	3.43	no	RISING
-norway still costs half	sn:BooksAndArticles	3.43	no	RISING
-average pay	sn:BooksAndArticles	3.43	no	RISING
+bitcoin	sn:AskSN	3.46	no	RISING
 running	sn:bitcoin	3.38	yes	
-buying bitcoin	sn:bitcoin	3.35	yes	
-last	sn:Stacker_Sports	3.31	no	RISING
+paul storcz	sn:lol	3.32	yes	
+respectful dialogue with your readers	sn:the_stacker_muse	3.29	no	RISING
+deirdre	sn:the_stacker_muse	3.29	no	RISING
 insider europe	sn:Politics_And_Law	3.26	no	RISING
 booming cocaine market	sn:Politics_And_Law	3.26	no	RISING
 jude webber	sn:Politics_And_Law	3.26	no	RISING
 laura dubois	sn:Politics_And_Law	3.26	no	RISING
-olivetti	sn:Design	3.23	yes	
-how italy beat america	sn:Design	3.23	yes	
-personal computer	sn:Design	3.23	yes	
-lost it	sn:Design	3.23	yes	
-live	sn:bitcoinplusplus	3.18	yes	
-consensus edition	sn:bitcoinplusplus	3.18	no	RISING
-fork strategies panel	sn:bitcoinplusplus	3.18	no	RISING
+mike schmidt	sn:bitcoin	3.23	yes	
+stephan livera	sn:bitcoin	3.23	yes	
+less rent-seeking	sn:Politics_And_Law	3.22	no	RISING
+more wealth	sn:Politics_And_Law	3.22	no	RISING
+in defense	sn:Politics_And_Law	3.22	no	RISING
+billionaires	sn:Politics_And_Law	3.22	no	RISING
 market activated soft fork	sn:bitcoin	3.17	yes	
 steve barbour	sn:bitcoin	3.17	yes	
-publish video	sn:podcasts	3.17	no	RISING
-apple podcasts	sn:podcasts	3.17	no	RISING
-fountain	sn:podcasts	3.17	no	RISING
+asking	sn:AskSN	3.16	no	RISING
+public	sn:AskSN	3.16	yes	
+improve	sn:AskSN	3.16	no	RISING
+euro notes	sn:AskSN	3.16	no	RISING
+stacker news	sn:meta	3.05	yes	
+swapping	sn:bitcoin_beginners	3.02	no	RISING
+most	sn:charts_and_maps	2.98	no	RISING
+fastest-growing	sn:charts_and_maps	2.98	no	RISING
