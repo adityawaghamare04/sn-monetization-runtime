@@ -1,0 +1,41 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1534239	bitcoin	1	12518	0	15	10.7	127838	1133	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	What’s the difference between a soft fork, a hard fork, and a chain split?
+1534285	bitcoin	1	2362	0	11	9.6	900202	2545	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Running more than one implementation for forking drama
+1534241	bitcoin	1	1481	0	1	10.7	74100	11572	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Market Activated Soft Fork - Steve Barbour
+1534242	bitcoin_beginners	1	1036	0	1	10.7	223678	5840	recent@bitcoin_beginners|top@bitcoin_beginners	HOT,SIGNAL	Swapping hardware wallets
+1534281	bitcoin	1	830	0	1	9.7	74100	11572	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	SIGNAL	Bitaxe Hex Bitcoin Solo Miner (1300 Model)
+1534514	meta	1	155	0	2	2.2	1195179	973	recent@meta|top@meta	SIGNAL	unintuitive hat & zap behavior
+1533974	security	1	10465	0	3	16.1	1533974	1	recent@bitcoin|top@bitcoin|recent@security	HOT	More info about arca released
+1533741	bitcoin	1	5673	0	0	22.1	133081	689	recent@bitcoin|top@bitcoin	HOT	Cryptographic Alchemy: Inside the Magic of Bitcoin’s BIP459
+1534075	lightning	1	5460	0	2	14.5	280679	22611	recent@lightning|top@lightning	HOT	ZeusLN/zeus · Release v13.1.3
+1533819	bitcoin	1	5351	0	19	19.4	280679	22611	recent@bitcoin|top@bitcoin	HOT	BIP110 Situation Monitor: Live
+1534141	nostr	1	3983	0	1	13.4	462245	295	recent@lightning|top@lightning|recent@nostr	HOT	BOLT 12: payer proofs has been merged - Wen BOLT12 zaps?
+1533846	AI	1	2849	0	4	18.5	68842	617	recent@AI|top@AI	HOT	AI companies are shredding rare books
+1533826	bitcoin	1	2243	0	0	19.3	1278026	699	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT	Buying Bitcoin KYC/P2P? Do you know your exchange/peer fork policy?
+1533832	Design	2	1707	0	4	19.1	776307	1211	recent@tech|top@tech	HOT	Olivetti: How Italy Beat America to the Personal Computer, and Lost It
+1533726	meta	1	1630	0	25	22.7	273359	704	recent@privacy|top@privacy|recent@meta	HOT	"chan" style territories
+1534103	bitcoinplusplus	1	1512	0	1	14.1	280679	22611	recent@bitcoinplusplus|top@bitcoinplusplus	HOT	[LIVE] bitcoin++ Consensus Edition: Fork Strategies Panel
+1534047	bitcoin	1	1439	0	0	15.1	280679	22611	recent@bitcoin|top@bitcoin	HOT	Transaction rate-limiting
+1534118	meta	1	1112	0	11	13.8	984933	1778	recent@meta|top@meta	HOT	Is it possible to schedule posts with a deposit on Stacker News?
+1533807	bitcoin	1	1067	0	3	19.9	74100	11572	recent@bitcoin|top@bitcoin|recent@mempool	HOT	A mempool as a post office - DoktorShift
+1533542	bitcoin	1	886	0	2	33.0	280679	22611	recent@bitcoin		BIP352 Silent Payments sender plugin for Electrum
+1533822	science	2	763	0	1	19.3	1490792	347	recent@tech|top@tech		Telepathic Wheelchair Control | Neuralink
+1533862	lightning	1	593	0	1	18.1	440729	209	recent@lightning|top@lightning		Biggest Channel Opened Today (2.1 BTC) + New Node Spotlight (034aa50c4cc29dc84…)
+1533569	gaming	3	464	0	0	31.8	2795	1383	recent@bitcoin|recent@lightning		Bitcoin is a truth telling machine...
+1533653	bitcoin_beginners	1	413	0	4	28.1	238412	207	recent@bitcoin_beginners		Dear Son...
+1533902	AskSN	2	263	0	1	17.1	1054143	1016	recent@privacy|top@privacy		Are We Trading Our Privacy for Convenience Without Even Realizing It?
+1533766	meta	1	255	0	0	21.3	36151	1569	recent@meta|top@meta		This Day on SN: July 27
+1533697	lightning	1	190	0	2	25.6	1473003	41	recent@lightning		I made four small games about how Bitcoin actually works — free, no signup
+1533534	bitcoin_Mining	1	155	0	0	33.3	280679	22611	recent@bitcoin_Mining		[Research] Vardiff belongs at the frontier
+1534130	AI	1	155	0	0	13.6	934367	935	recent@AI|top@AI		STOLEN COMPUTE — exposed AI is free AI
+1533897	meta	1	140	0	16	17.2	273359	704	recent@meta|top@meta		Bug fixes?
+1533472	AI	1	125	0	0	35.1	1054143	1016	recent@AI		What is the AI Kill Switch Act proposed in the US and how will it work?
+1533748	bitcoin_beginners	1	57	0	0	21.8	296825	4998	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		Cashu-Me Wallet — Officially Released On Zapstore
+1533702	bitcoin_beginners	1	46	0	0	25.0	296825	4998	recent@bitcoin_beginners|recent@bitdevs		Andreas Antonopoulos dismantles BIP110's Argument
+1533938	bitcoin	1	21	0	0	16.5	462245	295	recent@bitcoinplusplus|top@bitcoinplusplus		Consensus Edition — Last Week in Bitcoin (Jul 20 - 26)
+1533780	bitcoin	1	11	0	0	20.6	1490792	347	recent@bitcoin_Mining|top@bitcoin_Mining|recent@bitcoinplusplus		Ledger Zilliqa app flaw exposes users' private keys
+1534531	bitcoin	1	0	0	0	1.0	1533743	7	recent@bitcoin|top@bitcoin|recent@devs	FRESH	I gave an AI agent one measurable goal: earn $5. Here is what did not count.
+1534205	bitcoin	1	0	0	0	11.7	976996	14	recent@bitcoin|top@bitcoin		El costo oculto de la soberanía: ¿Tu nodo es realmente tuyo?
+1534513	bitdevs	1	0	0	0	2.5	1248037	1862	recent@bitdevs|top@bitdevs|recent@devs		A Hole in the Ladder
+1533541	math	2	0	0	0	33.0	1248037	1862	recent@bitdevs|recent@devs		… on Integers …
+1534529	Design	2	0	0	0	1.1	1533743	7	recent@devs|top@devs|recent@openagents	FRESH	10k sats after delivery: one README or landing-page teardown today
