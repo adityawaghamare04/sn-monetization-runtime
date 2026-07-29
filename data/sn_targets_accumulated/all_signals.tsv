@@ -23026,3 +23026,33 @@
 2026-07-29T22:40:35.077Z	1535473	lightning	1	324	0	2	9.4	440729	213	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (026186f8c8315563e…)
 2026-07-29T22:40:35.077Z	1535554	meta	1	245	0	8	7.7	36151	1572	recent@meta|top@meta	SIGNAL	What are you working on this week?
 2026-07-29T22:40:35.077Z	1535502	AI	1	142	0	6	8.7	1532699	19	recent@AI|top@AI	SIGNAL	AI’s next bottleneck may be electricity
+2026-07-29T23:08:17.068Z	1535596	bitcoin	1	11278	0	17	7.0	14476	309	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Looking for someone to record a voiceover for a Bitcoin commercial.  Gig pays.
+2026-07-29T23:08:17.068Z	1535696	AskSN	2	2534	0	9	4.3	984933	1810	recent@AskSN|top@AskSN|recent@history	HOT,SIGNAL,SELF_POST_OPP	What story does this coin hold?
+2026-07-29T23:08:17.068Z	1535426	BooksAndArticles	2	2065	0	6	11.5	900202	2571	recent@BooksAndArticles|top@BooksAndArticles	HOT,SIGNAL,SELF_POST_OPP	Thomas Pynchon Unmasked (2020)
+2026-07-29T23:08:17.068Z	1535672	AI	1	1872	0	19	5.2	48657	14397	recent@AI|top@AI|recent@AskSN	HOT,SIGNAL	To what extent would you use AI in your business?
+2026-07-29T23:08:17.068Z	1535737	AI	1	1669	0	6	3.2	724606	11844	recent@AI|top@AI|recent@econ	HOT,SIGNAL	Bitcoin Miners Are Becoming AI Companies (BTCHEL2026)
+2026-07-29T23:08:17.068Z	1535460	AskSN	2	1370	0	9	10.2	1242375	137	recent@AskSN|top@AskSN	HOT,SIGNAL,SELF_POST_OPP	How do you get your adventure fix?
+2026-07-29T23:08:17.068Z	1535601	AskSN	2	1339	0	4	6.8	724606	11844	recent@econ|top@econ|recent@AskSN	HOT,SIGNAL	Are Britons Taxed Too Much or Too Little? (FT, Jonathan Guthrie)
+2026-07-29T23:08:17.069Z	1535532	bitcoin	1	1260	0	9	8.5	1504918	26	recent@bitcoin|top@bitcoin|recent@history	HOT,SIGNAL	Satoshi Nakamoto’s Cryptography Encyclopedia Discovered - Claims Scott Stornetta
+2026-07-29T23:08:17.069Z	1535449	lol	2	942	0	4	10.7	440139	4229	recent@AI|top@AI|recent@lol	SIGNAL	Maybe the dumbest use of AI I've seen
+2026-07-29T23:08:17.069Z	1535711	AI	1	767	0	3	3.8	724606	11844	recent@AI|top@AI|recent@econ	SIGNAL	SpaceX Crash Insurance, and How Agentic AI Obsoletes ETFs (Matt Levine)
+2026-07-29T23:08:17.069Z	1535509	Construction_and_Engineering	2	746	0	1	9.1	1519718	40	recent@Construction_and_Engineering|top@Construction_and_Engineering	SIGNAL	Is Owning a Mini Bakery Still Possible in Today's Economy?
+2026-07-29T23:08:17.069Z	1535618	Politics_And_Law	3	663	0	0	6.4	401865	8321	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Breaking News: Drone Strike Reported On U.S. Owned Gas Storage at Egyptian Port
+2026-07-29T23:08:17.069Z	1535548	tutorials	2	639	0	0	8.3	2795	1390	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Audit this Bitcoin education for me
+2026-07-29T23:08:17.069Z	1535794	bitcoin	1	622	0	1	1.0	74100	11592	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	FRESH,SIGNAL	📣 AMA Announcement: Tyler Stevens, from Exergy and Heatpunks! FRIDAY, 10AM
+2026-07-29T23:08:17.069Z	1535664	Stacker_Stocks	2	589	0	6	5.3	1532699	19	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL,SELF_POST_OPP	Investment trend bigger than AI
+2026-07-29T23:08:17.069Z	1535533	Politics_And_Law	3	564	0	1	8.5	88718	45927	recent@history|top@history	SIGNAL	The Dupes of War
+2026-07-29T23:08:17.069Z	1535793	Stacker_Stocks	2	518	0	3	1.1	280679	22645	recent@Stacker_Stocks|top@Stacker_Stocks	FRESH,SIGNAL	Credit default swaps forecast AI bankruptcies
+2026-07-29T23:08:17.069Z	1535671	AI	1	504	0	2	5.2	144342	1927	recent@tech|top@tech|recent@AI	SIGNAL	The AI Future Is for Everyone — Mark Zuckerberg
+2026-07-29T23:08:17.069Z	1535483	science	2	488	0	0	9.7	401865	8321	recent@science|top@science	SIGNAL	Voyager 1 Crossing Interstellar Space With Computer That Only 68 KB of Memory
+2026-07-29T23:08:17.069Z	1535473	lightning	1	458	0	2	9.9	440729	213	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (026186f8c8315563e…)
+2026-07-29T23:08:17.069Z	1535442	AskSN	2	444	0	7	10.9	984933	1810	recent@AskSN|top@AskSN|recent@BooksAndArticles	SIGNAL,SELF_POST_OPP	Did you know that…?
+2026-07-29T23:08:17.069Z	1535436	bitcoin	1	409	0	0	11.2	280679	22645	recent@bitcoin|top@bitcoin	SIGNAL	BIP 360 (P2MR) implemented in Bitcoin Core on regtest: vector results, ...
+2026-07-29T23:08:17.069Z	1535580	security	1	386	0	0	7.2	1490792	358	recent@security|top@security|recent@AI	SIGNAL	Discovering cryptographic weaknesses with Claude
+2026-07-29T23:08:17.069Z	1535615	Politics_And_Law	3	336	0	2	6.5	1450322	92	recent@Construction_and_Engineering|top@Construction_and_Engineering|recent@Stacker_Stocks	SIGNAL	The full-length interview with Elon Musk, The Economist
+2026-07-29T23:08:17.069Z	1535535	Stacker_Stocks	2	325	0	1	8.5	934429	306	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	The "Magnificent 7" have stopped moving in lockstep.
+2026-07-29T23:08:17.069Z	1535511	AskSN	2	306	0	6	9.1	1054143	1026	recent@AskSN|top@AskSN	SIGNAL,SELF_POST_OPP	Do You Really Believe in Karma?
+2026-07-29T23:08:17.069Z	1535554	meta	1	245	0	8	8.1	36151	1572	recent@meta|top@meta	SIGNAL	What are you working on this week?
+2026-07-29T23:08:17.069Z	1535569	AskSN	2	151	0	0	7.5	976996	19	recent@AskSN|top@AskSN	SIGNAL	AskSN: ¿Cada cuánto pones a prueba tu respaldo de semillas?
+2026-07-29T23:08:17.069Z	1535423	AskSN	2	147	0	0	11.6	984933	1810	recent@AskSN|top@AskSN	SIGNAL	Daily Discussion Thread ~AskSN
+2026-07-29T23:08:17.069Z	1535502	AI	1	142	0	6	9.2	1532699	19	recent@AI|top@AI	SIGNAL	AI’s next bottleneck may be electricity
