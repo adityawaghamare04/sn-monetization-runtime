@@ -1,0 +1,61 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1535207	tech	1	1406	0	1	9.6	303620	6231	recent@tech|top@tech	HOT,SIGNAL	Malaysia Shuts Down Balaji's Network School
+1535282	bitcoin	1	1233	0	1	6.2	296825	5029	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	Silent Payments functions merged into libsecp256k1 - BIP352 | Pull Request #1765
+1535163	bitcoin	1	564	0	0	11.5	296825	5029	recent@bitcoin|top@bitcoin	SIGNAL	BIP-54 Coinbase Locktime set
+1535152	bitcoin_beginners	1	368	0	2	11.8	296825	5029	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	Running BIP-110? · bip110.run: Nice Dashboard
+1535354	bitcoin_beginners	1	123	0	0	1.7	296825	5029	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus	FRESH,SIGNAL	BitDevs Explained: What to Expect and How to Get Involved
+1535312	AI	1	100	0	0	5.0	296825	5029	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	Introducing l402.space — Universal 402 Gateway: Pay any API With any Wallet
+1535068	bitcoin	1	4818	0	1	13.3	1014665	219	recent@bitcoin|top@bitcoin	HOT	Sig aggregation, Wasabi, Coinswap, SPs - Bitcoin Optech Newsletter #415 Recap
+1534801	math	2	3401	0	0	17.9	74100	11583	recent@bitcoin|top@bitcoin|recent@mempool	HOT	Bitcoin Mempool Linearization - Mollakhani, Wuille, Guo
+1534541	DIY	3	2642	0	2	26.5	144357	4412	recent@bitcoin	HOT	m5stack fun diy project: plebwatch
+1534285	bitcoin	1	2406	0	15	35.6	900202	2562	recent@bitcoin	HOT	Running more than one implementation for forking drama
+1534769	lol	2	2186	0	4	18.4	1195179	980	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	HOT	AMA request: Paul Storcz's dealer
+1534869	bitcoin	1	1970	0	3	16.5	900202	2562	recent@bitcoin|top@bitcoin	HOT	Mike Schmidt on Stephan Livera
+1534796	AI	1	1481	0	0	18.0	13531	1685	recent@tech|top@tech|recent@AI	HOT	Kimi k3 opensourced software stack alongside weights
+1535090	tech	1	1422	0	1	12.9	927211	25	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT	Silent Payments Sender — Electrum Plugin
+1534281	bitcoin	1	830	0	1	35.7	74100	11583	recent@bitcoin|recent@bitcoin_Mining		Bitaxe Hex Bitcoin Solo Miner (1300 Model)
+1534561	bitcoin	1	764	0	2	24.1	263526	518	recent@bitcoin|recent@lightning		Bitcoin Lightning payments for MedusaJS eCommerce via CLINK
+1535062	AI	1	749	0	0	13.4	280679	22631	recent@tech|top@tech|recent@AI		An interview with Elon Musk
+1534722	AI	1	734	0	1	19.9	21800	491	recent@bitcoin|top@bitcoin|recent@lightning		Introducing l402.space — the Universal 402 Gateway for L402, x402 and MPP
+1534993	security	1	647	0	6	14.6	12315	2334	recent@security|top@security|recent@privacy		Windows 11 has a GDID tracker with no off switch, circumventing VPNs
+1534514	meta	1	600	0	4	28.3	1195179	980	recent@meta		unintuitive hat & zap behavior
+1534444	tech	1	578	0	7	31.4	1	26961	recent@tech		You Can Finally Trust All Your Money to X, the Everything App
+1534719	lightning	1	422	0	1	20.1	440729	210	recent@lightning|top@lightning		Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (02dfb72b41c9259ef…)
+1534998	AI	1	324	0	2	14.6	144357	4412	recent@AI|top@AI		What Sam Altman thinks about model distillation
+1534585	AI	1	310	0	0	23.1	1054143	1021	recent@tech|top@tech|recent@AI		Geopolitics, AI Concerns, & Tech's Summer Slump
+1534577	bitcoin	1	287	0	0	23.3	263526	518	recent@bitcoin|top@bitcoin|recent@lightning		Enabling Bitcoin Lightning Payments for Vendure eCommerce framework with CLINK
+1534845	AI	1	264	0	1	17.0	280679	22631	recent@AI|top@AI		Hugging Face Incident Initial Post Mortem
+1534831	bitcoin	1	255	0	0	17.3	273359	733	recent@bitcoin|top@bitcoin|recent@privacy		Repost: Request: Make this anonymous?
+1534685	bitcoin_beginners	1	247	0	0	21.3	296825	5029	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		The Breez SDK: Class of Q2 2026
+1535139	lightning	1	162	0	4	12.0	496312	263	recent@lightning|top@lightning		How do you all connect your Lightning wallet to SN? I'm having issues
+1535108	AI	1	161	0	0	12.4	280679	22631	recent@AI|top@AI		Estimated Quarter of Llama AI Sources Came From Books
+1534616	bitcoin_beginners	1	145	0	0	22.5	296825	5029	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		MetroVault — Air-gapped Bitcoin signer for Android
+1534738	bitcoin_beginners	1	142	0	0	19.2	296825	5029	recent@bitcoin_beginners|top@bitcoin_beginners		COLDCARD Duress PIN - Advanced Security Feature for Hardware Wallets
+1534655	bitcoin	1	139	0	0	21.9	1490792	353	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		A History of Bitcoin Maximalism (2023)
+1535098	bitcoin	1	132	0	1	12.6	296825	5029	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		I Scanned The Entire Bitcoin Blockchain For Images. What I Found Will Shock You
+1534675	AI	1	125	0	1	21.4	1490792	353	recent@AI|top@AI		Impostor Chinese models pretend they're Claude
+1535047	security	1	111	0	0	13.8	12309	3595	recent@security|top@security		Microsoft unveils AI security tools it says outperform competing platforms
+1534696	tech	1	101	0	0	21.1	1490792	353	recent@bitdevs|top@bitdevs		GitWand — the Git client that actually resolves conflicts
+1535220	bitcoin_beginners	1	91	0	0	9.4	1532836	33	recent@bitcoin_beginners|top@bitcoin_beginners		You know the analogy between rai stones and bitcoin
+1534687	bitcoin	1	57	0	0	21.3	223678	5843	top@lightning		Otevřené potřeby ⚡
+1535097	bitcoin	1	47	0	0	12.7	280679	22631	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		bitcoin.conf Reference: Configure Your Node
+1535204	nostr	1	46	0	0	9.7	1535202	2	recent@nostr|top@nostr		The Azzamo Blossom server
+1535120	bitcoin_beginners	1	36	0	0	12.2	296825	5029	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		Anatomy of Bitcoin Explorer
+1534755	AI	1	36	0	0	18.6	296825	5029	recent@bitcoin_beginners|top@bitcoin_beginners|recent@AI		The Anatomy of borg
+1534723	bitcoin_beginners	1	36	0	0	19.8	296825	5029	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		From Lightning Data To Global Payments
+1534720	bitcoin_beginners	1	36	0	0	20.1	296825	5029	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		Research Peptide Vendors That Support Bitcoin Payments In 2026
+1534733	bitcoin_beginners	1	36	0	0	19.4	296825	5029	recent@bitcoin_beginners|top@bitcoin_beginners		Impact Report Phase 2 - Ignition: The Education Network Takes Off
+1534659	bitcoin_beginners	1	36	0	0	21.8	296825	5029	recent@bitcoin_beginners|top@bitcoin_beginners		Bitcoin; Zero To One Money — Citadel21
+1534704	bitcoin_beginners	1	36	0	1	20.8	1444593	93	recent@bitcoin_beginners|top@bitcoin_beginners		🔥 Video impactante de  @alberto_mera  En 2025 hubo 83 ataques a bitcoiners.
+1534665	bitcoin_Mining	1	33	0	0	21.6	296825	5029	recent@bitcoin_Mining|top@bitcoin_Mining		Build Your Own Blocks with Stratum V2 and Merge Mine Rootstock
+1535318	bitcoin_beginners	1	21	0	0	4.4	296825	5029	recent@bitcoin_beginners|top@bitcoin_beginners		Code for the People Documentary - The human story of the open web
+1534673	bitcoin	1	11	0	0	21.4	280679	22631	recent@bitcoin_Mining|top@bitcoin_Mining		Does Bitcoin's fee market price permanence, or just congestion?
+1535328	Geyser_community	3	10	0	0	3.4	296825	5029	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		The Wrong Messiah
+1535341	Geyser_community	3	0	0	0	2.5	296825	5029	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		The Battle for Monetary Independence
+1535271	bitcoin_beginners	1	0	0	0	6.5	296825	5029	recent@bitcoin_beginners|top@bitcoin_beginners		The Architecture of Sovereignty - Understanding the Sovereign Man
+1535309	bitcoin	1	0	0	0	5.2	296825	5029	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		So, This Is How It Works...
+1535195	bitdevs	1	0	0	0	10.1	1248037	1881	recent@bitdevs|top@bitdevs|recent@devs		Type checker wrong ? Lean and the Curry-Howard correspondence | Hacker News
+1534513	bitdevs	1	0	0	0	28.6	1248037	1881	recent@bitdevs|recent@devs		A Hole in the Ladder
+1535311	AI	1	0	0	0	5.0	1248037	1881	recent@AI|top@AI		Truth is not a direction: a Tarski attack on LLM probes | Hacker News
+1535357	AI	1	0	0	0	1.5	296825	5029	recent@AI|top@AI	FRESH	CodeCrucible: A blueprint for LLM-driven SAST
+1535283	AI	1	0	0	0	6.2	1248037	1881	recent@AI|top@AI		Rethinking legal education in the AI era | Hacker News
