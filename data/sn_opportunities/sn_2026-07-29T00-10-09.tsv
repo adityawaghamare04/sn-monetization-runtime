@@ -1,0 +1,66 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1534801	math	2	3359	0	0	8.7	74100	11583	recent@bitcoin|top@bitcoin|recent@mempool	HOT,SIGNAL	Bitcoin Mempool Linearization - Mollakhani, Wuille, Guo
+1535068	bitcoin	1	2628	0	1	4.1	1014665	219	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Sig aggregation, Wasabi, Coinswap, SPs - Bitcoin Optech Newsletter #415 Recap
+1534769	lol	2	2144	0	3	9.2	1195179	979	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	HOT,SIGNAL	AMA request: Paul Storcz's dealer
+1534869	bitcoin	1	1928	0	3	7.3	900202	2561	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Mike Schmidt on Stephan Livera
+1535090	tech	1	1316	0	1	3.7	927211	25	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	Silent Payments Sender — Electrum Plugin
+1534796	AI	1	1297	0	0	8.8	13531	1685	recent@tech|top@tech|recent@AI	HOT,SIGNAL	Kimi k3 opensourced software stack alongside weights
+1534722	AI	1	724	0	1	10.6	21800	491	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Introducing l402.space — the Universal 402 Gateway for L402, x402 and MPP
+1535062	AI	1	707	0	0	4.2	280679	22630	recent@tech|top@tech|recent@AI	SIGNAL	An interview with Elon Musk
+1534993	security	1	584	0	6	5.4	12315	2334	recent@security|top@security|recent@privacy	SIGNAL	Windows 11 has a GDID tracker with no off switch, circumventing VPNs
+1535163	bitcoin	1	522	0	0	2.3	296825	5018	recent@bitcoin|top@bitcoin	SIGNAL	BIP-54 Coinbase Locktime set
+1534719	lightning	1	422	0	1	10.9	440729	210	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (02dfb72b41c9259ef…)
+1534998	AI	1	324	0	2	5.4	144357	4411	recent@AI|top@AI	SIGNAL	What Sam Altman thinks about model distillation
+1535152	bitcoin_beginners	1	316	0	1	2.6	296825	5018	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	Running BIP-110? · bip110.run: Nice Dashboard
+1534845	AI	1	264	0	1	7.8	280679	22630	recent@AI|top@AI	SIGNAL	Hugging Face Incident Initial Post Mortem
+1534831	bitcoin	1	213	0	0	8.1	273359	732	recent@bitcoin|top@bitcoin|recent@privacy	SIGNAL	Repost: Request: Make this anonymous?
+1535108	AI	1	161	0	0	3.2	280679	22630	recent@AI|top@AI	SIGNAL	Estimated Quarter of Llama AI Sources Came From Books
+1534738	bitcoin_beginners	1	142	0	0	10.0	296825	5018	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	COLDCARD Duress PIN - Advanced Security Feature for Hardware Wallets
+1535139	lightning	1	142	0	3	2.8	496312	262	recent@lightning|top@lightning	SIGNAL	How do you all connect your Lightning wallet to SN? I'm having issues
+1535098	bitcoin	1	121	0	1	3.4	296825	5018	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	I Scanned The Entire Bitcoin Blockchain For Images. What I Found Will Shock You
+1535047	security	1	111	0	0	4.5	12309	3595	recent@security|top@security	SIGNAL	Microsoft unveils AI security tools it says outperform competing platforms
+1534696	tech	1	101	0	0	11.9	1490792	353	recent@bitdevs|top@bitdevs	SIGNAL	GitWand — the Git client that actually resolves conflicts
+1534239	bitcoin	1	13554	0	19	27.6	127838	1134	recent@bitcoin|recent@bitcoin_beginners	HOT	What’s the difference between a soft fork, a hard fork, and a chain split?
+1533974	security	1	10486	0	3	33.0	1533974	1	recent@bitcoin|recent@security|recent@privacy	HOT	More info about arca released
+1534075	lightning	1	5482	0	2	31.4	280679	22630	recent@lightning	HOT	ZeusLN/zeus · Release v13.1.3
+1534141	nostr	1	3983	0	1	30.3	462245	295	recent@lightning|recent@nostr	HOT	BOLT 12: payer proofs has been merged - Wen BOLT12 zaps?
+1533846	AI	1	2849	0	4	35.4	68842	617	recent@AI	HOT	AI companies are shredding rare books
+1534285	bitcoin	1	2406	0	15	26.4	900202	2561	recent@bitcoin	HOT	Running more than one implementation for forking drama
+1534541	DIY	3	2388	0	0	17.3	144357	4411	recent@bitcoin|top@bitcoin	HOT	m5stack fun diy project: plebwatch
+1534047	bitcoin	1	1756	0	4	32.0	280679	22630	recent@bitcoin	HOT	Transaction rate-limiting
+1533832	Design	2	1707	0	4	36.0	776307	1211	recent@tech	HOT	Olivetti: How Italy Beat America to the Personal Computer, and Lost It
+1534103	bitcoinplusplus	1	1523	0	1	31.0	280679	22630	recent@bitcoinplusplus	HOT	[LIVE] bitcoin++ Consensus Edition: Fork Strategies Panel
+1534241	bitcoin	1	1481	0	1	27.6	74100	11583	recent@bitcoin	HOT	Market Activated Soft Fork - Steve Barbour
+1534118	meta	1	1112	0	11	30.7	984933	1794	recent@meta	HOT	Is it possible to schedule posts with a deposit on Stacker News?
+1534242	bitcoin_beginners	1	1036	0	1	27.5	223678	5841	recent@bitcoin_beginners	HOT	Swapping hardware wallets
+1534281	bitcoin	1	830	0	1	26.5	74100	11583	recent@bitcoin|recent@bitcoin_Mining		Bitaxe Hex Bitcoin Solo Miner (1300 Model)
+1534561	bitcoin	1	764	0	2	14.9	263526	518	recent@bitcoin|top@bitcoin|recent@lightning		Bitcoin Lightning payments for MedusaJS eCommerce via CLINK
+1534514	meta	1	600	0	4	19.1	1195179	979	recent@meta|top@meta		unintuitive hat & zap behavior
+1533862	lightning	1	593	0	1	34.9	440729	210	recent@lightning		Biggest Channel Opened Today (2.1 BTC) + New Node Spotlight (034aa50c4cc29dc84…)
+1534444	tech	1	457	0	7	22.2	1	26959	recent@tech|top@tech		You Can Finally Trust All Your Money to X, the Everything App
+1534585	AI	1	310	0	0	13.9	1054143	1021	recent@tech|top@tech|recent@AI		Geopolitics, AI Concerns, & Tech's Summer Slump
+1534577	bitcoin	1	287	0	0	14.1	263526	518	recent@bitcoin|top@bitcoin|recent@lightning		Enabling Bitcoin Lightning Payments for Vendure eCommerce framework with CLINK
+1533902	AskSN	2	263	0	1	34.0	1054143	1021	recent@privacy		Are We Trading Our Privacy for Convenience Without Even Realizing It?
+1534685	bitcoin_beginners	1	247	0	0	12.1	296825	5018	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		The Breez SDK: Class of Q2 2026
+1534130	AI	1	155	0	0	30.4	934367	935	recent@AI		STOLEN COMPUTE — exposed AI is free AI
+1534616	bitcoin_beginners	1	145	0	0	13.3	296825	5018	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		MetroVault — Air-gapped Bitcoin signer for Android
+1533897	meta	1	140	0	16	34.1	273359	732	recent@meta		Bug fixes?
+1534655	bitcoin	1	139	0	0	12.7	1490792	353	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		A History of Bitcoin Maximalism (2023)
+1534675	AI	1	125	0	1	12.2	1490792	353	recent@AI|top@AI		Impostor Chinese models pretend they're Claude
+1534529	Design	2	113	0	3	18.0	1533743	7	top@devs|top@openagents		10k sats after delivery: one README or landing-page teardown today
+1534687	bitcoin	1	57	0	0	12.1	223678	5841	top@lightning		Otevřené potřeby ⚡
+1535097	bitcoin	1	36	0	0	3.5	280679	22630	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		bitcoin.conf Reference: Configure Your Node
+1535220	bitcoin_beginners	1	36	0	0	0.2	1532836	23	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH	You know the analogy between rai stones and bitcoin
+1535120	bitcoin_beginners	1	36	0	0	3.0	296825	5018	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		Anatomy of Bitcoin Explorer
+1534755	AI	1	36	0	0	9.4	296825	5018	recent@bitcoin_beginners|top@bitcoin_beginners|recent@AI		The Anatomy of borg
+1534723	bitcoin_beginners	1	36	0	0	10.6	296825	5018	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		From Lightning Data To Global Payments
+1534720	bitcoin_beginners	1	36	0	0	10.9	296825	5018	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		Research Peptide Vendors That Support Bitcoin Payments In 2026
+1534733	bitcoin_beginners	1	36	0	0	10.2	296825	5018	recent@bitcoin_beginners|top@bitcoin_beginners		Impact Report Phase 2 - Ignition: The Education Network Takes Off
+1534659	bitcoin_beginners	1	36	0	0	12.6	296825	5018	recent@bitcoin_beginners|top@bitcoin_beginners		Bitcoin; Zero To One Money — Citadel21
+1534704	bitcoin_beginners	1	36	0	1	11.6	1444593	93	recent@bitcoin_beginners|top@bitcoin_beginners		🔥 Video impactante de  @alberto_mera  En 2025 hubo 83 ataques a bitcoiners.
+1534665	bitcoin_Mining	1	33	0	0	12.4	296825	5018	recent@bitcoin_Mining|top@bitcoin_Mining		Build Your Own Blocks with Stratum V2 and Merge Mine Rootstock
+1533938	bitcoin	1	21	0	0	33.4	462245	295	recent@bitcoinplusplus		Consensus Edition — Last Week in Bitcoin (Jul 20 - 26)
+1534673	bitcoin	1	11	0	0	12.2	280679	22630	recent@bitcoin_Mining|top@bitcoin_Mining		Does Bitcoin's fee market price permanence, or just congestion?
+1534205	bitcoin	1	0	0	0	28.6	976996	16	recent@bitcoin		El costo oculto de la soberanía: ¿Tu nodo es realmente tuyo?
+1535195	bitdevs	1	0	0	0	0.9	1248037	1863	recent@bitdevs|top@bitdevs|recent@devs	FRESH	Type checker wrong ? Lean and the Curry-Howard correspondence | Hacker News
+1534513	bitdevs	1	0	0	0	19.4	1248037	1863	recent@bitdevs|top@bitdevs|recent@devs		A Hole in the Ladder
