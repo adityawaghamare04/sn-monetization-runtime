@@ -23896,3 +23896,33 @@
 2026-07-31T23:12:29.493Z	1537252	lightning	1	158	0	0	4.7	328182	3806	recent@lightning|top@lightning	SIGNAL	Predicting Channel Closures in the Lightning Network with Machine Learning
 2026-07-31T23:12:29.493Z	1537418	Stacker_Stocks	2	111	0	0	0.7	1054143	1036	recent@Stacker_Stocks|top@Stacker_Stocks	FRESH,SIGNAL	Dow Logs Slim July Gains as Nasdaq, S&P 500 Slip; Amazon Stock Soar.
 2026-07-31T23:12:29.493Z	1537270	Construction_and_Engineering	2	100	0	0	4.4	1519718	42	recent@Construction_and_Engineering|top@Construction_and_Engineering	SIGNAL	Building a Real Estate Business with Less Than $200,000 Capital
+2026-07-31T23:43:19.010Z	1537022	security	1	11365	0	18	8.7	48657	14424	recent@bitcoin|top@bitcoin|recent@security	HOT,SIGNAL	Pleb Economist #13: ColdCard and the Law of Large Numbers
+2026-07-31T23:43:19.010Z	1536932	bitcoin	1	11250	0	0	10.4	1014665	220	recent@bitcoin|top@bitcoin	HOT,SIGNAL	COLDCARD, CLN disclosures, zk proof of reserves - Bitcoin Optech Newsletter #416
+2026-07-31T23:43:19.010Z	1536916	bitcoin	1	2750	0	5	10.8	14476	315	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Entropy is what makes a bitcoin your bitcoin.
+2026-07-31T23:43:19.010Z	1536996	DIY	3	2054	0	22	9.0	74100	11714	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Let's crowdsource a very short guide for people who used Coldcards
+2026-07-31T23:43:19.010Z	1536864	bitcoin	1	1401	0	38	11.9	74100	11714	recent@bitcoin|top@bitcoin	HOT,SIGNAL	What is your spouse's response to the ColdCard entropy vulnerability?
+2026-07-31T23:43:19.010Z	1537112	bitcoin	1	1359	0	2	7.1	223678	5871	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Tails OS - hotboot Linux distro from a 8GB USB stick (includes Electrum Wallet)
+2026-07-31T23:43:19.010Z	1537306	bitcoin	1	1329	0	3	3.8	435224	1552	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	Has holding Bitcoin changed how you think about money?
+2026-07-31T23:43:19.010Z	1537290	security	1	1292	0	1	4.3	144357	4420	recent@bitcoin|top@bitcoin|recent@security	HOT,SIGNAL	Loupe Project: Update #1
+2026-07-31T23:43:19.010Z	1536984	bitcoin	1	1178	0	2	9.2	263526	524	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Accept Bitcoin Lightning in OpenCart via CLINK: one-time Buy + auto-renew Subscr
+2026-07-31T23:43:19.010Z	1537111	bitcoin	1	1117	0	0	7.1	24585	360	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Latest Strikes 30 - Junly 20th-26th 2026
+2026-07-31T23:43:19.010Z	1536863	tutorials	2	1041	0	1	11.9	900202	2585	recent@bitcoin|top@bitcoin	HOT,SIGNAL	FYI: 10x Security Bitcoin Guide
+2026-07-31T23:43:19.010Z	1536875	bitcoin	1	1006	0	0	11.7	280679	22673	recent@bitcoin|top@bitcoin	HOT,SIGNAL	joinmarket-ng/joinmarket-ng · Release 0.35.0
+2026-07-31T23:43:19.010Z	1537107	bitcoin	1	839	0	13	7.2	38951	2253	recent@bitcoin|top@bitcoin	SIGNAL	Can self custody actually scale
+2026-07-31T23:43:19.010Z	1537188	bitcoinplusplus	1	822	0	1	6.2	328182	3806	recent@bitcoinplusplus|top@bitcoinplusplus	SIGNAL	bitcoin++ Consensus Edition: Day 2
+2026-07-31T23:43:19.010Z	1536955	bitcoin	1	803	0	3	9.8	51481	4111	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Will MemPool fees be significantly higher today because of the ColdCard issue?
+2026-07-31T23:43:19.010Z	1536897	bitcoin	1	690	0	0	11.3	263526	524	recent@bitcoin|top@bitcoin	SIGNAL	Mike Schmidt on Bitcoin development progress in last 18 months
+2026-07-31T23:43:19.010Z	1537215	bitcoin	1	651	0	13	5.9	102558	1116	recent@bitcoin|top@bitcoin	SIGNAL	Is Coldcard legally responsible for the lost of the funds?
+2026-07-31T23:43:19.010Z	1537275	AI	1	612	0	0	4.8	401865	8331	recent@AI|top@AI	SIGNAL	How Leopold Aschenbrenner Built a $45 bil AI Hedge Fund — and Lost it in Days
+2026-07-31T23:43:19.010Z	1536998	AI	1	604	0	8	9.0	1532699	29	recent@AI|top@AI	SIGNAL	What happens when expertise becomes cheap?
+2026-07-31T23:43:19.010Z	1537002	AI	1	499	0	0	9.0	280679	22673	recent@AI|top@AI	SIGNAL	Big Tech's AI Spending to Reach $760 Billion in 2026
+2026-07-31T23:43:19.010Z	1537172	bitcoin	1	461	0	34	6.4	74100	11714	recent@bitcoin|top@bitcoin	SIGNAL	To all Coinkite users and the entire Bitcoin community - NVK
+2026-07-31T23:43:19.010Z	1536873	bitcoin_beginners	1	430	0	0	11.7	30782	25285	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Bitcoin Beginners Newsletter, Issue 110
+2026-07-31T23:43:19.010Z	1537353	bitcoin	1	407	0	1	3.0	38951	2253	recent@bitcoin|top@bitcoin	SIGNAL	What are the best hardware wallets to replace a coldcard
+2026-07-31T23:43:19.010Z	1537204	bitcoin	1	307	0	6	6.0	296825	5044	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	The False Promise of Commercial Hardware Wallets
+2026-07-31T23:43:19.010Z	1537407	bitcoin	1	290	0	1	1.5	74100	11714	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	In case you thought self custody was mainstream...
+2026-07-31T23:43:19.010Z	1536899	bitcoin	1	249	0	2	11.3	1513887	11	recent@bitcoin|top@bitcoin	SIGNAL	WARNING: "Trusted" Exchanges steal funds and cannot be trusted
+2026-07-31T23:43:19.010Z	1537267	AI	1	244	0	1	4.9	328182	3806	recent@bitcoin|top@bitcoin|recent@AI	SIGNAL	Spiral x Goose: The Best is Yet to Honk
+2026-07-31T23:43:19.010Z	1536930	lightning	1	236	0	0	10.5	440729	216	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (2.5 BTC) + New Node Spotlight (037fb104d59871aeb…)
+2026-07-31T23:43:19.010Z	1537427	bitcoin	1	184	0	3	1.0	30782	25285	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH,SIGNAL	Swan Email Re Cold Card Hack
+2026-07-31T23:43:19.010Z	1537252	lightning	1	158	0	0	5.2	328182	3806	recent@lightning|top@lightning	SIGNAL	Predicting Channel Closures in the Lightning Network with Machine Learning
