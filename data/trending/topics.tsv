@@ -1,13 +1,20 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-07-31T06:43:26.381Z; n=40
-user	sn:bitcoin	4.21	yes	
-reddit	sn:bitcoin	4.21	yes	
-what	hn,sn:AI	3.91	yes	
-operation saylor	sn:bitcoin	3.78	yes	
-episode	sn:bitcoin	3.78	yes	
-spot	sn:the_stacker_muse	3.27	no	RISING
-writing	sn:the_stacker_muse	3.27	no	RISING
-the economist	sn:the_stacker_muse	3.27	no	RISING
+# generated 2026-07-31T11:59:45.956Z; n=40
+coldcard	sn:security	6.76	yes	
+bitcoin	sn:bitcoin	5.45	yes	
+what	sn:bitcoin,sn:AI	5.33	yes	
+show	hn	5.27	no	RISING
+user	sn:bitcoin	4.22	yes	
+reddit	sn:bitcoin	4.22	yes	
+operation saylor	sn:bitcoin	3.79	yes	
+episode	sn:bitcoin	3.79	yes	
+firmware security vulnerability	sn:security	3.76	yes	
+technical deep dive	sn:bitcoin	3.38	yes	
+entropy issue	sn:bitcoin	3.38	yes	
+dice-roll	sn:security	3.37	no	RISING
+spot	sn:the_stacker_muse	3.31	no	RISING
+writing	sn:the_stacker_muse	3.31	no	RISING
+the economist	sn:the_stacker_muse	3.31	no	RISING
 krackpot	sn:bitcoin	3.26	yes	
 reminder	sn:Stacker_Sports	3.14	no	RISING
 stacker sports summer league buy	sn:Stacker_Sports	3.14	no	RISING
@@ -17,26 +24,19 @@ leopold aschenbrenner	sn:lol	3.08	yes
 jack mallers	sn:podcasts	3.05	no	RISING
 left	sn:podcasts	3.05	no	RISING
 what bitcoin did	sn:podcasts	3.05	no	RISING
+uefa	hn	3.03	no	RISING
+fifa	hn	3.03	no	RISING
 public mining stocks	sn:Stacker_Stocks	3.03	no	RISING
-unfiltered	sn:BooksAndArticles	2.99	no	RISING
-uefa	hn	2.97	no	RISING
-fifa	hn	2.97	no	RISING
-show	hn	2.96	no	RISING
-dice-roll	sn:security	2.96	no	RISING
-coldcard	sn:security	2.91	no	RISING
-vulnerability analysis	sn:security	2.91	no	RISING
-device	sn:security	2.91	no	RISING
-firmware	sn:security	2.91	no	RISING
+vulnerability analysis	sn:security	3.01	no	RISING
+device	sn:security	3.01	no	RISING
+firmware	sn:security	3.01	no	RISING
 noderunners radio	sn:Music	2.88	no	RISING
 live	sn:Music	2.88	no	RISING
 session	sn:Music	2.88	no	RISING
-cats from qatar	sn:Animal_World	2.88	no	RISING
+read	hn	2.87	no	RISING
 anthropic	sn:AI	2.84	yes	
 models hacked three companies during tests	sn:AI	2.84	yes	
-read	hn	2.83	no	RISING
+stacked	hn	2.83	no	RISING
+private	sn:bitcoin	2.82	yes	
+project	sn:bitcoin	2.82	yes	
 biggest channel opened today	sn:lightning	2.82	no	RISING
-new node spotlight	sn:lightning	2.82	no	RISING
-stacked	hn	2.77	no	RISING
-daily discussion thread	sn:Music	2.75	no	RISING
-music saloon	sn:Music	2.75	no	RISING
-advancing	hn	2.74	no	RISING
