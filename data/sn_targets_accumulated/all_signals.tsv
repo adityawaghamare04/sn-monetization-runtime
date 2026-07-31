@@ -23551,3 +23551,37 @@
 2026-07-31T14:59:53.915Z	1536930	lightning	1	236	0	0	1.8	440729	216	recent@lightning|top@lightning	FRESH,SIGNAL	Biggest Channel Opened Today (2.5 BTC) + New Node Spotlight (037fb104d59871aeb…)
 2026-07-31T14:59:53.915Z	1536998	AI	1	217	0	0	0.3	1532699	27	recent@AI|top@AI	FRESH,SIGNAL	What happens when expertise becomes cheap?
 2026-07-31T14:59:53.915Z	1536899	bitcoin	1	213	0	1	2.5	1513887	11	recent@bitcoin|top@bitcoin	SIGNAL	WARNING: "Trusted" Exchanges steal funds and cannot be trusted
+2026-07-31T15:26:28.839Z	1536932	bitcoin	1	11104	0	0	2.1	1014665	220	recent@bitcoin|top@bitcoin	HOT,SIGNAL	COLDCARD, CLN disclosures, zk proof of reserves - Bitcoin Optech Newsletter #416
+2026-07-31T15:26:28.839Z	1536720	security	1	5875	0	19	8.6	1	27004	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	Coldcard Mk2, Mk3, Mk4, Mk5, and Q Firmware Security Vulnerability
+2026-07-31T15:26:28.839Z	1536739	bitcoin	1	2416	0	30	7.7	12582	1639	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Technical Deep Dive into the Entropy Issue
+2026-07-31T15:26:28.839Z	1536709	security	1	2357	0	17	8.9	12582	1639	recent@bitcoin_beginners|top@bitcoin_beginners|recent@security	HOT,SIGNAL	keep your f*ing coins off the exchange: dice-roll seed generation is sound
+2026-07-31T15:26:28.839Z	1536970	BooksAndArticles	2	2297	0	4	1.2	724606	11861	recent@econ|top@econ|recent@BooksAndArticles	FRESH,HOT,SIGNAL	BOOK on BOOKS: "Gradually, Then Suddenly" by Parker Lewis
+2026-07-31T15:26:28.839Z	1536916	bitcoin	1	1576	0	2	2.5	14476	314	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Entropy is what makes a bitcoin your bitcoin.
+2026-07-31T15:26:28.839Z	1536864	bitcoin	1	1329	0	33	3.6	74100	11696	recent@bitcoin|top@bitcoin|recent@AskSN	HOT,SIGNAL	What is your spouse's response to the ColdCard entropy vulnerability?
+2026-07-31T15:26:28.839Z	1536863	tutorials	2	1041	0	1	3.6	900202	2582	recent@bitcoin|top@bitcoin|recent@tutorials	HOT,SIGNAL	FYI: 10x Security Bitcoin Guide
+2026-07-31T15:26:28.839Z	1536654	security	1	1012	0	7	10.3	12582	1639	recent@bitcoin_beginners|top@bitcoin_beginners|recent@security	HOT,SIGNAL	Coldcard RNG Vulnerability Analysis by Device & Firmware
+2026-07-31T15:26:28.839Z	1536826	security	1	924	0	2	4.3	68842	625	recent@bitcoin|top@bitcoin|recent@security	SIGNAL	Hot take: The airgap didn't save Coldcard. A USB cable might have
+2026-07-31T15:26:28.839Z	1537022	security	1	701	0	1	0.4	48657	14418	recent@bitcoin|top@bitcoin|recent@security	FRESH,SIGNAL	Pleb Economist #13: ColdCard and the Law of Large Numbers
+2026-07-31T15:26:28.839Z	1536926	BooksAndArticles	2	691	0	0	2.3	724606	11861	recent@econ|top@econ|recent@BooksAndArticles	SIGNAL	AI Writing Again: Humans Must Become Better Editors! (The Economist)
+2026-07-31T15:26:28.839Z	1536897	bitcoin	1	669	0	0	3.0	263526	523	recent@bitcoin|top@bitcoin	SIGNAL	Mike Schmidt on Bitcoin development progress in last 18 months
+2026-07-31T15:26:28.839Z	1536731	bitcoin	1	658	0	0	8.1	12582	1639	recent@bitcoin|top@bitcoin	SIGNAL	DIY BITCOIN PRIVATE KEY PROJECT (2022)
+2026-07-31T15:26:28.839Z	1537004	Politics_And_Law	3	516	0	2	0.6	724606	11861	recent@econ|top@econ	FRESH,SIGNAL	The Boomer-Watch Returns: It Was Shit for Young People in the 1980s, Too (WSJ)
+2026-07-31T15:26:28.839Z	1536873	bitcoin_beginners	1	430	0	0	3.4	30782	25267	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Bitcoin Beginners Newsletter, Issue 110
+2026-07-31T15:26:28.839Z	1536837	charts_and_maps	2	430	0	2	4.0	280679	22673	recent@charts_and_maps|top@charts_and_maps	SIGNAL	The 2026 World Cup On-Chain: $20 Billion in Crypto Flows
+2026-07-31T15:26:28.839Z	1536955	bitcoin	1	394	0	2	1.5	51481	4109	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	FRESH,SIGNAL	Will MemPool fees be significantly higher today because of the ColdCard issue?
+2026-07-31T15:26:28.839Z	1536725	meta	1	357	0	1	8.4	12582	1639	recent@meta|top@meta	SIGNAL	special thanks to stacker.news for alerting me to the potential loss of funds
+2026-07-31T15:26:28.839Z	1536750	bitcoin_Mining	1	309	0	1	7.3	1529139	21	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Is mining still worth it in 2026 or is it mainly about learning?
+2026-07-31T15:26:28.839Z	1536629	lol	2	294	0	0	11.6	1532699	27	recent@AskSN|top@AskSN|recent@lol	SIGNAL	We Asked AI To Show America Without Republicans
+2026-07-31T15:26:28.839Z	1536714	AskSN	2	287	0	0	8.8	296825	5043	recent@bitcoin_beginners|top@bitcoin_beginners|recent@AskSN	SIGNAL	So, What's Your Bitcoin Risk Model?
+2026-07-31T15:26:28.839Z	1536624	news	2	274	0	0	11.9	1532836	67	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus	SIGNAL	Join Rigly's Blockparty #33
+2026-07-31T15:26:28.839Z	1536653	AskSN	2	264	0	1	10.4	658459	900	recent@AskSN|top@AskSN	SIGNAL	How to contribute to Bitcoin when everything is against you?
+2026-07-31T15:26:28.839Z	1536853	Stacker_Stocks	2	253	0	0	3.7	280679	22673	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Why did South Korean stocks just crash?
+2026-07-31T15:26:28.839Z	1536852	bitcoin	1	251	0	0	3.7	1054143	1032	recent@bitcoin|top@bitcoin|recent@AskSN	SIGNAL	Are We Taking Bitcoin Privacy Seriously Enough?
+2026-07-31T15:26:28.839Z	1536930	lightning	1	236	0	0	2.2	440729	216	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (2.5 BTC) + New Node Spotlight (037fb104d59871aeb…)
+2026-07-31T15:26:28.839Z	1536998	AI	1	217	0	0	0.7	1532699	27	recent@AI|top@AI|recent@AskSN	FRESH,SIGNAL	What happens when expertise becomes cheap?
+2026-07-31T15:26:28.839Z	1536788	Design	2	214	0	0	5.4	383547	3427	recent@Design|top@Design	SIGNAL	PCjs Machines
+2026-07-31T15:26:28.839Z	1536899	bitcoin	1	213	0	1	3.0	1513887	11	recent@bitcoin|top@bitcoin	SIGNAL	WARNING: "Trusted" Exchanges steal funds and cannot be trusted
+2026-07-31T15:26:28.839Z	1536996	DIY	3	210	0	2	0.8	74100	11696	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Let's crowdsource a very short guide for people who used Coldcards
+2026-07-31T15:26:28.839Z	1536775	Stacker_Stocks	2	204	0	4	5.8	9274	25674	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Daily Stock Discussion ~Stacker_Stocks
+2026-07-31T15:26:28.839Z	1536962	AskSN	2	178	0	4	1.4	984933	1845	recent@AskSN|top@AskSN	FRESH,SIGNAL	What is the BackPage's Pic of the Week?
+2026-07-31T15:26:28.839Z	1536957	news	2	161	0	0	1.5	1245155	202	recent@news|top@news	FRESH,SIGNAL	Tire ruins car in Philedelphia
