@@ -23609,3 +23609,43 @@
 2026-07-31T16:49:36.381Z	1536899	bitcoin	1	249	0	2	4.4	1513887	11	recent@bitcoin|top@bitcoin	SIGNAL	WARNING: "Trusted" Exchanges steal funds and cannot be trusted
 2026-07-31T16:49:36.381Z	1536930	lightning	1	236	0	0	3.6	440729	216	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (2.5 BTC) + New Node Spotlight (037fb104d59871aeb…)
 2026-07-31T16:49:36.381Z	1536651	bitcoin	1	191	0	0	11.8	296825	5043	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	What to expect when expecting forks
+2026-07-31T17:48:19.391Z	1536932	bitcoin	1	11203	0	0	4.5	1014665	220	recent@bitcoin|top@bitcoin	HOT,SIGNAL	COLDCARD, CLN disclosures, zk proof of reserves - Bitcoin Optech Newsletter #416
+2026-07-31T17:48:19.391Z	1537022	security	1	11111	0	13	2.8	48657	14418	recent@bitcoin|top@bitcoin|recent@security	HOT,SIGNAL	Pleb Economist #13: ColdCard and the Law of Large Numbers
+2026-07-31T17:48:19.391Z	1536720	security	1	6018	0	22	10.9	1	27006	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	Coldcard Mk2, Mk3, Mk4, Mk5, and Q Firmware Security Vulnerability
+2026-07-31T17:48:19.391Z	1536916	bitcoin	1	2618	0	4	4.9	14476	315	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Entropy is what makes a bitcoin your bitcoin.
+2026-07-31T17:48:19.391Z	1536739	bitcoin	1	2416	0	32	10.1	12582	1642	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Technical Deep Dive into the Entropy Issue
+2026-07-31T17:48:19.391Z	1536709	security	1	2357	0	17	11.3	12582	1642	recent@bitcoin_beginners|top@bitcoin_beginners|recent@security	HOT,SIGNAL	keep your f*ing coins off the exchange: dice-roll seed generation is sound
+2026-07-31T17:48:19.391Z	1536970	BooksAndArticles	2	2325	0	4	3.5	724606	11872	recent@econ|top@econ|recent@BooksAndArticles	HOT,SIGNAL	BOOK on BOOKS: "Gradually, Then Suddenly" by Parker Lewis
+2026-07-31T17:48:19.391Z	1536996	DIY	3	1843	0	6	3.1	74100	11699	recent@bitcoin|top@bitcoin	HOT,SIGNAL,SELF_POST_OPP	Let's crowdsource a very short guide for people who used Coldcards
+2026-07-31T17:48:19.391Z	1536864	bitcoin	1	1363	0	36	6.0	74100	11699	recent@bitcoin|top@bitcoin|recent@AskSN	HOT,SIGNAL	What is your spouse's response to the ColdCard entropy vulnerability?
+2026-07-31T17:48:19.391Z	1537112	bitcoin	1	1327	0	2	1.2	223678	5865	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	Tails OS - hotboot Linux distro from a 8GB USB stick (includes Electrum Wallet)
+2026-07-31T17:48:19.391Z	1536826	security	1	1134	0	2	6.7	68842	625	recent@bitcoin|top@bitcoin|recent@security	HOT,SIGNAL	Hot take: The airgap didn't save Coldcard. A USB cable might have
+2026-07-31T17:48:19.391Z	1536984	bitcoin	1	1078	0	2	3.3	263526	524	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Accept Bitcoin Lightning in OpenCart via CLINK: one-time Buy + auto-renew Subscr
+2026-07-31T17:48:19.391Z	1537111	bitcoin	1	1065	0	0	1.2	24585	360	recent@bitcoin|top@bitcoin|recent@lightning	FRESH,HOT,SIGNAL	Latest Strikes 30 - Junly 20th-26th 2026
+2026-07-31T17:48:19.391Z	1537134	HealthAndFitness	3	1044	0	5	1.0	724606	11872	recent@econ|top@econ	FRESH,HOT,SIGNAL,SELF_POST_OPP	Nordic Coolcations: "Cool" + "Vacation" Dominate (FT, Novik & Stacey)
+2026-07-31T17:48:19.391Z	1536863	tutorials	2	1041	0	1	6.0	900202	2585	recent@bitcoin|top@bitcoin|recent@tutorials	HOT,SIGNAL	FYI: 10x Security Bitcoin Guide
+2026-07-31T17:48:19.391Z	1536875	bitcoin	1	985	0	0	5.7	280679	22673	recent@bitcoin|top@bitcoin	SIGNAL	joinmarket-ng/joinmarket-ng · Release 0.35.0
+2026-07-31T17:48:19.391Z	1536837	charts_and_maps	2	856	0	2	6.3	280679	22673	recent@charts_and_maps|top@charts_and_maps	SIGNAL	The 2026 World Cup On-Chain: $20 Billion in Crypto Flows
+2026-07-31T17:48:19.391Z	1536955	bitcoin	1	803	0	3	3.9	51481	4110	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Will MemPool fees be significantly higher today because of the ColdCard issue?
+2026-07-31T17:48:19.391Z	1537188	bitcoinplusplus	1	791	0	0	0.3	328182	3803	recent@bitcoinplusplus|top@bitcoinplusplus	FRESH,SIGNAL	bitcoin++ Consensus Edition: Day 2
+2026-07-31T17:48:19.391Z	1537107	bitcoin	1	720	0	7	1.3	38951	2250	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Can self custody actually scale
+2026-07-31T17:48:19.391Z	1536926	BooksAndArticles	2	712	0	0	4.6	724606	11872	recent@econ|top@econ|recent@BooksAndArticles	SIGNAL	AI Writing Again: Humans Must Become Better Editors! (The Economist)
+2026-07-31T17:48:19.391Z	1536897	bitcoin	1	690	0	0	5.4	263526	524	recent@bitcoin|top@bitcoin	SIGNAL	Mike Schmidt on Bitcoin development progress in last 18 months
+2026-07-31T17:48:19.391Z	1536731	bitcoin	1	658	0	0	10.5	12582	1642	recent@bitcoin|top@bitcoin	SIGNAL	DIY BITCOIN PRIVATE KEY PROJECT (2022)
+2026-07-31T17:48:19.391Z	1536998	AI	1	573	0	2	3.1	1532699	27	recent@AI|top@AI|recent@AskSN	SIGNAL	What happens when expertise becomes cheap?
+2026-07-31T17:48:19.391Z	1537004	Politics_And_Law	3	516	0	2	3.0	724606	11872	recent@econ|top@econ	SIGNAL	The Boomer-Watch Returns: It Was Shit for Young People in the 1980s, Too (WSJ)
+2026-07-31T17:48:19.391Z	1536873	bitcoin_beginners	1	430	0	0	5.8	30782	25276	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Bitcoin Beginners Newsletter, Issue 110
+2026-07-31T17:48:19.391Z	1536725	meta	1	357	0	1	10.8	12582	1642	recent@meta|top@meta	SIGNAL	special thanks to stacker.news for alerting me to the potential loss of funds
+2026-07-31T17:48:19.391Z	1536853	Stacker_Stocks	2	335	0	0	6.1	280679	22673	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Why did South Korean stocks just crash?
+2026-07-31T17:48:19.391Z	1536750	bitcoin_Mining	1	309	0	2	9.6	1529139	21	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Is mining still worth it in 2026 or is it mainly about learning?
+2026-07-31T17:48:19.391Z	1536714	AskSN	2	287	0	0	11.2	296825	5044	recent@bitcoin_beginners|top@bitcoin_beginners|recent@AskSN	SIGNAL	So, What's Your Bitcoin Risk Model?
+2026-07-31T17:48:19.391Z	1536852	bitcoin	1	251	0	0	6.1	1054143	1034	recent@bitcoin|top@bitcoin|recent@AskSN	SIGNAL	Are We Taking Bitcoin Privacy Seriously Enough?
+2026-07-31T17:48:19.391Z	1536899	bitcoin	1	249	0	2	5.4	1513887	11	recent@bitcoin|top@bitcoin	SIGNAL	WARNING: "Trusted" Exchanges steal funds and cannot be trusted
+2026-07-31T17:48:19.391Z	1536775	Stacker_Stocks	2	246	0	12	8.1	9274	25675	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL,SELF_POST_OPP	Daily Stock Discussion ~Stacker_Stocks
+2026-07-31T17:48:19.391Z	1536930	lightning	1	236	0	0	4.6	440729	216	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (2.5 BTC) + New Node Spotlight (037fb104d59871aeb…)
+2026-07-31T17:48:19.391Z	1536788	Design	2	214	0	0	7.7	383547	3427	recent@Design|top@Design	SIGNAL	PCjs Machines
+2026-07-31T17:48:19.391Z	1537172	bitcoin	1	207	0	2	0.5	74100	11699	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	To all Coinkite users and the entire Bitcoin community - NVK
+2026-07-31T17:48:19.391Z	1537002	AI	1	192	0	0	3.0	280679	22673	recent@AI|top@AI|recent@Stacker_Stocks	SIGNAL	Big Tech's AI Spending to Reach $760 Billion in 2026
+2026-07-31T17:48:19.391Z	1536962	AskSN	2	178	0	4	3.8	984933	1846	recent@AskSN|top@AskSN	SIGNAL	What is the BackPage's Pic of the Week?
+2026-07-31T17:48:19.391Z	1536947	Design	2	161	0	0	4.1	280679	22673	recent@Construction_and_Engineering|top@Construction_and_Engineering|recent@Design	SIGNAL	The Glass Box Skyscraper Era is Over | The B1M
+2026-07-31T17:48:19.391Z	1536957	news	2	161	0	0	3.8	1245155	202	recent@news|top@news	SIGNAL	Tire ruins car in Philedelphia
