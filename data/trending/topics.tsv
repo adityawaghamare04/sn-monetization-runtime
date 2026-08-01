@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-01T11:16:05.098Z; n=40
-coldcard	sn:bitcoin	7.71	yes	
-bitcoin	sn:bitcoin	5.86	yes	
-june	hn	4.93	no	RISING
-pleb economist	sn:security	4.06	yes	
-large numbers	sn:security	4.06	yes	
-bitcoin optech newsletter	sn:bitcoin	4.05	yes	
-media	sn:bitcoin	3.66	yes	
-anatomy	sn:bitcoin	3.66	yes	
-retardation	sn:bitcoin	3.66	yes	
-iran	sn:AskSN	3.63	no	RISING
-coldcard sweep watch	sn:bitcoin	3.54	yes	
-entropy	sn:bitcoin	3.44	yes	
-book	sn:BooksAndArticles	3.4	no	RISING
-books	sn:BooksAndArticles	3.4	no	RISING
-gradually	sn:BooksAndArticles	3.4	no	RISING
-then suddenly	sn:BooksAndArticles	3.4	no	RISING
-parker lewis	sn:BooksAndArticles	3.4	no	RISING
-coldcards	sn:DIY	3.32	yes	
-analog circuits	sn:devs	3.32	no	RISING
-ecdsa	sn:devs	3.32	no	RISING
+# generated 2026-08-01T16:59:25.639Z; n=40
+bitcoin	sn:bitcoin	9.54	yes	
+coldcard	sn:bitcoin,sn:Memes	7.89	yes	
+iran	hn,sn:AskSN	5.25	no	RISING
+media	sn:bitcoin	3.75	yes	
+anatomy	sn:bitcoin	3.75	yes	
+retardation	sn:bitcoin	3.75	yes	
+larp	sn:bitcoin	3.67	yes	
+coldcard sweep watch	sn:bitcoin	3.56	yes	
+analog circuits	sn:devs	3.33	no	RISING
+ecdsa	sn:devs	3.33	no	RISING
 stephen	sn:lol	3.25	no	RISING
 smith	sn:lol	3.25	no	RISING
 kyrie irving	sn:lol	3.25	no	RISING
 covid	sn:lol	3.25	no	RISING
-stacker sports summer league	sn:Stacker_Sports	3.23	no	RISING
-august futures submissions	sn:Stacker_Sports	3.23	no	RISING
-what	sn:bitcoin	3.16	yes	
-tails	sn:bitcoin	3.13	yes	
-linux	sn:bitcoin	3.13	yes	
-electrum wallet	sn:bitcoin	3.13	yes	
-elevators	hn	3.12	no	RISING
-loupe project	sn:security	3.11	yes	
-update	sn:security	3.11	yes	
-accept bitcoin lightning	sn:bitcoin	3.08	no	RISING
-clink	sn:bitcoin	3.08	no	RISING
-one-time	sn:bitcoin	3.08	no	RISING
-auto-renew	sn:bitcoin	3.08	no	RISING
-subscr	sn:bitcoin	3.08	no	RISING
-south korean	sn:Stacker_Stocks	3.06	no	RISING
-latest strikes	sn:bitcoin	3.05	no	RISING
+elevators	hn	3.18	no	RISING
+loupe project	sn:security	3.11	no	RISING
+update	sn:security	3.11	no	RISING
+critical coldcard	sn:bitcoin	3	yes	
+swan email re cold card hack	sn:bitcoin	2.93	yes	
+consensus edition	sn:bitcoinplusplus	2.92	no	RISING
+biggest channel opened today	sn:lightning	2.9	no	RISING
+new node spotlight	sn:lightning	2.9	no	RISING
+does being quick	sn:AskSN	2.85	no	RISING
+anger make someone	sn:AskSN	2.85	no	RISING
+bad person	sn:AskSN	2.85	no	RISING
+books	sn:BooksAndArticles	2.83	no	RISING
+articles weekly	sn:BooksAndArticles	2.83	no	RISING
+issue	sn:BooksAndArticles	2.83	no	RISING
+is coldcard	sn:bitcoin	2.81	no	RISING
+multiplayer	hn	2.8	no	RISING
+how leopold aschenbrenner built	sn:AI	2.79	yes	
+hedge fund	sn:AI	2.79	yes	
+lost	sn:AI	2.79	yes	
+days	sn:AI	2.79	yes	
+saturday	sn:art	2.78	no	RISING
+share	sn:art	2.78	no	RISING
+daily discussion thread	sn:Music	2.74	no	RISING
+music saloon	sn:Music	2.74	no	RISING
+stacker sports podcast preshow discussion	sn:Stacker_Sports	2.72	no	RISING
+episode	sn:Stacker_Sports	2.72	no	RISING
