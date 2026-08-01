@@ -1,0 +1,66 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1537634	bitcoin	1	3525	0	19	5.6	74100	11726	recent@bitcoin|top@bitcoin	HOT,SIGNAL	BIP110 fails to reach 55% threshold for miner activation
+1537803	bitcoin	1	3318	0	11	1.7	80482	1013	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	Can we have a serious talk about the LARP in Bitcoin
+1537719	lightning	1	788	0	1	3.0	440729	217	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (3.0 BTC) + New Node Spotlight (03922ecba768197f2…)
+1537621	meta	1	497	0	0	6.2	36151	1575	recent@meta|top@meta	SIGNAL	This Day on SN: August 1
+1537809	nostr	1	324	0	0	1.6	163128	3678	recent@lightning|top@lightning|recent@nostr	FRESH,SIGNAL	"NOSTR" creator & "BITCOIN Lightning" contributor said the quiet part out loud
+1537637	bitcoin	1	292	0	0	5.5	934367	941	recent@bitcoin|top@bitcoin	SIGNAL	You only need the first 4 letters of BIP39 words
+1537022	security	1	11406	0	19	25.2	48657	14428	recent@bitcoin|recent@security	HOT	Pleb Economist #13: ColdCard and the Law of Large Numbers
+1536932	bitcoin	1	11261	0	2	26.9	1014665	220	recent@bitcoin	HOT	COLDCARD, CLN disclosures, zk proof of reserves - Bitcoin Optech Newsletter #416
+1536720	security	1	6211	0	23	33.4	1	27006	recent@bitcoin|recent@bitdevs|recent@security	HOT	Coldcard Mk2, Mk3, Mk4, Mk5, and Q Firmware Security Vulnerability
+1537410	bitcoin	1	5686	0	15	18.0	1311038	196	recent@bitcoin|top@bitcoin	HOT	Coldcard, the Media, and the Anatomy of AI Retardation
+1537531	bitcoin	1	3660	0	12	12.9	38951	2258	recent@bitcoin|top@bitcoin	HOT	Coldcard Sweep Watch
+1536916	bitcoin	1	2750	0	6	27.3	14476	315	recent@bitcoin	HOT	Entropy is what makes a bitcoin your bitcoin.
+1536739	bitcoin	1	2421	0	34	32.5	12582	1643	recent@bitcoin	HOT	Technical Deep Dive into the Entropy Issue
+1536709	security	1	2357	0	17	33.7	12582	1643	recent@bitcoin_beginners|recent@security|recent@devs	HOT	keep your f*ing coins off the exchange: dice-roll seed generation is sound
+1537496	devs	1	2158	0	4	14.4	28117	3534	recent@devs|top@devs	HOT	Analog Circuits for ECDSA signing
+1536996	DIY	3	2075	0	25	25.5	74100	11726	recent@bitcoin	HOT	Let's crowdsource a very short guide for people who used Coldcards
+1537306	bitcoin	1	1451	0	7	20.3	435224	1552	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT	Has holding Bitcoin changed how you think about money?
+1536864	bitcoin	1	1443	0	40	28.4	74100	11726	recent@bitcoin	HOT	What is your spouse's response to the ColdCard entropy vulnerability?
+1536654	security	1	1432	0	11	35.1	12582	1643	recent@bitcoin_beginners|recent@security	HOT	Coldcard RNG Vulnerability Analysis by Device & Firmware
+1537112	bitcoin	1	1359	0	2	23.6	223678	5877	recent@bitcoin|top@bitcoin	HOT	Tails OS - hotboot Linux distro from a 8GB USB stick (includes Electrum Wallet)
+1537290	security	1	1292	0	1	20.8	144357	4423	recent@bitcoin|top@bitcoin|recent@security	HOT	Loupe Project: Update #1
+1536984	bitcoin	1	1199	0	2	25.7	263526	526	recent@bitcoin|recent@lightning	HOT	Accept Bitcoin Lightning in OpenCart via CLINK: one-time Buy + auto-renew Subscr
+1536826	security	1	1134	0	3	29.1	68842	625	recent@security	HOT	Hot take: The airgap didn't save Coldcard. A USB cable might have
+1537111	bitcoin	1	1117	0	0	23.6	24585	360	recent@bitcoin|top@bitcoin|recent@lightning	HOT	Latest Strikes 30 - Junly 20th-26th 2026
+1537407	bitcoin	1	1113	0	8	18.0	74100	11726	recent@bitcoin|top@bitcoin	HOT	In case you thought self custody was mainstream...
+1536875	bitcoin	1	1031	0	1	28.2	280679	22673	recent@bitcoin	HOT	joinmarket-ng/joinmarket-ng · Release 0.35.0
+1537427	bitcoin	1	854	0	10	17.5	30782	25296	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		Swan Email Re Cold Card Hack
+1537107	bitcoin	1	850	0	13	23.7	38951	2258	recent@bitcoin|top@bitcoin		Can self custody actually scale
+1537188	bitcoinplusplus	1	822	0	1	22.7	328182	3812	recent@bitcoinplusplus|top@bitcoinplusplus		bitcoin++ Consensus Edition: Day 2
+1536955	bitcoin	1	803	0	3	26.3	51481	4111	recent@bitcoin_beginners|recent@mempool		Will MemPool fees be significantly higher today because of the ColdCard issue?
+1537215	bitcoin	1	651	0	13	22.4	102558	1116	recent@bitcoin|top@bitcoin		Is Coldcard legally responsible for the lost of the funds?
+1537275	AI	1	612	0	0	21.3	401865	8331	recent@AI|top@AI		How Leopold Aschenbrenner Built a $45 bil AI Hedge Fund — and Lost it in Days
+1536998	AI	1	604	0	8	25.5	1532699	30	recent@AI		What happens when expertise becomes cheap?
+1537172	bitcoin	1	503	0	39	22.9	74100	11726	recent@bitcoin|top@bitcoin		To all Coinkite users and the entire Bitcoin community - NVK
+1537002	AI	1	499	0	0	25.5	280679	22673	recent@AI		Big Tech's AI Spending to Reach $760 Billion in 2026
+1537353	bitcoin	1	451	0	1	19.5	38951	2258	top@bitcoin		What are the best hardware wallets to replace a coldcard
+1536873	bitcoin_beginners	1	430	0	0	28.2	30782	25296	recent@bitcoin_beginners		Bitcoin Beginners Newsletter, Issue 110
+1537417	bitcoin	1	375	0	6	17.8	144357	4423	recent@bitcoin|top@bitcoin		The most important photo of my life | SNL #235
+1537388	bitcoin	1	360	0	0	18.7	12582	1643	recent@bitcoin|top@bitcoin|recent@devs		I wanted to test a coldcard's dice-roll generation against my computer's
+1536725	meta	1	357	0	1	33.2	12582	1643	recent@meta		special thanks to stacker.news for alerting me to the potential loss of funds
+1536750	bitcoin_Mining	1	320	0	3	32.0	1529139	21	recent@bitcoin_Mining		Is mining still worth it in 2026 or is it mainly about learning?
+1537204	bitcoin	1	318	0	6	22.5	296825	5050	top@bitcoin|recent@bitcoin_beginners|top@bitcoin_beginners		The False Promise of Commercial Hardware Wallets
+1536714	AskSN	2	287	0	0	33.6	296825	5050	recent@bitcoin_beginners		So, What's Your Bitcoin Risk Model?
+1537267	AI	1	244	0	1	21.4	328182	3812	top@bitcoin|recent@AI|top@AI		Spiral x Goose: The Best is Yet to Honk
+1536930	lightning	1	236	0	0	27.0	440729	217	recent@lightning		Biggest Channel Opened Today (2.5 BTC) + New Node Spotlight (037fb104d59871aeb…)
+1537547	bitcoin	1	231	0	1	12.0	1532836	74	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		Blockparty #33 rewards and how to participate
+1536651	bitcoin	1	191	0	0	35.2	296825	5050	recent@bitcoin_beginners|recent@bitdevs		What to expect when expecting forks
+1537252	lightning	1	158	0	0	21.7	328182	3812	recent@lightning|top@lightning		Predicting Channel Closures in the Lightning Network with Machine Learning
+1537366	tech	1	136	0	0	19.3	983106	21	recent@lightning|top@lightning		LNemail browser extension
+1537534	AI	1	125	0	0	12.9	110937	247	recent@AI|top@AI		Focus on solving problems
+1537595	bitcoin	1	77	0	1	8.3	296825	5050	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		The Self-custody Nightmare
+1537811	nostr	1	67	0	1	1.4	163128	3678	recent@lightning|top@lightning	FRESH	Brits know how to Bitcoin - ₿itfest UK 2026 - Bitcoin IRL. Get Tickets now!
+1536726	tech	1	64	0	0	33.1	296825	5050	recent@bitcoin_beginners		Armada: The Open Source, Encrypted Discord Alternative
+1536968	bitcoin	1	56	0	0	26.0	296825	5050	recent@bitcoin_beginners		COLDCARD's RNG Failed. Move Your Coins.
+1536657	AI	1	42	0	1	35.0	1248037	1913	recent@AI		$1.5T Margin Debt and $570B AI Borrowing
+1537800	bitcoin_beginners	1	36	0	0	1.7	296825	5050	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	FRESH	AirBTC is now Hodlstay - A stay worth holding onto
+1537549	bitcoin	1	36	0	0	11.2	296825	5050	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		Today I was fired from Coinkite.
+1537551	bitcoin	1	36	0	0	11.1	296825	5050	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus		If you're affected 0, don't hesitate, reach out.
+1537008	bitcoin	1	36	0	0	25.4	296825	5050	recent@bitcoin_beginners		A practical supply chain attack on the Coldcard: 12th May, 2020
+1536960	bitcoin	1	36	0	0	26.2	296825	5050	recent@bitcoin_beginners		Multisig Vault - Most secure for large amounts Bitcoin wallet for mobile
+1537672	bitcoinplusplus	1	0	0	1	4.0	1537619	4	recent@bitcoinplusplus|top@bitcoinplusplus		Ask me what you want.... 😁
+1537570	bitcoinplusplus	1	0	0	1	9.8	1531099	8	recent@bitcoinplusplus|top@bitcoinplusplus		Bitcoin Community... Read it... You will like it
+1537598	nostr	1	0	0	1	8.2	163128	3678	recent@lightning|top@lightning		ProofTube: Sovereign, OpenSource Peer-to-Peer Media Protocol (Nostr+WebRTC+L402)
+1537493	AI	1	0	0	0	14.5	297791	7633	recent@AI|top@AI		Find out what’s new in the Gemini app in July's Gemini Drop.
+1537373	openagents	1	0	0	2	18.9	534967	221	recent@openagents|top@openagents		Episode 263: Bitcoin Wallets Under Attack
