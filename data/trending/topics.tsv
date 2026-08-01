@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-01T06:28:59.649Z; n=40
-coldcard	sn:security,sn:bitcoin	14.55	yes	
-bitcoin	sn:bitcoin	5.83	yes	
+# generated 2026-08-01T11:16:05.098Z; n=40
+coldcard	sn:bitcoin	7.71	yes	
+bitcoin	sn:bitcoin	5.86	yes	
+june	hn	4.93	no	RISING
 pleb economist	sn:security	4.06	yes	
 large numbers	sn:security	4.06	yes	
 bitcoin optech newsletter	sn:bitcoin	4.05	yes	
-firmware security vulnerability	sn:security	3.79	yes	
-media	sn:bitcoin	3.65	yes	
-anatomy	sn:bitcoin	3.65	yes	
-retardation	sn:bitcoin	3.65	yes	
+media	sn:bitcoin	3.66	yes	
+anatomy	sn:bitcoin	3.66	yes	
+retardation	sn:bitcoin	3.66	yes	
+iran	sn:AskSN	3.63	no	RISING
+coldcard sweep watch	sn:bitcoin	3.54	yes	
 entropy	sn:bitcoin	3.44	yes	
-book	sn:BooksAndArticles	3.39	no	RISING
-books	sn:BooksAndArticles	3.39	no	RISING
-gradually	sn:BooksAndArticles	3.39	no	RISING
-then suddenly	sn:BooksAndArticles	3.39	no	RISING
-parker lewis	sn:BooksAndArticles	3.39	no	RISING
-technical deep dive	sn:bitcoin	3.38	yes	
-entropy issue	sn:bitcoin	3.38	yes	
-dice-roll	sn:security	3.37	yes	
+book	sn:BooksAndArticles	3.4	no	RISING
+books	sn:BooksAndArticles	3.4	no	RISING
+gradually	sn:BooksAndArticles	3.4	no	RISING
+then suddenly	sn:BooksAndArticles	3.4	no	RISING
+parker lewis	sn:BooksAndArticles	3.4	no	RISING
+coldcards	sn:DIY	3.32	yes	
 analog circuits	sn:devs	3.32	no	RISING
 ecdsa	sn:devs	3.32	no	RISING
-coldcards	sn:DIY	3.31	yes	
 stephen	sn:lol	3.25	no	RISING
 smith	sn:lol	3.25	no	RISING
 kyrie irving	sn:lol	3.25	no	RISING
 covid	sn:lol	3.25	no	RISING
-stacker sports summer league	sn:Stacker_Sports	3.22	no	RISING
-august futures submissions	sn:Stacker_Sports	3.22	no	RISING
-what	sn:bitcoin	3.15	yes	
+stacker sports summer league	sn:Stacker_Sports	3.23	no	RISING
+august futures submissions	sn:Stacker_Sports	3.23	no	RISING
+what	sn:bitcoin	3.16	yes	
 tails	sn:bitcoin	3.13	yes	
 linux	sn:bitcoin	3.13	yes	
 electrum wallet	sn:bitcoin	3.13	yes	
+elevators	hn	3.12	no	RISING
 loupe project	sn:security	3.11	yes	
 update	sn:security	3.11	yes	
-iran	sn:AskSN	3.08	no	RISING
-accept bitcoin lightning	sn:bitcoin	3.07	no	RISING
-clink	sn:bitcoin	3.07	no	RISING
-one-time	sn:bitcoin	3.07	no	RISING
-auto-renew	sn:bitcoin	3.07	no	RISING
-subscr	sn:bitcoin	3.07	no	RISING
-elevators	hn	3.06	no	RISING
+accept bitcoin lightning	sn:bitcoin	3.08	no	RISING
+clink	sn:bitcoin	3.08	no	RISING
+one-time	sn:bitcoin	3.08	no	RISING
+auto-renew	sn:bitcoin	3.08	no	RISING
+subscr	sn:bitcoin	3.08	no	RISING
+south korean	sn:Stacker_Stocks	3.06	no	RISING
+latest strikes	sn:bitcoin	3.05	no	RISING
