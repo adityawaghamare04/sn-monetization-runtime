@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-01T16:59:25.639Z; n=40
-bitcoin	sn:bitcoin	9.54	yes	
-coldcard	sn:bitcoin,sn:Memes	7.89	yes	
-iran	hn,sn:AskSN	5.25	no	RISING
-media	sn:bitcoin	3.75	yes	
-anatomy	sn:bitcoin	3.75	yes	
-retardation	sn:bitcoin	3.75	yes	
-larp	sn:bitcoin	3.67	yes	
-coldcard sweep watch	sn:bitcoin	3.56	yes	
+# generated 2026-08-01T22:56:12.277Z; n=40
+bitcoin	sn:bitcoin,sn:nostr,sn:lol	12.84	yes	
+coldcard	sn:bitcoin,sn:Memes,sn:lol	7.7	yes	
+critical coldcard	sn:bitcoin	4.1	yes	
+larp	sn:bitcoin	4.04	yes	
+linux	hn	3.58	no	RISING
+coldcard sweep watch	sn:bitcoin	3.58	yes	
+parent corner	sn:mostly_harmless	3.44	no	RISING
+cursing	sn:mostly_harmless	3.44	no	RISING
+when	sn:bitcoin	3.42	yes	
 analog circuits	sn:devs	3.33	no	RISING
 ecdsa	sn:devs	3.33	no	RISING
-stephen	sn:lol	3.25	no	RISING
-smith	sn:lol	3.25	no	RISING
-kyrie irving	sn:lol	3.25	no	RISING
-covid	sn:lol	3.25	no	RISING
-elevators	hn	3.18	no	RISING
-loupe project	sn:security	3.11	no	RISING
-update	sn:security	3.11	no	RISING
-critical coldcard	sn:bitcoin	3	yes	
-swan email re cold card hack	sn:bitcoin	2.93	yes	
-consensus edition	sn:bitcoinplusplus	2.92	no	RISING
-biggest channel opened today	sn:lightning	2.9	no	RISING
-new node spotlight	sn:lightning	2.9	no	RISING
-does being quick	sn:AskSN	2.85	no	RISING
-anger make someone	sn:AskSN	2.85	no	RISING
-bad person	sn:AskSN	2.85	no	RISING
-books	sn:BooksAndArticles	2.83	no	RISING
-articles weekly	sn:BooksAndArticles	2.83	no	RISING
-issue	sn:BooksAndArticles	2.83	no	RISING
-is coldcard	sn:bitcoin	2.81	no	RISING
-multiplayer	hn	2.8	no	RISING
-how leopold aschenbrenner built	sn:AI	2.79	yes	
-hedge fund	sn:AI	2.79	yes	
-lost	sn:AI	2.79	yes	
-days	sn:AI	2.79	yes	
-saturday	sn:art	2.78	no	RISING
-share	sn:art	2.78	no	RISING
+brainstorming bitcoin	sn:Design	3.27	yes	
+skidelski	sn:BooksAndArticles	3.06	no	RISING
+keynes	sn:BooksAndArticles	3.06	no	RISING
+our times	sn:BooksAndArticles	3.06	no	RISING
+samuel gregg	sn:BooksAndArticles	3.06	no	RISING
+nostr	sn:nostr	3.06	yes	
+lightning	sn:nostr	3.06	yes	
+galaxy research	sn:bitcoin	3.01	yes	
+feelings	sn:bitcoin	3	yes	
+biggest channel opened today	sn:lightning	2.92	no	RISING
+new node spotlight	sn:lightning	2.92	no	RISING
+does being quick	sn:AskSN	2.91	no	RISING
+anger make someone	sn:AskSN	2.91	no	RISING
+bad person	sn:AskSN	2.91	no	RISING
+books	sn:BooksAndArticles	2.86	no	RISING
+articles weekly	sn:BooksAndArticles	2.86	no	RISING
+issue	sn:BooksAndArticles	2.86	no	RISING
+self-portrait	sn:art	2.83	no	RISING
+consensus edition	sn:bitcoinplusplus	2.83	no	RISING
+saturday	sn:art	2.81	no	RISING
+share	sn:art	2.81	no	RISING
+saturday newsletter	sn:meta	2.77	yes	
+advice regarding	sn:bitcoin	2.75	yes	
+coldcard bug	sn:bitcoin	2.75	yes	
+exploit	sn:bitcoin	2.75	yes	
+hack	sn:bitcoin	2.75	yes	
+theft	sn:bitcoin	2.75	yes	
 daily discussion thread	sn:Music	2.74	no	RISING
 music saloon	sn:Music	2.74	no	RISING
-stacker sports podcast preshow discussion	sn:Stacker_Sports	2.72	no	RISING
-episode	sn:Stacker_Sports	2.72	no	RISING
