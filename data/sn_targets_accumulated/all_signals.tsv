@@ -24044,3 +24044,9 @@
 2026-08-01T09:23:43.934Z	1537531	bitcoin	1	745	0	2	6.1	38951	2254	recent@bitcoin|top@bitcoin	SIGNAL	Coldcard Sweep Watch
 2026-08-01T09:23:43.934Z	1537417	bitcoin	1	354	0	6	11.0	144357	4423	recent@bitcoin|top@bitcoin	SIGNAL	The most important photo of my life | SNL #235
 2026-08-01T09:23:43.934Z	1537388	bitcoin	1	291	0	0	11.9	12582	1643	recent@bitcoin|top@bitcoin|recent@devs	SIGNAL	I wanted to test a coldcard's dice-roll generation against my computer's
+2026-08-01T10:58:45.106Z	1537531	bitcoin	1	3433	0	2	7.7	38951	2254	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Coldcard Sweep Watch
+2026-08-01T10:58:45.106Z	1537496	devs	1	2108	0	4	9.2	28117	3534	recent@devs|top@devs	HOT,SIGNAL	Analog Circuits for ECDSA signing
+2026-08-01T10:58:45.106Z	1537634	bitcoin	1	1597	0	1	0.4	74100	11719	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	BIP110 fails to reach 55% threshold for miner activation
+2026-08-01T10:58:45.106Z	1537621	meta	1	477	0	0	1.0	36151	1575	recent@meta|top@meta	FRESH,SIGNAL	This Day on SN: August 1
+2026-08-01T10:58:45.106Z	1537547	bitcoin	1	231	0	1	6.8	1532836	73	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Blockparty #33 rewards and how to participate
+2026-08-01T10:58:45.106Z	1537534	AI	1	125	0	0	7.6	110937	247	recent@AI|top@AI	SIGNAL	Focus on solving problems
