@@ -1,0 +1,101 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1537859	bitcoin	1	11887	0	5	3.1	24585	361	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Critical Coldcard flaw: what happened, who is affected, and what to do
+1537803	bitcoin	1	10779	0	43	4.8	80482	1013	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Can we have a serious talk about the LARP in Bitcoin
+1537634	bitcoin	1	3564	0	24	8.8	74100	11729	recent@bitcoin|top@bitcoin	HOT,SIGNAL	BIP110 fails to reach 55% threshold for miner activation
+1537905	mostly_harmless	2	2627	0	4	1.4	92827	2774	recent@mostly_harmless|top@mostly_harmless	FRESH,HOT,SIGNAL	Parent Corner: Cursing
+1537872	BooksAndArticles	2	970	0	0	2.7	724606	11887	recent@econ|top@econ|recent@BooksAndArticles	SIGNAL	Skidelski and Keynes for Our Times (WSJ, Samuel Gregg)
+1537809	nostr	1	867	0	1	4.7	163128	3679	recent@lightning|top@lightning|recent@nostr	SIGNAL	"NOSTR" creator & "BITCOIN Lightning" contributor said the quiet part out loud
+1537719	lightning	1	810	0	3	6.1	440729	217	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (3.0 BTC) + New Node Spotlight (03922ecba768197f2…)
+1537889	bitcoin	1	727	0	1	2.2	472995	297	recent@bitcoin|top@bitcoin	SIGNAL	Feelings about Bitcoin
+1537752	AskSN	2	724	0	5	5.6	1054143	1039	recent@AskSN|top@AskSN	SIGNAL,SELF_POST_OPP	Does Being Quick to Anger Make Someone a Bad Person?
+1537653	BooksAndArticles	2	699	0	1	8.1	30782	25296	recent@BooksAndArticles|top@BooksAndArticles	SIGNAL	Books & Articles Weekly, Issue 122
+1537621	meta	1	508	0	0	9.4	36151	1575	recent@meta|top@meta	SIGNAL	This Day on SN: August 1
+1537751	AskSN	2	469	0	3	5.6	984933	1857	recent@AskSN|top@AskSN|recent@history	SIGNAL	Did you know that...?
+1537800	bitcoin_beginners	1	423	0	0	4.8	296825	5050	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	AirBTC is now Hodlstay - A stay worth holding onto
+1537637	bitcoin	1	292	0	0	8.6	934367	941	recent@bitcoin|top@bitcoin	SIGNAL	You only need the first 4 letters of BIP39 words
+1537811	nostr	1	183	0	1	4.5	163128	3679	recent@lightning|top@lightning|recent@nostr	SIGNAL	Brits know how to Bitcoin - ₿itfest UK 2026 - Bitcoin IRL. Get Tickets now!
+1537677	Design	2	134	0	1	7.0	383547	3430	recent@Design|top@Design	SIGNAL	AI Bingo Card Generator
+1537644	Stacker_Stocks	2	121	0	0	8.3	9274	25744	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Daily Stock Discussion ~Stacker_Stocks
+1537745	Stacker_Stocks	2	119	0	4	5.7	9274	25744	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	MSTY Payout #48:  👑 Shit!
+1537022	security	1	11406	0	19	28.3	48657	14429	recent@bitcoin|recent@security|recent@econ	HOT	Pleb Economist #13: ColdCard and the Law of Large Numbers
+1536932	bitcoin	1	11261	0	2	30.1	1014665	220	recent@bitcoin	HOT	COLDCARD, CLN disclosures, zk proof of reserves - Bitcoin Optech Newsletter #416
+1537410	bitcoin	1	5700	0	18	21.1	1311038	196	recent@bitcoin|top@bitcoin	HOT	Coldcard, the Media, and the Anatomy of AI Retardation
+1537531	bitcoin	1	3766	0	14	16.1	38951	2258	recent@bitcoin|top@bitcoin	HOT	Coldcard Sweep Watch
+1536916	bitcoin	1	2750	0	6	30.5	14476	315	recent@bitcoin	HOT	Entropy is what makes a bitcoin your bitcoin.
+1536970	BooksAndArticles	2	2496	0	4	29.1	724606	11887	recent@econ|recent@BooksAndArticles	HOT	BOOK on BOOKS: "Gradually, Then Suddenly" by Parker Lewis
+1536739	bitcoin	1	2421	0	34	35.6	12582	1646	recent@bitcoin	HOT	Technical Deep Dive into the Entropy Issue
+1537496	devs	1	2158	0	4	17.6	28117	3534	recent@devs|top@devs	HOT	Analog Circuits for ECDSA signing
+1536996	DIY	3	2075	0	25	28.7	74100	11729	recent@bitcoin	HOT	Let's crowdsource a very short guide for people who used Coldcards
+1537280	lol	2	1783	0	8	24.3	48657	14429	recent@lol	HOT,SELF_POST_OPP	Stephen A. Smith apologizes to Kyrie Irving re: COVID Vax
+1537306	bitcoin	1	1451	0	7	23.5	435224	1552	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT	Has holding Bitcoin changed how you think about money?
+1536864	bitcoin	1	1443	0	40	31.5	74100	11729	recent@bitcoin|recent@AskSN	HOT	What is your spouse's response to the ColdCard entropy vulnerability?
+1537112	bitcoin	1	1359	0	2	26.7	223678	5877	recent@bitcoin	HOT	Tails OS - hotboot Linux distro from a 8GB USB stick (includes Electrum Wallet)
+1537290	security	1	1292	0	1	24.0	144357	4423	recent@bitcoin|top@bitcoin|recent@security	HOT	Loupe Project: Update #1
+1536984	bitcoin	1	1199	0	2	28.9	263526	526	recent@bitcoin|recent@lightning	HOT	Accept Bitcoin Lightning in OpenCart via CLINK: one-time Buy + auto-renew Subscr
+1536853	Stacker_Stocks	2	1156	0	0	31.6	280679	22673	recent@Stacker_Stocks	HOT	Why did South Korean stocks just crash?
+1536826	security	1	1134	0	3	32.3	68842	625	recent@security	HOT	Hot take: The airgap didn't save Coldcard. A USB cable might have
+1537111	bitcoin	1	1117	0	0	26.7	24585	361	recent@bitcoin|recent@lightning	HOT	Latest Strikes 30 - Junly 20th-26th 2026
+1537407	bitcoin	1	1113	0	8	21.1	74100	11729	recent@bitcoin|top@bitcoin	HOT	In case you thought self custody was mainstream...
+1537134	HealthAndFitness	3	1096	0	5	26.5	724606	11887	recent@econ	HOT,SELF_POST_OPP	Nordic Coolcations: "Cool" + "Vacation" Dominate (FT, Novik & Stacey)
+1536863	tutorials	2	1041	0	1	31.6	900202	2585	recent@tutorials	HOT	FYI: 10x Security Bitcoin Guide
+1536875	bitcoin	1	1031	0	1	31.3	280679	22673	recent@bitcoin	HOT	joinmarket-ng/joinmarket-ng · Release 0.35.0
+1536837	charts_and_maps	2	856	0	2	31.9	280679	22673	recent@charts_and_maps		The 2026 World Cup On-Chain: $20 Billion in Crypto Flows
+1537427	bitcoin	1	854	0	10	20.7	30782	25296	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		Swan Email Re Cold Card Hack
+1537188	bitcoinplusplus	1	822	0	1	25.9	328182	3816	recent@bitcoinplusplus		bitcoin++ Consensus Edition: Day 2
+1536955	bitcoin	1	803	0	3	29.4	51481	4111	recent@bitcoin_beginners|recent@mempool|recent@AskSN		Will MemPool fees be significantly higher today because of the ColdCard issue?
+1537367	charts_and_maps	2	742	0	1	22.4	12309	3598	recent@econ|top@econ|recent@charts_and_maps		It now takes far more years of earnings to climb up the wealth distribution
+1536926	BooksAndArticles	2	712	0	0	30.2	724606	11887	recent@econ|recent@BooksAndArticles		AI Writing Again: Humans Must Become Better Editors! (The Economist)
+1537215	bitcoin	1	651	0	13	25.6	102558	1116	recent@bitcoin		Is Coldcard legally responsible for the lost of the funds?
+1537275	AI	1	612	0	0	24.5	401865	8331	recent@AI|recent@Stacker_Stocks		How Leopold Aschenbrenner Built a $45 bil AI Hedge Fund — and Lost it in Days
+1536998	AI	1	604	0	8	28.7	1532699	30	recent@AI|recent@AskSN		What happens when expertise becomes cheap?
+1537004	Politics_And_Law	3	547	0	2	28.6	724606	11887	recent@econ		The Boomer-Watch Returns: It Was Shit for Young People in the 1980s, Too (WSJ)
+1537172	bitcoin	1	503	0	39	26.1	74100	11729	recent@bitcoin		To all Coinkite users and the entire Bitcoin community - NVK
+1537002	AI	1	499	0	0	28.6	280679	22673	recent@AI|recent@Stacker_Stocks|recent@charts_and_maps		Big Tech's AI Spending to Reach $760 Billion in 2026
+1537353	bitcoin	1	451	0	1	22.7	38951	2258	top@bitcoin		What are the best hardware wallets to replace a coldcard
+1536873	bitcoin_beginners	1	430	0	0	31.3	30782	25296	recent@bitcoin_beginners		Bitcoin Beginners Newsletter, Issue 110
+1537417	bitcoin	1	375	0	6	21.0	144357	4423	recent@bitcoin|top@bitcoin		The most important photo of my life | SNL #235
+1537388	bitcoin	1	371	0	0	21.9	12582	1646	recent@bitcoin|top@bitcoin|recent@devs		I wanted to test a coldcard's dice-roll generation against my computer's
+1537487	Stacker_Stocks	2	321	0	1	18.1	934429	309	recent@Stacker_Stocks|top@Stacker_Stocks		While the market was selling off, Big Tech doubled down on AI.
+1536750	bitcoin_Mining	1	320	0	3	35.2	1529139	21	recent@bitcoin_Mining		Is mining still worth it in 2026 or is it mainly about learning?
+1537204	bitcoin	1	319	0	6	25.6	296825	5050	recent@bitcoin_beginners|recent@bitcoinplusplus|recent@bitdevs		The False Promise of Commercial Hardware Wallets
+1536775	Stacker_Stocks	2	257	0	38	33.7	9274	25744	recent@Stacker_Stocks		Daily Stock Discussion ~Stacker_Stocks
+1536852	bitcoin	1	251	0	0	31.7	1054143	1039	recent@AskSN		Are We Taking Bitcoin Privacy Seriously Enough?
+1537529	Memes	2	247	0	1	16.1	7693	2391	recent@Memes|top@Memes		RNG??
+1537267	AI	1	244	0	1	24.6	328182	3816	recent@AI		Spiral x Goose: The Best is Yet to Honk
+1537229	Memes	2	241	0	2	25.3	223678	5877	recent@Memes		COLDCARD MEME: Why serial number?
+1536930	lightning	1	236	0	0	30.1	440729	217	recent@lightning		Biggest Channel Opened Today (2.5 BTC) + New Node Spotlight (037fb104d59871aeb…)
+1537547	bitcoin	1	231	0	1	15.2	1532836	74	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		Blockparty #33 rewards and how to participate
+1536788	Design	2	214	0	0	33.3	383547	3430	recent@Design		PCjs Machines
+1536957	news	2	182	0	0	29.4	1245155	202	recent@news		Tire ruins car in Philedelphia
+1536962	AskSN	2	178	0	5	29.3	984933	1857	recent@AskSN		What is the BackPage's Pic of the Week?
+1537377	news	2	177	0	0	22.0	297791	7633	recent@news|top@news		Italy says Spain should be suspended from Schengen zone
+1536947	Design	2	161	0	1	29.6	280679	22673	recent@Construction_and_Engineering|recent@Design		The Glass Box Skyscraper Era is Over | The B1M
+1537252	lightning	1	158	0	0	24.8	328182	3816	recent@lightning		Predicting Channel Closures in the Lightning Network with Machine Learning
+1537366	tech	1	136	0	0	22.5	983106	21	recent@lightning|top@lightning		LNemail browser extension
+1537445	lol	2	136	0	1	20.0	1507491	57	recent@lol|top@lol		Romantic but unlucky.. Maybe it will happen to you too. 😂😂🤣Be sure to see.
+1537534	AI	1	125	0	0	16.0	110937	247	recent@AI|top@AI		Focus on solving problems
+1537503	news	2	124	0	0	17.4	297791	7633	recent@news|top@news		Google rolling out Android 17 QPR1 Beta 8 for Pixel
+1537418	Stacker_Stocks	2	111	0	0	20.9	1054143	1039	recent@Stacker_Stocks|top@Stacker_Stocks		Dow Logs Slim July Gains as Nasdaq, S&P 500 Slip; Amazon Stock Soar.
+1537270	Construction_and_Engineering	2	100	0	0	24.5	1519718	42	recent@Construction_and_Engineering		Building a Real Estate Business with Less Than $200,000 Capital
+1536759	Education	2	95	0	0	34.7	104755	12665	recent@Education		good day in teaching
+1536936	science	2	85	0	0	29.9	1245155	202	recent@science		What's your take on the Fine Structure Constant?
+1537595	bitcoin	1	77	0	1	11.5	296825	5050	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		The Self-custody Nightmare
+1537952	bitcoin	1	77	0	0	0.5	328182	3816	recent@mempool|top@mempool	FRESH	btcd.watch — Is my Bitcoin transaction confirmed?
+1537450	Politics_And_Law	3	76	0	2	19.9	9274	25744	recent@Construction_and_Engineering|top@Construction_and_Engineering		Prince George’s Co. takes ‘extraordinary’ step toward Sphere at National Harbor
+1537762	Design	2	69	0	0	5.5	383547	3430	recent@Design|top@Design		You don’t have to be smart if you can think clearly
+1537776	Memes	2	66	0	3	5.3	223678	5877	recent@Memes|top@Memes		COLDCARD: Funny looking bug
+1536968	bitcoin	1	56	0	0	29.2	296825	5050	recent@bitcoin_beginners		COLDCARD's RNG Failed. Move Your Coins.
+1536904	bitcoin	1	42	0	0	30.7	984933	1857	recent@econ|recent@AskSN		Did you know that…?
+1537549	bitcoin	1	36	0	0	14.4	296825	5050	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		Today I was fired from Coinkite.
+1537551	bitcoin	1	36	0	0	14.2	296825	5050	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus		If you're affected 0, don't hesitate, reach out.
+1537008	bitcoin	1	36	0	0	28.5	296825	5050	recent@bitcoin_beginners		A practical supply chain attack on the Coldcard: 12th May, 2020
+1536960	bitcoin	1	36	0	0	29.3	296825	5050	recent@bitcoin_beginners		Multisig Vault - Most secure for large amounts Bitcoin wallet for mobile
+1537039	Design	2	36	0	0	28.1	383547	3430	recent@Design		The AI aesthetic
+1537007	lol	2	36	0	0	28.5	1245155	202	recent@mostly_harmless|recent@lol		Homeless Dude Raking in Cash
+1537663	bitcoin	1	21	0	0	7.7	12315	2365	recent@econ|top@econ		They aren't going to fix inflation. They're going to redefine it.
+1537646	Stacker_Stocks	2	20	0	0	8.3	9274	25744	recent@Stacker_Stocks|top@Stacker_Stocks		📦 The Colonel’s bow-tie and Amazon’s forgotten business - Snacks
+1537650	Stacker_Stocks	2	20	0	1	8.1	9274	25744	recent@Stacker_Stocks|top@Stacker_Stocks		🫘 Still bean counting - Snacks
+1537598	nostr	1	11	0	1	11.3	163128	3679	recent@lightning|top@lightning		ProofTube: Sovereign, OpenSource Peer-to-Peer Media Protocol (Nostr+WebRTC+L402)
+1537908	the_stacker_muse	3	11	0	0	1.4	1449902	580	recent@history|top@history	FRESH	Unwinding the Ponzi
+1537154	news	2	10	0	2	26.3	1054143	1039	recent@econ|recent@news		Trump student visa rule could cost US $400bn annually – Report
+1537932	bitcoinplusplus	1	0	0	1	0.9	328182	3816	recent@bitcoinplusplus|top@bitcoinplusplus	FRESH	bitcoin++ Consensus Edition: Day 3
