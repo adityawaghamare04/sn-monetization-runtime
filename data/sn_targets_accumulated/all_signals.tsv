@@ -24605,3 +24605,18 @@
 2026-08-02T19:23:06.910Z	1538304	podcasts	2	126	0	3	7.8	88718	46063	recent@podcasts|top@podcasts	SIGNAL	Stacker Sports Pod • Episode 94: Camp Casualties and Deadline Drama
 2026-08-02T19:23:06.910Z	1538424	tech	1	104	0	1	5.1	996769	43	recent@bitcoin|top@bitcoin|recent@privacy	SIGNAL	🎙️ NEW EPISODE: A 30-Year Cypherpunk on the Global Surveillance State
 2026-08-02T19:23:06.910Z	1538371	lightning	1	102	0	0	6.2	440729	218	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (2.0 BTC) + New Node Spotlight (039b85b7db8122b01…)
+2026-08-02T19:35:44.525Z	1538594	bitcoin	1	1437	0	2	1.1	1293049	68	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	Lopp: Reports of coldcard firmware updates bricking devices
+2026-08-02T19:35:44.525Z	1538447	security	1	1414	0	15	5.1	303620	6255	recent@bitcoin|top@bitcoin|recent@security	HOT,SIGNAL	BTCrecover Guy Warned of Coldcard 2 Years Ago
+2026-08-02T19:35:44.525Z	1538230	bitcoin	1	1322	0	11	11.5	80482	1023	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Request for comment:  Unbroadcast Bitcoin transactions as failsafe
+2026-08-02T19:35:44.525Z	1538310	bitcoin	1	1317	0	5	7.9	14476	316	recent@bitcoin|top@bitcoin	HOT,SIGNAL	You can measure entropy, you CAN'T measure randomness.
+2026-08-02T19:35:44.525Z	1538536	bitcoin	1	1049	0	1	3.1	341578	5898	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Hot takes on the COLDCARD happenings
+2026-08-02T19:35:44.525Z	1538578	bitcoin_beginners	1	591	0	0	1.7	995395	77	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH,SIGNAL	Let´s go back to the basis Questions:
+2026-08-02T19:35:44.525Z	1538470	bitcoin	1	571	0	0	4.7	900202	2587	recent@bitcoin|top@bitcoin	SIGNAL	Zero Hedge Picks Up Cold Card Exploit
+2026-08-02T19:35:44.525Z	1538464	meta	1	493	0	4	4.8	1054143	1056	recent@meta|top@meta	SIGNAL	GREETINGS SN FAMILY.
+2026-08-02T19:35:44.525Z	1538499	science	2	466	0	1	4.1	1532699	31	recent@tech|top@tech	SIGNAL	We're bringing back technologies we abandoned
+2026-08-02T19:35:44.525Z	1538265	bitcoin	1	350	0	5	10.1	51012	704	recent@bitcoin|top@bitcoin	SIGNAL	Eventually, all bitcoin will move to truly random 256-bit keys.
+2026-08-02T19:35:44.525Z	1538257	bitcoin	1	332	0	0	10.6	462245	296	recent@bitcoin|top@bitcoin|recent@bitcoinplusplus	SIGNAL	When random.bytes() runs but doesn't work
+2026-08-02T19:35:44.525Z	1538287	lightning	1	266	0	1	8.8	163128	3685	recent@lightning|top@lightning	SIGNAL	Economics of Protocol Design by Rene Pickhardt
+2026-08-02T19:35:44.525Z	1538307	bitcoin	1	149	0	0	8.0	296825	5052	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	Can BlueWallet work as a signing device using old phone without internet?
+2026-08-02T19:35:44.525Z	1538424	tech	1	104	0	1	5.3	996769	43	recent@bitcoin|top@bitcoin|recent@privacy	SIGNAL	🎙️ NEW EPISODE: A 30-Year Cypherpunk on the Global Surveillance State
+2026-08-02T19:35:44.525Z	1538371	lightning	1	102	0	0	6.4	440729	218	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (2.0 BTC) + New Node Spotlight (039b85b7db8122b01…)
