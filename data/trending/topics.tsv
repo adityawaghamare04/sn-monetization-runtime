@@ -1,31 +1,36 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-02T06:32:59.959Z; n=40
-bitcoin	sn:bitcoin,sn:nostr,sn:lol	12.98	yes	
-coldcard	sn:bitcoin,sn:lol,sn:Memes	7.87	yes	
-when	hn,sn:bitcoin	4.8	yes	
+# generated 2026-08-02T11:16:11.050Z; n=40
+bitcoin	sn:bitcoin,sn:nostr,sn:lol	12.99	yes	
+coldcard	sn:bitcoin,sn:lol,sn:Memes	7.89	yes	
+show	hn	5.86	no	RISING
+when	hn,sn:bitcoin	5.16	yes	
 critical coldcard	sn:bitcoin	4.1	yes	
-larp	sn:bitcoin	4.04	yes	
-linux	hn	3.97	no	RISING
-minimal commit	sn:math	3.86	yes	
-reveal rescue protocol	sn:math	3.86	yes	
-parent corner	sn:mostly_harmless	3.46	no	RISING
-cursing	sn:mostly_harmless	3.46	no	RISING
-advice regarding	sn:bitcoin	3.46	yes	
-coldcard bug	sn:bitcoin	3.46	yes	
-exploit	sn:bitcoin	3.46	yes	
-hack	sn:bitcoin	3.46	yes	
-theft	sn:bitcoin	3.46	yes	
+larp	sn:bitcoin	4.05	yes	
+minimal commit	sn:math	4	yes	
+reveal rescue protocol	sn:math	4	yes	
+parent corner	sn:mostly_harmless	3.53	no	RISING
+cursing	sn:mostly_harmless	3.53	no	RISING
+advice regarding	sn:bitcoin	3.49	yes	
+coldcard bug	sn:bitcoin	3.49	yes	
+exploit	sn:bitcoin	3.49	yes	
+hack	sn:bitcoin	3.49	yes	
+theft	sn:bitcoin	3.49	yes	
+linux	hn	3.38	no	RISING
 brainstorming bitcoin	sn:Design	3.29	yes	
-show	hn	3.09	no	RISING
-astra	sn:AI	3.09	yes	
-math	sn:AI	3.09	yes	
+because	sn:bitcoin	3.19	yes	
+email	sn:lol	3.15	no	RISING
+coinkite	sn:lol	3.15	yes	
+astra	sn:AI	3.11	yes	
+math	sn:AI	3.11	yes	
+galaxy research	sn:bitcoin	3.06	yes	
 skidelski	sn:BooksAndArticles	3.06	no	RISING
 keynes	sn:BooksAndArticles	3.06	no	RISING
 our times	sn:BooksAndArticles	3.06	no	RISING
 samuel gregg	sn:BooksAndArticles	3.06	no	RISING
 nostr	sn:nostr	3.06	yes	
 lightning	sn:nostr	3.06	yes	
-galaxy research	sn:bitcoin	3.05	yes	
+sunday survey	sn:bitcoin	3.05	yes	
+what	sn:bitcoin	3.05	yes	
 feelings	sn:bitcoin	3	yes	
 saturday newsletter	sn:meta	2.93	yes	
 does being quick	sn:AskSN	2.92	no	RISING
@@ -35,8 +40,3 @@ biggest channel opened today	sn:lightning	2.92	no	RISING
 new node spotlight	sn:lightning	2.92	no	RISING
 saturday	sn:art	2.88	no	RISING
 share	sn:art	2.88	no	RISING
-books	sn:BooksAndArticles	2.86	no	RISING
-articles weekly	sn:BooksAndArticles	2.86	no	RISING
-issue	sn:BooksAndArticles	2.86	no	RISING
-self-portrait	sn:art	2.84	no	RISING
-consensus edition	sn:bitcoinplusplus	2.83	no	RISING
