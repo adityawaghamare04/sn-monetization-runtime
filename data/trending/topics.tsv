@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-02T16:58:37.563Z; n=40
-show	hn	10.45	no	RISING
-coldcard	sn:bitcoin,sn:lol,sn:security	8.59	yes	
-bitcoin	sn:bitcoin,sn:lol	5.89	yes	
-when	hn,sn:bitcoin	4.73	yes	
-open	hn	4.09	no	RISING
+# generated 2026-08-02T22:56:32.545Z; n=40
+show	hn	8.86	no	RISING
+coldcard	sn:security,sn:bitcoin	6.3	yes	
+linux	hn	4.39	no	RISING
+open	hn	4.38	no	RISING
 minimal commit	sn:math	4.01	yes	
 reveal rescue protocol	sn:math	4.01	yes	
-email	sn:lol	3.55	no	RISING
-coinkite	sn:lol	3.55	yes	
-parent corner	sn:mostly_harmless	3.53	no	RISING
-cursing	sn:mostly_harmless	3.53	no	RISING
-advice regarding	sn:bitcoin	3.49	yes	
-coldcard bug	sn:bitcoin	3.49	yes	
-exploit	sn:bitcoin	3.49	yes	
-hack	sn:bitcoin	3.49	yes	
-theft	sn:bitcoin	3.49	yes	
-brainstorming bitcoin	sn:Design	3.29	no	RISING
+email	sn:lol	3.58	no	RISING
+coinkite	sn:lol	3.58	yes	
+commodity hardware	sn:bitcoin	3.33	yes	
+idiot index	sn:bitcoin	3.33	yes	
+lopp	sn:bitcoin	3.28	yes	
+reports	sn:bitcoin	3.28	yes	
 because	sn:bitcoin	3.28	yes	
-comrade mamdani	sn:Politics_And_Law	3.25	no	RISING
-his pretty good grocery stores	sn:Politics_And_Law	3.25	no	RISING
-economic forces	sn:Politics_And_Law	3.25	no	RISING
-albrecht	sn:Politics_And_Law	3.25	no	RISING
-request	sn:bitcoin	3.11	yes	
-unbroadcast bitcoin	sn:bitcoin	3.11	yes	
+comrade mamdani	sn:Politics_And_Law	3.27	no	RISING
+his pretty good grocery stores	sn:Politics_And_Law	3.27	no	RISING
+economic forces	sn:Politics_And_Law	3.27	no	RISING
+albrecht	sn:Politics_And_Law	3.27	no	RISING
+july	sn:bitcoin	3.22	yes	
+guy warned	sn:security	3.16	yes	
+years ago	sn:security	3.16	yes	
+america	sn:BooksAndArticles	3.13	no	RISING
+great	sn:BooksAndArticles	3.13	no	RISING
+but norway	sn:BooksAndArticles	3.13	no	RISING
+greatest	sn:BooksAndArticles	3.13	no	RISING
+quoth	sn:BooksAndArticles	3.13	no	RISING
+raven	sn:BooksAndArticles	3.13	no	RISING
+request	sn:bitcoin	3.12	yes	
+unbroadcast bitcoin	sn:bitcoin	3.12	yes	
 astra	sn:AI	3.11	yes	
 math	sn:AI	3.11	yes	
-galaxy research	sn:bitcoin	3.06	yes	
-linux	hn	3.02	no	RISING
-america	sn:BooksAndArticles	3.02	no	RISING
-great	sn:BooksAndArticles	3.02	no	RISING
-but norway	sn:BooksAndArticles	3.02	no	RISING
-greatest	sn:BooksAndArticles	3.02	no	RISING
-quoth	sn:BooksAndArticles	3.02	no	RISING
-raven	sn:BooksAndArticles	3.02	no	RISING
-feelings	sn:bitcoin	3	no	RISING
-saturday newsletter	sn:meta	2.93	yes	
-self-portrait	sn:art	2.84	no	RISING
-consensus edition	sn:bitcoinplusplus	2.83	no	RISING
-pearsall	sn:Stacker_Sports	2.72	no	RISING
-daily discussion thread	sn:Music	2.72	no	RISING
+zero hedge picks up cold card exploit	sn:bitcoin	2.81	yes	
+foundation phishing warning	sn:bitcoin	2.78	yes	
+questions	sn:bitcoin_beginners	2.77	no	RISING
+daily discussion thread	sn:Music	2.74	no	RISING
+music saloon	sn:Music	2.74	no	RISING
+arch linux	sn:AI	2.71	yes	
+as reddit	sn:AI	2.68	yes	
+google	sn:AI	2.68	yes	
+overviews	sn:AI	2.68	yes	
+iran	sn:news	2.68	no	RISING
