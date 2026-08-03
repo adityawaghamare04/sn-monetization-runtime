@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-03T12:54:51.011Z; n=40
-show	hn	11.89	no	RISING
-coldcard	sn:security,sn:bitcoin	6.35	yes	
-episode	sn:openagents,sn:tech	4.97	yes	
-what	hn,sn:bitcoin_beginners	4.71	yes	
+# generated 2026-08-03T17:50:46.047Z; n=40
+what	hn,sn:bitcoin_beginners,sn:AI	9.32	yes	
+bitcoin	sn:bitcoin	6.07	yes	
+dear	sn:bitcoin	4.18	yes	
+until you spend it	sn:bitcoin	3.73	yes	
+bitcoin isn	sn:bitcoin	3.73	yes	
+money	sn:bitcoin	3.73	yes	
+research	sn:news	3.43	yes	
+farside insights	sn:news	3.43	yes	
 commodity hardware	sn:bitcoin	3.43	yes	
 idiot index	sn:bitcoin	3.43	yes	
-lopp	sn:bitcoin	3.29	yes	
-reports	sn:bitcoin	3.29	yes	
+personal responsibility	sn:bitcoin	3.33	yes	
+mara	sn:bitcoin	3.32	yes	
+slipstream	sn:bitcoin	3.32	yes	
+lopp	sn:bitcoin	3.29	no	RISING
+reports	sn:bitcoin	3.29	no	RISING
+rust	hn	3.24	no	RISING
+aantonop	sn:bitcoin	3.24	yes	
 july	sn:bitcoin	3.23	yes	
-aantonop	sn:bitcoin	3.22	yes	
-guy warned	sn:security	3.17	yes	
-years ago	sn:security	3.17	yes	
-japan	sn:Politics_And_Law	3.13	no	RISING
+boltz	sn:bitcoin	3.21	yes	
+mining pool health report	sn:bitcoin_Mining	3.19	no	RISING
+week	sn:bitcoin_Mining	3.19	no	RISING
+japan	sn:Politics_And_Law	3.16	no	RISING
+last	sn:Stacker_Sports	3.14	no	RISING
+rob hamilton	sn:bitcoin	3.12	yes	
 satoshi	sn:bitcoin_beginners	3.11	no	RISING
 entropy	sn:bitcoin_beginners	3.11	no	RISING
 wallets	sn:bitcoin_beginners	3.11	no	RISING
-mining pool health report	sn:bitcoin_Mining	3.1	no	RISING
-week	sn:bitcoin_Mining	3.1	no	RISING
-foundation phishing warning	sn:bitcoin	2.93	yes	
-vulnerability scanner	sn:openagents	2.91	no	RISING
-bitcoin	sn:bitcoin	2.9	yes	
-new bar	hn	2.86	no	RISING
-coding	hn	2.86	no	RISING
-cowork	hn	2.86	no	RISING
+show	hn	3.07	no	RISING
+new bar	hn	2.98	no	RISING
+coding	hn	2.98	no	RISING
+cowork	hn	2.98	no	RISING
+the wicker man	sn:movies	2.96	no	RISING
+sequel director justin hardy dies weeks before premiere	sn:movies	2.96	no	RISING
+foundation phishing warning	sn:bitcoin	2.93	no	RISING
+episode	sn:openagents	2.93	yes	
+vulnerability scanner	sn:openagents	2.93	no	RISING
+iran	sn:BooksAndArticles	2.9	no	RISING
+daily discussion thread	sn:Music	2.84	no	RISING
+music saloon	sn:Music	2.84	no	RISING
 the trillion-dollar illusion	sn:Politics_And_Law	2.82	no	RISING
-zero hedge picks up cold card exploit	sn:bitcoin	2.81	no	RISING
-iran	sn:BooksAndArticles	2.81	no	RISING
-daily discussion thread	sn:Music	2.77	no	RISING
-music saloon	sn:Music	2.77	no	RISING
-arch linux	sn:AI	2.77	yes	
-questions	sn:bitcoin_beginners	2.77	no	RISING
-french revolution descended into bloodshed	sn:history	2.74	no	RISING
-as reddit	sn:AI	2.73	yes	
-google	sn:AI	2.73	yes	
-overviews	sn:AI	2.73	yes	
-greetings	sn:meta	2.69	yes	
-family	sn:meta	2.69	yes	
-daily accountability thread	sn:HealthAndFitness	2.66	no	RISING
-what happened	sn:AskSN	2.63	no	RISING
-those who died before jesus came	sn:AskSN	2.63	no	RISING
