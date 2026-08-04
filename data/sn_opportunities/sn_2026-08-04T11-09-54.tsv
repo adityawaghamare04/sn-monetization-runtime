@@ -1,0 +1,63 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1539812	bitcoin	1	6032	0	3	3.3	1011637	37	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Coldcard and the limits of “don't trust, verify”
+1539645	meta	1	3446	0	11	11.2	92827	2786	recent@meta|top@meta	HOT,SIGNAL	Long Awaited SNZ Issue #67 Unleashed! ⚡️⚡️⚡️⚡️⚡️
+1539838	bitcoin	1	1573	0	12	1.7	724606	11909	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	Gigi Bringing the Wisdom
+1539875	bitcoin	1	1532	0	1	0.7	724606	11909	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	Bitcoins Have No Physical Form: The Coldcard Heist (Money Stuff, Matt Levine)
+1539720	bitcoin	1	1260	0	11	9.1	223678	5911	recent@bitcoin|top@bitcoin	HOT,SIGNAL	What are the attack vectors of rolling 100 dice?
+1539646	news	2	1202	0	3	11.2	74100	11778	recent@bitcoin|top@bitcoin	HOT,SIGNAL	1,596 BTC has been stolen from ~7300 addresses - Galaxy Digital
+1539623	AI	1	354	0	3	11.7	9274	25860	recent@AI|top@AI	SIGNAL	Verizon Joins AT&T and T-Mobile to offer Passwordless SIMs to stop AI Fraud
+1539869	lightning	1	342	0	0	1.0	273359	772	recent@lightning|top@lightning	FRESH,SIGNAL	Splicing timeline for Zeus Wallet ACCELERATED
+1539840	nostr	1	240	0	0	1.7	638086	93	recent@nostr|top@nostr	FRESH,SIGNAL	Building Lotus: A Privacy-First Workspace on Nostr
+1539831	bitcoin	1	111	0	1	1.9	1490792	382	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	FRESH,SIGNAL	BTC Bridge Boltz Halts Swaps Indefinitely, Citing AI-Assisted Attacks
+1539078	bitcoin	1	15350	0	41	22.1	14476	318	recent@bitcoin|top@bitcoin	HOT	Dear podcasters & influencers
+1539063	bitcoin	1	5469	0	14	22.5	5621	385	recent@bitcoin|top@bitcoin	HOT	Until You Spend It, Bitcoin Isn't Money
+1539276	bitcoin	1	3669	0	89	18.4	328486	4653	recent@bitcoin|top@bitcoin|recent@lightning	HOT	Boltz and ZeusLSP temporarily shut down swap services
+1539095	news	2	2838	0	3	21.8	74100	11778	recent@bitcoin|top@bitcoin	HOT	BitMex Research becomes Farside Insights
+1538999	bitcoin_Mining	1	2645	0	5	24.5	273359	772	recent@bitcoin_Mining|recent@mempool	HOT	Mining Pool Health Report [Week 2]
+1539600	bitcoin	1	2532	0	27	12.4	223678	5911	recent@bitcoin|top@bitcoin	HOT	How do I privately spend 1367 BTC given to me by NVK's friends?
+1539218	bitcoin	1	2502	0	33	19.2	136580	13257	recent@bitcoin|top@bitcoin	HOT	ColdCard and Personal Responsibility
+1539033	bitcoin	1	2430	0	13	23.5	163128	3689	recent@bitcoin|top@bitcoin	HOT	MARA Slipstream now available as a permissionless public good
+1539596	bitcoin_beginners	1	2401	0	15	12.5	280679	22703	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	HOT	How do you move sats from LN to the timechain without a swap service?
+1538828	bitcoin	1	1487	0	12	34.2	241	2891	recent@bitcoin	HOT	GLM-5.2 was able to easily find the ColdCard vulnerability
+1539426	security	1	1480	0	2	15.9	352021	230	recent@security|top@security	HOT	⚠️ PSA: if you run Gitea < 1.27.1 => you are HACKED
+1539074	bitcoin	1	1324	0	22	22.2	74100	11778	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT	Rob Hamilton spends $10k scanning Bitcoin projects, finds multiple vulns
+1539278	bitcoin_beginners	1	1322	0	4	18.4	296825	5058	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	HOT	Boltz Swap Services are currently unavailable until further notice
+1538885	bitcoin_beginners	1	1283	0	12	32.6	995395	81	recent@bitcoin_beginners	HOT	What did Satoshi recommended for Entropy and Wallets?
+1539520	AI	1	1217	0	0	14.4	28117	3535	recent@AI|top@AI	HOT	How to Run "The Crystal Key" [1999] on Linux
+1539582	bitcoin	1	1120	0	2	12.9	223678	5911	recent@bitcoin|top@bitcoin	HOT	Maintainer of peerswap advises temporarily disabling peerswap...
+1539573	bitcoin	1	969	0	5	13.1	38951	2270	recent@bitcoin|top@bitcoin		Bitcoin Policy institute Coldcard bug explainer
+1539332	bitcoin_beginners	1	925	0	14	17.4	900202	2600	recent@bitcoin_beginners|top@bitcoin_beginners		The seedpicker guide for creating your own seed phrase
+1538857	bitcoin	1	890	0	4	33.2	1532836	103	recent@bitcoin|recent@bitcoin_beginners|recent@bitcoinplusplus		Bitcoin works, it makes sense, and it will continue to exist.
+1538965	openagents	1	854	0	6	26.1	534967	225	recent@openagents		Episode 265: Vulnerability Scanner
+1539442	bitcoin	1	698	0	0	15.6	462245	297	recent@bitcoin|top@bitcoin|recent@bitcoinplusplus		The COLDCARD Incident — Last Week in Bitcoin (Jul 27 - Aug 02)
+1539130	AI	1	584	0	8	21.0	1532699	33	recent@AI|top@AI		What happens when AI kills the search engine?
+1539067	security	1	497	0	4	22.4	1482441	30	recent@bitcoin|top@bitcoin|recent@bitcoinplusplus		Coldcard exploit: Can Blockchain analysis mistakenly blacklist our “Clean”coins?
+1539087	lightning	1	482	0	1	21.9	440729	219	recent@lightning|top@lightning		Biggest Channel Opened Today (2.0 BTC) + New Node Spotlight (039e4f06aa78dc95b…)
+1539047	bitcoin	1	465	0	1	23.0	223678	5911	recent@bitcoin|top@bitcoin		Buying Bitkey in Europe
+1539267	bitcoin	1	439	0	0	18.5	178	923	recent@bitcoin|top@bitcoin		Bitcoin Tech Talk #512: ColdCard RNG, Nudge Unit, Steel, Power, Scammy Produdcts
+1538985	meta	1	298	0	1	25.2	36151	1579	recent@meta		This Day on SN: August 3
+1539443	bitcoin	1	294	0	0	15.6	296825	5058	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		Everything You Need to Know About the COLDCARD Hack
+1539410	AI	1	270	0	1	16.2	280679	22703	recent@AI|top@AI		Why the Legendary Erdős Problems Are Falling to AI
+1538791	AI	1	244	0	2	35.5	1538787	3	recent@AI		Introducing Satisfied: An AI Assisted Food Logger
+1539046	AI	1	224	0	2	23.0	280679	22703	recent@AI|top@AI		AI Conquered Coding. Fast Food Is Next
+1539258	AI	1	203	0	0	18.6	1490792	382	recent@AI|top@AI		Famed short seller explains he's doubling down on his bet against data centers
+1539114	BooksAndArticles	2	148	0	0	21.3	263526	531	recent@lightning|top@lightning		ZapBook — Read together. Prove it. Get paid.
+1539397	AI	1	125	0	0	16.4	280679	22703	recent@AI|top@AI		LLM Heist: Hijacking LiteLLM for Traffic Intercep, Key Theft, and ToolCall Injec
+1539260	AI	1	125	0	0	18.6	1054143	1067	recent@AI|top@AI		A top Mexican university used AI to prevent exam cheating.
+1539234	AI	1	125	0	0	18.9	1490792	382	recent@AI|top@AI		Sharon AI Announces Six-Year Strategic Compute Collaboration with NVIDIA
+1539197	AI	1	125	0	0	19.5	1490792	382	recent@AI|top@AI		Firmus to Build 170,000 GPU AI Factory Campus with NVIDIA for Global AI-Natives
+1539436	bitcoin_beginners	1	95	0	0	15.7	296825	5058	recent@bitcoin_beginners|top@bitcoin_beginners		Wallet Hack Explained
+1539040	bitcoin	1	47	0	0	23.2	1490792	382	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		Russia Expands Crypto Mining Ban to Moscow
+1539818	openagents	1	47	0	1	2.8	534967	225	recent@openagents|top@openagents		Episode 266: Single Points of Failure and Nostr Markets
+1539905	AI	1	36	0	1	0.2	74100	11778	recent@bitcoin|top@bitcoin|recent@bitdevs	FRESH	Red teaming bitcoin projects
+1539844	bitcoin	1	36	0	0	1.6	1490792	382	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus	FRESH	Lightning Transaction Ads And Zapvertising (information about Stacker News)
+1539749	bitcoin	1	36	0	0	7.1	296825	5058	recent@bitcoin_beginners|top@bitcoin_beginners		Weak Entropy Bug Enables Drain of Funds from Seeds Generated Since 2021
+1539129	bitcoin	1	36	0	0	21.0	296825	5058	recent@bitcoin_beginners|top@bitcoin_beginners		Dear ColdCard Attakers. Congratulations on
+1539049	tech	1	0	0	0	22.9	1490792	382	recent@bitdevs|top@bitdevs|recent@devs		Predictive inline shell autosuggestions for zsh. Go daemon, no TUI, no sync
+1539108	nostr	1	0	0	0	21.5	263526	531	recent@lightning|top@lightning		Meerat · Affiliate commerce on Nostr
+1539066	bitcoin	1	0	0	0	22.4	1490792	382	recent@lightning|top@lightning		Coinos once more down...
+1539120	lightning	1	0	0	2	21.1	263526	531	recent@lightning|top@lightning		LCC ⚡ Self-hosted dashboard for managing your Bitcoin Lightning node and miners
+1539835	bitcoin	1	0	0	1	1.8	1539835	2	recent@devs|top@devs	FRESH	Should developer education optimize for merged PRs?
+1539879	AI	1	0	0	0	0.7	1490792	382	recent@AI|top@AI	FRESH	The Hot 100’s First AI Doping Controversy is Here
+1539748	AI	1	0	0	0	7.2	1538951	3	recent@AI|top@AI		Is Google Search slowly becoming an AI interface?
+1538963	openagents	1	0	0	1	26.1	534967	225	recent@openagents		Episode 264: Running Loupe
