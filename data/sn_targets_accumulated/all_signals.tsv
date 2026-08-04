@@ -25363,3 +25363,21 @@
 2026-08-04T11:09:56.908Z	1539869	lightning	1	342	0	0	1.0	273359	772	recent@lightning|top@lightning	FRESH,SIGNAL	Splicing timeline for Zeus Wallet ACCELERATED
 2026-08-04T11:09:56.908Z	1539840	nostr	1	240	0	0	1.7	638086	93	recent@nostr|top@nostr	FRESH,SIGNAL	Building Lotus: A Privacy-First Workspace on Nostr
 2026-08-04T11:09:56.909Z	1539831	bitcoin	1	111	0	1	1.9	1490792	382	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	FRESH,SIGNAL	BTC Bridge Boltz Halts Swaps Indefinitely, Citing AI-Assisted Attacks
+2026-08-04T12:09:44.179Z	1539812	bitcoin	1	6083	0	4	4.3	1011637	37	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Coldcard and the limits of “don't trust, verify”
+2026-08-04T12:09:44.179Z	1539912	bitcoin	1	3295	0	5	1.1	1539865	2	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	Tails+Electrum as an alternative to a HWW as part of a 2-of-3 multisig?
+2026-08-04T12:09:44.179Z	1539838	bitcoin	1	1697	0	18	2.7	724606	11909	recent@bitcoin|top@bitcoin|recent@econ	HOT,SIGNAL	Gigi Bringing the Wisdom
+2026-08-04T12:09:44.179Z	1539875	bitcoin	1	1589	0	2	1.7	724606	11909	recent@bitcoin|top@bitcoin|recent@econ	FRESH,HOT,SIGNAL	Bitcoins Have No Physical Form: The Coldcard Heist (Money Stuff, Matt Levine)
+2026-08-04T12:09:44.179Z	1539720	bitcoin	1	1286	0	16	10.1	223678	5912	recent@bitcoin|top@bitcoin	HOT,SIGNAL	What are the attack vectors of rolling 100 dice?
+2026-08-04T12:09:44.179Z	1539696	Construction_and_Engineering	2	873	0	2	11.3	9274	25863	recent@econ|top@econ|recent@Construction_and_Engineering	SIGNAL	Construction employment rose in June in 28 states; starts climbed 11%
+2026-08-04T12:09:44.179Z	1539869	lightning	1	556	0	1	2.0	273359	773	recent@lightning|top@lightning	FRESH,SIGNAL	Splicing timeline for Zeus Wallet ACCELERATED
+2026-08-04T12:09:44.179Z	1539724	news	2	491	0	2	9.5	144357	4437	recent@news|top@news	SIGNAL	‘Spider-Man: Brand New Day’ Obliterates With $927 Million Global Debut
+2026-08-04T12:09:44.179Z	1539932	bitcoin_Mining	1	385	0	0	0.7	30782	25325	recent@bitcoin_Mining|top@bitcoin_Mining	FRESH,SIGNAL	Experience Replacing Avalon Q Fans?
+2026-08-04T12:09:44.179Z	1539789	AskSN	2	365	0	0	5.2	1401899	312	recent@AskSN|top@AskSN	SIGNAL	Why Diaspora Analyses of Iranian Society Turn Out to Be Wrong
+2026-08-04T12:09:44.179Z	1539852	lol	2	295	0	0	2.3	296825	5058	recent@history|top@history|recent@lol	SIGNAL	The Evolution Of Slavery
+2026-08-04T12:09:44.179Z	1539741	econ	2	257	0	1	8.6	8306	1139	recent@econ|top@econ	SIGNAL	TFTC: He Saw This Coming. Now He Says It's Only The Beginning | Anas Alhajji
+2026-08-04T12:09:44.179Z	1539905	AI	1	241	0	3	1.2	74100	11781	recent@bitcoin|top@bitcoin|recent@bitdevs	FRESH,SIGNAL	Red teaming bitcoin projects
+2026-08-04T12:09:44.179Z	1539840	nostr	1	240	0	0	2.7	638086	93	recent@nostr|top@nostr	SIGNAL	Building Lotus: A Privacy-First Workspace on Nostr
+2026-08-04T12:09:44.179Z	1539786	Politics_And_Law	3	161	0	1	5.3	13531	1694	recent@econ|top@econ	SIGNAL	China won’t apologise for overcapacity
+2026-08-04T12:09:44.179Z	1539825	Education	2	138	0	0	3.4	104755	12674	recent@Education|top@Education	SIGNAL	Favourite public transporr
+2026-08-04T12:09:44.179Z	1539757	videos	3	130	0	0	7.1	144357	4437	recent@ideasfromtheedge|top@ideasfromtheedge	SIGNAL	impress build week 5: weapons free, my friend
+2026-08-04T12:09:44.179Z	1539831	bitcoin	1	111	0	1	2.9	1490792	382	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	BTC Bridge Boltz Halts Swaps Indefinitely, Citing AI-Assisted Attacks
