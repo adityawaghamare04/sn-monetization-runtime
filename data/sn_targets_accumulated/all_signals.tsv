@@ -25983,3 +25983,39 @@
 2026-08-05T17:03:48.740Z	1540949	AI	1	125	0	0	0.3	1054143	1075	recent@AI|top@AI	FRESH,SIGNAL	China’s AI Blitz Creates ‘Death Zone’ for Rival US Model Makers
 2026-08-05T17:03:48.740Z	1540797	bitcoin	1	124	0	1	3.9	1532836	131	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus	SIGNAL	El  café de los bitcoiners
 2026-08-05T17:03:48.740Z	1540951	bitcoin	1	118	0	0	0.2	296825	5069	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	FRESH,SIGNAL	Just about the hack
+2026-08-05T17:50:11.262Z	1540813	bitcoin	1	10957	0	11	4.2	724606	11928	recent@bitcoin|top@bitcoin|recent@econ	HOT,SIGNAL	The Nordic Node #7: The Day the Token Wars Came
+2026-08-05T17:50:11.262Z	1540905	math	2	3435	0	12	2.1	88718	46157	recent@bitcoin_beginners|top@bitcoin_beginners|recent@math	HOT,SIGNAL,SELF_POST_OPP	[ELI5] How does low entropy hurt security?
+2026-08-05T17:50:11.262Z	1540811	bitcoin	1	3337	0	14	4.2	14476	326	recent@bitcoin|top@bitcoin	HOT,SIGNAL	There is not 1 single compelling evidence that this was a backdoor.
+2026-08-05T17:50:11.262Z	1540851	BooksAndArticles	2	2924	0	0	3.4	724606	11928	recent@econ|top@econ|recent@BooksAndArticles	HOT,SIGNAL	BOOK on BOOKS: Skin in the Game, by Nassim Taleb
+2026-08-05T17:50:11.262Z	1540666	bitcoin_beginners	1	2347	0	14	10.1	166	36983	recent@bitcoin_beginners|top@bitcoin_beginners	HOT,SIGNAL	How to refill your emptied LN channels without Boltz swaps
+2026-08-05T17:50:11.262Z	1540674	lightning	1	2200	0	10	9.0	163128	3711	recent@lightning|top@lightning	HOT,SIGNAL	How to refill a SPEND wallet with Electrum's built-in swaps (no Boltz, no Node)
+2026-08-05T17:50:11.262Z	1540728	bitcoin	1	1495	0	2	6.7	223678	5926	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Turn retired Coldcards into open source SecretKeeper with custom firmware & NFC
+2026-08-05T17:50:11.262Z	1540654	lightning	1	1255	0	1	10.9	263526	535	recent@lightning|top@lightning	HOT,SIGNAL	What's going on with Lightning - AMBOSS Data Analysis
+2026-08-05T17:50:11.262Z	1540682	lightning	1	1073	0	1	8.7	163128	3711	recent@lightning|top@lightning	HOT,SIGNAL	How to refill your SPEND wallet with Phoenix and phoenixd (swaps without Boltz)
+2026-08-05T17:50:11.262Z	1540673	bitcoin	1	962	0	0	9.1	356670	360	recent@bitcoin|top@bitcoin	SIGNAL	Coldcardhacker starts mixing 64 BTC
+2026-08-05T17:50:11.262Z	1540842	mostly_harmless	2	948	0	3	3.5	341578	5907	recent@mostly_harmless|top@mostly_harmless	SIGNAL	Victim or empowered, what if we decide?
+2026-08-05T17:50:11.262Z	1540731	bitcoin	1	851	0	1	6.4	30782	25346	recent@bitcoin|top@bitcoin	SIGNAL	The Bitcoin Matrix - Hodlonaut
+2026-08-05T17:50:11.262Z	1540885	bitcoin	1	706	0	10	2.6	14476	326	recent@bitcoin|top@bitcoin	SIGNAL	nvk deleting tweets as we speak. Backup and screenshoot interactions with him!
+2026-08-05T17:50:11.262Z	1540916	bitcoin	1	668	0	1	2.0	593189	848	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	south korean influencers got followers to use dice rolls for wallet entropy
+2026-08-05T17:50:11.262Z	1540845	AI	1	423	0	1	3.5	74100	11820	recent@bitcoin|top@bitcoin|recent@AI	SIGNAL	Apply to have Loupe scan your FOSS bitcoin project’s repos for vulnerabilities
+2026-08-05T17:50:11.262Z	1540676	lightning	1	421	0	1	8.9	163128	3711	recent@lightning|top@lightning	SIGNAL	How to refill your LN channels with Lightning LOOP (`loop in`): step by step
+2026-08-05T17:50:11.262Z	1540773	lol	2	411	0	2	5.3	74100	11820	recent@bitcoin|top@bitcoin|recent@lol	SIGNAL	coldcard-stolen-to-btclock.py
+2026-08-05T17:50:11.262Z	1540875	meta	1	384	0	2	2.8	36151	1581	recent@meta|top@meta	SIGNAL	What are you working on this week?
+2026-08-05T17:50:11.262Z	1540926	Construction_and_Engineering	2	354	0	0	1.7	341578	5907	recent@Construction_and_Engineering|top@Construction_and_Engineering	FRESH,SIGNAL	What could I build from this old school bus? 🥴
+2026-08-05T17:50:11.262Z	1540881	science	2	319	0	0	2.7	280679	22730	recent@science|top@science	SIGNAL	NASA Engineers Help Prolong Voyager 2’s Science Mission
+2026-08-05T17:50:11.262Z	1540853	lol	2	308	0	1	3.3	280679	22730	recent@lol|top@lol	SIGNAL	Disgraced FTX claims broker is now soliciting Coldcard victims
+2026-08-05T17:50:11.262Z	1540683	lightning	1	304	0	3	8.7	163128	3711	recent@lightning|top@lightning	SIGNAL	How to refill a SPEND wallet with a RoboSats P2P swap (or with a trusted Friend)
+2026-08-05T17:50:11.262Z	1540891	charts_and_maps	2	235	0	0	2.5	280679	22730	recent@charts_and_maps|top@charts_and_maps	SIGNAL	Satellite Internet Still a Niche Product
+2026-08-05T17:50:11.262Z	1540859	AI	1	230	0	3	3.2	280679	22730	recent@AI|top@AI|recent@math	SIGNAL	The end of the age of heroes
+2026-08-05T17:50:11.262Z	1540933	econ	2	230	0	4	1.6	280679	22730	recent@econ|top@econ	FRESH,SIGNAL	Free Trade: The Consensus Is Growing
+2026-08-05T17:50:11.262Z	1540753	AI	1	226	0	3	5.7	280679	22730	recent@AI|top@AI	SIGNAL	Running a 28.9M parameter LLM on ESP32
+2026-08-05T17:50:11.262Z	1540800	lightning	1	207	0	0	4.6	440729	221	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (0284a3153f3f198ca…)
+2026-08-05T17:50:11.262Z	1540937	AI	1	206	0	2	1.5	1	27023	recent@bitcoin_Mining|top@bitcoin_Mining|recent@AI	FRESH,SIGNAL	New Texas data center projects frozen until state audits them
+2026-08-05T17:50:11.262Z	1540928	Design	2	201	0	1	1.7	383547	3450	recent@Design|top@Design	FRESH,SIGNAL	Dither it
+2026-08-05T17:50:11.262Z	1540942	AI	1	192	0	0	1.4	280679	22730	recent@AI|top@AI	FRESH,SIGNAL	4 of Google’s Top AI Brains Are Leaving—and Launching Their Own AI Startup
+2026-08-05T17:50:11.262Z	1540693	Stacker_Stocks	2	161	0	5	8.3	9274	25899	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Daily Stock Discussion ~Stacker_Stocks
+2026-08-05T17:50:11.262Z	1540963	AskSN	2	157	0	1	0.7	792262	1726	recent@AskSN|top@AskSN	FRESH,SIGNAL	Is this question on your minds? It's pounding in my brain!
+2026-08-05T17:50:11.262Z	1540874	AI	1	146	0	5	2.8	1532699	52	recent@AI|top@AI|recent@Education	SIGNAL	At what point does an AI become more influential than a teacher?
+2026-08-05T17:50:11.262Z	1540949	AI	1	125	0	1	1.0	1054143	1075	recent@AI|top@AI	FRESH,SIGNAL	China’s AI Blitz Creates ‘Death Zone’ for Rival US Model Makers
+2026-08-05T17:50:11.262Z	1540797	bitcoin	1	124	0	1	4.7	1532836	131	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus	SIGNAL	El  café de los bitcoiners
+2026-08-05T17:50:11.262Z	1540951	bitcoin	1	118	0	0	0.9	296825	5071	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	FRESH,SIGNAL	Just about the hack
