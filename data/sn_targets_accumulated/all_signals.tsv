@@ -25844,3 +25844,19 @@
 2026-08-05T08:48:13.005Z	1540592	AI	1	127	0	0	6.0	1293586	2114	recent@AI|top@AI|recent@Politics_And_Law	SIGNAL	Inside Trump's AI framework
 2026-08-05T08:48:13.005Z	1540666	bitcoin_beginners	1	125	0	0	1.1	166	36968	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH,SIGNAL	How to refill your emptied LN channels without Boltz swaps
 2026-08-05T08:48:13.005Z	1540605	Photography	3	106	0	0	5.7	1250874	391	recent@Photography|top@Photography	SIGNAL	Birthday girl
+2026-08-05T09:06:03.137Z	1540499	bitcoin	1	14214	0	14	9.9	1513887	23	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Boltz Exchange warrant canary expires , days later they announce end of services
+2026-08-05T09:06:03.137Z	1540428	bitcoin	1	3904	0	13	11.6	814596	86	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Don't learn the wrong lesson
+2026-08-05T09:06:03.137Z	1540488	bitcoin	1	2185	0	0	10.2	74100	11810	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	odudex stepping down as krux maintainer, project may be sunset
+2026-08-05T09:06:03.137Z	1540535	bitcoin	1	2079	0	2	9.2	182100	841	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Gwern is moving to AI
+2026-08-05T09:06:03.137Z	1540542	bitcoin	1	1435	0	6	9.1	814596	86	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Will you ever trust a wallet's entropy again? (Long term hodl not spend wallets)
+2026-08-05T09:06:03.137Z	1540481	bitcoin	1	1202	0	1	10.5	74100	11810	recent@bitcoin|top@bitcoin	HOT,SIGNAL	mapping the ongoing Coldcard attack with a live dashboard - James O'Beirne
+2026-08-05T09:06:03.137Z	1540674	lightning	1	1200	0	3	0.3	163128	3697	recent@lightning|top@lightning	FRESH,HOT,SIGNAL	How to refill a SPEND wallet with Electrum's built-in swaps (no Boltz, no Node)
+2026-08-05T09:06:03.137Z	1540419	bitcoin	1	1182	0	0	11.8	280679	22715	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Coldcard Key Exposure | @orangesurf
+2026-08-05T09:06:03.137Z	1540627	bitcoin	1	713	0	3	3.9	14476	319	recent@bitcoin|top@bitcoin	SIGNAL	Crazy OPRETURN to attackers address
+2026-08-05T09:06:03.137Z	1540654	lightning	1	686	0	1	2.1	263526	534	recent@lightning|top@lightning	SIGNAL	What's going on with Lightning - AMBOSS Data Analysis
+2026-08-05T09:06:03.137Z	1540453	devs	1	591	0	1	11.0	74100	11810	recent@devs|top@devs	SIGNAL	Keyv and friends compromised in npm supply chain attack
+2026-08-05T09:06:03.137Z	1540497	bitcoin	1	341	0	0	10.0	8842	478	recent@bitcoin|top@bitcoin	SIGNAL	Situationship
+2026-08-05T09:06:03.137Z	1540596	bitcoin	1	151	0	1	6.3	1532836	128	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Stay away from the EXCHANGES, XD
+2026-08-05T09:06:03.137Z	1540592	AI	1	127	0	0	6.3	1293586	2114	recent@AI|top@AI	SIGNAL	Inside Trump's AI framework
+2026-08-05T09:06:03.137Z	1540666	bitcoin_beginners	1	125	0	1	1.4	166	36972	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH,SIGNAL	How to refill your emptied LN channels without Boltz swaps
+2026-08-05T09:06:03.137Z	1540676	lightning	1	100	0	0	0.1	163128	3697	recent@lightning|top@lightning	FRESH,SIGNAL	How to refill your LN channels with Lightning LOOP (`loop in`): step by step
