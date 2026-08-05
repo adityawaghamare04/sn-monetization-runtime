@@ -26157,3 +26157,32 @@
 2026-08-05T21:21:13.014Z	1540797	bitcoin	1	124	0	2	8.2	1532836	135	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus	SIGNAL	El  café de los bitcoiners
 2026-08-05T21:21:13.014Z	1540951	bitcoin	1	118	0	0	4.5	296825	5071	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	Just about the hack
 2026-08-05T21:21:13.014Z	1541097	bitcoin_beginners	1	103	0	0	2.4	263526	536	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	On-Chain vs. Lightning Network: Which Payment Layer Belongs at Your Checkout?
+2026-08-05T21:56:29.716Z	1540813	bitcoin	1	10978	0	19	8.3	724606	11939	recent@bitcoin|top@bitcoin	HOT,SIGNAL	The Nordic Node #7: The Day the Token Wars Came
+2026-08-05T21:56:29.716Z	1541015	bitcoin	1	6114	0	33	4.1	48657	14517	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Is Bitcoin primarily a "lifestyle brand"?
+2026-08-05T21:56:29.716Z	1541071	bitcoin	1	6010	0	0	3.5	1014665	221	recent@bitcoin|top@bitcoin	HOT,SIGNAL	COLDCARD, CLN DoS, Stack Exchange - Bitcoin Optech Newsletter #416 Recap Podcast
+2026-08-05T21:56:29.716Z	1541165	bitcoin	1	6007	0	1	1.4	102558	1117	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	Node Runners what are you running?
+2026-08-05T21:56:29.716Z	1540905	math	2	4946	0	27	6.2	88718	46169	recent@bitcoin_beginners|top@bitcoin_beginners	HOT,SIGNAL	[ELI5] How does low entropy hurt security?
+2026-08-05T21:56:29.716Z	1540811	bitcoin	1	3368	0	14	8.3	14476	327	recent@bitcoin|top@bitcoin	HOT,SIGNAL	There is not 1 single compelling evidence that this was a backdoor.
+2026-08-05T21:56:29.716Z	1541180	lightning	1	3037	0	5	0.4	328486	4682	recent@lightning|top@lightning	FRESH,HOT,SIGNAL	Zeus infra temporarily offline following security incident
+2026-08-05T21:56:29.716Z	1541116	meta	1	2357	0	1	2.4	1	27026	recent@meta|top@meta	HOT,SIGNAL	SN release: attached wallet send and receive interface
+2026-08-05T21:56:29.716Z	1541127	news	2	2084	0	3	2.0	74100	11832	recent@bitcoin|top@bitcoin	HOT,SIGNAL	wiz is looking for support to register .bitcoin top level domain
+2026-08-05T21:56:29.716Z	1541104	bitcoin	1	1499	0	2	2.9	68842	627	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Bitcoin Toxic Maximalism Has Failed
+2026-08-05T21:56:29.716Z	1540728	bitcoin	1	1495	0	2	10.8	223678	5926	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Turn retired Coldcards into open source SecretKeeper with custom firmware & NFC
+2026-08-05T21:56:29.716Z	1541113	news	2	1296	0	8	2.5	74100	11832	recent@bitcoin|top@bitcoin	HOT,SIGNAL,SELF_POST_OPP	"Having said all that… I’M NOT FUCKING LEAVING!"
+2026-08-05T21:56:29.716Z	1540731	bitcoin	1	851	0	1	10.5	30782	25349	recent@bitcoin|top@bitcoin	SIGNAL	The Bitcoin Matrix - Hodlonaut
+2026-08-05T21:56:29.716Z	1540885	bitcoin	1	850	0	13	6.7	14476	327	recent@bitcoin|top@bitcoin	SIGNAL	nvk deleting tweets as we speak. Backup and screenshoot interactions with him!
+2026-08-05T21:56:29.716Z	1540916	bitcoin	1	668	0	1	6.1	593189	849	recent@bitcoin|top@bitcoin	SIGNAL	south korean influencers got followers to use dice rolls for wallet entropy
+2026-08-05T21:56:29.716Z	1541190	bitcoin	1	613	0	1	0.2	995395	86	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Defending funds on ColdCard with RBF transactions
+2026-08-05T21:56:29.716Z	1540800	lightning	1	586	0	1	8.7	440729	221	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (0284a3153f3f198ca…)
+2026-08-05T21:56:29.716Z	1540845	AI	1	423	0	1	7.6	74100	11832	recent@bitcoin|top@bitcoin|recent@AI	SIGNAL	Apply to have Loupe scan your FOSS bitcoin project’s repos for vulnerabilities
+2026-08-05T21:56:29.716Z	1540773	lol	2	421	0	2	9.4	74100	11832	recent@bitcoin|top@bitcoin	SIGNAL	coldcard-stolen-to-btclock.py
+2026-08-05T21:56:29.716Z	1540875	meta	1	384	0	4	6.9	36151	1581	recent@meta|top@meta	SIGNAL	What are you working on this week?
+2026-08-05T21:56:29.716Z	1540937	AI	1	316	0	2	5.6	1	27026	recent@bitcoin_Mining|top@bitcoin_Mining|recent@AI	SIGNAL	New Texas data center projects frozen until state audits them
+2026-08-05T21:56:29.716Z	1540859	AI	1	230	0	3	7.3	280679	22731	recent@AI|top@AI	SIGNAL	The end of the age of heroes
+2026-08-05T21:56:29.716Z	1540753	AI	1	226	0	3	9.8	280679	22731	recent@AI|top@AI	SIGNAL	Running a 28.9M parameter LLM on ESP32
+2026-08-05T21:56:29.716Z	1540942	AI	1	192	0	0	5.5	280679	22731	recent@AI|top@AI	SIGNAL	4 of Google’s Top AI Brains Are Leaving—and Launching Their Own AI Startup
+2026-08-05T21:56:29.716Z	1540874	AI	1	153	0	5	7.0	1532699	53	recent@AI|top@AI	SIGNAL	At what point does an AI become more influential than a teacher?
+2026-08-05T21:56:29.716Z	1540949	AI	1	125	0	1	5.1	1054143	1076	recent@AI|top@AI	SIGNAL	China’s AI Blitz Creates ‘Death Zone’ for Rival US Model Makers
+2026-08-05T21:56:29.716Z	1540797	bitcoin	1	124	0	2	8.8	1532836	135	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus	SIGNAL	El  café de los bitcoiners
+2026-08-05T21:56:29.716Z	1540951	bitcoin	1	118	0	0	5.1	296825	5071	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	Just about the hack
+2026-08-05T21:56:29.716Z	1541097	bitcoin_beginners	1	103	0	0	3.0	263526	536	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	On-Chain vs. Lightning Network: Which Payment Layer Belongs at Your Checkout?
