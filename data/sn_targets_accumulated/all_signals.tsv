@@ -25905,3 +25905,16 @@
 2026-08-05T12:07:51.846Z	1540592	AI	1	252	0	0	9.4	1293586	2114	recent@AI|top@AI	SIGNAL	Inside Trump's AI framework
 2026-08-05T12:07:51.846Z	1540604	AI	1	248	0	3	9.1	1293586	2114	recent@AI|top@AI	SIGNAL	OK, Well, Rogue AI Agents Are Hacking Again
 2026-08-05T12:07:51.846Z	1540596	bitcoin	1	151	0	1	9.3	1532836	128	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Stay away from the EXCHANGES, XD
+2026-08-05T13:13:20.147Z	1540674	lightning	1	2078	0	9	4.4	163128	3710	recent@lightning|top@lightning	HOT,SIGNAL	How to refill a SPEND wallet with Electrum's built-in swaps (no Boltz, no Node)
+2026-08-05T13:13:20.147Z	1540666	bitcoin_beginners	1	1286	0	12	5.5	166	36983	recent@bitcoin_beginners|top@bitcoin_beginners	HOT,SIGNAL	How to refill your emptied LN channels without Boltz swaps
+2026-08-05T13:13:20.147Z	1540682	lightning	1	1073	0	1	4.1	163128	3710	recent@lightning|top@lightning	HOT,SIGNAL	How to refill your SPEND wallet with Phoenix and phoenixd (swaps without Boltz)
+2026-08-05T13:13:20.147Z	1540654	lightning	1	1051	0	1	6.3	263526	535	recent@lightning|top@lightning	HOT,SIGNAL	What's going on with Lightning - AMBOSS Data Analysis
+2026-08-05T13:13:20.147Z	1540728	bitcoin	1	1000	0	0	2.1	223678	5925	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Turn retired Coldcards into open source SecretKeeper with custom firmware & NFC
+2026-08-05T13:13:20.147Z	1540627	bitcoin	1	839	0	4	8.1	14476	319	recent@bitcoin|top@bitcoin	SIGNAL	Crazy OPRETURN to attackers address
+2026-08-05T13:13:20.147Z	1540673	bitcoin	1	478	0	0	4.5	356670	360	recent@bitcoin|top@bitcoin	SIGNAL	Coldcardhacker starts mixing 64 BTC
+2026-08-05T13:13:20.147Z	1540676	lightning	1	421	0	1	4.2	163128	3710	recent@lightning|top@lightning	SIGNAL	How to refill your LN channels with Lightning LOOP (`loop in`): step by step
+2026-08-05T13:13:20.147Z	1540683	lightning	1	304	0	3	4.0	163128	3710	recent@lightning|top@lightning	SIGNAL	How to refill a SPEND wallet with a RoboSats P2P swap (or with a trusted Friend)
+2026-08-05T13:13:20.147Z	1540592	AI	1	252	0	0	10.5	1293586	2114	recent@AI|top@AI	SIGNAL	Inside Trump's AI framework
+2026-08-05T13:13:20.147Z	1540604	AI	1	248	0	3	10.1	1293586	2114	recent@AI|top@AI	SIGNAL	OK, Well, Rogue AI Agents Are Hacking Again
+2026-08-05T13:13:20.147Z	1540596	bitcoin	1	151	0	1	10.4	1532836	130	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Stay away from the EXCHANGES, XD
+2026-08-05T13:13:20.147Z	1540753	AI	1	125	0	1	1.0	280679	22717	recent@AI|top@AI	FRESH,SIGNAL	Running a 28.9M parameter LLM on ESP32
