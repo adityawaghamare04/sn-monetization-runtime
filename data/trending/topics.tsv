@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-05T11:59:34.505Z; n=40
-boltz	sn:bitcoin_beginners,sn:lightning	9.26	no	RISING
-what	sn:lol,sn:lightning	6.6	yes	
-coldcard	sn:bitcoin	6.23	yes	
-spend	sn:lightning	6.2	no	RISING
-there will come soft rains	hn,sn:BooksAndArticles	5.93	no	RISING
-show	hn	4.89	no	RISING
+# generated 2026-08-05T17:36:59.771Z; n=40
+boltz	sn:bitcoin_beginners,sn:lightning	9.74	no	RISING
+what	sn:lol,sn:lightning,sn:Construction_and_Engineering	9.23	yes	
+book	sn:art,sn:BooksAndArticles	7	no	RISING
+spend	sn:lightning	6.37	no	RISING
+coldcard	sn:bitcoin	6.23	no	RISING
 boltz exchange	sn:bitcoin	4.16	yes	
-entropy bug	sn:bitcoin	4.13	yes	
-an investigative history	sn:bitcoin	4.13	yes	
-bitcoin	sn:the_stacker_muse	4.05	yes	
-dread pirate roberts	sn:the_stacker_muse	4.05	yes	
-cguida	sn:bitcoin	3.7	yes	
-luke dashjr	sn:bitcoin	3.7	yes	
-knots	sn:bitcoin	3.7	yes	
-should	sn:AskSN	3.51	no	RISING
+the nordic node	sn:bitcoin	4.04	yes	
+the day	sn:bitcoin	4.04	yes	
+token wars came	sn:bitcoin	4.04	yes	
+printed	sn:art	3.53	no	RISING
+there	sn:bitcoin	3.52	yes	
+books	sn:BooksAndArticles	3.47	no	RISING
+skin	sn:BooksAndArticles	3.47	no	RISING
+game	sn:BooksAndArticles	3.47	no	RISING
+nassim taleb	sn:BooksAndArticles	3.47	no	RISING
 stop procrastinating	sn:HealthAndFitness	3.45	no	RISING
 the economist	sn:HealthAndFitness	3.45	no	RISING
-cold card retirement attack	sn:security	3.4	yes	
-ray bradbury	sn:BooksAndArticles	3.33	no	RISING
-august	sn:BooksAndArticles	3.33	yes	
-gwern	sn:bitcoin	3.32	yes	
-ian coleman	sn:bitcoin	3.27	no	RISING
-electrum	sn:lightning	3.26	yes	
-built-in	sn:lightning	3.26	no	RISING
-node	sn:lightning	3.26	no	RISING
-in memory	hn	3.16	no	RISING
-my wife	hn	3.16	no	RISING
-elise cawley	hn	3.16	no	RISING
-thanks	hn	3.16	no	RISING
-wonderful years	hn	3.16	no	RISING
-will	sn:bitcoin	3.16	yes	
-long	sn:bitcoin	3.16	yes	
-adding	sn:bitcoin	3.15	yes	
-public record	sn:bitcoin	3.15	yes	
-our ongoing investigation	sn:bitcoin	3.15	yes	
-james	sn:bitcoin	3.08	yes	
-beirne	sn:bitcoin	3.08	yes	
-coldcard key exposure	sn:bitcoin	3.07	yes	
-lightning	sn:lightning	3.02	yes	
-amboss	sn:lightning	3.02	no	RISING
+electrum	sn:lightning	3.34	no	RISING
+built-in	sn:lightning	3.34	no	RISING
+node	sn:lightning	3.34	no	RISING
+gwern	sn:bitcoin	3.33	yes	
+stacker sports summer league	sn:Stacker_Sports	3.22	no	RISING
+week	sn:Stacker_Sports	3.22	no	RISING
+pick	sn:Stacker_Sports	3.22	no	RISING
+turn	sn:bitcoin	3.17	yes	
+coldcards	sn:bitcoin	3.17	yes	
+will	sn:bitcoin	3.16	no	RISING
+long	sn:bitcoin	3.16	no	RISING
+adding	sn:bitcoin	3.15	no	RISING
+public record	sn:bitcoin	3.15	no	RISING
+our ongoing investigation	sn:bitcoin	3.15	no	RISING
+lightning	sn:lightning	3.1	yes	
+amboss	sn:lightning	3.1	no	RISING
+data analysis	sn:lightning	3.1	no	RISING
+james	sn:bitcoin	3.08	no	RISING
+beirne	sn:bitcoin	3.08	no	RISING
+coldcard key exposure	sn:bitcoin	3.07	no	RISING
+phoenix	sn:lightning	3.03	no	RISING
+victim	sn:mostly_harmless	2.98	no	RISING
+coldcardhacker	sn:bitcoin	2.98	yes	
