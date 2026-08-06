@@ -26287,3 +26287,31 @@
 2026-08-06T00:10:50.002Z	1540797	bitcoin	1	124	0	2	11.0	1532836	137	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus	SIGNAL	El  café de los bitcoiners
 2026-08-06T00:10:50.002Z	1540951	bitcoin	1	118	0	0	7.3	296825	5071	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	Just about the hack
 2026-08-06T00:10:50.002Z	1541097	bitcoin_beginners	1	103	0	0	5.3	263526	536	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	On-Chain vs. Lightning Network: Which Payment Layer Belongs at Your Checkout?
+2026-08-06T03:29:11.391Z	1541015	bitcoin	1	6178	0	34	9.6	48657	14524	recent@bitcoin|top@bitcoin|recent@AskSN	HOT,SIGNAL	Is Bitcoin primarily a "lifestyle brand"?
+2026-08-06T03:29:11.391Z	1541165	bitcoin	1	6122	0	5	6.9	102558	1117	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Node Runners what are you running?
+2026-08-06T03:29:11.391Z	1541071	bitcoin	1	6010	0	0	9.0	1014665	221	recent@bitcoin|top@bitcoin	HOT,SIGNAL	COLDCARD, CLN DoS, Stack Exchange - Bitcoin Optech Newsletter #416 Recap Podcast
+2026-08-06T03:29:11.391Z	1541175	bitcoin	1	5250	0	0	6.5	934367	952	recent@bitcoin|top@bitcoin	HOT,SIGNAL	joinmarket-clientserver makers with a fidelity bond need to restart periodically
+2026-08-06T03:29:11.391Z	1541227	bitcoin	1	5040	0	2	4.9	28117	3539	recent@bitcoin|top@bitcoin	HOT,SIGNAL	How CTV Covenant Enabled Vaults Could Have Protected Cold Card Victims
+2026-08-06T03:29:11.391Z	1540905	math	2	5038	0	31	11.7	88718	46175	recent@bitcoin_beginners|top@bitcoin_beginners|recent@math	HOT,SIGNAL	[ELI5] How does low entropy hurt security?
+2026-08-06T03:29:11.391Z	1541180	lightning	1	3530	0	7	5.9	328486	4686	recent@lightning|top@lightning	HOT,SIGNAL	Zeus infra temporarily offline following security incident
+2026-08-06T03:29:11.391Z	1541116	meta	1	2409	0	6	8.0	1	27029	recent@meta|top@meta	HOT,SIGNAL	SN release: attached wallet send and receive interface
+2026-08-06T03:29:11.391Z	1541127	news	2	2135	0	3	7.6	74100	11832	recent@bitcoin|top@bitcoin|recent@news	HOT,SIGNAL	wiz is looking for support to register .bitcoin top level domain
+2026-08-06T03:29:11.391Z	1541262	bitcoin	1	2057	0	1	4.0	24585	362	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Latest Strikes #31 - July 27 - August 2nd 2026 - Boltz, BIP110, & more!
+2026-08-06T03:29:11.391Z	1541179	AskSN	2	1717	0	1	6.0	1242375	141	recent@AskSN|top@AskSN	HOT,SIGNAL	Will Luke Dashjr actually leave Bitcoin when BIP110 forks off?
+2026-08-06T03:29:11.391Z	1541104	bitcoin	1	1499	0	2	8.4	68842	627	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Bitcoin Toxic Maximalism Has Failed
+2026-08-06T03:29:11.391Z	1541113	news	2	1298	0	9	8.0	74100	11832	recent@bitcoin|top@bitcoin|recent@news	HOT,SIGNAL,SELF_POST_OPP	"Having said all that… I’M NOT FUCKING LEAVING!"
+2026-08-06T03:29:11.391Z	1540926	Construction_and_Engineering	2	1058	0	1	11.3	341578	5907	recent@Construction_and_Engineering|top@Construction_and_Engineering	HOT,SIGNAL	What could I build from this old school bus? 🥴
+2026-08-06T03:29:11.391Z	1541190	bitcoin	1	855	0	5	5.7	995395	86	recent@bitcoin|top@bitcoin	SIGNAL	Defending funds on ColdCard with RBF transactions
+2026-08-06T03:29:11.391Z	1540916	bitcoin	1	668	0	1	11.6	593189	849	recent@bitcoin|top@bitcoin	SIGNAL	south korean influencers got followers to use dice rolls for wallet entropy
+2026-08-06T03:29:11.391Z	1541141	tech	1	487	0	4	7.4	1532699	53	recent@tech|top@tech|recent@Stacker_Stocks	SIGNAL	Motley Fool's new Double Down total conviction stock pick...
+2026-08-06T03:29:11.391Z	1541267	BooksAndArticles	2	478	0	0	3.6	88718	46175	recent@econ|top@econ|recent@history	SIGNAL	When "Limited Government" Fails to Stop Cronyism and State-Sponsored Looting
+2026-08-06T03:29:11.391Z	1541229	bitcoin	1	348	0	4	4.8	1532836	142	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	39,600 BTC in transfers of less than 1 Bitcoin following the Coldcard incident.
+2026-08-06T03:29:11.391Z	1540937	AI	1	316	0	2	11.1	1	27029	recent@bitcoin_Mining|top@bitcoin_Mining|recent@AI	SIGNAL	New Texas data center projects frozen until state audits them
+2026-08-06T03:29:11.391Z	1540933	econ	2	230	0	4	11.2	280679	22732	recent@econ|top@econ	SIGNAL	Free Trade: The Consensus Is Growing
+2026-08-06T03:29:11.391Z	1540963	AskSN	2	203	0	2	10.4	792262	1727	recent@AskSN|top@AskSN	SIGNAL	Is this question on your minds? It's pounding in my brain!
+2026-08-06T03:29:11.391Z	1540928	Design	2	201	0	1	11.3	383547	3451	recent@Design|top@Design	SIGNAL	Dither it
+2026-08-06T03:29:11.391Z	1540942	AI	1	192	0	0	11.0	280679	22732	recent@AI|top@AI	SIGNAL	4 of Google’s Top AI Brains Are Leaving—and Launching Their Own AI Startup
+2026-08-06T03:29:11.391Z	1541049	Travel	3	161	0	1	9.3	984933	1912	recent@AskSN|top@AskSN	SIGNAL	Did you know that...?
+2026-08-06T03:29:11.391Z	1540949	AI	1	125	0	1	10.7	1054143	1076	recent@AI|top@AI	SIGNAL	China’s AI Blitz Creates ‘Death Zone’ for Rival US Model Makers
+2026-08-06T03:29:11.391Z	1540951	bitcoin	1	118	0	0	10.6	296825	5071	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	Just about the hack
+2026-08-06T03:29:11.391Z	1541097	bitcoin_beginners	1	103	0	0	8.6	263526	536	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	On-Chain vs. Lightning Network: Which Payment Layer Belongs at Your Checkout?
