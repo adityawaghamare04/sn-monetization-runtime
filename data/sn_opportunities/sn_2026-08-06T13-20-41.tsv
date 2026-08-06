@@ -1,0 +1,59 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1541453	meta	1	1532	0	2	0.8	51481	4114	recent@meta|top@meta	FRESH,HOT,SIGNAL	Stacker News Hat & What Bitcoin Did, Most Bullish Thing About Bitcoin Alex Thorn
+1541459	bitcoin	1	1036	0	1	0.7	724606	11944	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	Scar Tissue (The Bitcoin Layer, Johan Bergman)
+1541415	bitcoin	1	866	0	1	2.5	12393	458	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Quis verificat ipsos verificatores? Community criteria
+1541457	bitcoin	1	648	0	3	0.8	163128	3716	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Bitcoin Red Team update: 4,962 issues in 390 projects, 85 critical, 635 high sev
+1541448	tech	1	369	0	0	0.9	161788	10197	recent@tech|top@tech	FRESH,SIGNAL	How to Make a Nintendo 64 Game in 2026
+1541408	AI	1	278	0	0	3.1	934367	953	recent@AI|top@AI	SIGNAL	Will Codex Reset?
+1540813	bitcoin	1	10978	0	19	23.7	724606	11944	recent@bitcoin|top@bitcoin	HOT	The Nordic Node #7: The Day the Token Wars Came
+1541015	bitcoin	1	6409	0	35	19.5	48657	14524	recent@bitcoin|top@bitcoin	HOT	Is Bitcoin primarily a "lifestyle brand"?
+1541165	bitcoin	1	6232	0	6	16.8	102558	1117	recent@bitcoin|top@bitcoin	HOT	Node Runners what are you running?
+1541071	bitcoin	1	6010	0	0	18.9	1014665	221	recent@bitcoin|top@bitcoin	HOT	COLDCARD, CLN DoS, Stack Exchange - Bitcoin Optech Newsletter #416 Recap Podcast
+1541175	bitcoin	1	5360	0	0	16.3	934367	953	recent@bitcoin|top@bitcoin	HOT	joinmarket-clientserver makers with a fidelity bond need to restart periodically
+1541227	bitcoin	1	5275	0	9	14.8	28117	3542	recent@bitcoin|top@bitcoin	HOT	How CTV Covenant Enabled Vaults Could Have Protected Cold Card Victims
+1540905	math	2	5203	0	36	21.6	88718	46181	recent@bitcoin_beginners|top@bitcoin_beginners	HOT	[ELI5] How does low entropy hurt security?
+1540811	bitcoin	1	3645	0	17	23.7	14476	327	recent@bitcoin|top@bitcoin	HOT	There is not 1 single compelling evidence that this was a backdoor.
+1541180	lightning	1	3585	0	8	15.8	328486	4687	recent@lightning|top@lightning	HOT	Zeus infra temporarily offline following security incident
+1541116	meta	1	3089	0	9	17.8	1	27033	recent@meta|top@meta	HOT	SN release: attached wallet send and receive interface
+1540666	bitcoin_beginners	1	2364	0	15	29.6	166	37005	recent@bitcoin_beginners	HOT	How to refill your emptied LN channels without Boltz swaps
+1541262	bitcoin	1	2219	0	2	13.8	24585	362	recent@bitcoin|top@bitcoin|recent@lightning	HOT	Latest Strikes #31 - July 27 - August 2nd 2026 - Boltz, BIP110, & more!
+1540674	lightning	1	2213	0	10	28.5	163128	3716	recent@lightning	HOT	How to refill a SPEND wallet with Electrum's built-in swaps (no Boltz, no Node)
+1541127	news	2	2193	0	3	17.4	74100	11833	recent@bitcoin|top@bitcoin	HOT	wiz is looking for support to register .bitcoin top level domain
+1541104	bitcoin	1	1499	0	2	18.3	68842	627	recent@bitcoin|top@bitcoin	HOT	Bitcoin Toxic Maximalism Has Failed
+1540728	bitcoin	1	1495	0	2	26.2	223678	5926	recent@bitcoin	HOT	Turn retired Coldcards into open source SecretKeeper with custom firmware & NFC
+1541113	news	2	1348	0	9	17.9	74100	11833	recent@bitcoin|top@bitcoin	HOT,SELF_POST_OPP	"Having said all that… I’M NOT FUCKING LEAVING!"
+1540654	lightning	1	1276	0	1	30.4	263526	537	recent@lightning	HOT	What's going on with Lightning - AMBOSS Data Analysis
+1540885	bitcoin	1	1232	0	25	22.1	14476	327	recent@bitcoin|top@bitcoin	HOT	nvk deleting tweets as we speak. Backup and screenshoot interactions with him!
+1540682	lightning	1	1098	0	1	28.2	163128	3716	recent@lightning	HOT	How to refill your SPEND wallet with Phoenix and phoenixd (swaps without Boltz)
+1540731	bitcoin	1	969	0	2	25.9	30782	25353	recent@bitcoin		The Bitcoin Matrix - Hodlonaut
+1540627	bitcoin	1	869	0	7	32.2	14476	327	recent@bitcoin		Crazy OPRETURN to attackers address
+1541190	bitcoin	1	855	0	5	15.6	995395	86	recent@bitcoin|top@bitcoin		Defending funds on ColdCard with RBF transactions
+1541274	bitcoin	1	742	0	2	12.7	328486	4687	recent@bitcoin|top@bitcoin		Fireship covered the coldcard hack 🤣
+1540916	bitcoin	1	668	0	1	21.5	593189	849	top@bitcoin		south korean influencers got followers to use dice rolls for wallet entropy
+1540800	lightning	1	586	0	1	24.1	440729	222	recent@lightning		Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (0284a3153f3f198ca…)
+1541141	tech	1	487	0	4	17.3	1532699	53	recent@tech|top@tech		Motley Fool's new Double Down total conviction stock pick...
+1540845	AI	1	423	0	1	23.0	74100	11833	top@bitcoin|recent@AI|top@AI		Apply to have Loupe scan your FOSS bitcoin project’s repos for vulnerabilities
+1540676	lightning	1	421	0	3	28.4	163128	3716	recent@lightning		How to refill your LN channels with Lightning LOOP (`loop in`): step by step
+1541229	bitcoin	1	390	0	4	14.7	1532836	146	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		39,600 BTC in transfers of less than 1 Bitcoin following the Coldcard incident.
+1540875	meta	1	384	0	5	22.3	36151	1582	recent@meta|top@meta		What are you working on this week?
+1540937	AI	1	327	0	2	21.0	1	27032	recent@bitcoin_Mining|top@bitcoin_Mining|recent@AI		New Texas data center projects frozen until state audits them
+1540683	lightning	1	315	0	3	28.2	163128	3716	recent@lightning		How to refill a SPEND wallet with a RoboSats P2P swap (or with a trusted Friend)
+1540596	bitcoin	1	294	0	2	34.5	1532836	146	recent@bitcoin_beginners|recent@bitcoinplusplus		Stay away from the EXCHANGES, XD
+1540604	AI	1	269	0	3	34.3	1293586	2116	recent@AI		OK, Well, Rogue AI Agents Are Hacking Again
+1540592	AI	1	252	0	0	34.6	1293586	2116	recent@AI		Inside Trump's AI framework
+1540859	AI	1	230	0	3	22.7	280679	22735	recent@AI|top@AI		The end of the age of heroes
+1540753	AI	1	226	0	4	25.2	280679	22735	recent@AI		Running a 28.9M parameter LLM on ESP32
+1540942	AI	1	192	0	0	20.9	280679	22735	recent@AI|top@AI		4 of Google’s Top AI Brains Are Leaving—and Launching Their Own AI Startup
+1540797	bitcoin	1	166	0	2	24.2	1532836	146	recent@bitcoin_beginners|recent@bitcoinplusplus		El  café de los bitcoiners
+1540874	AI	1	153	0	5	22.4	1532699	53	recent@AI|top@AI		At what point does an AI become more influential than a teacher?
+1540949	AI	1	125	0	1	20.5	1054143	1079	recent@AI|top@AI		China’s AI Blitz Creates ‘Death Zone’ for Rival US Model Makers
+1541097	bitcoin_beginners	1	120	0	2	18.4	263526	537	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		On-Chain vs. Lightning Network: Which Payment Layer Belongs at Your Checkout?
+1540951	bitcoin	1	118	0	0	20.5	296825	5074	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		Just about the hack
+1541483	lightning	1	42	0	0	0.1	440729	222	recent@lightning|top@lightning	FRESH	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (03e5e0de00aa6bc39…)
+1541022	bitcoin	1	36	0	0	19.4	238412	212	recent@bitcoin_beginners|top@bitcoin_beginners		Exit Protocol
+1540657	bitcoinplusplus	1	36	0	0	30.0	356670	360	recent@bitcoinplusplus		Lightning + Bitrefill API + Replit + 1h = Functional E Sim Comparison App
+1540658	openagents	1	36	0	1	29.8	534967	226	recent@openagents		Episode 267: Immortal Infrastructure
+1541356	Travel	3	21	0	3	7.5	1464830	10	recent@lightning|top@lightning		Get your boarding pass into Google Wallet , all airlines, no app, no account
+1541481	bitcoin	1	0	0	0	0.1	296825	5074	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH	BlueWallet - Listed on Bitcoin.Org
+1541405	bitcoin	1	0	0	0	3.2	1054143	1079	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		Bitcoin steadies above $64,000 as traders watch $100 billion SpaceX unlock
+1541475	bitcoin	1	0	0	0	0.4	296825	5074	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH	Any device designe for Bitcoin users has strong incentive to operate maliciously
