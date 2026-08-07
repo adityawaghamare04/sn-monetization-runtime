@@ -26661,3 +26661,19 @@
 2026-08-07T13:12:25.646Z	1541990	bitcoin	1	172	0	1	10.7	1532836	156	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	An analogy between the marathon and Bitcoin
 2026-08-07T13:12:25.646Z	1541992	bitcoin	1	168	0	2	10.5	1532836	156	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	the Giveaway Bitaxe Gamma Hex
 2026-08-07T13:12:25.646Z	1542209	lightning	1	136	0	5	0.9	263526	543	recent@lightning|top@lightning	FRESH,SIGNAL	LNbits' EasySwap - simple LN ←→ Onchain swaps (powered by SparkL2)
+2026-08-07T13:23:52.806Z	1542268	bitcoin	1	5000	0	1	0.1	74100	11859	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	Embed *entire directories* of arbitrary data contiguously in BIP110 valid blocks
+2026-08-07T13:23:52.806Z	1542179	bitcoin	1	1234	0	3	1.8	1532836	156	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	FRESH,HOT,SIGNAL	Bitcoin data lost on exchanges vs. Coldcard incident
+2026-08-07T13:23:52.806Z	1542242	lol	2	714	10000	4	0.5	1242375	142	recent@AskSN|top@AskSN|recent@lol	OPEN_BOUNTY,LOW_COMP,FRESH,SIGNAL	10k sats for best prediction of Luke Dashjr's first tweet after block 961633
+2026-08-07T13:23:52.806Z	1542050	lightning	1	642	0	15	6.9	263526	543	recent@lightning|top@lightning	SIGNAL	Preparing for BIP-110 channels fork off
+2026-08-07T13:23:52.806Z	1542072	bitcoin	1	489	0	3	5.9	74100	11859	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Don't fall for replay attack scammers - Kevin Loaec
+2026-08-07T13:23:52.806Z	1542007	BooksAndArticles	2	395	0	5	10.0	1449902	662	recent@BooksAndArticles|top@BooksAndArticles	SIGNAL,SELF_POST_OPP	Thomas Sowell on Pacifism
+2026-08-07T13:23:52.806Z	1542135	history	2	333	0	0	3.0	4081	490	recent@history|top@history	SIGNAL	Guinness: 162-year-old bottle of stout found off the coast of Dover
+2026-08-07T13:23:52.806Z	1542173	bitcoin_beginners	1	285	0	1	2.0	30782	25367	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH,SIGNAL	Bitcoin Beginners Newsletter, Issue 111
+2026-08-07T13:23:52.806Z	1542165	lightning	1	261	0	0	2.3	280679	22772	recent@lightning|top@lightning	SIGNAL	Conditional Message Transfer Contract To Solve Jamming
+2026-08-07T13:23:52.807Z	1542152	bitcoin	1	243	0	1	2.6	74100	11859	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Bitcoin's BIP110 Moment: Three Possible Scenarios - Aaron van Wirdum
+2026-08-07T13:23:52.807Z	1542246	bitcoin	1	201	0	0	0.4	74100	11859	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	FRESH,SIGNAL	STARTING in 2 HOURS: AMA with Tyler Stevens, heatpunk!
+2026-08-07T13:23:52.807Z	1541990	bitcoin	1	172	0	1	10.9	1532836	156	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	An analogy between the marathon and Bitcoin
+2026-08-07T13:23:52.807Z	1541992	bitcoin	1	168	0	2	10.6	1532836	156	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	the Giveaway Bitaxe Gamma Hex
+2026-08-07T13:23:52.807Z	1541991	Stacker_Stocks	2	163	0	0	10.8	9274	25986	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	The value of history and pattern analysis
+2026-08-07T13:23:52.807Z	1542209	lightning	1	136	0	5	1.1	263526	543	recent@lightning|top@lightning	FRESH,SIGNAL	LNbits' EasySwap - simple LN ←→ Onchain swaps (powered by SparkL2)
+2026-08-07T13:23:52.807Z	1542079	lol	2	105	0	12	5.5	74100	11859	recent@lol|top@lol	SIGNAL	Coldcard issues "extremely important correction"
