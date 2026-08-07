@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-07T01:29:27.106Z; n=40
-show	hn	4.68	no	RISING
-tabconf	sn:events	4.12	no	RISING
-snirl	sn:events	4.12	no	RISING
-come	sn:events	4.12	no	RISING
-in real life	sn:events	4.12	no	RISING
+# generated 2026-08-07T05:39:41.461Z; n=40
+tabconf	sn:events	4.13	no	RISING
+snirl	sn:events	4.13	no	RISING
+come	sn:events	4.13	no	RISING
+in real life	sn:events	4.13	no	RISING
+kids	hn	3.83	no	RISING
 what	sn:bitcoin	3.65	yes	
 bitcoin	sn:bitcoin	3.65	yes	
-rasperarrium	sn:art	3.52	yes	
-raspberrarium	sn:art	3.52	yes	
-first	sn:nostr	3.47	yes	
-cochise county freedom tech meetup	sn:nostr	3.47	yes	
-scar tissue	sn:bitcoin	3.45	yes	
-the bitcoin layer	sn:bitcoin	3.45	yes	
-johan bergman	sn:bitcoin	3.45	yes	
-slim jim	sn:bitcoin	3.45	yes	
-kruw	sn:bitcoin	3.26	yes	
-wasabi	sn:bitcoin	3.26	yes	
-upcoming forks	sn:bitcoin	3.26	yes	
+rasperarrium	sn:art	3.53	yes	
+raspberrarium	sn:art	3.53	yes	
+first	sn:nostr	3.48	yes	
+cochise county freedom tech meetup	sn:nostr	3.48	yes	
+scar tissue	sn:bitcoin	3.46	yes	
+the bitcoin layer	sn:bitcoin	3.46	yes	
+johan bergman	sn:bitcoin	3.46	yes	
+slim jim	sn:bitcoin	3.46	yes	
+generating	sn:bitcoin	3.37	yes	
+kruw	sn:bitcoin	3.27	yes	
+wasabi	sn:bitcoin	3.27	yes	
+upcoming forks	sn:bitcoin	3.27	yes	
 stacker news hat	sn:meta	3.21	yes	
 what bitcoin did	sn:meta	3.21	yes	
 most bullish thing about bitcoin alex thorn	sn:meta	3.21	yes	
-compilation	sn:videos	3.16	no	RISING
-question	sn:bitcoin	3.11	yes	
-generating	sn:bitcoin	3.04	yes	
+compilation	sn:videos	3.18	no	RISING
+question	sn:bitcoin	3.13	yes	
 malice	sn:bitcoin	3.02	yes	
 incompetence	sn:bitcoin	3.02	yes	
 quis	sn:bitcoin	3	yes	
 community	sn:bitcoin	3	yes	
 the rise	sn:food_and_drinks	2.99	no	RISING
 hot dog	sn:food_and_drinks	2.99	no	RISING
-mario meets pareto	hn	2.94	no	RISING
-security	sn:the_stacker_muse	2.92	yes	
+mario meets pareto	hn	2.98	no	RISING
+security	sn:the_stacker_muse	2.94	yes	
 bitcoin red team	sn:bitcoin	2.88	yes	
-daily putt	sn:gaming	2.88	no	RISING
-play	sn:gaming	2.88	no	RISING
-putt	sn:gaming	2.88	no	RISING
-score	sn:gaming	2.88	no	RISING
 biggest channel opened today	sn:lightning	2.87	no	RISING
 new node spotlight	sn:lightning	2.87	no	RISING
 professor	sn:Education	2.85	no	RISING
+resignation over plagiarism probe puts cambridge	sn:Education	2.85	no	RISING
+spotlight	sn:Education	2.85	no	RISING
+canary sensationalism	sn:security	2.85	yes	
+bitcoin forks history recap	sn:bitcoin	2.85	yes	
