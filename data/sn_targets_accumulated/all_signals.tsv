@@ -27142,3 +27142,46 @@
 2026-08-07T22:19:52.650Z	1542266	lightning	1	158	0	1	9.1	440729	223	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (4.0 BTC) + New Node Spotlight (03175b6475e63e7f9…)
 2026-08-07T22:19:52.650Z	1542252	AI	1	157	0	1	9.3	1490792	395	recent@AI|top@AI	SIGNAL	J.Dean, other top AI researchers are leaving Google to launch their own startup
 2026-08-07T22:19:52.650Z	1542579	AI	1	122	0	0	5.1	1054143	1084	recent@AI|top@AI	SIGNAL	China extends trade boom as global AI tech demand surges
+2026-08-07T22:49:43.918Z	1542491	bitcoin	1	13284	0	44	6.9	328486	4703	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Critical: BTCPay Exploit in the wild
+2026-08-07T22:49:43.918Z	1542814	bitcoin	1	7441	0	6	0.7	81644	1110	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	BIP-110 Code Review
+2026-08-07T22:49:43.918Z	1542390	AMA	2	7329	0	62	7.9	1542372	31	recent@AMA|top@AMA	HOT,SIGNAL	Hi, I'm Tyler, Instigator of the Heatpunk movement - AMA!
+2026-08-07T22:49:43.918Z	1542268	bitcoin	1	6419	0	17	9.5	74100	11878	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Embed *entire directories* of arbitrary data contiguously in BIP110 valid blocks
+2026-08-07T22:49:43.918Z	1542402	bitcoin	1	3391	0	11	7.8	68842	629	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	c-otto.de - slowly shutting down
+2026-08-07T22:49:43.918Z	1542768	lol	2	2384	0	13	1.8	74100	11878	recent@lol|top@lol	FRESH,HOT,SIGNAL,SELF_POST_OPP	Paul Sztorc's ecash launch date delayed
+2026-08-07T22:49:43.918Z	1542483	bitcoin	1	2139	0	2	6.9	74100	11878	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Forkwatch — Live BIP-110 / RDTS Fork Tracker
+2026-08-07T22:49:43.918Z	1542555	HealthAndFitness	3	2048	0	6	6.0	724606	11985	recent@econ|top@econ	HOT,SIGNAL,SELF_POST_OPP	Where To Go in a Global Catastrophe? The Billionaires Know (FT, Ciara Nugent)
+2026-08-07T22:49:43.918Z	1542242	lol	2	1974	10000	15	9.9	1242375	146	recent@AskSN|top@AskSN|recent@lol	OPEN_BOUNTY,HOT,SIGNAL,SELF_POST_OPP	10k sats for best prediction of Luke Dashjr's first tweet after block 961633
+2026-08-07T22:49:43.918Z	1542541	tech	1	1591	0	0	6.2	1245155	214	recent@tech|top@tech	HOT,SIGNAL	Found a cool Starship Tracker
+2026-08-07T22:49:43.918Z	1542535	AI	1	1486	0	4	6.3	48657	14578	recent@AI|top@AI|recent@AskSN	HOT,SIGNAL	AI and Human Collaborators:  A new frontier of social dynamics?
+2026-08-07T22:49:43.918Z	1542179	bitcoin	1	1379	0	7	11.2	1532836	161	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	Bitcoin data lost on exchanges vs. Coldcard incident
+2026-08-07T22:49:43.918Z	1542731	bitcoin_beginners	1	1325	0	4	2.5	1278026	730	recent@bitcoin_beginners|top@bitcoin_beginners	HOT,SIGNAL	The Bitfluencer effect
+2026-08-07T22:49:43.918Z	1542342	science	2	1122	0	3	8.5	724606	11985	recent@science|top@science|recent@BooksAndArticles	HOT,SIGNAL	Sasquatch Science: The Hunt for Bigfoot (AEON, Bartless & Lewis)
+2026-08-07T22:49:43.918Z	1542310	AskSN	2	1118	0	18	8.9	900202	2637	recent@AskSN|top@AskSN|recent@podcasts	HOT,SIGNAL,SELF_POST_OPP	Is this good for bitcoin? 667k viewed Saylor on Diary of a CEO
+2026-08-07T22:49:43.918Z	1542722	tech	1	1100	0	1	2.8	296825	5084	recent@tech|top@tech	HOT,SIGNAL	Signal app on registration without a phone number. But what form will it take?
+2026-08-07T22:49:43.918Z	1542230	bitcoin	1	1079	0	0	10.2	1014665	222	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Stale tip messages, changing consensus - Bitcoin Optech Newsletter #417
+2026-08-07T22:49:43.918Z	1542747	bitcoin	1	1053	0	0	2.2	74100	11878	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	Anzen: Bitcoin’s Self-Custody Trilemma - Luke Childs
+2026-08-07T22:49:43.918Z	1542290	Politics_And_Law	3	991	0	3	9.2	724606	11985	recent@econ|top@econ	SIGNAL	Winners, Losers, and Political Economy (Economic Forces, Josh Hendrickson)
+2026-08-07T22:49:43.918Z	1542511	security	1	953	0	2	6.7	996769	44	recent@bitcoin|top@bitcoin|recent@bitdevs	SIGNAL	NEW: Trezor's CTO on the Cold Card Hack: Randomness, Trust, and What Comes Next
+2026-08-07T22:49:43.918Z	1542318	DIY	3	952	0	0	8.9	280679	22782	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	3D-Printed Bitcoin Mining Parts: Free STL Files Worth Printing
+2026-08-07T22:49:43.918Z	1542696	lol	2	673	0	3	3.3	88988	46492	recent@lol|top@lol	SIGNAL	Found NVK’s hideout
+2026-08-07T22:49:43.918Z	1542692	AI	1	537	0	0	3.4	28638	255	recent@AI|top@AI	SIGNAL	The End Of The Closed-Source Era Is At Hand: Obscurity Was Never Security
+2026-08-07T22:49:43.918Z	1542349	AI	1	440	0	4	8.5	280679	22782	recent@AI|top@AI	SIGNAL	ByteDance trains massive AI model in bid to rival Anthropic
+2026-08-07T22:49:43.918Z	1542771	bitcoin	1	432	0	0	1.7	144357	4442	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	AI Is Finding Bitcoin Vulnerabilities | SNL #236
+2026-08-07T22:49:43.918Z	1542478	AskSN	2	414	0	4	7.0	988069	278	recent@AskSN|top@AskSN	SIGNAL	So, really what do y'all think?
+2026-08-07T22:49:43.918Z	1542173	bitcoin_beginners	1	409	0	1	11.4	30782	25377	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Bitcoin Beginners Newsletter, Issue 111
+2026-08-07T22:49:43.918Z	1542693	science	2	398	0	0	3.4	401865	8352	recent@science|top@science	SIGNAL	NASA Extends Voyager II Instrument Life With "Big Bang" Update
+2026-08-07T22:49:43.918Z	1542564	bitcoin	1	350	0	1	5.9	223678	5935	recent@bitcoin|top@bitcoin	SIGNAL	Coinkite suspends customer data blanking
+2026-08-07T22:49:43.918Z	1542445	math	2	345	0	2	7.4	280679	22782	recent@bitcoinplusplus|top@bitcoinplusplus|recent@math	SIGNAL	Formal Functional Correctness of libsecp256k1's Modular Inverse—Russell O’Connor
+2026-08-07T22:49:43.918Z	1542301	econ	2	330	0	2	9.0	402772	22184	recent@econ|top@econ	SIGNAL	U.S. economy unexpectedly lost 23,000 jobs in July
+2026-08-07T22:49:43.918Z	1542165	lightning	1	285	0	0	11.7	280679	22782	recent@lightning|top@lightning	SIGNAL	Conditional Message Transfer Contract To Solve Jamming
+2026-08-07T22:49:43.918Z	1542706	BooksAndArticles	2	282	0	6	3.2	166	37093	recent@BooksAndArticles|top@BooksAndArticles	SIGNAL,SELF_POST_OPP	From “Designed Viruses” to “Digital Telepathy” – AI Panic Kicks into Overdrive
+2026-08-07T22:49:43.918Z	1542620	charts_and_maps	2	250	0	0	4.9	984933	1948	recent@charts_and_maps|top@charts_and_maps	SIGNAL	Chinese cars are on their way to dominating the Brazilian market.
+2026-08-07T22:49:43.918Z	1542424	AskSN	2	218	0	3	7.6	984933	1948	recent@AskSN|top@AskSN	SIGNAL	What is the Pic OT of the week?
+2026-08-07T22:49:43.918Z	1542645	AI	1	214	0	0	4.5	12315	2413	recent@AI|top@AI	SIGNAL	Gemini is Cooked but GCP is Cooking
+2026-08-07T22:49:43.918Z	1542234	security	1	207	0	0	10.1	984933	1948	recent@security|top@security|recent@devs	SIGNAL	Major Shai Hulud campaign strikes npm again, affecting keyv and 400+ packages
+2026-08-07T22:49:43.918Z	1542209	lightning	1	196	0	6	10.6	263526	544	recent@lightning|top@lightning	SIGNAL	LNbits' EasySwap - simple LN ←→ Onchain swaps (powered by SparkL2)
+2026-08-07T22:49:43.918Z	1542581	charts_and_maps	2	193	0	8	5.6	328182	3828	recent@econ|top@econ|recent@charts_and_maps	SIGNAL	Europe Was Once Bigger Than the U.S. Economy. What Happened?
+2026-08-07T22:49:43.918Z	1542266	lightning	1	158	0	1	9.6	440729	223	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (4.0 BTC) + New Node Spotlight (03175b6475e63e7f9…)
+2026-08-07T22:49:43.918Z	1542252	AI	1	157	0	1	9.8	1490792	395	recent@AI|top@AI|recent@news	SIGNAL	J.Dean, other top AI researchers are leaving Google to launch their own startup
+2026-08-07T22:49:43.918Z	1542287	news	2	124	0	0	9.2	402772	22184	recent@news|top@news	SIGNAL	Pentagon releases 5th batch of UFO files, with 41 more documents and videos
+2026-08-07T22:49:43.918Z	1542579	AI	1	122	0	0	5.6	1054143	1085	recent@AI|top@AI|recent@econ	SIGNAL	China extends trade boom as global AI tech demand surges
