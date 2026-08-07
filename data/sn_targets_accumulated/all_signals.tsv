@@ -26713,3 +26713,18 @@
 2026-08-07T15:04:10.499Z	1542266	lightning	1	158	0	1	1.8	440729	223	recent@lightning|top@lightning	FRESH,SIGNAL	Biggest Channel Opened Today (4.0 BTC) + New Node Spotlight (03175b6475e63e7f9…)
 2026-08-07T15:04:10.499Z	1542349	AI	1	125	0	0	0.7	280679	22780	recent@AI|top@AI	FRESH,SIGNAL	ByteDance trains massive AI model in bid to rival Anthropic
 2026-08-07T15:04:10.499Z	1542252	AI	1	100	0	0	2.0	1490792	395	recent@AI|top@AI|recent@news	SIGNAL	J.Dean, other top AI researchers are leaving Google to launch their own startup
+2026-08-07T15:26:24.093Z	1542268	bitcoin	1	5883	0	15	2.1	74100	11871	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Embed *entire directories* of arbitrary data contiguously in BIP110 valid blocks
+2026-08-07T15:26:24.094Z	1542179	bitcoin	1	1302	0	4	3.8	1532836	156	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	Bitcoin data lost on exchanges vs. Coldcard incident
+2026-08-07T15:26:24.094Z	1542072	bitcoin	1	1184	0	3	8.0	74100	11871	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	Don't fall for replay attack scammers - Kevin Loaec
+2026-08-07T15:26:24.094Z	1542230	bitcoin	1	1058	0	0	2.8	1014665	222	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Stale tip messages, changing consensus - Bitcoin Optech Newsletter #417
+2026-08-07T15:26:24.094Z	1542152	bitcoin	1	922	0	2	4.6	74100	11871	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Bitcoin's BIP110 Moment: Three Possible Scenarios - Aaron van Wirdum
+2026-08-07T15:26:24.094Z	1542050	lightning	1	642	0	16	8.9	263526	544	recent@lightning|top@lightning	SIGNAL	Preparing for BIP-110 channels fork off
+2026-08-07T15:26:24.094Z	1542079	lol	2	331	0	12	7.6	74100	11871	recent@bitcoin|top@bitcoin	SIGNAL,SELF_POST_OPP	Coldcard issues "extremely important correction"
+2026-08-07T15:26:24.094Z	1542173	bitcoin_beginners	1	325	0	1	4.0	30782	25373	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Bitcoin Beginners Newsletter, Issue 111
+2026-08-07T15:26:24.094Z	1542318	DIY	3	281	0	0	1.5	280679	22781	recent@bitcoin_Mining|top@bitcoin_Mining	FRESH,SIGNAL	3D-Printed Bitcoin Mining Parts: Free STL Files Worth Printing
+2026-08-07T15:26:24.094Z	1542165	lightning	1	261	0	0	4.4	280679	22781	recent@lightning|top@lightning	SIGNAL	Conditional Message Transfer Contract To Solve Jamming
+2026-08-07T15:26:24.094Z	1542209	lightning	1	196	0	6	3.2	263526	544	recent@lightning|top@lightning	SIGNAL	LNbits' EasySwap - simple LN ←→ Onchain swaps (powered by SparkL2)
+2026-08-07T15:26:24.094Z	1542266	lightning	1	158	0	1	2.2	440729	223	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (4.0 BTC) + New Node Spotlight (03175b6475e63e7f9…)
+2026-08-07T15:26:24.094Z	1542252	AI	1	136	0	0	2.4	1490792	395	recent@AI|top@AI	SIGNAL	J.Dean, other top AI researchers are leaving Google to launch their own startup
+2026-08-07T15:26:24.094Z	1542349	AI	1	125	0	0	1.1	280679	22781	recent@AI|top@AI	FRESH,SIGNAL	ByteDance trains massive AI model in bid to rival Anthropic
+2026-08-07T15:26:24.094Z	1542402	bitcoin	1	100	0	1	0.4	68842	629	recent@lightning|top@lightning	FRESH,SIGNAL	c-otto.de - slowly shutting down
