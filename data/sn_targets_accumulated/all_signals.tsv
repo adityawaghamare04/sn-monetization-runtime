@@ -26652,3 +26652,12 @@
 2026-08-07T11:58:05.099Z	1541990	bitcoin	1	172	0	1	9.4	1532836	156	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	An analogy between the marathon and Bitcoin
 2026-08-07T11:58:05.099Z	1541992	bitcoin	1	168	0	2	9.2	1532836	156	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	the Giveaway Bitaxe Gamma Hex
 2026-08-07T11:58:05.099Z	1542165	lightning	1	125	0	0	0.9	280679	22765	recent@lightning|top@lightning	FRESH,SIGNAL	Conditional Message Transfer Contract To Solve Jamming
+2026-08-07T13:12:25.646Z	1542179	bitcoin	1	1234	0	3	1.6	1532836	156	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	FRESH,HOT,SIGNAL	Bitcoin data lost on exchanges vs. Coldcard incident
+2026-08-07T13:12:25.646Z	1542050	lightning	1	642	0	15	6.7	263526	543	recent@lightning|top@lightning	SIGNAL	Preparing for BIP-110 channels fork off
+2026-08-07T13:12:25.646Z	1542072	bitcoin	1	489	0	3	5.7	74100	11858	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Don't fall for replay attack scammers - Kevin Loaec
+2026-08-07T13:12:25.646Z	1542173	bitcoin_beginners	1	285	0	1	1.8	30782	25366	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH,SIGNAL	Bitcoin Beginners Newsletter, Issue 111
+2026-08-07T13:12:25.646Z	1542165	lightning	1	261	0	0	2.1	280679	22772	recent@lightning|top@lightning	SIGNAL	Conditional Message Transfer Contract To Solve Jamming
+2026-08-07T13:12:25.646Z	1542152	bitcoin	1	243	0	1	2.4	74100	11858	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Bitcoin's BIP110 Moment: Three Possible Scenarios - Aaron van Wirdum
+2026-08-07T13:12:25.646Z	1541990	bitcoin	1	172	0	1	10.7	1532836	156	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	An analogy between the marathon and Bitcoin
+2026-08-07T13:12:25.646Z	1541992	bitcoin	1	168	0	2	10.5	1532836	156	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	the Giveaway Bitaxe Gamma Hex
+2026-08-07T13:12:25.646Z	1542209	lightning	1	136	0	5	0.9	263526	543	recent@lightning|top@lightning	FRESH,SIGNAL	LNbits' EasySwap - simple LN ←→ Onchain swaps (powered by SparkL2)
