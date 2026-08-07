@@ -26757,3 +26757,23 @@
 2026-08-07T16:05:25.660Z	1542349	AI	1	146	0	0	1.7	280679	22782	recent@AI|top@AI	FRESH,SIGNAL	ByteDance trains massive AI model in bid to rival Anthropic
 2026-08-07T16:05:25.660Z	1542445	math	2	138	0	0	0.7	280679	22782	recent@bitcoinplusplus|top@bitcoinplusplus|recent@math	FRESH,SIGNAL	Formal Functional Correctness of libsecp256k1's Modular Inverse—Russell O’Connor
 2026-08-07T16:05:25.660Z	1542287	news	2	124	0	0	2.5	402772	22184	recent@news|top@news	SIGNAL	Pentagon releases 5th batch of UFO files, with 41 more documents and videos
+2026-08-07T16:24:45.941Z	1542268	bitcoin	1	5904	0	15	3.1	74100	11874	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Embed *entire directories* of arbitrary data contiguously in BIP110 valid blocks
+2026-08-07T16:24:45.941Z	1542491	bitcoin	1	2394	0	4	0.5	328486	4693	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	Critical: BTCPay Exploit in the wild
+2026-08-07T16:24:45.941Z	1542179	bitcoin	1	1323	0	4	4.8	1532836	156	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	Bitcoin data lost on exchanges vs. Coldcard incident
+2026-08-07T16:24:45.941Z	1542483	bitcoin	1	1210	0	0	0.5	74100	11874	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	Forkwatch — Live BIP-110 / RDTS Fork Tracker
+2026-08-07T16:24:45.941Z	1542072	bitcoin	1	1205	0	3	8.9	74100	11874	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	Don't fall for replay attack scammers - Kevin Loaec
+2026-08-07T16:24:45.941Z	1542402	bitcoin	1	1179	0	2	1.3	68842	629	recent@bitcoin|top@bitcoin|recent@lightning	FRESH,HOT,SIGNAL	c-otto.de - slowly shutting down
+2026-08-07T16:24:45.941Z	1542230	bitcoin	1	1079	0	0	3.8	1014665	222	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Stale tip messages, changing consensus - Bitcoin Optech Newsletter #417
+2026-08-07T16:24:45.942Z	1542152	bitcoin	1	943	0	2	5.6	74100	11874	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Bitcoin's BIP110 Moment: Three Possible Scenarios - Aaron van Wirdum
+2026-08-07T16:24:45.942Z	1542318	DIY	3	662	0	0	2.5	280679	22782	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	3D-Printed Bitcoin Mining Parts: Free STL Files Worth Printing
+2026-08-07T16:24:45.942Z	1542050	lightning	1	642	0	16	9.9	263526	544	recent@lightning|top@lightning	SIGNAL	Preparing for BIP-110 channels fork off
+2026-08-07T16:24:45.942Z	1542173	bitcoin_beginners	1	409	0	1	5.0	30782	25373	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Bitcoin Beginners Newsletter, Issue 111
+2026-08-07T16:24:45.942Z	1542349	AI	1	373	0	1	2.0	280679	22782	recent@AI|top@AI	SIGNAL	ByteDance trains massive AI model in bid to rival Anthropic
+2026-08-07T16:24:45.942Z	1542079	lol	2	331	0	12	8.5	74100	11874	recent@bitcoin|top@bitcoin	SIGNAL,SELF_POST_OPP	Coldcard issues "extremely important correction"
+2026-08-07T16:24:45.942Z	1542165	lightning	1	261	0	0	5.3	280679	22782	recent@lightning|top@lightning	SIGNAL	Conditional Message Transfer Contract To Solve Jamming
+2026-08-07T16:24:45.942Z	1542511	security	1	250	0	0	0.3	996769	44	recent@bitcoin|top@bitcoin|recent@bitdevs	FRESH,SIGNAL	NEW: Trezor's CTO on the Cold Card Hack: Randomness, Trust, and What Comes Next
+2026-08-07T16:24:45.942Z	1542234	security	1	207	0	0	3.7	984933	1944	recent@security|top@security|recent@devs	SIGNAL	Major Shai Hulud campaign strikes npm again, affecting keyv and 400+ packages
+2026-08-07T16:24:45.942Z	1542209	lightning	1	196	0	6	4.1	263526	544	recent@lightning|top@lightning	SIGNAL	LNbits' EasySwap - simple LN ←→ Onchain swaps (powered by SparkL2)
+2026-08-07T16:24:45.942Z	1542266	lightning	1	158	0	1	3.2	440729	223	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (4.0 BTC) + New Node Spotlight (03175b6475e63e7f9…)
+2026-08-07T16:24:45.942Z	1542252	AI	1	157	0	1	3.4	1490792	395	recent@AI|top@AI	SIGNAL	J.Dean, other top AI researchers are leaving Google to launch their own startup
+2026-08-07T16:24:45.942Z	1542445	math	2	138	0	0	1.0	280679	22782	recent@bitcoinplusplus|top@bitcoinplusplus	FRESH,SIGNAL	Formal Functional Correctness of libsecp256k1's Modular Inverse—Russell O’Connor
