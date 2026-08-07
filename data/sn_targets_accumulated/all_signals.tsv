@@ -26691,3 +26691,25 @@
 2026-08-07T14:18:56.219Z	1541992	bitcoin	1	168	0	2	11.6	1532836	156	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	the Giveaway Bitaxe Gamma Hex
 2026-08-07T14:18:56.219Z	1542266	lightning	1	158	0	1	1.1	440729	223	recent@lightning|top@lightning	FRESH,SIGNAL	Biggest Channel Opened Today (4.0 BTC) + New Node Spotlight (03175b6475e63e7f9…)
 2026-08-07T14:18:56.219Z	1542252	AI	1	100	0	0	1.3	1490792	395	recent@AI|top@AI	FRESH,SIGNAL	J.Dean, other top AI researchers are leaving Google to launch their own startup
+2026-08-07T15:04:10.498Z	1542268	bitcoin	1	5883	0	15	1.8	74100	11866	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	Embed *entire directories* of arbitrary data contiguously in BIP110 valid blocks
+2026-08-07T15:04:10.498Z	1542390	AMA	2	2186	0	3	0.1	1542372	3	recent@AMA|top@AMA	FRESH,HOT,SIGNAL	Hi, I'm Tyler, Instigator of the Heatpunk movement - AMA!
+2026-08-07T15:04:10.498Z	1542242	lol	2	1805	10000	11	2.2	1242375	142	recent@AskSN|top@AskSN|recent@lol	OPEN_BOUNTY,HOT,SIGNAL,SELF_POST_OPP	10k sats for best prediction of Luke Dashjr's first tweet after block 961633
+2026-08-07T15:04:10.498Z	1542179	bitcoin	1	1302	0	3	3.4	1532836	156	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	Bitcoin data lost on exchanges vs. Coldcard incident
+2026-08-07T15:04:10.498Z	1542072	bitcoin	1	1184	0	3	7.6	74100	11866	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	Don't fall for replay attack scammers - Kevin Loaec
+2026-08-07T15:04:10.498Z	1542342	science	2	1101	0	3	0.8	724606	11967	recent@science|top@science|recent@BooksAndArticles	FRESH,HOT,SIGNAL	Sasquatch Science: The Hunt for Bigfoot (AEON, Bartless & Lewis)
+2026-08-07T15:04:10.498Z	1542230	bitcoin	1	1058	0	0	2.4	1014665	222	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Stale tip messages, changing consensus - Bitcoin Optech Newsletter #417
+2026-08-07T15:04:10.498Z	1542290	Politics_And_Law	3	970	0	3	1.4	724606	11967	recent@econ|top@econ	FRESH,SIGNAL	Winners, Losers, and Political Economy (Economic Forces, Josh Hendrickson)
+2026-08-07T15:04:10.498Z	1542310	AskSN	2	936	0	15	1.2	900202	2634	recent@AskSN|top@AskSN|recent@podcasts	FRESH,SIGNAL,SELF_POST_OPP	Is this good for bitcoin? 667k viewed Saylor on Diary of a CEO
+2026-08-07T15:04:10.498Z	1542152	bitcoin	1	922	0	2	4.3	74100	11866	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Bitcoin's BIP110 Moment: Three Possible Scenarios - Aaron van Wirdum
+2026-08-07T15:04:10.498Z	1542050	lightning	1	642	0	15	8.6	263526	544	recent@lightning|top@lightning	SIGNAL	Preparing for BIP-110 channels fork off
+2026-08-07T15:04:10.498Z	1542135	history	2	579	0	0	4.7	4081	490	recent@history|top@history	SIGNAL	Guinness: 162-year-old bottle of stout found off the coast of Dover
+2026-08-07T15:04:10.498Z	1542007	BooksAndArticles	2	395	0	5	11.7	1449902	662	recent@BooksAndArticles|top@BooksAndArticles	SIGNAL,SELF_POST_OPP	Thomas Sowell on Pacifism
+2026-08-07T15:04:10.498Z	1542173	bitcoin_beginners	1	325	0	1	3.6	30782	25371	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Bitcoin Beginners Newsletter, Issue 111
+2026-08-07T15:04:10.498Z	1542079	lol	2	295	0	12	7.2	74100	11866	recent@bitcoin|top@bitcoin|recent@lol	SIGNAL,SELF_POST_OPP	Coldcard issues "extremely important correction"
+2026-08-07T15:04:10.498Z	1542165	lightning	1	261	0	0	4.0	280679	22780	recent@lightning|top@lightning	SIGNAL	Conditional Message Transfer Contract To Solve Jamming
+2026-08-07T15:04:10.498Z	1542318	DIY	3	245	0	0	1.1	280679	22780	recent@bitcoin_Mining|top@bitcoin_Mining	FRESH,SIGNAL	3D-Printed Bitcoin Mining Parts: Free STL Files Worth Printing
+2026-08-07T15:04:10.498Z	1542209	lightning	1	196	0	6	2.8	263526	544	recent@lightning|top@lightning	SIGNAL	LNbits' EasySwap - simple LN ←→ Onchain swaps (powered by SparkL2)
+2026-08-07T15:04:10.498Z	1542105	Stacker_Stocks	2	179	0	7	5.3	9274	25990	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Daily Stock Discussion ~Stacker_Stocks
+2026-08-07T15:04:10.499Z	1542266	lightning	1	158	0	1	1.8	440729	223	recent@lightning|top@lightning	FRESH,SIGNAL	Biggest Channel Opened Today (4.0 BTC) + New Node Spotlight (03175b6475e63e7f9…)
+2026-08-07T15:04:10.499Z	1542349	AI	1	125	0	0	0.7	280679	22780	recent@AI|top@AI	FRESH,SIGNAL	ByteDance trains massive AI model in bid to rival Anthropic
+2026-08-07T15:04:10.499Z	1542252	AI	1	100	0	0	2.0	1490792	395	recent@AI|top@AI|recent@news	SIGNAL	J.Dean, other top AI researchers are leaving Google to launch their own startup
