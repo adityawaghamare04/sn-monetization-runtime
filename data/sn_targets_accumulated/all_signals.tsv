@@ -27302,3 +27302,38 @@
 2026-08-08T01:53:43.793Z	1542861	security	1	196	0	0	3.1	553	3516	recent@bitcoin|top@bitcoin|recent@security	SIGNAL	Anzen - 2 of 2 bitcoin wallet and vault scheme
 2026-08-08T01:53:43.793Z	1542869	bitcoin	1	151	0	0	2.4	1532836	166	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus	SIGNAL	85 critical flaws discovered in the Bitcoin ecosystem
 2026-08-08T01:53:43.793Z	1542579	AI	1	122	0	0	8.7	1054143	1085	recent@AI|top@AI	SIGNAL	China extends trade boom as global AI tech demand surges
+2026-08-08T02:13:34.889Z	1542491	bitcoin	1	13396	0	47	10.3	328486	4703	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Critical: BTCPay Exploit in the wild
+2026-08-08T02:13:34.889Z	1542814	bitcoin	1	9719	0	8	4.1	81644	1110	recent@bitcoin|top@bitcoin	HOT,SIGNAL	BIP-110 Code Review
+2026-08-08T02:13:34.889Z	1542390	AMA	2	8299	0	62	11.3	1542372	31	recent@AMA|top@AMA	HOT,SIGNAL	Hi, I'm Tyler, Instigator of the Heatpunk movement - AMA!
+2026-08-08T02:13:34.889Z	1542402	bitcoin	1	4571	0	11	11.2	68842	629	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	c-otto.de - slowly shutting down
+2026-08-08T02:13:34.889Z	1542768	lol	2	3518	0	15	5.2	74100	11878	recent@lol|top@lol	HOT,SIGNAL,SELF_POST_OPP	Paul Sztorc's ecash launch date delayed
+2026-08-08T02:13:34.889Z	1542483	bitcoin	1	2150	0	2	10.3	74100	11878	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Forkwatch — Live BIP-110 / RDTS Fork Tracker
+2026-08-08T02:13:34.889Z	1542747	bitcoin	1	2092	0	1	5.6	74100	11878	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	Anzen: Bitcoin’s Self-Custody Trilemma - Luke Childs
+2026-08-08T02:13:34.889Z	1542555	HealthAndFitness	3	2059	0	6	9.3	724606	11985	recent@econ|top@econ	HOT,SIGNAL,SELF_POST_OPP	Where To Go in a Global Catastrophe? The Billionaires Know (FT, Ciara Nugent)
+2026-08-08T02:13:34.889Z	1542541	tech	1	1591	0	1	9.6	1245155	214	recent@tech|top@tech	HOT,SIGNAL	Found a cool Starship Tracker
+2026-08-08T02:13:34.889Z	1542535	AI	1	1566	0	4	9.7	48657	14579	recent@AI|top@AI|recent@AskSN	HOT,SIGNAL	AI and Human Collaborators:  A new frontier of social dynamics?
+2026-08-08T02:13:34.889Z	1542731	bitcoin_beginners	1	1386	0	4	5.9	1278026	730	recent@bitcoin_beginners|top@bitcoin_beginners	HOT,SIGNAL	The Bitfluencer effect
+2026-08-08T02:13:34.890Z	1542909	lightning	1	1333	0	0	0.7	223678	5936	recent@lightning|top@lightning	FRESH,HOT,SIGNAL	privacy of lightning loop
+2026-08-08T02:13:34.890Z	1542722	tech	1	1235	0	2	6.2	296825	5084	recent@tech|top@tech	HOT,SIGNAL	Signal app on registration without a phone number. But what form will it take?
+2026-08-08T02:13:34.890Z	1542342	science	2	1122	0	3	11.9	724606	11985	recent@science|top@science|recent@BooksAndArticles	HOT,SIGNAL	Sasquatch Science: The Hunt for Bigfoot (AEON, Bartless & Lewis)
+2026-08-08T02:13:34.890Z	1542511	security	1	953	0	2	10.1	996769	44	recent@bitcoin|top@bitcoin|recent@bitdevs	SIGNAL	NEW: Trezor's CTO on the Cold Card Hack: Randomness, Trust, and What Comes Next
+2026-08-08T02:13:34.890Z	1542696	lol	2	758	0	4	6.7	88988	46498	recent@lol|top@lol	SIGNAL	Found NVK’s hideout
+2026-08-08T02:13:34.890Z	1542906	charts_and_maps	2	742	0	1	0.8	1	27050	recent@charts_and_maps|top@charts_and_maps	FRESH,SIGNAL	Authenticity of avocado and olive oils used in commercially processed foods
+2026-08-08T02:13:34.890Z	1542771	bitcoin	1	616	0	0	5.1	144357	4442	recent@bitcoin|top@bitcoin	SIGNAL	AI Is Finding Bitcoin Vulnerabilities | SNL #236
+2026-08-08T02:13:34.890Z	1542692	AI	1	558	0	0	6.8	28638	255	recent@AI|top@AI	SIGNAL	The End Of The Closed-Source Era Is At Hand: Obscurity Was Never Security
+2026-08-08T02:13:34.890Z	1542349	AI	1	440	0	4	11.9	280679	22782	recent@AI|top@AI	SIGNAL	ByteDance trains massive AI model in bid to rival Anthropic
+2026-08-08T02:13:34.890Z	1542478	AskSN	2	414	0	4	10.4	988069	278	recent@AskSN|top@AskSN	SIGNAL	So, really what do y'all think?
+2026-08-08T02:13:34.890Z	1542693	science	2	398	0	1	6.8	401865	8352	recent@science|top@science	SIGNAL	NASA Extends Voyager II Instrument Life With "Big Bang" Update
+2026-08-08T02:13:34.890Z	1542794	lightning	1	386	0	0	4.5	1028548	531	recent@lightning|top@lightning	SIGNAL	RoboSats Swap Offers
+2026-08-08T02:13:34.890Z	1542564	bitcoin	1	350	0	1	9.3	223678	5936	recent@bitcoin|top@bitcoin	SIGNAL	Coinkite suspends customer data blanking
+2026-08-08T02:13:34.890Z	1542445	math	2	345	0	2	10.8	280679	22782	recent@bitcoinplusplus|top@bitcoinplusplus|recent@math	SIGNAL	Formal Functional Correctness of libsecp256k1's Modular Inverse—Russell O’Connor
+2026-08-08T02:13:34.890Z	1542874	gaming	3	333	0	1	2.5	1542874	1	recent@lightning|top@lightning	SIGNAL	Lightning roulette just took my funds
+2026-08-08T02:13:34.890Z	1542706	BooksAndArticles	2	284	0	6	6.6	166	37093	recent@BooksAndArticles|top@BooksAndArticles	SIGNAL,SELF_POST_OPP	From “Designed Viruses” to “Digital Telepathy” – AI Panic Kicks into Overdrive
+2026-08-08T02:13:34.890Z	1542620	charts_and_maps	2	250	0	0	8.3	984933	1949	recent@charts_and_maps|top@charts_and_maps	SIGNAL	Chinese cars are on their way to dominating the Brazilian market.
+2026-08-08T02:13:34.890Z	1542424	AskSN	2	218	0	3	11.0	984933	1949	recent@AskSN|top@AskSN	SIGNAL	What is the Pic OT of the week?
+2026-08-08T02:13:34.890Z	1542645	AI	1	214	0	0	7.9	12315	2413	recent@AI|top@AI	SIGNAL	Gemini is Cooked but GCP is Cooking
+2026-08-08T02:13:34.890Z	1542861	security	1	196	0	0	3.4	553	3516	recent@bitcoin|top@bitcoin|recent@security	SIGNAL	Anzen - 2 of 2 bitcoin wallet and vault scheme
+2026-08-08T02:13:34.890Z	1542581	charts_and_maps	2	193	0	8	9.0	328182	3829	recent@econ|top@econ|recent@charts_and_maps	SIGNAL	Europe Was Once Bigger Than the U.S. Economy. What Happened?
+2026-08-08T02:13:34.890Z	1542898	news	2	185	0	0	1.2	88718	46234	recent@news|top@news	FRESH,SIGNAL	Ansar Allah Claims Large Attack on Saudi Targets in Yemen
+2026-08-08T02:13:34.890Z	1542869	bitcoin	1	151	0	0	2.7	1532836	167	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus	SIGNAL	85 critical flaws discovered in the Bitcoin ecosystem
+2026-08-08T02:13:34.890Z	1542579	AI	1	122	0	0	9.0	1054143	1085	recent@AI|top@AI|recent@econ	SIGNAL	China extends trade boom as global AI tech demand surges
