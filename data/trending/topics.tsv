@@ -1,17 +1,14 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-08T04:56:22.230Z; n=40
-bitcoin	sn:bitcoin	9.47	yes	
-show	hn	4.45	no	RISING
+# generated 2026-08-08T10:33:01.425Z; n=40
+bitcoin	sn:bitcoin	12.58	yes	
 critical	sn:bitcoin	4.13	yes	
 exploit	sn:bitcoin	4.13	yes	
-code review	sn:bitcoin	3.99	yes	
+code review	sn:bitcoin	4.01	yes	
 tyler	sn:AMA	3.92	no	RISING
 instigator	sn:AMA	3.92	no	RISING
 heatpunk	sn:AMA	3.92	no	RISING
 embed	sn:bitcoin	3.9	yes	
-playing	sn:Coinjoins	3.82	no	RISING
-wasabi	sn:Coinjoins	3.82	yes	
-c-otto	sn:bitcoin	3.66	yes	
+c-otto	sn:bitcoin	3.67	yes	
 paul sztorc	sn:lol	3.56	no	RISING
 should	sn:Animal_World	3.52	no	RISING
 the insanity	sn:HealthAndFitness	3.48	no	RISING
@@ -30,13 +27,16 @@ where to go	sn:HealthAndFitness	3.32	no	RISING
 global catastrophe	sn:HealthAndFitness	3.32	no	RISING
 the billionaires know	sn:HealthAndFitness	3.32	no	RISING
 ciara nugent	sn:HealthAndFitness	3.32	no	RISING
+there is no hard fork option	sn:bitcoin_beginners	3.3	no	RISING
 luke dashjr	sn:lol	3.3	no	RISING
 human collaborators	sn:AI	3.21	yes	
 found	sn:tech	3.2	yes	
 starship tracker	sn:tech	3.2	yes	
 the bitfluencer	sn:bitcoin_beginners	3.16	no	RISING
 coldcard	sn:bitcoin	3.14	yes	
+there	sn:bitcoin	3.11	yes	
 signal	sn:tech	3.11	yes	
 files	sn:aliens_and_UFOs	3.1	no	RISING
 release	sn:aliens_and_UFOs	3.1	no	RISING
-kevin loaec	sn:bitcoin	3.08	yes	
+authenticity	sn:charts_and_maps	3.1	no	RISING
+saylor	sn:AskSN	3.05	no	RISING
