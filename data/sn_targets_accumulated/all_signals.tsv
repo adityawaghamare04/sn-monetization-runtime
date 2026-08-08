@@ -27279,3 +27279,26 @@
 2026-08-07T23:48:45.232Z	1542266	lightning	1	158	0	1	10.6	440729	223	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (4.0 BTC) + New Node Spotlight (03175b6475e63e7f9…)
 2026-08-07T23:48:45.232Z	1542252	AI	1	157	0	1	10.8	1490792	395	recent@AI|top@AI	SIGNAL	J.Dean, other top AI researchers are leaving Google to launch their own startup
 2026-08-07T23:48:45.233Z	1542579	AI	1	122	0	0	6.6	1054143	1085	recent@AI|top@AI	SIGNAL	China extends trade boom as global AI tech demand surges
+2026-08-08T01:53:43.792Z	1542491	bitcoin	1	13396	0	47	9.9	328486	4703	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Critical: BTCPay Exploit in the wild
+2026-08-08T01:53:43.792Z	1542814	bitcoin	1	9631	0	8	3.8	81644	1110	recent@bitcoin|top@bitcoin	HOT,SIGNAL	BIP-110 Code Review
+2026-08-08T01:53:43.792Z	1542402	bitcoin	1	4471	0	11	10.8	68842	629	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	c-otto.de - slowly shutting down
+2026-08-08T01:53:43.792Z	1542483	bitcoin	1	2139	0	2	10.0	74100	11878	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Forkwatch — Live BIP-110 / RDTS Fork Tracker
+2026-08-08T01:53:43.792Z	1542747	bitcoin	1	2092	0	1	5.3	74100	11878	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	Anzen: Bitcoin’s Self-Custody Trilemma - Luke Childs
+2026-08-08T01:53:43.792Z	1542541	tech	1	1591	0	1	9.3	1245155	214	recent@tech|top@tech	HOT,SIGNAL	Found a cool Starship Tracker
+2026-08-08T01:53:43.792Z	1542535	AI	1	1486	0	4	9.4	48657	14578	recent@AI|top@AI	HOT,SIGNAL	AI and Human Collaborators:  A new frontier of social dynamics?
+2026-08-08T01:53:43.792Z	1542731	bitcoin_beginners	1	1386	0	4	5.6	1278026	730	recent@bitcoin_beginners|top@bitcoin_beginners	HOT,SIGNAL	The Bitfluencer effect
+2026-08-08T01:53:43.793Z	1542909	lightning	1	1333	0	0	0.4	223678	5936	recent@lightning|top@lightning	FRESH,HOT,SIGNAL	privacy of lightning loop
+2026-08-08T01:53:43.793Z	1542722	tech	1	1235	0	2	5.9	296825	5084	recent@tech|top@tech	HOT,SIGNAL	Signal app on registration without a phone number. But what form will it take?
+2026-08-08T01:53:43.793Z	1542318	DIY	3	963	0	0	11.9	280679	22782	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	3D-Printed Bitcoin Mining Parts: Free STL Files Worth Printing
+2026-08-08T01:53:43.793Z	1542511	security	1	953	0	2	9.8	996769	44	recent@bitcoin|top@bitcoin|recent@bitdevs	SIGNAL	NEW: Trezor's CTO on the Cold Card Hack: Randomness, Trust, and What Comes Next
+2026-08-08T01:53:43.793Z	1542771	bitcoin	1	605	0	0	4.8	144357	4442	recent@bitcoin|top@bitcoin	SIGNAL	AI Is Finding Bitcoin Vulnerabilities | SNL #236
+2026-08-08T01:53:43.793Z	1542692	AI	1	558	0	0	6.5	28638	255	recent@AI|top@AI	SIGNAL	The End Of The Closed-Source Era Is At Hand: Obscurity Was Never Security
+2026-08-08T01:53:43.793Z	1542349	AI	1	440	0	4	11.5	280679	22782	recent@AI|top@AI	SIGNAL	ByteDance trains massive AI model in bid to rival Anthropic
+2026-08-08T01:53:43.793Z	1542794	lightning	1	386	0	0	4.2	1028548	531	recent@lightning|top@lightning	SIGNAL	RoboSats Swap Offers
+2026-08-08T01:53:43.793Z	1542564	bitcoin	1	350	0	1	8.9	223678	5936	recent@bitcoin|top@bitcoin	SIGNAL	Coinkite suspends customer data blanking
+2026-08-08T01:53:43.793Z	1542445	math	2	345	0	2	10.5	280679	22782	recent@bitcoinplusplus|top@bitcoinplusplus	SIGNAL	Formal Functional Correctness of libsecp256k1's Modular Inverse—Russell O’Connor
+2026-08-08T01:53:43.793Z	1542874	gaming	3	333	0	1	2.2	1542874	1	recent@lightning|top@lightning	SIGNAL	Lightning roulette just took my funds
+2026-08-08T01:53:43.793Z	1542645	AI	1	214	0	0	7.6	12315	2413	recent@AI|top@AI	SIGNAL	Gemini is Cooked but GCP is Cooking
+2026-08-08T01:53:43.793Z	1542861	security	1	196	0	0	3.1	553	3516	recent@bitcoin|top@bitcoin|recent@security	SIGNAL	Anzen - 2 of 2 bitcoin wallet and vault scheme
+2026-08-08T01:53:43.793Z	1542869	bitcoin	1	151	0	0	2.4	1532836	166	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus	SIGNAL	85 critical flaws discovered in the Bitcoin ecosystem
+2026-08-08T01:53:43.793Z	1542579	AI	1	122	0	0	8.7	1054143	1085	recent@AI|top@AI	SIGNAL	China extends trade boom as global AI tech demand surges
