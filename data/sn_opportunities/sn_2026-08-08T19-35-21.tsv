@@ -1,0 +1,72 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1543355	bitcoin	1	8826	0	21	3.3	59594	6952	recent@bitcoin|top@bitcoin	HOT,SIGNAL	How to Set Up BTCPay Server Better After the Hack?
+1543068	bitcoin	1	2832	0	22	9.4	587	109	recent@bitcoin|top@bitcoin	HOT,SIGNAL	69 blocks left until mandatory BIP-110 signaling
+1543194	bitcoin	1	1968	0	7	6.3	1023067	46	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Coin-splitting idea if a BIP110 chain split actually happens
+1543020	bitcoin	1	1958	0	5	11.0	553483	8	recent@bitcoin|top@bitcoin	HOT,SIGNAL	There are no 'economic' nodes in the Bitcoin network
+1543505	bitcoin	1	1930	0	0	0.3	587	109	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	monitoring livestream: BIP-110 soft-fork: mandatory signaling at height 961632
+1543487	bitcoin	1	1314	0	5	0.5	74100	11891	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	How long until a bip110 signalling block is mined after mandatory signalling?
+1543329	tech	1	1096	0	2	4.1	48657	14598	recent@tech|top@tech	HOT,SIGNAL	RAM production worldwide is sold out through 2027
+1543252	meta	1	1053	0	1	5.5	1	27059	recent@meta|top@meta	HOT,SIGNAL	SN Saturday Newsletter 8/8/26
+1543234	bitcoin	1	944	0	6	5.7	272410	1148	recent@bitcoin|top@bitcoin	SIGNAL	2.5 years accepting Bitcoin: 19 bookings and 43 nights paid in sats. Failure?
+1543190	lightning	1	284	0	1	6.4	440729	224	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (03b4defb15f8d0370…)
+1543001	AI	1	182	0	1	11.6	12309	3606	recent@AI|top@AI	SIGNAL	OpenAI’s expensive smart speaker will use moving parts to seem “more alive”
+1543351	bitcoin	1	171	0	0	3.6	296825	5102	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	100BTC Bitcoin Challenge - Hackers Still Can't Touch It
+1543122	bitcoin	1	167	0	1	7.8	296825	5102	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	Expecting Hardforks | PAUL SZTORC
+1543446	AI	1	146	0	0	1.7	1532699	58	recent@AI|top@AI	FRESH,SIGNAL	Musk doesn't just want the chips. He wants the factory.
+1543105	bitcoin_beginners	1	136	0	0	8.1	296825	5102	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	Introducing Sovereign Sessions
+1543263	lightning	1	136	0	0	5.3	977962	8	recent@lightning|top@lightning	SIGNAL	ZapGram – a Bitcoin Lightning wallet inside Telegram (tips, paid groups, NWC)
+1543247	bitcoin	1	135	0	0	5.6	296825	5102	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	Ongoing Exploits of Bitcoin Software
+1542814	bitcoin	1	15711	0	14	21.5	81644	1111	recent@bitcoin|top@bitcoin	HOT	BIP-110 Code Review
+1542491	bitcoin	1	13529	0	61	27.6	328486	4707	recent@bitcoin	HOT	Critical: BTCPay Exploit in the wild
+1542268	bitcoin	1	12795	0	22	30.3	74100	11891	recent@bitcoin	HOT	Embed *entire directories* of arbitrary data contiguously in BIP110 valid blocks
+1542402	bitcoin	1	4634	0	12	28.5	68842	630	recent@bitcoin|recent@lightning	HOT	c-otto.de - slowly shutting down
+1542483	bitcoin	1	2192	0	2	27.7	74100	11891	recent@bitcoin	HOT	Forkwatch — Live BIP-110 / RDTS Fork Tracker
+1542747	bitcoin	1	2155	0	3	23.0	74100	11891	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT	Anzen: Bitcoin’s Self-Custody Trilemma - Luke Childs
+1542928	bitcoin_beginners	1	2028	0	10	17.7	1542897	3	recent@bitcoin_beginners|top@bitcoin_beginners	HOT	There Is No Hard Fork Option
+1542535	AI	1	1608	0	5	27.1	48657	14598	recent@AI	HOT	AI and Human Collaborators:  A new frontier of social dynamics?
+1542541	tech	1	1591	0	2	27.0	1245155	215	recent@tech	HOT	Found a cool Starship Tracker
+1542909	lightning	1	1437	0	7	18.0	223678	5940	recent@lightning|top@lightning	HOT	privacy of lightning loop
+1542981	bitcoin	1	1434	0	0	13.4	24585	365	recent@bitcoin|top@bitcoin	HOT	The Paranoid Wallet — Citadel21
+1542731	bitcoin_beginners	1	1428	0	4	23.3	1278026	734	recent@bitcoin_beginners|top@bitcoin_beginners	HOT	The Bitfluencer effect
+1542179	bitcoin	1	1381	0	8	32.0	1532836	175	recent@bitcoin|recent@bitcoin_beginners|recent@bitcoinplusplus	HOT	Bitcoin data lost on exchanges vs. Coldcard incident
+1542722	tech	1	1277	0	2	23.6	296825	5102	recent@tech|top@tech	HOT	Signal app on registration without a phone number. But what form will it take?
+1542152	bitcoin	1	1012	0	2	32.8	74100	11891	recent@bitcoin|recent@bitcoin_beginners	HOT	Bitcoin's BIP110 Moment: Three Possible Scenarios - Aaron van Wirdum
+1542318	DIY	3	963	0	0	29.6	280679	22782	recent@bitcoin_Mining		3D-Printed Bitcoin Mining Parts: Free STL Files Worth Printing
+1542511	security	1	953	0	2	27.5	996769	44	recent@bitcoin|recent@bitdevs|recent@security		NEW: Trezor's CTO on the Cold Card Hack: Randomness, Trust, and What Comes Next
+1542771	bitcoin	1	731	0	0	22.5	144357	4442	recent@bitcoin|top@bitcoin		AI Is Finding Bitcoin Vulnerabilities | SNL #236
+1542692	AI	1	558	0	0	24.2	28638	255	recent@AI		The End Of The Closed-Source Era Is At Hand: Obscurity Was Never Security
+1542349	AI	1	440	0	4	29.2	280679	22782	recent@AI		ByteDance trains massive AI model in bid to rival Anthropic
+1542173	bitcoin_beginners	1	409	0	1	32.2	30782	25380	recent@bitcoin_beginners		Bitcoin Beginners Newsletter, Issue 111
+1542794	lightning	1	386	0	0	21.9	1028548	531	recent@lightning|top@lightning		RoboSats Swap Offers
+1542445	math	2	345	0	3	28.2	280679	22782	recent@bitcoinplusplus		Formal Functional Correctness of libsecp256k1's Modular Inverse—Russell O’Connor
+1542874	gaming	3	333	0	6	19.8	1542874	5	recent@lightning|top@lightning	SELF_POST_OPP	Lightning roulette just took my funds
+1542165	lightning	1	285	0	0	32.5	280679	22782	recent@lightning		Conditional Message Transfer Contract To Solve Jamming
+1542645	AI	1	256	0	0	25.3	12315	2414	recent@tech|recent@AI		Gemini is Cooked but GCP is Cooking
+1542938	bitcoin	1	227	0	0	17.0	296825	5102	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus		public tools which are available to monitor the BIP-110 situation
+1542940	bitcoin	1	221	0	1	16.8	296825	5102	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		Why the Fight Over BIP-110 Turned Bitcoiners Against Bitcoiners
+1542234	security	1	207	0	0	30.9	984933	1952	recent@security|recent@devs		Major Shai Hulud campaign strikes npm again, affecting keyv and 400+ packages
+1542861	security	1	196	0	0	20.8	553	3517	recent@bitcoin|top@bitcoin|recent@security		Anzen - 2 of 2 bitcoin wallet and vault scheme
+1542209	lightning	1	196	0	6	31.3	263526	546	recent@lightning		LNbits' EasySwap - simple LN ←→ Onchain swaps (powered by SparkL2)
+1542266	lightning	1	158	0	1	30.4	440729	224	recent@lightning		Biggest Channel Opened Today (4.0 BTC) + New Node Spotlight (03175b6475e63e7f9…)
+1542252	AI	1	157	0	1	30.6	1490792	399	recent@AI		J.Dean, other top AI researchers are leaving Google to launch their own startup
+1542869	bitcoin	1	151	0	0	20.1	1532836	175	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus		85 critical flaws discovered in the Bitcoin ecosystem
+1542942	bitcoin	1	129	0	0	16.6	296825	5102	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		UPDATE (Aug. 6, 2026): ZEUS Pay Lightning Addresses are back online.
+1542579	AI	1	122	0	0	26.3	1054143	1088	recent@AI		China extends trade boom as global AI tech demand surges
+1542933	bitcoin	1	116	0	1	17.4	1532836	175	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		Blockparty de @Rigly
+1542948	bitcoin_beginners	1	92	0	1	16.4	296825	5102	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		An open letter from someone who lost all their life savings in the Coldcard hack
+1543067	events	3	70	0	0	9.4	296825	5102	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		Open Source Conference Luxembourg
+1542998	bitcoin_beginners	1	57	0	1	11.8	102558	1118	recent@bitcoin_beginners|top@bitcoin_beginners		Multi Sign Back Up
+1542896	security	1	53	0	0	18.7	416864	911	recent@security|top@security		Undertaking TryHackMe's Hacker Holidays 2026 CTF daily challenge event. Day 01
+1543136	bitcoin	1	47	0	0	7.5	296825	5102	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		Upay: a Rust implementation of a UPI-for-Cashu market built on Nostr
+1542663	AI	1	42	0	1	24.8	1532699	58	recent@AI		AI is now designing viruses that don’t exist in nature
+1543429	bitcoin	1	36	0	0	2.2	296825	5102	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		Bitcoin Ecosystem Pulse: August till now
+1543340	AI	1	36	0	0	3.9	296825	5102	recent@bitcoin_beginners|top@bitcoin_beginners|recent@AI		Weekly Brief 2026/32
+1543485	bitcoin	1	36	0	0	0.6	1532836	175	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus	FRESH	Common mistakes made by Bitcoin beginners8
+1543314	bitcoin	1	36	0	1	4.3	296825	5102	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		More  people paying with Bitcoin, don’t even know about cash anymore - Trump
+1543062	bitcoin	1	36	0	0	9.5	1490792	399	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		Release 2.4.2 · btcpayserver/btcpayserver
+1543043	bitcoin	1	36	0	0	10.0	296825	5102	recent@bitcoin_beginners|top@bitcoin_beginners		Trezor Wallet phishing alert
+1543059	bitcoin_beginners	1	36	0	0	9.5	1496949	6	recent@bitcoin_beginners|top@bitcoin_beginners		How To Start Stacking Without Money
+1542200	lightning	1	21	0	1	31.5	263526	546	recent@lightning		What Does BIP110 Mean for the Lightning Network?
+1542251	bitcoinplusplus	1	0	0	0	30.6	280679	22782	recent@bitcoinplusplus		Quantum BIPs Showdown — Isabel Foxen Duke, conduition, Nadav Kohen, Tadge Dryja
+1542961	AI	1	0	0	0	15.3	1248037	1922	recent@bitdevs|top@bitdevs|recent@devs		Thoroughly Understanding C++ ABI (2024) | Hacker News
+1543394	AI	1	0	0	0	2.8	1054143	1088	recent@AI|top@AI		AI used to create viruses not found in nature for first time
