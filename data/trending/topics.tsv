@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-09T16:34:24.116Z; n=40
-show	hn	4.65	no	RISING
+# generated 2026-08-09T22:30:30.873Z; n=40
+lightning	sn:lightning,sn:bitcoin	6.16	yes	
+what	hn,sn:AskSN	4.89	yes	
+windows	hn	4.66	no	RISING
 roughnecks	sn:bitcoin	4.09	yes	
-risc	hn	3.49	no	RISING
-windows	hn	3.48	no	RISING
-wonderful	sn:meta	3.45	yes	
-inscription	sn:the_stacker_muse	3.4	no	RISING
-soft-fork	sn:bitcoin	3.38	yes	
-fantasy football league	sn:Stacker_Sports	3.33	no	RISING
-bitcoin	sn:bitcoin	3.32	yes	
-blocks	sn:bitcoin	3.21	yes	
-many	sn:bitcoin	3.21	yes	
-run knots save bitcoin	sn:bitcoin	3.21	yes	
-tool	sn:DIY	3.16	yes	
-tails	sn:DIY	3.16	yes	
-clink	sn:lightning	3.15	no	RISING
-paymens	sn:lightning	3.15	no	RISING
-subscriptions auto-renew	sn:lightning	3.15	no	RISING
-funding source	sn:lightning	3.15	no	RISING
-rate my setup	sn:security	3.06	yes	
-lightning	sn:lightning	3.06	yes	
+full-fat	sn:science	3.63	no	RISING
+bitcoin	sn:bitcoin	3.56	yes	
+fantasy football league	sn:Stacker_Sports	3.39	no	RISING
+update	sn:bitcoin	3.3	yes	
+ocean	sn:bitcoin	3.3	yes	
+blocks	sn:bitcoin	3.22	yes	
+many	sn:bitcoin	3.22	yes	
+run knots save bitcoin	sn:bitcoin	3.22	yes	
+nostr	sn:tech	3.19	yes	
+no electron	sn:tech	3.19	yes	
+clink	sn:lightning	3.17	no	RISING
+paymens	sn:lightning	3.17	no	RISING
+subscriptions auto-renew	sn:lightning	3.17	no	RISING
+funding source	sn:lightning	3.17	no	RISING
+show	hn	3.14	no	RISING
+daily putt	sn:gaming	3.14	no	RISING
+play	sn:gaming	3.14	no	RISING
+putt	sn:gaming	3.14	no	RISING
+score	sn:gaming	3.14	no	RISING
+rate my setup	sn:security	3.12	yes	
+from cowboy credits	sn:bitcoin	3.1	yes	
+knots cowboy credits	sn:meta	3.08	yes	
 network	sn:lightning	3.06	no	RISING
+brazil	sn:lol	3.06	yes	
+self-custody	sn:lol	3.06	yes	
+announcement	sn:bitcoin	3.03	yes	
+alejandro	sn:bitcoin	3.03	yes	
+torre	sn:bitcoin	3.03	yes	
+dmnd	sn:bitcoin	3.03	yes	
+pool	sn:bitcoin	3.03	yes	
 vulnerability-spoiler	sn:devs	3.02	no	RISING
-announcement	sn:bitcoin	3.01	yes	
-alejandro	sn:bitcoin	3.01	yes	
-torre	sn:bitcoin	3.01	yes	
-dmnd	sn:bitcoin	3.01	yes	
-pool	sn:bitcoin	3.01	yes	
-update	sn:bitcoin	2.94	yes	
-ocean	sn:bitcoin	2.94	yes	
 when prophecy fails	sn:bitcoin	2.91	yes	
 social	sn:bitcoin	2.91	yes	
 psychological study	sn:bitcoin	2.91	yes	
-what	sn:AskSN	2.74	yes	
-game	sn:Stacker_Sports	2.72	yes	
-astros	sn:Stacker_Sports	2.72	no	RISING
-padres	sn:Stacker_Sports	2.72	no	RISING
-congrats	sn:bitcoin	2.72	yes	
-jeftovic	sn:bitcoin	2.7	yes	
-bitcoin only	sn:bitcoin	2.7	yes	
-era is over	sn:bitcoin	2.7	yes	
+bitcoin covenants	sn:bitcoin	2.79	yes	
+complete summary	sn:bitcoin	2.79	yes	
