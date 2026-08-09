@@ -28417,3 +28417,17 @@
 2026-08-09T10:38:27.580Z	1543859	AI	1	161	0	0	4.4	12309	3607	recent@AI|top@AI	SIGNAL	Anthropic co-designing custom AI inference chips to bypass costly Nvidia GPUs
 2026-08-09T10:38:27.580Z	1543896	bitcoin_Mining	1	102	0	0	2.1	185956	168	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Release Notes: Bassin Solo Bitcoin Mining Pool (ckPool) v2.1.2
 2026-08-09T10:38:27.580Z	1543861	lightning	1	100	0	3	4.4	263526	553	recent@lightning|top@lightning	SIGNAL	Lightning nodes shut down and the Network shrinks while 110stuff resolves itself
+2026-08-09T10:46:46.849Z	1543830	bitcoin	1	1477	0	6	7.3	631896	3133	recent@bitcoin|top@bitcoin	HOT,SIGNAL	40 Blocks to 2: So like that's it? MANY months of "Run Knots Save Bitcoin" for..
+2026-08-09T10:46:46.849Z	1543867	bitcoin	1	1263	0	2	4.3	74100	11908	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	HOT,SIGNAL	Roughnecks advises people to stop mining on BIP110 chain
+2026-08-09T10:46:46.849Z	1543884	lightning	1	1188	0	1	2.8	263526	553	recent@lightning|top@lightning	HOT,SIGNAL	LNbits-CLINK extension: LN Paymens, Subscriptions Auto-Renew & Funding Source
+2026-08-09T10:46:46.849Z	1543845	bitcoin	1	682	0	0	5.6	223678	5948	recent@bitcoin|top@bitcoin	SIGNAL	When Prophecy Fails: A Social and Psychological Study
+2026-08-09T10:46:46.849Z	1543787	AskSN	2	549	0	5	9.6	698001	9419	recent@AskSN|top@AskSN	SIGNAL,SELF_POST_OPP	[AskSN]: What is BIP-110 and why should I care? Too busy on fantasy football
+2026-08-09T10:46:46.849Z	1543777	bitcoin	1	496	0	2	9.9	30782	25388	recent@bitcoin|top@bitcoin	SIGNAL	Jeftovic: The "Bitcoin Only" Era Is Over...
+2026-08-09T10:46:46.849Z	1543756	bitcoin_Mining	1	484	0	2	11.1	1028548	541	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Ocean Lightning Payouts Dead ?
+2026-08-09T10:46:46.849Z	1543759	bitcoin	1	403	0	1	10.8	2795	1395	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Red Sox opportunity on Predyx
+2026-08-09T10:46:46.849Z	1543763	Stacker_Stocks	2	401	0	1	10.6	934429	315	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	EU graph projects public pensions in Europe through 2050, per EC projection data
+2026-08-09T10:46:46.849Z	1543802	AskSN	2	394	0	1	9.1	698001	9419	recent@AskSN|top@AskSN	SIGNAL	[AskSN]: If I have a Bitcoin core node raspberry pi v21 from 2021, am I winning?
+2026-08-09T10:46:46.849Z	1543859	AI	1	161	0	0	4.6	12309	3607	recent@AI|top@AI	SIGNAL	Anthropic co-designing custom AI inference chips to bypass costly Nvidia GPUs
+2026-08-09T10:46:46.849Z	1543846	Education	2	136	0	0	5.6	104755	12696	recent@Education|top@Education	SIGNAL	Haircuts
+2026-08-09T10:46:46.849Z	1543896	bitcoin_Mining	1	102	0	0	2.3	185956	168	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Release Notes: Bassin Solo Bitcoin Mining Pool (ckPool) v2.1.2
+2026-08-09T10:46:46.849Z	1543861	lightning	1	100	0	3	4.5	263526	553	recent@lightning|top@lightning	SIGNAL	Lightning nodes shut down and the Network shrinks while 110stuff resolves itself
