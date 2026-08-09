@@ -28676,3 +28676,16 @@
 2026-08-09T17:41:04.735Z	1544110	security	1	120	0	0	0.6	440139	4244	recent@security|top@security|recent@AI	FRESH,SIGNAL	What Happened: OpenAI and HuggingFace
 2026-08-09T17:41:04.735Z	1543984	AskSN	2	116	0	0	4.5	984933	1960	recent@AskSN|top@AskSN	SIGNAL	Daily Discussion Thread ~AskSN
 2026-08-09T17:41:04.735Z	1543994	AskSN	2	102	0	0	4.2	984933	1960	recent@AskSN|top@AskSN|recent@history	SIGNAL	Did you know that...?
+2026-08-09T18:14:02.859Z	1543867	bitcoin	1	12319	0	6	11.7	74100	11913	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	HOT,SIGNAL	Roughnecks advises people to stop mining on BIP110 chain
+2026-08-09T18:14:02.859Z	1544022	bitcoin	1	2349	0	20	3.6	1513887	25	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Bitcoin dead after hostile miner and node attack
+2026-08-09T18:14:02.859Z	1543884	lightning	1	1422	0	1	10.3	263526	553	recent@lightning|top@lightning	HOT,SIGNAL	LNbits-CLINK extension: LN Paymens, Subscriptions Auto-Renew & Funding Source
+2026-08-09T18:14:02.859Z	1544045	security	1	1273	0	5	3.3	223678	5951	recent@bitcoin|top@bitcoin|recent@security	HOT,SIGNAL	Rate My Setup
+2026-08-09T18:14:02.859Z	1543861	lightning	1	1155	0	4	11.9	263526	553	recent@lightning|top@lightning	HOT,SIGNAL	Lightning nodes shut down and the Network shrinks while 110stuff resolves itself
+2026-08-09T18:14:02.859Z	1543935	devs	1	1036	0	1	6.9	74100	11913	recent@devs|top@devs	HOT,SIGNAL	vulnerability-spoiler-alert - spaceraccoon
+2026-08-09T18:14:02.859Z	1543919	bitcoin	1	1025	0	3	7.8	74100	11913	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	HOT,SIGNAL	📣 AMA Announcement: Alejandro de la Torre CEO of DMND Pool!
+2026-08-09T18:14:02.859Z	1544010	bitcoin	1	868	0	4	4.0	296825	5109	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Update: the default OCEAN stratum endpoint will return to the non-BIP110 chain
+2026-08-09T18:14:02.860Z	1543895	bitcoin	1	513	0	6	9.8	1278026	738	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	For anyone not understanding the bip110 drama
+2026-08-09T18:14:02.860Z	1543896	bitcoin_Mining	1	189	0	0	9.7	185956	168	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Release Notes: Bassin Solo Bitcoin Mining Pool (ckPool) v2.1.2
+2026-08-09T18:14:02.860Z	1543918	meta	1	180	0	4	7.9	273359	817	recent@meta|top@meta	SIGNAL	Knots Cowboy Credits
+2026-08-09T18:14:02.860Z	1544108	tech	1	136	0	0	1.2	252116	11	recent@nostr|top@nostr|recent@tech	FRESH,SIGNAL	I wrote a native Nostr client for macOS in Zig. No Electron. No WebView.
+2026-08-09T18:14:02.860Z	1544110	security	1	120	0	0	1.2	440139	4244	recent@security|top@security|recent@AI	FRESH,SIGNAL	What Happened: OpenAI and HuggingFace
