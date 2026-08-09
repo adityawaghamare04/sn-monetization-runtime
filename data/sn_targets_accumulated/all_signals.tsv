@@ -28759,3 +28759,25 @@
 2026-08-09T20:04:40.289Z	1543896	bitcoin_Mining	1	189	0	0	11.6	185956	168	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Release Notes: Bassin Solo Bitcoin Mining Pool (ckPool) v2.1.2
 2026-08-09T20:04:40.289Z	1544108	tech	1	157	0	0	3.0	252116	11	recent@nostr|top@nostr|recent@tech	SIGNAL	I wrote a native Nostr client for macOS in Zig. No Electron. No WebView.
 2026-08-09T20:04:40.289Z	1544183	bitcoin_beginners	1	116	0	0	1.2	1531178	11	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH,SIGNAL	Would you ever use your BTC as collateral if it never left self-custody?
+2026-08-09T20:47:03.438Z	1544022	bitcoin	1	3449	0	25	6.2	1513887	26	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Bitcoin dead after hostile miner and node attack
+2026-08-09T20:47:03.438Z	1544010	bitcoin	1	1889	0	4	6.6	296825	5110	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	Update: the default OCEAN stratum endpoint will return to the non-BIP110 chain
+2026-08-09T20:47:03.438Z	1544108	tech	1	1391	0	0	3.7	252116	11	recent@nostr|top@nostr|recent@tech	HOT,SIGNAL	I wrote a native Nostr client for macOS in Zig. No Electron. No WebView.
+2026-08-09T20:47:03.438Z	1544045	security	1	1316	0	5	5.8	223678	5951	recent@bitcoin|top@bitcoin|recent@security	HOT,SIGNAL	Rate My Setup
+2026-08-09T20:47:03.438Z	1544100	bitcoin	1	1225	0	1	4.1	272410	1153	recent@bitcoin|top@bitcoin	HOT,SIGNAL	From Cowboy Credits to Lightning: could communities build their own economies?
+2026-08-09T20:47:03.438Z	1543918	meta	1	1201	0	4	10.4	273359	817	recent@meta|top@meta	HOT,SIGNAL	Knots Cowboy Credits
+2026-08-09T20:47:03.438Z	1543935	devs	1	1057	0	1	9.5	74100	11916	recent@devs|top@devs	HOT,SIGNAL	vulnerability-spoiler-alert - spaceraccoon
+2026-08-09T20:47:03.438Z	1543919	bitcoin	1	1046	0	3	10.3	74100	11916	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	HOT,SIGNAL	📣 AMA Announcement: Alejandro de la Torre CEO of DMND Pool!
+2026-08-09T20:47:03.438Z	1543939	podcasts	2	411	0	3	9.3	88718	46278	recent@podcasts|top@podcasts	SIGNAL	Stacker Sports Pod • Episode 95: Forks, Fights and Flights • Listen on Fountain
+2026-08-09T20:47:03.438Z	1544110	security	1	373	0	0	3.7	440139	4244	recent@security|top@security|recent@AI	SIGNAL	What Happened: OpenAI and HuggingFace
+2026-08-09T20:47:03.438Z	1544094	bitcoin	1	309	0	0	4.3	375687	3122	recent@bitcoin|top@bitcoin	SIGNAL	Has BIP-110 failed?
+2026-08-09T20:47:03.438Z	1543987	Politics_And_Law	3	233	0	5	7.5	642641	8229	recent@history|top@history	SIGNAL,SELF_POST_OPP	Trump Trapped in Losing War- Paying the Price- Outta Interceptors. WSJ reports.
+2026-08-09T20:47:03.438Z	1543931	bitcoin	1	206	0	0	9.6	12315	2423	recent@econ|top@econ	SIGNAL	China's PBOC Ships Gold to Hong Kong for Global Hub
+2026-08-09T20:47:03.438Z	1544199	news	2	176	0	1	1.2	280679	22789	recent@news|top@news	FRESH,SIGNAL	Revolut Blocks GrapheneOS Users From Logging Into Its App
+2026-08-09T20:47:03.438Z	1544165	news	2	175	0	1	2.6	1054143	1090	recent@econ|top@econ|recent@news	SIGNAL	Poland now sixth-largest EU economy, ahead of Switzerland and Belgium
+2026-08-09T20:47:03.438Z	1544146	Construction_and_Engineering	2	171	0	1	2.9	9274	26102	recent@Construction_and_Engineering|top@Construction_and_Engineering	SIGNAL	Forests vs flats? Singapore’s land development debate needs to change
+2026-08-09T20:47:03.438Z	1544203	lol	2	138	0	0	1.0	280679	22789	recent@lol|top@lol	FRESH,SIGNAL	Brazil to tighten controls with new 24h wait on transfers to self-custody wallet
+2026-08-09T20:47:03.438Z	1544183	bitcoin_beginners	1	116	0	0	1.9	1531178	11	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH,SIGNAL	Would you ever use your BTC as collateral if it never left self-custody?
+2026-08-09T20:47:03.439Z	1543984	AskSN	2	116	0	0	7.6	984933	1960	recent@AskSN|top@AskSN	SIGNAL	Daily Discussion Thread ~AskSN
+2026-08-09T20:47:03.439Z	1544105	science	2	112	0	3	3.8	1532699	61	recent@science|top@science	SIGNAL	Was the war on full-fat dairy wrong?
+2026-08-09T20:47:03.439Z	1544207	bitcoin	1	109	0	1	0.7	74100	11916	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Bitcoin Covenants: A Complete Summary
+2026-08-09T20:47:03.439Z	1543994	AskSN	2	102	0	0	7.3	984933	1960	recent@AskSN|top@AskSN|recent@history	SIGNAL	Did you know that...?
