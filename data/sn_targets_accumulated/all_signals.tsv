@@ -28496,3 +28496,13 @@
 2026-08-09T13:10:01.727Z	1543896	bitcoin_Mining	1	102	0	0	4.7	185956	168	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Release Notes: Bassin Solo Bitcoin Mining Pool (ckPool) v2.1.2
 2026-08-09T13:10:01.727Z	1543895	bitcoin	1	100	0	1	4.7	1278026	736	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	For anyone not understanding the bip110 drama
 2026-08-09T13:10:01.727Z	1543861	lightning	1	100	0	3	6.9	263526	553	recent@lightning|top@lightning	SIGNAL	Lightning nodes shut down and the Network shrinks while 110stuff resolves itself
+2026-08-09T13:18:04.194Z	1543867	bitcoin	1	11702	0	3	6.8	74100	11912	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	HOT,SIGNAL	Roughnecks advises people to stop mining on BIP110 chain
+2026-08-09T13:18:04.194Z	1543830	bitcoin	1	1630	0	6	9.8	631896	3133	recent@bitcoin|top@bitcoin	HOT,SIGNAL	40 Blocks to 2: So like that's it? MANY months of "Run Knots Save Bitcoin" for..
+2026-08-09T13:18:04.194Z	1543884	lightning	1	1388	0	1	5.3	263526	553	recent@lightning|top@lightning	HOT,SIGNAL	LNbits-CLINK extension: LN Paymens, Subscriptions Auto-Renew & Funding Source
+2026-08-09T13:18:04.194Z	1543861	lightning	1	1064	0	3	7.0	263526	553	recent@lightning|top@lightning	HOT,SIGNAL	Lightning nodes shut down and the Network shrinks while 110stuff resolves itself
+2026-08-09T13:18:04.194Z	1543935	devs	1	1036	0	0	2.0	74100	11912	recent@devs|top@devs	HOT,SIGNAL	vulnerability-spoiler-alert - spaceraccoon
+2026-08-09T13:18:04.194Z	1543919	bitcoin	1	873	0	3	2.8	74100	11912	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	SIGNAL	📣 AMA Announcement: Alejandro de la Torre CEO of DMND Pool!
+2026-08-09T13:18:04.194Z	1543845	bitcoin	1	682	0	0	8.2	223678	5948	recent@bitcoin|top@bitcoin	SIGNAL	When Prophecy Fails: A Social and Psychological Study
+2026-08-09T13:18:04.194Z	1543895	bitcoin	1	483	0	1	4.8	1278026	736	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	For anyone not understanding the bip110 drama
+2026-08-09T13:18:04.194Z	1543859	AI	1	376	0	0	7.1	12309	3607	recent@tech|top@tech|recent@AI	SIGNAL	Anthropic co-designing custom AI inference chips to bypass costly Nvidia GPUs
+2026-08-09T13:18:04.194Z	1543896	bitcoin_Mining	1	189	0	0	4.8	185956	168	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Release Notes: Bassin Solo Bitcoin Mining Pool (ckPool) v2.1.2
