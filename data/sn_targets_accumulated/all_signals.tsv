@@ -28793,3 +28793,16 @@
 2026-08-09T20:52:21.487Z	1544094	bitcoin	1	309	0	0	4.4	375687	3122	recent@bitcoin|top@bitcoin	SIGNAL	Has BIP-110 failed?
 2026-08-09T20:52:21.487Z	1544183	bitcoin_beginners	1	116	0	0	2.0	1531178	11	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH,SIGNAL	Would you ever use your BTC as collateral if it never left self-custody?
 2026-08-09T20:52:21.487Z	1544207	bitcoin	1	109	0	1	0.8	74100	11916	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Bitcoin Covenants: A Complete Summary
+2026-08-09T21:36:14.550Z	1544022	bitcoin	1	3549	0	25	7.0	1513887	26	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Bitcoin dead after hostile miner and node attack
+2026-08-09T21:36:14.550Z	1544010	bitcoin	1	1941	0	4	7.4	296825	5110	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	Update: the default OCEAN stratum endpoint will return to the non-BIP110 chain
+2026-08-09T21:36:14.550Z	1544108	tech	1	1538	0	2	4.6	252116	11	recent@nostr|top@nostr|recent@tech	HOT,SIGNAL	I wrote a native Nostr client for macOS in Zig. No Electron. No WebView.
+2026-08-09T21:36:14.550Z	1544045	security	1	1316	0	6	6.7	223678	5951	recent@bitcoin|top@bitcoin|recent@security	HOT,SIGNAL	Rate My Setup
+2026-08-09T21:36:14.550Z	1544100	bitcoin	1	1225	0	1	4.9	272410	1153	recent@bitcoin|top@bitcoin	HOT,SIGNAL	From Cowboy Credits to Lightning: could communities build their own economies?
+2026-08-09T21:36:14.550Z	1543918	meta	1	1201	0	4	11.2	273359	817	recent@meta|top@meta	HOT,SIGNAL	Knots Cowboy Credits
+2026-08-09T21:36:14.550Z	1544203	lol	2	1138	0	0	1.8	280679	22789	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	Brazil to tighten controls with new 24h wait on transfers to self-custody wallet
+2026-08-09T21:36:14.550Z	1543935	devs	1	1057	0	1	10.3	74100	11916	recent@devs|top@devs	HOT,SIGNAL	vulnerability-spoiler-alert - spaceraccoon
+2026-08-09T21:36:14.550Z	1543919	bitcoin	1	1046	0	3	11.1	74100	11916	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	HOT,SIGNAL	📣 AMA Announcement: Alejandro de la Torre CEO of DMND Pool!
+2026-08-09T21:36:14.550Z	1544110	security	1	373	0	0	4.5	440139	4244	recent@security|top@security|recent@AI	SIGNAL	What Happened: OpenAI and HuggingFace
+2026-08-09T21:36:14.550Z	1544207	bitcoin	1	329	0	3	1.6	74100	11916	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Bitcoin Covenants: A Complete Summary
+2026-08-09T21:36:14.550Z	1544094	bitcoin	1	309	0	0	5.1	375687	3122	recent@bitcoin|top@bitcoin	SIGNAL	Has BIP-110 failed?
+2026-08-09T21:36:14.550Z	1544183	bitcoin_beginners	1	137	0	0	2.7	1531178	12	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Would you ever use your BTC as collateral if it never left self-custody?
