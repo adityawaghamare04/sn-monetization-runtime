@@ -28716,3 +28716,15 @@
 2026-08-09T19:02:29.299Z	1543896	bitcoin_Mining	1	189	0	0	10.5	185956	168	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Release Notes: Bassin Solo Bitcoin Mining Pool (ckPool) v2.1.2
 2026-08-09T19:02:29.299Z	1543918	meta	1	180	0	4	8.7	273359	817	recent@meta|top@meta	SIGNAL	Knots Cowboy Credits
 2026-08-09T19:02:29.299Z	1544108	tech	1	136	0	0	2.0	252116	11	recent@nostr|top@nostr|recent@tech	FRESH,SIGNAL	I wrote a native Nostr client for macOS in Zig. No Electron. No WebView.
+2026-08-09T19:42:16.450Z	1544022	bitcoin	1	2349	0	24	5.1	1513887	25	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Bitcoin dead after hostile miner and node attack
+2026-08-09T19:42:16.450Z	1543884	lightning	1	1446	0	1	11.7	263526	553	recent@lightning|top@lightning	HOT,SIGNAL	LNbits-CLINK extension: LN Paymens, Subscriptions Auto-Renew & Funding Source
+2026-08-09T19:42:16.451Z	1544045	security	1	1295	0	5	4.8	223678	5951	recent@bitcoin|top@bitcoin|recent@security	HOT,SIGNAL	Rate My Setup
+2026-08-09T19:42:16.451Z	1543935	devs	1	1036	0	1	8.4	74100	11913	recent@devs|top@devs	HOT,SIGNAL	vulnerability-spoiler-alert - spaceraccoon
+2026-08-09T19:42:16.451Z	1543919	bitcoin	1	1025	0	3	9.2	74100	11913	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	HOT,SIGNAL	📣 AMA Announcement: Alejandro de la Torre CEO of DMND Pool!
+2026-08-09T19:42:16.451Z	1544010	bitcoin	1	868	0	4	5.5	296825	5110	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Update: the default OCEAN stratum endpoint will return to the non-BIP110 chain
+2026-08-09T19:42:16.451Z	1543895	bitcoin	1	546	0	6	11.2	1278026	738	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	For anyone not understanding the bip110 drama
+2026-08-09T19:42:16.451Z	1544110	security	1	316	0	0	2.6	440139	4244	recent@security|top@security|recent@AI	SIGNAL	What Happened: OpenAI and HuggingFace
+2026-08-09T19:42:16.451Z	1543896	bitcoin_Mining	1	189	0	0	11.2	185956	168	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Release Notes: Bassin Solo Bitcoin Mining Pool (ckPool) v2.1.2
+2026-08-09T19:42:16.451Z	1543918	meta	1	180	0	4	9.3	273359	817	recent@meta|top@meta	SIGNAL	Knots Cowboy Credits
+2026-08-09T19:42:16.451Z	1544108	tech	1	157	0	0	2.7	252116	11	recent@nostr|top@nostr|recent@tech	SIGNAL	I wrote a native Nostr client for macOS in Zig. No Electron. No WebView.
+2026-08-09T19:42:16.451Z	1544183	bitcoin_beginners	1	116	0	0	0.8	1531178	11	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH,SIGNAL	Would you ever use your BTC as collateral if it never left self-custody?
