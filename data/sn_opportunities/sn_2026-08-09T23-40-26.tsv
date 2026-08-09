@@ -1,0 +1,101 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1544105	science	2	4265	0	6	6.7	1532699	64	recent@science|top@science	HOT,SIGNAL,SELF_POST_OPP	Was the war on full-fat dairy wrong?
+1544022	bitcoin	1	3630	0	27	9.1	1513887	26	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Bitcoin dead after hostile miner and node attack
+1544010	bitcoin	1	1974	0	4	9.5	296825	5110	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	Update: the default OCEAN stratum endpoint will return to the non-BIP110 chain
+1544108	tech	1	1828	0	2	6.6	252116	11	recent@nostr|top@nostr|recent@tech	HOT,SIGNAL	I wrote a native Nostr client for macOS in Zig. No Electron. No WebView.
+1544045	security	1	1337	0	8	8.7	223678	5951	recent@bitcoin|top@bitcoin|recent@security	HOT,SIGNAL	Rate My Setup
+1544100	bitcoin	1	1268	0	1	7.0	272410	1153	recent@bitcoin|top@bitcoin	HOT,SIGNAL	From Cowboy Credits to Lightning: could communities build their own economies?
+1544203	lol	2	1262	0	1	3.9	280679	22791	recent@bitcoin|top@bitcoin|recent@lol	HOT,SIGNAL	Brazil to tighten controls with new 24h wait on transfers to self-custody wallet
+1544110	security	1	923	0	1	6.6	440139	4244	recent@security|top@security|recent@AI	SIGNAL	What Happened: OpenAI and HuggingFace
+1544207	bitcoin	1	622	0	4	3.6	74100	11916	recent@bitcoin|top@bitcoin	SIGNAL	Bitcoin Covenants: A Complete Summary
+1544178	bitcoin	1	621	0	2	4.9	178	924	recent@bitcoin|top@bitcoin	SIGNAL	Sunday Survey: Are you willing to trade BIP110 coin now?
+1544258	AskSN	2	585	0	3	1.3	698001	9430	recent@AskSN|top@AskSN	FRESH,SIGNAL	[AskSN] Anyonr have the stats or page tracking dormant coins that safely moved?
+1544199	news	2	384	0	2	4.1	280679	22791	recent@news|top@news	SIGNAL	Revolut Blocks GrapheneOS Users From Logging Into Its App
+1544250	charts_and_maps	2	321	0	0	1.8	280679	22791	recent@charts_and_maps|top@charts_and_maps	FRESH,SIGNAL	The 10 Most Commonly Broken Bones
+1544094	bitcoin	1	309	0	0	7.2	375687	3122	recent@bitcoin|top@bitcoin	SIGNAL	Has BIP-110 failed?
+1544193	Design	2	289	0	1	4.5	383547	3470	recent@Design|top@Design	SIGNAL	Are we stuck in the typographic principles of the 20th century?
+1544184	Stacker_Stocks	2	250	0	0	4.8	9274	26102	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Blok Whatcha Buying? Week #50
+1543987	Politics_And_Law	3	239	0	7	10.4	642641	8232	recent@history|top@history	SIGNAL,SELF_POST_OPP	Trump Trapped in Losing War- Paying the Price- Outta Interceptors. WSJ reports.
+1544146	Construction_and_Engineering	2	191	0	1	5.8	9274	26102	recent@Construction_and_Engineering|top@Construction_and_Engineering	SIGNAL	Forests vs flats? Singapore’s land development debate needs to change
+1544165	news	2	175	0	1	5.5	1054143	1090	recent@econ|top@econ|recent@news	SIGNAL	Poland now sixth-largest EU economy, ahead of Switzerland and Belgium
+1544183	bitcoin_beginners	1	137	0	1	4.8	1531178	12	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Would you ever use your BTC as collateral if it never left self-custody?
+1543984	AskSN	2	116	0	0	10.5	984933	1960	recent@AskSN|top@AskSN	SIGNAL	Daily Discussion Thread ~AskSN
+1543994	AskSN	2	102	0	0	10.2	984933	1960	recent@AskSN|top@AskSN|recent@history	SIGNAL	Did you know that...?
+1543468	mostly_harmless	2	14958	0	8	29.3	1227948	196	recent@AskSN|recent@mostly_harmless	HOT,SELF_POST_OPP	If this week wasn't already enough...
+1543867	bitcoin	1	12394	0	8	17.2	74100	11916	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	HOT	Roughnecks advises people to stop mining on BIP110 chain
+1543355	bitcoin	1	10251	0	24	31.4	59594	6959	recent@bitcoin	HOT	How to Set Up BTCPay Server Better After the Hack?
+1543173	BooksAndArticles	2	4538	0	16	34.7	88718	46283	recent@BooksAndArticles	HOT,SELF_POST_OPP	Meditations Book Club: Book 1
+1543276	Stacker_Stocks	2	3571	0	20	33.0	1202928	232	recent@Stacker_Stocks	HOT,SELF_POST_OPP	PREDYX IS BACK LIVE AGAIN — SAFER, FASTER, STRONGER
+1543568	meta	1	2838	0	9	27.8	133445	10684	recent@meta	HOT	My god the fork flying in for zaps. Wonderful
+1543505	bitcoin	1	2425	0	7	28.3	587	110	recent@bitcoin	HOT	monitoring livestream: BIP-110 soft-fork: mandatory signaling at height 961632
+1543194	bitcoin	1	1968	0	9	34.4	1023067	47	recent@bitcoin	HOT	Coin-splitting idea if a BIP110 chain split actually happens
+1543487	bitcoin	1	1818	0	7	28.6	74100	11916	recent@bitcoin|recent@AskSN	HOT	How long until a bip110 signalling block is mined after mandatory signalling?
+1543830	bitcoin	1	1652	0	15	20.2	631896	3133	recent@bitcoin|top@bitcoin	HOT	40 Blocks to 2: So like that's it? MANY months of "Run Knots Save Bitcoin" for..
+1543884	lightning	1	1468	0	1	15.7	263526	553	recent@lightning|top@lightning	HOT	LNbits-CLINK extension: LN Paymens, Subscriptions Auto-Renew & Funding Source
+1543613	DIY	3	1457	0	10	27.3	1543523	8	recent@bitcoin|recent@bitcoin_beginners	HOT,SELF_POST_OPP	DTails OS & Tool - build your own verifiable Tails
+1543252	meta	1	1254	0	2	33.5	1	27061	recent@meta	HOT	SN Saturday Newsletter 8/8/26
+1543918	meta	1	1212	0	4	13.3	273359	817	recent@meta|top@meta	HOT	Knots Cowboy Credits
+1543329	tech	1	1175	0	3	32.2	48657	14616	recent@tech|recent@econ	HOT	RAM production worldwide is sold out through 2027
+1543295	econ	2	1156	0	4	32.6	48657	14616	recent@econ	HOT	The Federal Reserve Status Quo vs. Kevin Warsh
+1543861	lightning	1	1155	0	4	17.4	263526	553	recent@lightning|top@lightning	HOT	Lightning nodes shut down and the Network shrinks while 110stuff resolves itself
+1543919	bitcoin	1	1079	0	3	13.2	74100	11916	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	HOT	📣 AMA Announcement: Alejandro de la Torre CEO of DMND Pool!
+1543935	devs	1	1057	0	1	12.4	74100	11916	recent@devs|top@devs	HOT	vulnerability-spoiler-alert - spaceraccoon
+1543845	bitcoin	1	804	0	0	18.5	223678	5951	recent@bitcoin|top@bitcoin		When Prophecy Fails: A Social and Psychological Study
+1543777	bitcoin	1	596	0	5	22.8	30782	25388	recent@bitcoin|top@bitcoin		Jeftovic: The "Bitcoin Only" Era Is Over...
+1543895	bitcoin	1	557	0	6	15.2	1278026	738	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		For anyone not understanding the bip110 drama
+1543787	AskSN	2	549	0	10	22.4	698001	9430	recent@AskSN|top@AskSN	SELF_POST_OPP	[AskSN]: What is BIP-110 and why should I care? Too busy on fantasy football
+1543726	bitcoin	1	523	0	4	25.1	38951	2286	recent@bitcoin		Congrats to the 110 hard forkers
+1543756	bitcoin_Mining	1	495	0	2	24.0	1028548	542	recent@bitcoin_Mining		Ocean Lightning Payouts Dead ?
+1543267	science	2	440	0	2	33.3	458256	4845	recent@science		NASA seeks volunteers for year-long space travel simulation
+1543759	bitcoin	1	435	0	1	23.7	2795	1395	recent@bitcoin|top@bitcoin|recent@lightning		Red Sox opportunity on Predyx
+1543763	Stacker_Stocks	2	422	0	2	23.5	934429	315	recent@Stacker_Stocks|top@Stacker_Stocks		EU graph projects public pensions in Europe through 2050, per EC projection data
+1543939	podcasts	2	411	0	3	12.2	88718	46283	recent@podcasts|top@podcasts		Stacker Sports Pod • Episode 95: Forks, Fights and Flights • Listen on Fountain
+1543859	AI	1	397	0	0	17.4	12309	3607	recent@tech|top@tech|recent@AI		Anthropic co-designing custom AI inference chips to bypass costly Nvidia GPUs
+1543802	AskSN	2	394	0	4	22.0	698001	9430	recent@AskSN|top@AskSN		[AskSN]: If I have a Bitcoin core node raspberry pi v21 from 2021, am I winning?
+1543644	bitcoin	1	331	0	0	26.9	296825	5110	recent@bitcoin|recent@bitcoin_beginners|recent@bitcoin_Mining		We Have Fork-Off at Block 961631, so, BIP-110 now has its own chain fork!
+1543160	Music	3	315	0	3	35.0	984933	1960	recent@AskSN|recent@history		Did you know that...?
+1543190	lightning	1	284	0	1	34.4	440729	225	recent@lightning		Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (03b4defb15f8d0370…)
+1543139	BooksAndArticles	2	282	0	2	35.5	30782	25388	recent@BooksAndArticles		Books & Articles Weekly, Issue 123
+1543858	BooksAndArticles	2	220	0	0	17.7	296825	5110	recent@econ|top@econ|recent@Stacker_Stocks		The Long Depression: The Forgotten Crisis That Reshaped Industrial Capitalism
+1543931	bitcoin	1	206	0	0	12.5	12315	2423	recent@econ|top@econ		China's PBOC Ships Gold to Hong Kong for Global Hub
+1543896	bitcoin_Mining	1	200	0	0	15.2	185956	168	recent@bitcoin_Mining|top@bitcoin_Mining		Release Notes: Bassin Solo Bitcoin Mining Pool (ckPool) v2.1.2
+1543446	AI	1	182	0	0	29.7	1532699	64	recent@AI		Musk doesn't just want the chips. He wants the factory.
+1543351	bitcoin	1	171	0	0	31.6	296825	5110	recent@bitcoin_beginners|recent@bitdevs|recent@AskSN		100BTC Bitcoin Challenge - Hackers Still Can't Touch It
+1543122	bitcoin	1	167	0	1	35.9	296825	5110	recent@bitcoin_beginners|recent@bitcoin_Mining|recent@bitdevs		Expecting Hardforks | PAUL SZTORC
+1543149	AskSN	2	138	0	1	35.3	984933	1960	recent@AskSN		Daily Discussion Thread ~AskSN
+1543263	lightning	1	136	0	0	33.4	977962	8	recent@lightning		ZapGram – a Bitcoin Lightning wallet inside Telegram (tips, paid groups, NWC)
+1543846	Education	2	136	0	1	18.5	104755	12697	recent@Education|top@Education		Haircuts
+1543247	bitcoin	1	135	0	0	33.7	296825	5110	recent@bitcoin_beginners|recent@bitdevs		Ongoing Exploits of Bitcoin Software
+1543862	lol	2	128	0	1	17.4	296825	5110	recent@econ|top@econ|recent@Stacker_Stocks		What do you get when you combine the bubbles?
+1543626	BooksAndArticles	2	125	0	0	27.0	43424	559	recent@BooksAndArticles		Mystery books with "Scooby Doo" Vibes
+1543325	news	2	121	0	2	32.3	458256	4845	recent@news		Lionel Messi's father Jorge has passed away at 68 Yrs old
+1543666	bitcoin	1	120	0	0	26.6	296825	5110	recent@bitcoin_beginners|recent@bitdevs		QuailSeed: an experimental, offline-first Bitcoin seed-generation tool
+1543576	Stacker_Stocks	2	100	0	0	27.7	9274	26102	recent@Stacker_Stocks		MSTY Payout #49: Prediction? Ya don’t Say!!
+1544169	bitcoin_beginners	1	97	0	1	5.2	296825	5110	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		And MEMPOOL.SPACE is currently out of service
+1543535	Memes	2	77	0	0	28.0	43424	559	recent@Memes		Roll the Dice
+1543955	bitcoin	1	68	0	0	11.4	238412	216	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		Exit Protocol
+1544019	Education	2	62	0	0	9.1	1519718	44	recent@Education|top@Education		The Easiest Way To Get A Person Out Of Poverty
+1543986	lightning	1	60	0	0	10.4	440729	225	recent@lightning|top@lightning		Biggest Channel Opened Today (3.0 BTC) + New Node Spotlight (039f5ea72a612d357…)
+1543808	bitcoin	1	59	0	0	21.7	1532836	187	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus		maximum entropy
+1544130	lol	2	57	0	0	6.2	296825	5110	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lol		A 9 year old girl rolling a dice a secure bitcoin wallet
+1544102	security	1	57	0	0	6.8	416864	916	recent@security|top@security|recent@Education		TryHackMe HH 2026 Daily CTF Event - Day 02 - Room 404
+1543429	bitcoin	1	47	0	0	30.3	296825	5110	recent@bitcoin_beginners|recent@bitcoin_Mining|recent@bitdevs		Bitcoin Ecosystem Pulse: August till now
+1543136	bitcoin	1	47	0	0	35.6	296825	5110	recent@bitcoin_beginners|recent@bitcoin_Mining|recent@bitdevs		Upay: a Rust implementation of a UPI-for-Cashu market built on Nostr
+1543718	lightning	1	46	0	3	25.6	176423	74	recent@lightning		Lightning demo: multiplayer checkers + LNURL login + sats skins — feedback?
+1543963	AI	1	42	0	1	11.1	1532699	64	recent@AI|top@AI|recent@Construction_and_Engineering		AI is running into a problem money can't instantly solve: electricity
+1543676	news	2	40	0	0	26.5	1473856	16	recent@news		Payment Adoption Weekly Brief 2026/32
+1543940	bitcoin	1	36	0	0	12.1	1532836	187	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus		Multi-vendor wallet proposal
+1543340	AI	1	36	0	0	32.0	296825	5110	recent@bitcoin_beginners|recent@AI		Weekly Brief 2026/32
+1543485	bitcoin	1	36	0	0	28.7	1532836	187	recent@bitcoin_beginners|recent@bitcoinplusplus		Common mistakes made by Bitcoin beginners8
+1543314	bitcoin	1	36	0	1	32.4	296825	5110	recent@bitcoin_beginners|recent@lightning		More  people paying with Bitcoin, don’t even know about cash anymore - Trump
+1543424	news	2	36	0	0	30.4	1401899	341	recent@news		The Mecca Agreement: Anti-Iran, Anti-Israel, or Anti-India?
+1543332	lol	2	36	0	0	32.2	296825	5110	recent@history|recent@lol		From the American Empire to the Technocratic Control Grid
+1543463	lol	2	36	0	0	29.4	328182	3835	recent@lol		Trump administration has spent nearly $4B to cancel offshore wind farms
+1543923	Stacker_Stocks	2	32	10000	14	12.9	9274	26102	top@Stacker_Stocks	OPEN_BOUNTY	Daily Stock Discussion Sunday’s Weekly Close Contest 🟥 or 🟩?  20k sat award!
+1543944	Design	2	21	0	0	11.9	383547	3470	recent@Design|top@Design		Rauno Freiberg's field note #2
+1543472	bitdevs	1	0	0	0	29.1	1543470	7	recent@bitdevs		LNURL-auth bug: @noble/curves v2 hashes before signing, v1 doesn't
+1543869	lightning	1	0	0	0	17.1	263526	553	recent@lightning|top@lightning		BTCPay Just Locked Remote Lightning Access, Your Node May Already Be Compromised
+1544052	devs	1	0	0	1	8.5	860261	3	recent@devs|top@devs		Mirall – Secure large (terabyte) file transfer. No cloud. No middleman
+1543394	AI	1	0	0	0	30.9	1054143	1090	recent@AI		AI used to create viruses not found in nature for first time
+1543742	math	2	0	0	0	24.3	1248037	1927	recent@math|recent@science		Unreasonable Effectiveness of Mathematics in the Natural Sciences | Hacker News
+1543497	art	3	0	0	0	28.4	1248037	1927	recent@math|recent@science		k-Coloring is Faster than Computing the Chromatic Number | Hacker News
