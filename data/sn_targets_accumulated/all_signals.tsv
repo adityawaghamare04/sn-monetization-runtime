@@ -29436,3 +29436,53 @@
 2026-08-10T20:04:31.133Z	1544871	bitcoin_beginners	1	136	0	0	3.0	296825	5114	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	BIP-110 Lost. Bitcoin Worked. Here Is What It's Learned.
 2026-08-10T20:04:31.133Z	1544857	AI	1	125	0	2	3.4	837285	1290	recent@AI|top@AI	SIGNAL	OpenAI Agents Escaped the Sandbox and Reached Real External Systems
 2026-08-10T20:04:31.133Z	1544552	AI	1	125	0	0	9.1	280679	22814	recent@AI|top@AI	SIGNAL	Should we "pace" AI self-improvement?
+2026-08-10T20:55:21.450Z	1544856	bitcoinplusplus	1	5942	0	1	4.3	280679	22814	recent@bitcoinplusplus|top@bitcoinplusplus	HOT,SIGNAL	CISA — Fabian Jahr | bitcoin++ Toronto, consensus edition
+2026-08-10T20:55:21.450Z	1544572	bitcoin	1	5761	0	48	9.3	30782	25407	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Why Is The Red Team Seeking Publicity?
+2026-08-10T20:55:21.450Z	1544836	news	2	4591	0	7	4.6	81644	1117	recent@bitcoin|top@bitcoin|recent@news	HOT,SIGNAL,SELF_POST_OPP	My interview Kanyuk, a foreign volunteer soldier for Ukraine
+2026-08-10T20:55:21.450Z	1544607	bitcoin	1	3900	0	10	8.5	1242375	153	recent@bitcoin|top@bitcoin|recent@AskSN	HOT,SIGNAL	Who will be the sacrifice for the next bear market?
+2026-08-10T20:55:21.450Z	1544639	bitcoin	1	3583	0	0	7.6	74100	11935	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	BIP DRAFT: ChillDKG - Distributed Key Generation for FROST
+2026-08-10T20:55:21.450Z	1544885	Design	2	2492	0	3	3.6	383547	3479	recent@lightning|top@lightning|recent@Design	HOT,SIGNAL	LIGHTNING.pub — Lightning shouldn’t be a hobby that loses money.
+2026-08-10T20:55:21.450Z	1544507	Politics_And_Law	3	2094	0	3	11.9	724606	12027	recent@econ|top@econ	HOT,SIGNAL	How to Fix the Housing "Crisis" (FT, Andy Haldane)
+2026-08-10T20:55:21.450Z	1544739	bitcoin	1	1958	0	3	6.1	280679	22814	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Announcing Blockstream Swaps
+2026-08-10T20:55:21.450Z	1544984	bitcoin	1	1855	0	1	1.0	74100	11935	recent@bitcoin|top@bitcoin|recent@bitdevs	FRESH,HOT,SIGNAL	BTCPay Server Security Incident: Our Response and Next Steps
+2026-08-10T20:55:21.450Z	1544564	gaming	3	1774	0	2	9.5	74100	11935	recent@bitcoin|top@bitcoin|recent@math	HOT,SIGNAL	humans are not good at making entropy - man vs machine game
+2026-08-10T20:55:21.450Z	1544738	Stacker_Stocks	2	1753	0	2	6.1	724606	12027	recent@econ|top@econ|recent@Stacker_Stocks	HOT,SIGNAL	Print Shares, Not Money... and Sell BTC at the Bottom: The New Strategy Strategy
+2026-08-10T20:55:21.450Z	1544626	news	2	1686	0	0	7.9	440139	4246	recent@news|top@news|recent@BooksAndArticles	HOT,SIGNAL	Harry Potter fans force relocation of £430m cable to avoid Dobby’s ‘grave’
+2026-08-10T20:55:21.450Z	1544986	bitcoin	1	1365	0	5	1.0	984933	1977	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	FRESH,HOT,SIGNAL	The end has come for @lnp2pBot too
+2026-08-10T20:55:21.450Z	1544550	BooksAndArticles	2	1076	0	3	9.9	1264102	57	recent@BooksAndArticles|top@BooksAndArticles	HOT,SIGNAL	New stock: Bitcoin Is Venice & The Philosophy Of Bitcoin
+2026-08-10T20:55:21.450Z	1544724	bitcoin	1	1060	0	13	6.4	1023067	50	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	HOT,SIGNAL	OCEAN Accused of Hashrate Hijacking Over BIP-110
+2026-08-10T20:55:21.450Z	1544890	lol	2	1057	0	2	3.5	1532699	72	recent@econ|top@econ|recent@lol	HOT,SIGNAL	Congratulations to Florida's Economic Developer of the Year: Zohran Mamdani
+2026-08-10T20:55:21.450Z	1544799	econ	2	1012	0	3	5.1	48657	14636	recent@econ|top@econ	HOT,SIGNAL	‘Abolish Capitalism. Viva Free Enterprise!’
+2026-08-10T20:55:21.450Z	1544805	lightning	1	891	0	3	5.0	89496	1373	recent@lightning|top@lightning	SIGNAL	[Help] Channel Pending force closed
+2026-08-10T20:55:21.450Z	1544664	Stacker_Stocks	2	840	0	2	7.3	402772	22191	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Strategy Increases USD Reserve by $650M to $4.65B and Repurchases $109M of STRC
+2026-08-10T20:55:21.450Z	1544977	AI	1	744	0	1	1.2	4078	5379	recent@AI|top@AI|recent@science	FRESH,SIGNAL	Learning more about Claude's mathematical capabilities
+2026-08-10T20:55:21.450Z	1544865	bitcoin	1	740	0	3	4.0	1028548	546	recent@bitcoin|top@bitcoin	SIGNAL	Next Steps for bip110 coin?
+2026-08-10T20:55:21.450Z	1544596	bitcoin	1	588	0	0	8.7	74100	11935	recent@bitcoin|top@bitcoin|recent@bitdevs	SIGNAL	Proof-of-work based signet faucet - ajtowns
+2026-08-10T20:55:21.450Z	1544630	bitcoin	1	544	0	2	7.8	296825	5114	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Your bitcoin node is like a condom machine in the Vatican
+2026-08-10T20:55:21.450Z	1544838	Education	2	511	0	3	4.5	401865	8357	recent@Education|top@Education	SIGNAL	America is Arguing About Homeschooling Without Looking at the Data
+2026-08-10T20:55:21.450Z	1544886	Construction_and_Engineering	2	497	0	1	3.6	280679	22814	recent@Construction_and_Engineering|top@Construction_and_Engineering	SIGNAL	The Bullet Train That Could Save Australia | The B1M
+2026-08-10T20:55:21.450Z	1544765	bitcoin	1	433	0	0	5.7	462245	298	recent@bitcoin|top@bitcoin|recent@bitcoinplusplus	SIGNAL	The Red Team — Last Week in Bitcoin (Aug 03 - 09)
+2026-08-10T20:55:21.450Z	1544896	tech	1	415	0	1	3.3	1293586	2143	recent@tech|top@tech	SIGNAL	Linus Torvalds says AI has made 'huge' Linux kernel updates the new normal
+2026-08-10T20:55:21.450Z	1544675	AI	1	373	0	1	7.1	4081	491	recent@AI|top@AI	SIGNAL	Black Hat USA 2026: The OpenAI–Hugging Face Incident
+2026-08-10T20:55:21.450Z	1544520	food_and_drinks	3	355	0	2	11.2	280679	22814	recent@charts_and_maps|top@charts_and_maps	SIGNAL	Global Beer Production in Slow Decline
+2026-08-10T20:55:21.450Z	1544558	bitcoin	1	333	0	3	9.7	74100	11935	recent@bitcoin|top@bitcoin|recent@nostr	SIGNAL	Stream Road - yet another nostr video streaming/zapping platform
+2026-08-10T20:55:21.450Z	1544767	bitcoin	1	312	0	1	5.6	223678	5965	recent@bitcoin|top@bitcoin	SIGNAL	Should Bitcoin Core be replaced by a colony of Beavers?
+2026-08-10T20:55:21.450Z	1544729	news	2	268	0	1	6.3	984933	1977	recent@news|top@news	SIGNAL	Serious situation in Cali - Infrastructure collapsed throughout the city
+2026-08-10T20:55:21.450Z	1544659	tech	1	251	0	1	7.4	996769	45	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	10 Years of BTC Sessions: Expanding Into Privacy, Sovereignty & Freedom Tech
+2026-08-10T20:55:21.450Z	1544952	bitcoin	1	233	0	7	1.9	30782	25407	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Motion To Remove Luke Dashjr As BIP Editor
+2026-08-10T20:55:21.450Z	1544791	bitcoin	1	213	0	1	5.2	30993	3660	recent@bitcoin|top@bitcoin	SIGNAL	Electrum Unplugged with it's creator Thomas Voegtlin, @ Bitcoin Barcelona
+2026-08-10T20:55:21.450Z	1544972	bitcoinplusplus	1	201	0	1	1.5	280679	22814	recent@bitcoinplusplus|top@bitcoinplusplus	FRESH,SIGNAL	Stuff We're Working On — Paul Sztorc | bitcoin++ Toronto, consensus edition
+2026-08-10T20:55:21.450Z	1544963	bitcoin	1	197	0	0	1.6	223678	5965	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	CoiledCoin now closed. Have a nice day.
+2026-08-10T20:55:21.450Z	1544642	Education	2	194	0	0	7.6	1532699	72	recent@Education|top@Education|recent@history	SIGNAL	Should the Smithsonian teach Americans to be proud of America?
+2026-08-10T20:55:21.450Z	1544750	Memes	2	184	0	2	5.9	36151	1587	recent@Memes|top@Memes	SIGNAL	Meme Monday - Top Meme Goes in the Newsletter
+2026-08-10T20:55:21.450Z	1545009	tech	1	165	0	2	0.4	1293586	2143	recent@econ|top@econ	FRESH,SIGNAL	US hires over 2,000 video gamers as air traffic controllers
+2026-08-10T20:55:21.450Z	1544943	bitcoin	1	161	0	0	2.1	238412	218	recent@bitcoin_beginners|top@bitcoin_beginners|recent@ideasfromtheedge	SIGNAL	Why Self Custody Matters
+2026-08-10T20:55:21.450Z	1544629	AskSN	2	158	0	2	7.8	984933	1977	recent@AskSN|top@AskSN	SIGNAL	AskSN Weekly Q&A Awards
+2026-08-10T20:55:21.450Z	1544746	BooksAndArticles	2	153	0	2	6.0	104755	12708	recent@BooksAndArticles|top@BooksAndArticles	SIGNAL	Borrow books from libraries or buy them at bookstores?
+2026-08-10T20:55:21.450Z	1544641	AI	1	145	0	0	7.6	1054143	1096	recent@AI|top@AI	SIGNAL	North Korea’s hackers using AI for attacks, cybersecurity firm says
+2026-08-10T20:55:21.450Z	1544807	math	2	142	0	3	4.9	280679	22814	recent@math|top@math|recent@science	SIGNAL	Why Are Rivers So Mathematical?
+2026-08-10T20:55:21.450Z	1544871	bitcoin_beginners	1	136	0	0	3.8	296825	5114	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs	SIGNAL	BIP-110 Lost. Bitcoin Worked. Here Is What It's Learned.
+2026-08-10T20:55:21.450Z	1544857	AI	1	125	0	2	4.2	837285	1290	recent@AI|top@AI	SIGNAL	OpenAI Agents Escaped the Sandbox and Reached Real External Systems
+2026-08-10T20:55:21.450Z	1544552	AI	1	125	0	0	9.9	280679	22814	recent@AI|top@AI	SIGNAL	Should we "pace" AI self-improvement?
+2026-08-10T20:55:21.450Z	1544734	news	2	110	0	0	6.2	1054143	1096	recent@econ|top@econ|recent@news	SIGNAL	What’s behind Trump’s shift to economic pressure on Iran? Will it work?
+2026-08-10T20:55:21.450Z	1544946	science	2	100	0	1	2.1	296825	5114	recent@science|top@science|recent@history	SIGNAL	Who Discovered the Very First Magnet?
