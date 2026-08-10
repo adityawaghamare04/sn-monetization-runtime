@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-09T22:30:30.873Z; n=40
-lightning	sn:lightning,sn:bitcoin	6.16	yes	
-what	hn,sn:AskSN	4.89	yes	
-windows	hn	4.66	no	RISING
+# generated 2026-08-10T05:26:12.679Z; n=40
+lightning	sn:lightning,sn:bitcoin	6.2	yes	
+what happened	hn,sn:security	5.2	yes	
 roughnecks	sn:bitcoin	4.09	yes	
-full-fat	sn:science	3.63	no	RISING
-bitcoin	sn:bitcoin	3.56	yes	
+risc	hn	4.02	no	RISING
+bitcoin covenants	sn:bitcoin	3.7	yes	
+complete summary	sn:bitcoin	3.7	yes	
+full-fat	sn:science	3.65	no	RISING
+bitcoin	sn:bitcoin	3.57	yes	
+show	hn	3.51	no	RISING
+nostr	sn:tech	3.43	yes	
+no electron	sn:tech	3.43	yes	
 fantasy football league	sn:Stacker_Sports	3.39	no	RISING
 update	sn:bitcoin	3.3	yes	
 ocean	sn:bitcoin	3.3	yes	
-blocks	sn:bitcoin	3.22	yes	
-many	sn:bitcoin	3.22	yes	
-run knots save bitcoin	sn:bitcoin	3.22	yes	
-nostr	sn:tech	3.19	yes	
-no electron	sn:tech	3.19	yes	
 clink	sn:lightning	3.17	no	RISING
 paymens	sn:lightning	3.17	no	RISING
 subscriptions auto-renew	sn:lightning	3.17	no	RISING
 funding source	sn:lightning	3.17	no	RISING
-show	hn	3.14	no	RISING
+knots cowboy credits	sn:meta	3.15	yes	
 daily putt	sn:gaming	3.14	no	RISING
 play	sn:gaming	3.14	no	RISING
 putt	sn:gaming	3.14	no	RISING
 score	sn:gaming	3.14	no	RISING
-rate my setup	sn:security	3.12	yes	
-from cowboy credits	sn:bitcoin	3.1	yes	
-knots cowboy credits	sn:meta	3.08	yes	
-network	sn:lightning	3.06	no	RISING
-brazil	sn:lol	3.06	yes	
-self-custody	sn:lol	3.06	yes	
+rate my setup	sn:security	3.13	yes	
+from cowboy credits	sn:bitcoin	3.13	yes	
+anyonr	sn:AskSN	3.12	no	RISING
+brazil	sn:lol	3.11	yes	
+self-custody	sn:lol	3.11	yes	
+network	sn:lightning	3.07	no	RISING
+first	sn:bitcoin	3.05	yes	
 announcement	sn:bitcoin	3.03	yes	
 alejandro	sn:bitcoin	3.03	yes	
 torre	sn:bitcoin	3.03	yes	
 dmnd	sn:bitcoin	3.03	yes	
 pool	sn:bitcoin	3.03	yes	
 vulnerability-spoiler	sn:devs	3.02	no	RISING
-when prophecy fails	sn:bitcoin	2.91	yes	
-social	sn:bitcoin	2.91	yes	
-psychological study	sn:bitcoin	2.91	yes	
-bitcoin covenants	sn:bitcoin	2.79	yes	
-complete summary	sn:bitcoin	2.79	yes	
+sunday survey	sn:bitcoin	2.82	yes	
+biggest channel opened today	sn:lightning	2.76	no	RISING
+new node spotlight	sn:lightning	2.76	no	RISING
+most commonly broken bones	sn:charts_and_maps	2.75	no	RISING
