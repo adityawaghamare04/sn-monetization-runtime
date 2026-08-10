@@ -1,0 +1,49 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1544207	bitcoin	1	4955	0	15	11.9	74100	11916	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Bitcoin Covenants: A Complete Summary
+1544331	bitcoin	1	2244	0	2	6.6	631896	3143	recent@bitcoin|top@bitcoin	HOT,SIGNAL	First it was 'fix the spam' then 'the miners are hostile' now 'change the PoW'?
+1544360	bitcoin_Mining	1	400	0	3	5.7	273359	825	recent@bitcoin_Mining|top@bitcoin_Mining|recent@mempool	SIGNAL	Mining Pool Health Report [Week 3]
+1544354	bitcoin	1	341	0	1	6.1	375687	3125	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Has anyone used this P2P platform? Vexl
+1544425	AI	1	186	0	2	2.9	1	27063	recent@AI|top@AI	SIGNAL	Economic benefits to counties with operating data centers
+1544364	bitcoin	1	100	0	2	5.5	375687	3125	recent@bitcoinplusplus|top@bitcoinplusplus	SIGNAL	Things from the BIP-110
+1543867	bitcoin	1	12444	0	9	25.5	74100	11916	recent@bitcoin|recent@bitcoin_Mining	HOT	Roughnecks advises people to stop mining on BIP110 chain
+1544022	bitcoin	1	3730	0	29	17.4	1513887	26	recent@bitcoin|top@bitcoin	HOT	Bitcoin dead after hostile miner and node attack
+1544108	tech	1	2733	0	7	14.9	252116	14	recent@nostr|top@nostr|recent@tech	HOT	I wrote a native Nostr client for macOS in Zig. No Electron. No WebView.
+1544010	bitcoin	1	1974	0	9	17.8	296825	5110	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT	Update: the default OCEAN stratum endpoint will return to the non-BIP110 chain
+1543830	bitcoin	1	1652	0	17	28.5	631896	3143	recent@bitcoin	HOT	40 Blocks to 2: So like that's it? MANY months of "Run Knots Save Bitcoin" for..
+1543884	lightning	1	1468	0	1	24.0	263526	556	recent@lightning|top@lightning	HOT	LNbits-CLINK extension: LN Paymens, Subscriptions Auto-Renew & Funding Source
+1543613	DIY	3	1457	0	11	35.6	1543523	8	recent@bitcoin|recent@bitcoin_beginners	HOT,SELF_POST_OPP	DTails OS & Tool - build your own verifiable Tails
+1543918	meta	1	1396	0	5	21.6	273359	825	recent@meta|top@meta	HOT	Knots Cowboy Credits
+1544100	bitcoin	1	1339	0	2	15.3	272410	1153	recent@bitcoin|top@bitcoin	HOT	From Cowboy Credits to Lightning: could communities build their own economies?
+1544045	security	1	1337	0	9	17.0	223678	5952	recent@bitcoin|top@bitcoin|recent@security	HOT	Rate My Setup
+1544203	lol	2	1299	0	1	12.2	280679	22792	recent@bitcoin|top@bitcoin	HOT	Brazil to tighten controls with new 24h wait on transfers to self-custody wallet
+1543861	lightning	1	1176	0	4	25.7	263526	556	recent@lightning	HOT	Lightning nodes shut down and the Network shrinks while 110stuff resolves itself
+1544110	security	1	1176	0	1	14.9	440139	4244	recent@security|top@security|recent@AI	HOT	What Happened: OpenAI and HuggingFace
+1543919	bitcoin	1	1079	0	3	21.5	74100	11916	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	HOT	📣 AMA Announcement: Alejandro de la Torre CEO of DMND Pool!
+1543935	devs	1	1057	0	1	20.7	74100	11916	recent@devs|top@devs	HOT	vulnerability-spoiler-alert - spaceraccoon
+1543845	bitcoin	1	804	0	0	26.8	223678	5952	recent@bitcoin		When Prophecy Fails: A Social and Psychological Study
+1544178	bitcoin	1	657	0	4	13.2	178	924	recent@bitcoin|top@bitcoin		Sunday Survey: Are you willing to trade BIP110 coin now?
+1543777	bitcoin	1	596	0	5	31.1	30782	25389	recent@bitcoin		Jeftovic: The "Bitcoin Only" Era Is Over...
+1543986	lightning	1	572	0	1	18.7	440729	225	recent@lightning|top@lightning		Biggest Channel Opened Today (3.0 BTC) + New Node Spotlight (039f5ea72a612d357…)
+1543895	bitcoin	1	557	0	6	23.5	1278026	738	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		For anyone not understanding the bip110 drama
+1543726	bitcoin	1	523	0	4	33.4	38951	2286	recent@bitcoin		Congrats to the 110 hard forkers
+1543756	bitcoin_Mining	1	495	0	2	32.3	1028548	543	recent@bitcoin_Mining		Ocean Lightning Payouts Dead ?
+1543759	bitcoin	1	435	0	1	32.0	2795	1395	recent@bitcoin|recent@lightning		Red Sox opportunity on Predyx
+1543859	AI	1	397	0	0	25.7	12309	3607	recent@tech|recent@AI		Anthropic co-designing custom AI inference chips to bypass costly Nvidia GPUs
+1544144	bitcoin	1	376	0	5	14.1	887826	102	recent@bitcoin|top@bitcoin		Geyser moves temporarily to direct on-chain and lightning payments
+1543644	bitcoin	1	331	0	0	35.2	296825	5110	recent@bitcoin_beginners|recent@bitcoin_Mining|recent@bitdevs		We Have Fork-Off at Block 961631, so, BIP-110 now has its own chain fork!
+1544094	bitcoin	1	309	0	0	15.5	375687	3125	recent@bitcoin|top@bitcoin		Has BIP-110 failed?
+1543896	bitcoin_Mining	1	200	0	0	23.5	185956	168	recent@bitcoin_Mining|top@bitcoin_Mining		Release Notes: Bassin Solo Bitcoin Mining Pool (ckPool) v2.1.2
+1544130	lol	2	147	0	0	14.5	296825	5110	recent@bitcoin_beginners|top@bitcoin_beginners		A 9 year old girl rolling a dice a secure bitcoin wallet
+1543666	bitcoin	1	120	0	0	34.9	296825	5110	recent@bitcoin_beginners|recent@bitdevs		QuailSeed: an experimental, offline-first Bitcoin seed-generation tool
+1543940	bitcoin	1	108	0	0	20.4	1532836	192	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus		Multi-vendor wallet proposal
+1543955	bitcoin	1	68	0	0	19.7	238412	217	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		Exit Protocol
+1543808	bitcoin	1	59	0	0	30.0	1532836	192	recent@bitcoin_beginners|recent@bitcoinplusplus		maximum entropy
+1544102	security	1	57	0	0	15.1	416864	917	recent@security|top@security		TryHackMe HH 2026 Daily CTF Event - Day 02 - Room 404
+1543718	lightning	1	46	0	3	33.9	176423	74	recent@lightning		Lightning demo: multiplayer checkers + LNURL login + sats skins — feedback?
+1543963	AI	1	42	0	1	19.4	1532699	64	recent@AI|top@AI		AI is running into a problem money can't instantly solve: electricity
+1544456	AI	1	21	0	0	1.3	140698	1084	recent@AI|top@AI	FRESH	More and More Households are Paying for Al
+1544411	bitcoin	1	0	0	0	3.8	1532836	192	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		Rigly Block Party #34 statistics
+1544457	lightning	1	0	0	0	1.3	263526	556	recent@lightning|top@lightning	FRESH	Odd set of channels opened to my node in a 1-week span?
+1543869	lightning	1	0	0	0	25.4	263526	556	recent@lightning		BTCPay Just Locked Remote Lightning Access, Your Node May Already Be Compromised
+1544052	devs	1	0	0	1	16.8	860261	3	recent@devs|top@devs		Mirall – Secure large (terabyte) file transfer. No cloud. No middleman
+1544410	AI	1	0	0	0	3.8	1248037	1939	recent@AI|top@AI		AI Deluge:  Interim Relief, etc …    | Hacker News
