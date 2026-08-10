@@ -28954,3 +28954,14 @@
 2026-08-10T02:59:49.832Z	1544360	bitcoin_Mining	1	354	0	0	0.7	273359	822	recent@bitcoin_Mining|top@bitcoin_Mining|recent@mempool	FRESH,SIGNAL	Mining Pool Health Report [Week 3]
 2026-08-10T02:59:49.832Z	1544094	bitcoin	1	309	0	0	10.5	375687	3124	recent@bitcoin|top@bitcoin	SIGNAL	Has BIP-110 failed?
 2026-08-10T02:59:49.832Z	1544130	lol	2	147	0	0	9.6	296825	5110	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	A 9 year old girl rolling a dice a secure bitcoin wallet
+2026-08-10T04:46:01.976Z	1544207	bitcoin	1	4954	0	14	8.7	74100	11916	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Bitcoin Covenants: A Complete Summary
+2026-08-10T04:46:01.976Z	1544108	tech	1	2191	0	4	11.7	252116	11	recent@nostr|top@nostr|recent@tech	HOT,SIGNAL	I wrote a native Nostr client for macOS in Zig. No Electron. No WebView.
+2026-08-10T04:46:01.976Z	1544203	lol	2	1294	0	1	9.0	280679	22791	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Brazil to tighten controls with new 24h wait on transfers to self-custody wallet
+2026-08-10T04:46:01.976Z	1544110	security	1	1155	0	1	11.7	440139	4244	recent@security|top@security|recent@AI	HOT,SIGNAL	What Happened: OpenAI and HuggingFace
+2026-08-10T04:46:01.976Z	1544331	bitcoin	1	1112	0	2	3.4	631896	3143	recent@bitcoin|top@bitcoin	HOT,SIGNAL	First it was 'fix the spam' then 'the miners are hostile' now 'change the PoW'?
+2026-08-10T04:46:01.976Z	1544178	bitcoin	1	657	0	4	10.0	178	924	recent@bitcoin|top@bitcoin	SIGNAL	Sunday Survey: Are you willing to trade BIP110 coin now?
+2026-08-10T04:46:01.976Z	1544360	bitcoin_Mining	1	400	0	1	2.5	273359	824	recent@bitcoin_Mining|top@bitcoin_Mining|recent@mempool	SIGNAL	Mining Pool Health Report [Week 3]
+2026-08-10T04:46:01.976Z	1544144	bitcoin	1	376	0	5	10.9	887826	102	recent@bitcoin|top@bitcoin	SIGNAL	Geyser moves temporarily to direct on-chain and lightning payments
+2026-08-10T04:46:01.976Z	1544354	bitcoin	1	341	0	0	2.8	375687	3124	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Has anyone used this P2P platform? Vexl
+2026-08-10T04:46:01.976Z	1544130	lol	2	147	0	0	11.3	296825	5110	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	A 9 year old girl rolling a dice a secure bitcoin wallet
+2026-08-10T04:46:01.976Z	1544364	bitcoin	1	100	0	2	2.3	375687	3124	recent@bitcoinplusplus|top@bitcoinplusplus	SIGNAL	Things from the BIP-110
