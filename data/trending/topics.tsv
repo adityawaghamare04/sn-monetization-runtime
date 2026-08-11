@@ -1,28 +1,26 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-11T05:08:01.497Z; n=40
+# generated 2026-08-11T10:50:23.518Z; n=40
+show	hn	6.55	no	RISING
+america	hn,sn:Education	5.91	no	RISING
 kanyuk	sn:news	5.03	yes	
 ukraine	sn:news	5.03	yes	
-show	hn	4.5	no	RISING
 luke dashjr	sn:bitcoin	4.2	yes	
 editor	sn:bitcoin	4.2	yes	
-cisa	sn:bitcoinplusplus	3.88	no	RISING
-fabian jahr	sn:bitcoinplusplus	3.88	no	RISING
-toronto	sn:bitcoinplusplus	3.88	no	RISING
-which bitcoin	sn:AskSN	3.87	no	RISING
+cisa	sn:bitcoinplusplus	3.98	no	RISING
+fabian jahr	sn:bitcoinplusplus	3.98	no	RISING
+toronto	sn:bitcoinplusplus	3.98	no	RISING
+rust	hn	3.94	no	RISING
 why is the red team seeking publicity	sn:bitcoin	3.81	yes	
 draft	sn:bitcoin	3.78	yes	
 distributed key generation	sn:bitcoin	3.78	yes	
 frost	sn:bitcoin	3.78	yes	
-server security incident	sn:bitcoin	3.69	yes	
-our response	sn:bitcoin	3.69	yes	
-next steps	sn:bitcoin	3.69	yes	
+server security incident	sn:bitcoin	3.73	yes	
+our response	sn:bitcoin	3.73	yes	
+next steps	sn:bitcoin	3.73	yes	
+announcing blockstream swaps	sn:bitcoin	3.48	yes	
 lightning	sn:Design	3.47	yes	
 stacker sports summer league	sn:Stacker_Sports	3.33	no	RISING
 current standings	sn:Stacker_Sports	3.33	no	RISING
-housing	sn:Politics_And_Law	3.32	no	RISING
-crisis	sn:Politics_And_Law	3.32	no	RISING
-andy haldane	sn:Politics_And_Law	3.32	no	RISING
-announcing blockstream swaps	sn:bitcoin	3.31	yes	
 print shares	sn:Stacker_Stocks	3.31	no	RISING
 not money	sn:Stacker_Stocks	3.31	no	RISING
 sell	sn:Stacker_Stocks	3.31	no	RISING
@@ -32,11 +30,13 @@ podcasting	sn:bitcoin	3.23	yes
 donations down	sn:bitcoin	3.23	yes	
 harry potter	sn:news	3.23	no	RISING
 dobby	sn:news	3.23	no	RISING
-america	sn:Education	3.2	no	RISING
 arguing about homeschooling without looking	sn:Education	3.2	no	RISING
 data	sn:Education	3.2	no	RISING
+zeus	sn:news	3.19	yes	
 review	sn:BooksAndArticles	3.19	no	RISING
 mortal things	sn:BooksAndArticles	3.19	no	RISING
 marie lu	sn:BooksAndArticles	3.19	no	RISING
 wnba	sn:Stacker_Sports	3.15	no	RISING
 bitcoin is venice	sn:BooksAndArticles	3.07	no	RISING
+the philosophy of bitcoin	sn:BooksAndArticles	3.07	no	RISING
+last	sn:Stacker_Sports	3.07	no	RISING
