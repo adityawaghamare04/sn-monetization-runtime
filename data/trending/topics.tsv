@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-11T10:50:23.518Z; n=40
-show	hn	6.55	no	RISING
-america	hn,sn:Education	5.91	no	RISING
-kanyuk	sn:news	5.03	yes	
-ukraine	sn:news	5.03	yes	
-luke dashjr	sn:bitcoin	4.2	yes	
+# generated 2026-08-11T16:56:56.643Z; n=40
+show	hn	8.05	no	RISING
+luke dashjr	sn:bitcoin	6.95	yes	
+next steps	sn:bitcoin	6.6	yes	
+new tutorial	sn:bitcoin	6.14	yes	
+lightning	hn,sn:Design	5.34	yes	
+apple silicon	hn	4.65	no	RISING
 editor	sn:bitcoin	4.2	yes	
-cisa	sn:bitcoinplusplus	3.98	no	RISING
-fabian jahr	sn:bitcoinplusplus	3.98	no	RISING
-toronto	sn:bitcoinplusplus	3.98	no	RISING
-rust	hn	3.94	no	RISING
-why is the red team seeking publicity	sn:bitcoin	3.81	yes	
-draft	sn:bitcoin	3.78	yes	
-distributed key generation	sn:bitcoin	3.78	yes	
-frost	sn:bitcoin	3.78	yes	
+faster	hn	4.01	no	RISING
 server security incident	sn:bitcoin	3.73	yes	
 our response	sn:bitcoin	3.73	yes	
-next steps	sn:bitcoin	3.73	yes	
-announcing blockstream swaps	sn:bitcoin	3.48	yes	
-lightning	sn:Design	3.47	yes	
-stacker sports summer league	sn:Stacker_Sports	3.33	no	RISING
-current standings	sn:Stacker_Sports	3.33	no	RISING
-print shares	sn:Stacker_Stocks	3.31	no	RISING
-not money	sn:Stacker_Stocks	3.31	no	RISING
-sell	sn:Stacker_Stocks	3.31	no	RISING
-bottom	sn:Stacker_Stocks	3.31	no	RISING
-the new strategy strategy	sn:Stacker_Stocks	3.31	no	RISING
-podcasting	sn:bitcoin	3.23	yes	
-donations down	sn:bitcoin	3.23	yes	
-harry potter	sn:news	3.23	no	RISING
-dobby	sn:news	3.23	no	RISING
-arguing about homeschooling without looking	sn:Education	3.2	no	RISING
-data	sn:Education	3.2	no	RISING
-zeus	sn:news	3.19	yes	
+podcasting	sn:bitcoin	3.28	yes	
+donations down	sn:bitcoin	3.28	yes	
+zeus	sn:news	3.22	yes	
 review	sn:BooksAndArticles	3.19	no	RISING
 mortal things	sn:BooksAndArticles	3.19	no	RISING
 marie lu	sn:BooksAndArticles	3.19	no	RISING
-wnba	sn:Stacker_Sports	3.15	no	RISING
-bitcoin is venice	sn:BooksAndArticles	3.07	no	RISING
-the philosophy of bitcoin	sn:BooksAndArticles	3.07	no	RISING
-last	sn:Stacker_Sports	3.07	no	RISING
+who will pay	sn:Politics_And_Law	3.13	no	RISING
+democratic socialism	sn:Politics_And_Law	3.13	no	RISING
+trillion cost	sn:Politics_And_Law	3.13	no	RISING
+seedsigner	sn:bitcoin	3.1	yes	
+dice	sn:bitcoin	3.1	yes	
+some	sn:bitcoin	3.09	yes	
+lukeless	sn:bitcoin	3.09	yes	
+roughneck chronicles	sn:bitcoin	3.08	yes	
+antifragility test	sn:bitcoin	3.08	yes	
+maradona theories	sn:Stacker_Sports	3.07	no	RISING
+oracle	sn:Stacker_Sports	3.07	no	RISING
+delphi	sn:Stacker_Sports	3.07	no	RISING
+warsh	sn:Stacker_Sports	3.07	no	RISING
+fed talking	sn:Stacker_Sports	3.07	no	RISING
+the economist	sn:Stacker_Sports	3.07	no	RISING
+multi-vendor multisig	sn:bitcoin	3.04	yes	
+sparrow	sn:bitcoin	3.04	yes	
+nunchuk	sn:bitcoin	3.04	yes	
+bibi rejects trump gaza plan	sn:Politics_And_Law	3.04	no	RISING
+congratulations	sn:lol	3.02	no	RISING
+florida	sn:lol	3.02	no	RISING
+economic developer	sn:lol	3.02	no	RISING
+year	sn:lol	3.02	no	RISING
+zohran mamdani	sn:lol	3.02	no	RISING
