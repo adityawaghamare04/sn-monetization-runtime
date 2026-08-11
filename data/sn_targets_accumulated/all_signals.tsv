@@ -30099,3 +30099,14 @@
 2026-08-11T13:55:23.962Z	1545269	lightning	1	368	0	5	7.0	263526	560	recent@lightning|top@lightning	SIGNAL	Issue with JADE and lightning
 2026-08-11T13:55:23.962Z	1545182	bitcoin	1	109	0	1	11.7	1532836	205	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus	SIGNAL	@MostroP2P: an alternative following the shutdown of @inp2bot.
 2026-08-11T13:55:23.962Z	1545391	lightning	1	100	0	0	1.8	163128	3729	recent@lightning|top@lightning	FRESH,SIGNAL	EmberSpark: Lightning wallet for your own LNbits server
+2026-08-11T15:01:18.887Z	1545332	meta	1	10246	0	32	4.6	57444	15790	recent@devs|top@devs|recent@meta	HOT,SIGNAL	territory.watch
+2026-08-11T15:01:18.887Z	1545403	bitcoin	1	1191	0	4	2.7	1526429	13	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	HOT,SIGNAL	Roughneck Chronicles 4: Antifragility Test
+2026-08-11T15:01:18.887Z	1545366	bitcoin	1	1108	0	35	3.6	30782	25425	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT,SIGNAL	Some advice re Lukeless knots?
+2026-08-11T15:01:18.887Z	1545541	bitdevs	1	783	0	1	0.6	995395	90	recent@bitdevs|top@bitdevs	FRESH,SIGNAL	@lnp2pBot  has come to an end.
+2026-08-11T15:01:18.887Z	1545303	bitcoin	1	599	0	6	6.0	1278026	741	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	CLINK troubleshooting
+2026-08-11T15:01:18.887Z	1545316	bitcoin	1	592	0	4	5.2	498251	831	recent@bitcoin|top@bitcoin	SIGNAL	BIP-110 Lost. Bitcoin Worked: What I Learned | Simon Dixon
+2026-08-11T15:01:18.888Z	1545275	meta	1	438	0	10	7.8	273359	852	recent@meta|top@meta	SIGNAL	No daily reward?
+2026-08-11T15:01:18.888Z	1545269	lightning	1	404	0	5	8.1	263526	560	recent@lightning|top@lightning	SIGNAL	Issue with JADE and lightning
+2026-08-11T15:01:18.888Z	1545424	bitcoin	1	305	0	1	2.2	185956	174	recent@bitcoin|top@bitcoin	SIGNAL	Bitcoin Pool Co-Founder Wang Chun (@satofishi) Rejects BIP-54 Proposal
+2026-08-11T15:01:18.888Z	1545505	bitcoin	1	295	0	1	1.0	74100	11965	recent@bitcoin|top@bitcoin|recent@bitdevs	FRESH,SIGNAL	Ledger Bitcoin v2.5.0: human readable miniscript policies
+2026-08-11T15:01:18.888Z	1545391	lightning	1	100	0	0	2.9	163128	3729	recent@lightning|top@lightning	SIGNAL	EmberSpark: Lightning wallet for your own LNbits server
