@@ -1,0 +1,73 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1545332	meta	1	4325	0	13	2.0	57444	15776	recent@devs|top@devs|recent@meta	FRESH,HOT,SIGNAL	territory.watch
+1545366	bitcoin	1	775	0	16	1.0	30782	25419	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	FRESH,SIGNAL	Some advice re Lukeless knots?
+1545303	bitcoin	1	463	0	4	3.4	1278026	740	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	CLINK troubleshooting
+1545275	meta	1	388	0	8	5.2	273359	847	recent@meta|top@meta	SIGNAL	No daily reward?
+1545182	bitcoin	1	109	0	1	10.2	1532836	205	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus	SIGNAL	@MostroP2P: an alternative following the shutdown of @inp2bot.
+1545391	lightning	1	100	0	0	0.3	163128	3729	recent@lightning|top@lightning	FRESH,SIGNAL	EmberSpark: Lightning wallet for your own LNbits server
+1544836	news	2	107491	0	29	20.0	81644	1120	recent@bitcoin|top@bitcoin	HOT	My interview Kanyuk, a foreign volunteer soldier for Ukraine
+1545021	bitcoin	1	15837	0	10	15.6	185956	173	recent@bitcoin|top@bitcoin	HOT	Luke Dashjr officially stripped of BIP Editor role
+1544387	bitcoin	1	10563	0	4	33.4	328486	4730	recent@bitcoin	HOT	Motion to remove Luke Dashjr from BIP editors
+1544963	bitcoin	1	10502	0	4	17.1	223678	5973	recent@bitcoin|top@bitcoin	HOT	CoiledCoin now closed. Have a nice day.
+1544856	bitcoinplusplus	1	9543	0	1	19.8	280679	22823	recent@bitcoinplusplus|top@bitcoinplusplus	HOT	CISA — Fabian Jahr | bitcoin++ Toronto, consensus edition
+1544572	bitcoin	1	6463	0	51	24.8	30782	25419	recent@bitcoin	HOT	Why Is The Red Team Seeking Publicity?
+1544639	bitcoin	1	6032	0	0	23.1	74100	11944	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT	BIP DRAFT: ChillDKG - Distributed Key Generation for FROST
+1544984	bitcoin	1	5331	0	2	16.5	74100	11944	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT	BTCPay Server Security Incident: Our Response and Next Steps
+1544607	bitcoin	1	5052	0	11	24.0	1242375	153	recent@bitcoin|top@bitcoin	HOT	Who will be the sacrifice for the next bear market?
+1544986	bitcoin	1	4866	0	9	16.5	984933	1979	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	HOT	The end has come for @lnp2pBot too
+1544739	bitcoin	1	3053	0	8	21.6	280679	22823	recent@bitcoin|top@bitcoin|recent@lightning	HOT	Announcing Blockstream Swaps
+1544885	Design	2	2929	0	9	19.1	383547	3484	recent@lightning|top@lightning	HOT,SELF_POST_OPP	LIGHTNING.pub — Lightning shouldn’t be a hobby that loses money.
+1545093	bitcoin	1	1903	0	13	13.7	1245155	226	recent@bitcoin|top@bitcoin|recent@lightning	HOT	Podcasting 2.0 LIghtning Donations Down
+1544564	gaming	3	1884	0	2	25.0	74100	11944	recent@bitcoin	HOT	humans are not good at making entropy - man vs machine game
+1544360	bitcoin_Mining	1	1749	0	8	34.2	273359	847	recent@bitcoin_Mining|recent@mempool	HOT	Mining Pool Health Report [Week 3]
+1545125	news	2	1617	0	3	12.7	9274	26173	recent@lightning|top@lightning	HOT	Zeus LSP is back up and running!!
+1544457	lightning	1	1615	0	6	29.8	263526	560	recent@lightning	HOT	Odd set of channels opened to my node in a 1-week span?
+1545024	bitcoin	1	1540	0	4	15.5	416073	545	recent@bitcoin_beginners|top@bitcoin_beginners	HOT	Will we ever stop measuring bitcoin in fiat?
+1544724	bitcoin	1	1160	0	13	21.9	1023067	50	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	HOT	OCEAN Accused of Hashrate Hijacking Over BIP-110
+1544425	AI	1	982	0	9	31.4	1	27071	recent@AI		Economic benefits to counties with operating data centers
+1544805	lightning	1	891	0	3	20.5	89496	1373	recent@lightning|top@lightning		[Help] Channel Pending force closed
+1544461	bitcoin	1	835	0	1	29.4	6263	10501	recent@bitcoin		Monetary Nodes — A Spam-Free Bitcoin. No Fork [Alpha]
+1544977	AI	1	765	0	3	16.7	4078	5380	recent@AI|top@AI		Learning more about Claude's mathematical capabilities
+1544865	bitcoin	1	740	0	3	19.5	1028548	547	recent@bitcoin|top@bitcoin		Next Steps for bip110 coin?
+1545033	bitcoin	1	667	0	13	15.3	273359	847	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining		Luke and Mechanic - YOU'RE FIRED!
+1544596	bitcoin	1	588	0	0	24.2	74100	11944	recent@bitcoin|recent@bitdevs		Proof-of-work based signet faucet - ajtowns
+1545050	bitcoin	1	563	0	5	15.0	81644	1120	recent@bitcoin|top@bitcoin		Luke Dashjr announces he is taking a sabbatical from OCEAN
+1544630	bitcoin	1	544	0	2	23.3	296825	5117	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		Your bitcoin node is like a condom machine in the Vatican
+1544946	science	2	496	0	2	17.6	296825	5117	recent@tech|top@tech		Who Discovered the Very First Magnet?
+1544765	bitcoin	1	433	0	0	21.2	462245	298	recent@bitcoin|top@bitcoin|recent@bitcoinplusplus		The Red Team — Last Week in Bitcoin (Aug 03 - 09)
+1544896	tech	1	415	0	2	18.8	1293586	2145	recent@tech|top@tech		Linus Torvalds says AI has made 'huge' Linux kernel updates the new normal
+1544675	AI	1	373	0	1	22.6	4081	491	recent@AI|top@AI		Black Hat USA 2026: The OpenAI–Hugging Face Incident
+1545009	tech	1	358	0	2	15.8	1293586	2145	recent@tech|top@tech		US hires over 2,000 video gamers as air traffic controllers
+1545013	bitcoin	1	346	0	1	15.7	1541965	11	recent@bitcoin|top@bitcoin		What If Social Media Had Never Been Invented?
+1545027	bitcoin	1	341	0	0	15.5	223678	5973	recent@bitcoin|top@bitcoin		Pull Request #2248 · bitcoin/bips · process: Remove Luke from BIP Editors
+1544354	bitcoin	1	341	0	3	34.5	375687	3127	recent@bitcoin_beginners		Has anyone used this P2P platform? Vexl
+1545042	AI	1	335	0	1	15.1	1293586	2145	recent@AI|top@AI		This font looks perfectly normal to humans but wreaks havoc on AI
+1544558	bitcoin	1	333	0	3	25.2	74100	11944	recent@nostr		Stream Road - yet another nostr video streaming/zapping platform
+1544767	bitcoin	1	312	0	1	21.1	223678	5973	recent@bitcoin|top@bitcoin		Should Bitcoin Core be replaced by a colony of Beavers?
+1544636	lightning	1	303	0	1	23.2	440729	226	recent@lightning|top@lightning		Biggest Channel Opened Today (5.0 BTC) + New Node Spotlight (02d7160c858a0408a…)
+1544940	bitcoin	1	296	0	0	17.7	280679	22823	recent@bitcoin|top@bitcoin		Hayek wrote the postmortem in 1945
+1544383	DIY	3	285	0	0	33.4	370699	315	recent@tech		ESP32 Bit Pirate 1.7 Gains LoRa, Meshtastic, and Browser-Based BPIO2 Control
+1544791	bitcoin	1	254	0	1	20.7	30993	3662	recent@bitcoin|top@bitcoin		Electrum Unplugged with it's creator Thomas Voegtlin, @ Bitcoin Barcelona
+1544659	tech	1	251	0	1	22.9	996769	45	top@bitcoin|recent@bitcoin_beginners|top@bitcoin_beginners		10 Years of BTC Sessions: Expanding Into Privacy, Sovereignty & Freedom Tech
+1544972	bitcoinplusplus	1	251	0	1	17.0	280679	22823	recent@bitcoinplusplus|top@bitcoinplusplus		Stuff We're Working On — Paul Sztorc | bitcoin++ Toronto, consensus edition
+1544364	bitcoin	1	238	0	3	33.9	375687	3127	recent@bitcoinplusplus		Things from the BIP-110
+1544943	bitcoin	1	201	0	2	17.6	238412	220	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		Why Self Custody Matters
+1545109	AI	1	194	0	0	13.2	401865	8358	recent@AI|top@AI		FRMI Enters $6.5 Billion Binding Agreement With TensorWave For Project Matador
+1544857	AI	1	146	0	3	19.7	837285	1296	recent@AI|top@AI		OpenAI Agents Escaped the Sandbox and Reached Real External Systems
+1544552	AI	1	146	0	0	25.4	280679	22823	recent@AI		Should we "pace" AI self-improvement?
+1544641	AI	1	145	0	0	23.1	1054143	1098	recent@AI|top@AI		North Korea’s hackers using AI for attacks, cybersecurity firm says
+1544871	bitcoin_beginners	1	136	0	0	19.3	296825	5117	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		BIP-110 Lost. Bitcoin Worked. Here Is What It's Learned.
+1544411	bitcoin	1	116	0	1	32.2	1532836	205	recent@bitcoin_beginners|recent@bitcoin_Mining|recent@bitcoinplusplus		Rigly Block Party #34 statistics
+1544456	AI	1	79	0	0	29.8	140698	1084	recent@AI		More and More Households are Paying for Al
+1545302	bitcoin_beginners	1	74	0	0	3.4	296825	5117	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		Entropy: Why Your Bitcoin Is Safe (Or Isn't)
+1545310	bitcoin	1	72	0	1	2.9	296825	5117	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		The Two Fronts of Bitcoin's Evolution
+1545075	bitcoin	1	59	0	0	14.1	1532836	205	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus		Don't make bad decisions;study your options and choose according to your needs.
+1544662	lightning	1	56	0	4	22.8	272410	1159	recent@lightning|top@lightning		Which Lightning wallets do you miss?
+1545155	tech	1	36	0	0	11.5	238412	220	recent@bitcoin_beginners|top@bitcoin_beginners		The Self Custody Doctrine
+1544666	bitcoin_beginners	1	36	0	0	22.8	280679	22823	recent@bitcoin_beginners|top@bitcoin_beginners		What Happens When Bitcoin Nodes Diverge?
+1544410	AI	1	36	0	0	32.2	1248037	1942	recent@AI		AI Deluge:  Interim Relief, etc …    | Hacker News
+1544812	meta	1	32	0	7	20.3	273359	847	recent@meta|top@meta		Pay for permanent territory?
+1545403	bitcoin	1	22	0	1	0.1	1526429	12	recent@bitcoin_Mining|top@bitcoin_Mining|recent@mempool	FRESH	Roughneck Chronicles 4: Antifragility Test
+1544570	AI	1	21	0	2	24.8	458256	4848	recent@AI		A Billionaire Made $15 Billion Using ChatGPT
+1545269	lightning	1	0	0	5	5.5	263526	560	recent@lightning|top@lightning		Issue with JADE and lightning
+1545394	AI	1	0	0	0	0.2	280679	22823	recent@AI|top@AI	FRESH	A New Trick Reveals AI Models’ Inner Thoughts
