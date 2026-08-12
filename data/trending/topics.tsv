@@ -1,21 +1,16 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-11T22:40:54.429Z; n=40
-new tutorial	sn:bitcoin	6.25	yes	
-show	hn	6.02	no	RISING
-apple silicon	hn	5.06	no	RISING
-what	hn,sn:bitcoin	4.92	yes	
-the humble pies begin	sn:bitcoin	3.44	yes	
-requiem	sn:bitcoin	3.44	yes	
-thanks	sn:bitcoin	3.33	yes	
-goodbye	sn:bitcoin	3.33	yes	
-podcasting	sn:bitcoin	3.28	yes	
-donations down	sn:bitcoin	3.28	yes	
-will	sn:AI	3.28	yes	
-machines do all	sn:AI	3.28	yes	
-work for us	sn:AI	3.28	yes	
-money stuff	sn:AI	3.28	yes	
-matt levine	sn:AI	3.28	yes	
-zeus	sn:news	3.22	yes	
+# generated 2026-08-12T05:37:11.111Z; n=40
+show	hn	6.5	no	RISING
+new tutorial	sn:bitcoin	6.26	yes	
+the humble pies begin	sn:bitcoin	3.47	yes	
+requiem	sn:bitcoin	3.47	yes	
+thanks	sn:bitcoin	3.35	yes	
+goodbye	sn:bitcoin	3.35	yes	
+will	sn:AI	3.3	yes	
+machines do all	sn:AI	3.3	yes	
+work for us	sn:AI	3.3	yes	
+money stuff	sn:AI	3.3	yes	
+matt levine	sn:AI	3.3	yes	
 who will pay	sn:Politics_And_Law	3.16	no	RISING
 democratic socialism	sn:Politics_And_Law	3.16	no	RISING
 trillion cost	sn:Politics_And_Law	3.16	no	RISING
@@ -34,9 +29,14 @@ fed talking	sn:Stacker_Sports	3.08	no	RISING
 the economist	sn:Stacker_Sports	3.08	no	RISING
 roughneck chronicles	sn:bitcoin	3.08	yes	
 antifragility test	sn:bitcoin	3.08	yes	
-bibi rejects trump gaza plan	sn:Politics_And_Law	3.04	no	RISING
+summer round-up	sn:Photography	3.05	no	RISING
+western massachusetts	sn:Photography	3.05	no	RISING
+fixed	sn:gaming	3.04	no	RISING
+floresta roadmap	sn:bitcoin	3	yes	
+from building capabilities	sn:bitcoin	3	yes	
+hardening	sn:bitcoin	3	yes	
+node	sn:bitcoin	3	yes	
 road	sn:charts_and_maps	2.93	no	RISING
-blueberries	sn:BooksAndArticles	2.91	no	RISING
-fortune	sn:BooksAndArticles	2.91	no	RISING
-commons	sn:BooksAndArticles	2.91	no	RISING
-new orleans joins other cities testing	sn:AI	2.88	yes	
+strategy	sn:charts_and_maps	2.92	no	RISING
+blueberries	sn:BooksAndArticles	2.92	no	RISING
+fortune	sn:BooksAndArticles	2.92	no	RISING
