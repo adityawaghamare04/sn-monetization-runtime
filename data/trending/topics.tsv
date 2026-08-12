@@ -1,7 +1,7 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-12T05:37:11.111Z; n=40
-show	hn	6.5	no	RISING
+# generated 2026-08-12T10:59:39.460Z; n=40
 new tutorial	sn:bitcoin	6.26	yes	
+show	hn	5.96	no	RISING
 the humble pies begin	sn:bitcoin	3.47	yes	
 requiem	sn:bitcoin	3.47	yes	
 thanks	sn:bitcoin	3.35	yes	
@@ -11,6 +11,7 @@ machines do all	sn:AI	3.3	yes
 work for us	sn:AI	3.3	yes	
 money stuff	sn:AI	3.3	yes	
 matt levine	sn:AI	3.3	yes	
+coldcard	sn:security	3.24	yes	
 who will pay	sn:Politics_And_Law	3.16	no	RISING
 democratic socialism	sn:Politics_And_Law	3.16	no	RISING
 trillion cost	sn:Politics_And_Law	3.16	no	RISING
@@ -27,16 +28,15 @@ delphi	sn:Stacker_Sports	3.08	no	RISING
 warsh	sn:Stacker_Sports	3.08	no	RISING
 fed talking	sn:Stacker_Sports	3.08	no	RISING
 the economist	sn:Stacker_Sports	3.08	no	RISING
+floresta roadmap	sn:bitcoin	3.08	yes	
+from building capabilities	sn:bitcoin	3.08	yes	
+hardening	sn:bitcoin	3.08	yes	
+node	sn:bitcoin	3.08	yes	
 roughneck chronicles	sn:bitcoin	3.08	yes	
 antifragility test	sn:bitcoin	3.08	yes	
-summer round-up	sn:Photography	3.05	no	RISING
-western massachusetts	sn:Photography	3.05	no	RISING
-fixed	sn:gaming	3.04	no	RISING
-floresta roadmap	sn:bitcoin	3	yes	
-from building capabilities	sn:bitcoin	3	yes	
-hardening	sn:bitcoin	3	yes	
-node	sn:bitcoin	3	yes	
-road	sn:charts_and_maps	2.93	no	RISING
-strategy	sn:charts_and_maps	2.92	no	RISING
-blueberries	sn:BooksAndArticles	2.92	no	RISING
-fortune	sn:BooksAndArticles	2.92	no	RISING
+fixed	sn:gaming	3.07	no	RISING
+summer round-up	sn:Photography	3.06	no	RISING
+western massachusetts	sn:Photography	3.06	no	RISING
+blueberries	sn:BooksAndArticles	2.98	no	RISING
+fortune	sn:BooksAndArticles	2.98	no	RISING
+commons	sn:BooksAndArticles	2.98	no	RISING
