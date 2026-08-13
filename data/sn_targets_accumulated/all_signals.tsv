@@ -31495,3 +31495,12 @@
 2026-08-13T11:59:52.509Z	1546839	bitcoin	1	524	0	3	8.6	223678	5998	recent@bitcoin|top@bitcoin	SIGNAL	CEO of Breeze: 'Bitcoin is not a UTXO. Bitcoin is just a brand.'
 2026-08-13T11:59:52.509Z	1546942	news	2	403	0	3	1.6	74100	11981	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	UPDATE ON THE FUTURE OF BOLTZ 📢
 2026-08-13T11:59:52.509Z	1546924	bitcoin_Mining	1	182	0	1	2.2	263526	565	recent@bitcoin_Mining|top@bitcoin_Mining|recent@lightning	SIGNAL	after bip-110 failed to get miner support, bip-54 timewarp attack fix is next up
+2026-08-13T13:35:18.100Z	1547026	bitcoin	1	2412	0	2	0.7	724606	12066	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	Gold and Copper on the Blockchain is Upside Only! (FT, Hodgson, Asgari, Hook)
+2026-08-13T13:35:18.100Z	1547052	news	2	1711	0	4	0.4	74100	11988	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	Recent customer data exposed in shipping provider incident - Trezor
+2026-08-13T13:35:18.100Z	1546904	bitcoin	1	1691	0	0	6.9	223678	5999	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Eligius miners aware of prayers in block headers?
+2026-08-13T13:35:18.100Z	1546942	news	2	1424	0	5	3.2	74100	11988	recent@bitcoin|top@bitcoin	HOT,SIGNAL,SELF_POST_OPP	UPDATE ON THE FUTURE OF BOLTZ 📢
+2026-08-13T13:35:18.100Z	1546839	bitcoin	1	524	0	3	10.2	223678	5999	recent@bitcoin|top@bitcoin	SIGNAL	CEO of Breeze: 'Bitcoin is not a UTXO. Bitcoin is just a brand.'
+2026-08-13T13:35:18.100Z	1546989	bitcoin	1	442	0	0	1.6	934367	964	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	SeedSigner BIP46 support (JoinMarket timelocked fidelity bonds)
+2026-08-13T13:35:18.100Z	1546917	news	2	361	0	2	5.5	74100	11988	recent@bitcoin|top@bitcoin	SIGNAL	Metaplanet announces BitBonds
+2026-08-13T13:35:18.100Z	1547023	bitcoin	1	260	0	4	0.8	74100	11988	recent@bitcoin|top@bitcoin|recent@bitdevs	FRESH,SIGNAL	nix-bitcoin 0.0.139 is the final version
+2026-08-13T13:35:18.100Z	1546924	bitcoin_Mining	1	182	0	1	3.8	263526	565	recent@bitcoin_Mining|top@bitcoin_Mining|recent@lightning	SIGNAL	after bip-110 failed to get miner support, bip-54 timewarp attack fix is next up
