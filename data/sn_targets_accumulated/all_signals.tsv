@@ -31574,3 +31574,21 @@
 2026-08-13T15:41:11.103Z	1547086	bitcoin	1	339	0	2	2.1	223678	5999	recent@bitcoin|top@bitcoin	SIGNAL	Does two words per pill actually give full BIP39 entropy
 2026-08-13T15:41:11.103Z	1547023	bitcoin	1	260	0	5	2.8	74100	11994	recent@bitcoin|top@bitcoin|recent@bitdevs	SIGNAL	nix-bitcoin 0.0.139 is the final version
 2026-08-13T15:41:11.103Z	1546924	bitcoin_Mining	1	182	0	1	5.9	263526	566	recent@bitcoin_Mining|top@bitcoin_Mining|recent@lightning	SIGNAL	after bip-110 failed to get miner support, bip-54 timewarp attack fix is next up
+2026-08-13T16:36:29.216Z	1547052	news	2	3049	0	6	3.4	74100	11996	recent@bitcoin|top@bitcoin	HOT,SIGNAL,SELF_POST_OPP	Recent customer data exposed in shipping provider incident - Trezor
+2026-08-13T16:36:29.216Z	1547194	bitcoin	1	2615	0	3	1.2	92827	2794	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	A casual acceptance of the sentiment shift
+2026-08-13T16:36:29.216Z	1547026	bitcoin	1	2475	0	3	3.7	724606	12066	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Gold and Copper on the Blockchain is Upside Only! (FT, Hodgson, Asgari, Hook)
+2026-08-13T16:36:29.216Z	1546904	bitcoin	1	1692	0	0	9.9	223678	6000	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Eligius miners aware of prayers in block headers?
+2026-08-13T16:36:29.216Z	1546942	news	2	1517	0	8	6.2	74100	11996	recent@bitcoin|top@bitcoin	HOT,SIGNAL,SELF_POST_OPP	UPDATE ON THE FUTURE OF BOLTZ 📢
+2026-08-13T16:36:29.216Z	1547259	bitcoin	1	1416	0	3	0.4	1242375	157	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	What does "bitcoin failed" mean?
+2026-08-13T16:36:29.216Z	1547264	bitcoin	1	1364	0	1	0.3	223678	6000	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	Safety/Privacy of Nunchuck (Assisted multisig wallet)
+2026-08-13T16:36:29.216Z	1547247	lightning	1	843	0	0	0.6	280679	22921	recent@lightning|top@lightning	FRESH,SIGNAL	Disclosure: LND doesn't wait for enough confirmations when closing channels
+2026-08-13T16:36:29.216Z	1547018	bitcoin	1	754	0	16	3.8	280679	22921	recent@bitcoin|top@bitcoin	SIGNAL	Removing Luke Dashjr as a BIP editor is a sign of bitcoin centralization.
+2026-08-13T16:36:29.216Z	1546989	bitcoin	1	637	0	2	4.6	934367	965	recent@bitcoin|top@bitcoin	SIGNAL	SeedSigner BIP46 support (JoinMarket timelocked fidelity bonds)
+2026-08-13T16:36:29.216Z	1546917	news	2	562	0	2	8.5	74100	11996	recent@bitcoin|top@bitcoin	SIGNAL	Metaplanet announces BitBonds
+2026-08-13T16:36:29.216Z	1547119	lightning	1	396	0	1	2.4	263526	566	recent@lightning|top@lightning	SIGNAL	ZEUS wallet get more Lightning liquidity after signing LOI with B HODL
+2026-08-13T16:36:29.216Z	1546995	math	2	358	0	0	4.4	74100	11996	recent@bitcoin|top@bitcoin	SIGNAL	Towards libshrincs: verified hash-based signatures for Bitcoin - remix7531
+2026-08-13T16:36:29.216Z	1547086	bitcoin	1	339	0	3	3.0	223678	6000	recent@bitcoin|top@bitcoin	SIGNAL	Does two words per pill actually give full BIP39 entropy
+2026-08-13T16:36:29.216Z	1547023	bitcoin	1	260	0	5	3.8	74100	11996	recent@bitcoin|top@bitcoin|recent@bitdevs	SIGNAL	nix-bitcoin 0.0.139 is the final version
+2026-08-13T16:36:29.216Z	1547250	nostr	1	225	0	0	0.6	503703	3748	recent@nostr|top@nostr	FRESH,SIGNAL	0 sat zap XSS attack
+2026-08-13T16:36:29.216Z	1546924	bitcoin_Mining	1	182	0	1	6.8	263526	566	recent@bitcoin_Mining|top@bitcoin_Mining|recent@lightning	SIGNAL	after bip-110 failed to get miner support, bip-54 timewarp attack fix is next up
+2026-08-13T16:36:29.216Z	1547226	security	1	136	0	0	0.9	642641	8275	recent@security|top@security|recent@privacy	FRESH,SIGNAL	Inside North Korea’s Operation to Conquer the American Job Market
