@@ -31478,3 +31478,8 @@
 2026-08-13T10:18:05.591Z	1546742	econ	2	247	0	0	11.3	1200576	1512	recent@econ|top@econ	SIGNAL	New Kind of IOU - Nvidia gets $500bn from Wall Street for AI
 2026-08-13T10:18:05.591Z	1546890	Construction_and_Engineering	2	203	0	0	5.0	1022234	574	recent@Construction_and_Engineering|top@Construction_and_Engineering	SIGNAL	PoW 8/12/26
 2026-08-13T10:18:05.591Z	1546924	bitcoin_Mining	1	146	0	1	0.5	263526	565	recent@bitcoin_Mining|top@bitcoin_Mining|recent@lightning	FRESH,SIGNAL	after bip-110 failed to get miner support, bip-54 timewarp attack fix is next up
+2026-08-13T11:11:09.214Z	1546904	bitcoin	1	1501	0	0	4.5	223678	5998	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Eligius miners aware of prayers in block headers?
+2026-08-13T11:11:09.214Z	1546760	bitcoin_beginners	1	683	0	1	11.3	432090	2056	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	What Happens In a Hard Fork?
+2026-08-13T11:11:09.214Z	1546839	bitcoin	1	524	0	3	7.8	223678	5998	recent@bitcoin|top@bitcoin	SIGNAL	CEO of Breeze: 'Bitcoin is not a UTXO. Bitcoin is just a brand.'
+2026-08-13T11:11:09.214Z	1546942	news	2	302	0	3	0.8	74100	11981	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	UPDATE ON THE FUTURE OF BOLTZ 📢
+2026-08-13T11:11:09.214Z	1546924	bitcoin_Mining	1	182	0	1	1.4	263526	565	recent@bitcoin_Mining|top@bitcoin_Mining|recent@lightning	FRESH,SIGNAL	after bip-110 failed to get miner support, bip-54 timewarp attack fix is next up
