@@ -31788,3 +31788,42 @@
 2026-08-13T20:22:38.076Z	1547328	tech	1	199	0	0	3.1	12309	3611	recent@devs|top@devs	SIGNAL	Geekom IT13 Max 2026 review: Meteor Lake rides again in a $799 mini PC
 2026-08-13T20:22:38.076Z	1546924	bitcoin_Mining	1	182	0	1	10.6	263526	566	recent@bitcoin_Mining|top@bitcoin_Mining|recent@lightning	SIGNAL	after bip-110 failed to get miner support, bip-54 timewarp attack fix is next up
 2026-08-13T20:22:38.076Z	1547226	security	1	136	0	0	4.7	642641	8277	recent@security|top@security|recent@privacy	SIGNAL	Inside North Korea’s Operation to Conquer the American Job Market
+2026-08-13T20:55:30.377Z	1547150	AMA	2	8638	0	56	5.9	294868	63	recent@AMA|top@AMA	HOT,SIGNAL	I'm Alejandro de la Torre, CEO of DMND StratumV2 Bitcoin Mining pool - AMA!
+2026-08-13T20:55:30.377Z	1547052	news	2	3571	0	10	7.8	74100	11997	recent@bitcoin|top@bitcoin|recent@news	HOT,SIGNAL,SELF_POST_OPP	Recent customer data exposed in shipping provider incident - Trezor
+2026-08-13T20:55:30.377Z	1547194	bitcoin	1	2857	0	9	5.5	92827	2796	recent@bitcoin|top@bitcoin	HOT,SIGNAL	A casual acceptance of the sentiment shift
+2026-08-13T20:55:30.377Z	1547026	bitcoin	1	2475	0	4	8.1	724606	12067	recent@bitcoin|top@bitcoin|recent@econ	HOT,SIGNAL	Gold and Copper on the Blockchain is Upside Only! (FT, Hodgson, Asgari, Hook)
+2026-08-13T20:55:30.377Z	1547427	Stacker_Sports	3	2117	0	7	1.7	48657	14686	recent@econ|top@econ|recent@Stacker_Stocks	FRESH,HOT,SIGNAL,SELF_POST_OPP	1/4 of Gen Z investors treat sports betting as deliberate part of financial plan
+2026-08-13T20:55:30.377Z	1546942	news	2	1839	0	11	10.6	74100	11997	recent@bitcoin|top@bitcoin|recent@news	HOT,SIGNAL,SELF_POST_OPP	UPDATE ON THE FUTURE OF BOLTZ 📢
+2026-08-13T20:55:30.377Z	1547259	bitcoin	1	1471	0	10	4.7	1242375	157	recent@bitcoin|top@bitcoin|recent@AskSN	HOT,SIGNAL	What does "bitcoin failed" mean?
+2026-08-13T20:55:30.377Z	1547264	bitcoin	1	1406	0	4	4.7	223678	6003	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Safety/Privacy of Nunchuck (Assisted multisig wallet)
+2026-08-13T20:55:30.377Z	1547292	bitcoin	1	1161	0	0	4.2	934367	966	recent@bitcoin|top@bitcoin	HOT,SIGNAL	JoinMarket Directory Node nick hijacking vulnerability
+2026-08-13T20:55:30.377Z	1547086	bitcoin	1	973	0	6	7.4	223678	6003	recent@bitcoin|top@bitcoin	SIGNAL	Does two words per pill actually give full BIP39 entropy
+2026-08-13T20:55:30.377Z	1547124	BooksAndArticles	2	942	0	3	6.5	74100	11997	recent@BooksAndArticles|top@BooksAndArticles	SIGNAL	Throw away your keyboard - Rory Sutherland
+2026-08-13T20:55:30.377Z	1547247	lightning	1	879	0	1	4.9	280679	22929	recent@lightning|top@lightning	SIGNAL	Disclosure: LND doesn't wait for enough confirmations when closing channels
+2026-08-13T20:55:30.377Z	1547018	bitcoin	1	754	0	18	8.2	280679	22929	recent@bitcoin|top@bitcoin	SIGNAL	Removing Luke Dashjr as a BIP editor is a sign of bitcoin centralization.
+2026-08-13T20:55:30.377Z	1546989	bitcoin	1	637	0	2	8.9	934367	966	recent@bitcoin|top@bitcoin	SIGNAL	SeedSigner BIP46 support (JoinMarket timelocked fidelity bonds)
+2026-08-13T20:55:30.377Z	1546990	charts_and_maps	2	632	0	6	8.9	280679	22929	recent@charts_and_maps|top@charts_and_maps	SIGNAL,SELF_POST_OPP	Air conditioning is almost universal in the US and Japan — but not elsewhere
+2026-08-13T20:55:30.377Z	1547021	AskSN	2	542	0	4	8.1	984933	2014	recent@econ|top@econ|recent@charts_and_maps	SIGNAL	China’s marriage rate is still declining. What does it spell for the economy?
+2026-08-13T20:55:30.377Z	1547454	news	2	467	0	1	0.7	74100	11997	recent@Stacker_Stocks|top@Stacker_Stocks|recent@news	FRESH,SIGNAL	Tether Completes the Largest Inaugural Financial Audit in History - Tether.io
+2026-08-13T20:55:30.377Z	1547406	BooksAndArticles	2	465	0	0	2.5	1493819	55	recent@BooksAndArticles|top@BooksAndArticles	SIGNAL	The Storyteller by Benjamin
+2026-08-13T20:55:30.377Z	1547003	AskSN	2	460	0	6	8.6	984933	2014	recent@AskSN|top@AskSN|recent@history	SIGNAL,SELF_POST_OPP	Did you know that...?
+2026-08-13T20:55:30.377Z	1547119	lightning	1	396	0	1	6.7	263526	566	recent@lightning|top@lightning	SIGNAL	ZEUS wallet get more Lightning liquidity after signing LOI with B HODL
+2026-08-13T20:55:30.377Z	1546995	math	2	358	0	0	8.7	74100	11997	recent@bitcoin|top@bitcoin|recent@math	SIGNAL	Towards libshrincs: verified hash-based signatures for Bitcoin - remix7531
+2026-08-13T20:55:30.377Z	1546987	Design	2	326	0	2	9.0	383547	3500	recent@Design|top@Design	SIGNAL	Why is everyone in tech so sad?
+2026-08-13T20:55:30.377Z	1547436	bitcoinplusplus	1	317	0	1	1.5	280679	22929	recent@bitcoinplusplus|top@bitcoinplusplus	FRESH,SIGNAL	Input-triggered transaction expiry — Josh Doman | bitcoin++, consensus edition
+2026-08-13T20:55:30.377Z	1547103	Design	2	316	0	0	7.1	383547	3500	recent@Design|top@Design	SIGNAL	Middle management roles are also a trap
+2026-08-13T20:55:30.377Z	1546985	BooksAndArticles	2	303	0	3	9.0	1264102	61	recent@BooksAndArticles|top@BooksAndArticles	SIGNAL	New In Stock: The 7th Property
+2026-08-13T20:55:30.377Z	1547105	Stacker_Stocks	2	281	0	1	7.0	280679	22929	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Confusion surrounds SpaceX's next share unlock
+2026-08-13T20:55:30.377Z	1547023	bitcoin	1	260	0	5	8.1	74100	11997	recent@bitcoin|top@bitcoin|recent@bitdevs	SIGNAL	nix-bitcoin 0.0.139 is the final version
+2026-08-13T20:55:30.377Z	1547250	nostr	1	225	0	0	4.9	503703	3749	recent@nostr|top@nostr	SIGNAL	0 sat zap XSS attack
+2026-08-13T20:55:30.377Z	1546982	Design	2	220	0	0	9.2	383547	3500	top@Design	SIGNAL	What creative ideas have you been rambling on?
+2026-08-13T20:55:30.377Z	1547281	bitcoin_beginners	1	206	0	10	4.3	1545780	14	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	My first 25 real sats came from writing, not mining
+2026-08-13T20:55:30.377Z	1547288	Memes	2	203	0	1	4.2	280679	22929	recent@bitcoinplusplus|top@bitcoinplusplus|recent@math	SIGNAL	post-quantum isogeny signatures, explained in 30 memes or less — conduition
+2026-08-13T20:55:30.377Z	1547328	tech	1	199	0	0	3.7	12309	3611	recent@devs|top@devs	SIGNAL	Geekom IT13 Max 2026 review: Meteor Lake rides again in a $799 mini PC
+2026-08-13T20:55:30.377Z	1546924	bitcoin_Mining	1	182	0	1	11.1	263526	566	recent@bitcoin_Mining|top@bitcoin_Mining|recent@lightning	SIGNAL	after bip-110 failed to get miner support, bip-54 timewarp attack fix is next up
+2026-08-13T20:55:30.377Z	1546964	Politics_And_Law	3	176	0	1	9.7	280679	22929	recent@econ|top@econ	SIGNAL	When America's budget will break, disastrously
+2026-08-13T20:55:30.377Z	1547149	art	3	140	0	1	5.9	996769	46	recent@podcasts|top@podcasts	SIGNAL	🎙️ NEW EPISODE: Freedom, Forged in Art
+2026-08-13T20:55:30.377Z	1547226	security	1	136	0	0	5.2	642641	8278	recent@security|top@security|recent@privacy	SIGNAL	Inside North Korea’s Operation to Conquer the American Job Market
+2026-08-13T20:55:30.377Z	1547163	Stacker_Sports	3	121	0	2	5.8	458256	4852	recent@econ|top@econ	SIGNAL	How much were the Lakers sold for? NBA franchise fetches record $12.5 billion.
+2026-08-13T20:55:30.377Z	1547274	bitcoin	1	102	0	0	4.5	12315	2435	recent@econ|top@econ	SIGNAL	How Money Actually Works
+2026-08-13T20:55:30.377Z	1547193	Design	2	102	0	0	5.6	383547	3500	recent@Design|top@Design	SIGNAL	Backyard designers
