@@ -1,0 +1,64 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1547052	news	2	3571	0	10	8.2	74100	11999	recent@bitcoin|top@bitcoin	HOT,SIGNAL,SELF_POST_OPP	Recent customer data exposed in shipping provider incident - Trezor
+1547194	bitcoin	1	2878	0	9	6.0	92827	2796	recent@bitcoin|top@bitcoin	HOT,SIGNAL	A casual acceptance of the sentiment shift
+1547026	bitcoin	1	2475	0	4	8.5	724606	12067	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Gold and Copper on the Blockchain is Upside Only! (FT, Hodgson, Asgari, Hook)
+1546942	news	2	1839	0	11	11.0	74100	11999	recent@bitcoin|top@bitcoin	HOT,SIGNAL,SELF_POST_OPP	UPDATE ON THE FUTURE OF BOLTZ 📢
+1547259	bitcoin	1	1471	0	10	5.2	1242375	157	recent@bitcoin|top@bitcoin	HOT,SIGNAL	What does "bitcoin failed" mean?
+1547264	bitcoin	1	1406	0	4	5.1	223678	6004	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Safety/Privacy of Nunchuck (Assisted multisig wallet)
+1547292	bitcoin	1	1161	0	0	4.6	934367	966	recent@bitcoin|top@bitcoin	HOT,SIGNAL	JoinMarket Directory Node nick hijacking vulnerability
+1547086	bitcoin	1	973	0	6	7.8	223678	6004	recent@bitcoin|top@bitcoin	SIGNAL	Does two words per pill actually give full BIP39 entropy
+1547247	lightning	1	879	0	1	5.4	280679	22930	recent@lightning|top@lightning	SIGNAL	Disclosure: LND doesn't wait for enough confirmations when closing channels
+1547018	bitcoin	1	754	0	19	8.6	280679	22930	recent@bitcoin|top@bitcoin	SIGNAL	Removing Luke Dashjr as a BIP editor is a sign of bitcoin centralization.
+1546989	bitcoin	1	637	0	2	9.4	934367	966	recent@bitcoin|top@bitcoin	SIGNAL	SeedSigner BIP46 support (JoinMarket timelocked fidelity bonds)
+1547119	lightning	1	396	0	1	7.2	263526	566	recent@lightning|top@lightning	SIGNAL	ZEUS wallet get more Lightning liquidity after signing LOI with B HODL
+1546995	math	2	358	0	0	9.2	74100	11999	recent@bitcoin|top@bitcoin	SIGNAL	Towards libshrincs: verified hash-based signatures for Bitcoin - remix7531
+1547436	bitcoinplusplus	1	317	0	1	2.0	280679	22930	recent@bitcoinplusplus|top@bitcoinplusplus	FRESH,SIGNAL	Input-triggered transaction expiry — Josh Doman | bitcoin++, consensus edition
+1547023	bitcoin	1	260	0	5	8.5	74100	11999	recent@bitcoin|top@bitcoin|recent@bitdevs	SIGNAL	nix-bitcoin 0.0.139 is the final version
+1547250	nostr	1	225	0	0	5.4	503703	3749	recent@nostr|top@nostr	SIGNAL	0 sat zap XSS attack
+1547281	bitcoin_beginners	1	206	0	10	4.8	1545780	14	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	My first 25 real sats came from writing, not mining
+1547288	Memes	2	203	0	1	4.7	280679	22930	recent@bitcoinplusplus|top@bitcoinplusplus	SIGNAL	post-quantum isogeny signatures, explained in 30 memes or less — conduition
+1547328	tech	1	199	0	0	4.1	12309	3611	recent@devs|top@devs	SIGNAL	Geekom IT13 Max 2026 review: Meteor Lake rides again in a $799 mini PC
+1546924	bitcoin_Mining	1	182	0	1	11.6	263526	566	recent@bitcoin_Mining|top@bitcoin_Mining|recent@lightning	SIGNAL	after bip-110 failed to get miner support, bip-54 timewarp attack fix is next up
+1547226	security	1	136	0	0	5.7	642641	8278	recent@security|top@security|recent@privacy	SIGNAL	Inside North Korea’s Operation to Conquer the American Job Market
+1546607	bitcoin	1	26471	0	16	26.4	527055	24	recent@bitcoin	HOT	Wasabi Wallet Plans
+1546524	bitcoin	1	7539	0	2	28.1	74100	11999	recent@bitcoin|recent@bitdevs	HOT	BIP460: CISA for Taproot Key Path Spends in SegWit v2 - fjahr
+1546435	bitcoin	1	7157	0	3	29.6	1014665	224	recent@bitcoin	HOT	Bitcoin Core v32.0 is targeted for release in October. What is in it?
+1546464	bitcoin	1	6575	0	0	29.1	1014665	224	recent@bitcoin	HOT	Stale blocks, quantum proposals, CISA - Bitcoin Optech Newsletter #417 Recap
+1546544	bitcoin	1	5976	0	1	27.7	74100	11999	recent@bitcoin	HOT	Payjoin Dev Kit 1.0 released
+1546642	bitcoin	1	4679	0	7	25.6	123513	3	recent@bitcoin	HOT	The DIY Signing Device Revolution is Just Beginning
+1546439	lightning	1	1726	0	14	29.5	51481	4126	recent@lightning	HOT	Zeus Wallet Balance not updating in a timely manner.
+1546904	bitcoin	1	1692	0	0	14.6	223678	6004	recent@bitcoin|top@bitcoin	HOT	Eligius miners aware of prayers in block headers?
+1546237	tech	1	1320	0	4	34.9	934367	966	recent@tech	HOT	Bitcoin Airgap QR Workbench
+1546207	bitcoin	1	1214	0	5	35.8	184252	598	recent@bitcoin	HOT	Any good data visualization for Bitcoind?
+1546216	bitcoin_Mining	1	1197	0	17	35.5	273359	868	recent@bitcoin_Mining	HOT	Knots replay protection ACTIVATED for coinjoin descendants on the Core chain
+1546660	AI	1	1068	0	0	25.3	280679	22930	recent@lightning|recent@AI	HOT	Entering the Age of Agentic Lightning Nodes with Terminal ⚡🤖
+1546760	bitcoin_beginners	1	683	0	1	21.5	432090	2056	recent@bitcoin_beginners|top@bitcoin_beginners		What Happens In a Hard Fork?
+1546301	bitcoin	1	597	0	3	32.7	1011637	42	recent@bitcoin		How to destroy bitcoin (and what happened to the 107 coins burned in May)
+1546917	news	2	562	0	3	13.3	74100	11999	recent@bitcoin|top@bitcoin		Metaplanet announces BitBonds
+1546839	bitcoin	1	524	0	3	18.0	223678	6004	recent@bitcoin|top@bitcoin		CEO of Breeze: 'Bitcoin is not a UTXO. Bitcoin is just a brand.'
+1546711	bitcoin	1	508	0	11	23.4	1532836	226	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		Boltz is like the phoenix.
+1546275	AI	1	425	0	5	33.3	21800	494	recent@lightning|recent@AI		402, Charted - Tracking the rise of L402, x402, and MPP
+1546403	bitcoin	1	387	0	3	30.1	699824	162	recent@lightning		Roy Sheinfeld [Breez] on Stephan Livera Podcast: Breez, Lightning, and Glow ⚡️
+1546612	bitdevs	1	361	0	2	26.2	280679	22930	recent@bitcoinplusplus|recent@bitdevs		Black Box Justice: What Bitcoin Developers Need to Know About How the U.S. Gov
+1546395	meta	1	354	0	7	30.4	36151	1591	recent@meta		What are you working on this week?
+1546583	bitcoin	1	349	0	7	27.1	296825	5132	recent@bitcoin_beginners		What is with all the universal pussyfooting in the Bitcoin space?
+1546525	AI	1	281	0	1	28.1	280679	22930	recent@AI		Booksellers suspect AI firms are buying and then destroying rare books
+1546608	bitcoin	1	261	0	1	26.4	296825	5132	recent@bitcoin_beginners		9K Bitcoin rescued out of Coldcard multisigs | MARA Foundation
+1546397	science	2	236	0	4	30.3	1532699	129	recent@tech		South Korea Just Published a Technology To-Do List for the Next Decade
+1546554	bitcoin	1	151	0	0	27.4	296825	5132	recent@bitcoin_beginners|recent@bitdevs		Is Luke trying to rig the PoW function selection for his coin?
+1546222	meta	1	147	0	0	35.4	36151	1591	recent@meta		This Day on SN: August 12
+1546366	security	1	125	0	2	31.1	280679	22930	recent@security|recent@AI		How Ⓐ Security Found a Nation-State Vulnerability in Zoom in One Day
+1546270	AI	1	125	0	1	33.4	280679	22930	recent@AI		OpenAI launches ChatGPT desktop app for Linux
+1546770	bitcoin	1	93	0	0	21.2	1532836	226	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		Blockparty #34 Rigly's (How to participate)
+1546335	bitcoin	1	90	0	18	32.0	739506	136	recent@bitcoin		BTC vote: Who do you prefer as Brazil’s next president?
+1546690	bitcoin_beginners	1	51	0	2	24.3	1545780	14	recent@bitcoin_beginners		My laptop’s estimated time to find a Bitcoin block: 8.6 billion years
+1546590	bitcoin_beginners	1	36	0	0	26.9	296825	5132	recent@bitcoin_beginners|recent@lightning		The dollar does not necessarily die first.  Its necessity does.
+1546546	art	3	36	0	1	27.7	296825	5132	recent@bitcoin_beginners		These might be the first wood filiment seed singer cases out there.
+1546377	bitcoin	1	36	0	0	30.7	1517740	15	recent@lightning		Prediction Markets Trends 2026
+1547058	lightning	1	21	0	0	8.1	440729	229	recent@lightning|top@lightning		Biggest Channel Opened Today (2.5 BTC) + New Node Spotlight (031b81088e5ae3535…)
+1546636	security	1	11	0	0	25.8	416864	919	recent@security		TryHackMe's HackerHotel 2026 Event - Day 04 - Packed Light
+1546568	bitcoin	1	0	0	0	27.2	296825	5132	recent@bitcoin_beginners|recent@bitdevs		Bitcoin’s Civil War - The BIP-110 Fork and the Fight That’s Just Beginning
+1546314	bitcoin_beginners	1	0	0	0	32.4	1546314	2	recent@bitcoin_beginners		What the hardest thing to do when you are starting Crypto?
+1547368	bitcoin_Mining	1	0	0	0	3.7	280679	22930	recent@bitcoin_Mining|top@bitcoin_Mining		Mujina Open-Source Mining Firmware, Explained
+1546957	bitdevs	1	0	0	0	10.3	1546601	2	recent@bitdevs|top@bitdevs		SIGNALS OUT
+1546205	lol	2	0	0	0	35.9	296825	5132	recent@AI		Letter to AI
