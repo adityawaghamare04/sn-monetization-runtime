@@ -31522,3 +31522,16 @@
 2026-08-13T13:37:48.880Z	1547021	AskSN	2	131	0	4	0.8	984933	2013	recent@econ|top@econ|recent@charts_and_maps	FRESH,SIGNAL	China’s marriage rate is still declining. What does it spell for the economy?
 2026-08-13T13:37:48.880Z	1546990	charts_and_maps	2	131	0	4	1.6	280679	22913	recent@charts_and_maps|top@charts_and_maps	FRESH,SIGNAL	Air conditioning is almost universal in the US and Japan — but not elsewhere
 2026-08-13T13:37:48.880Z	1546982	Design	2	102	0	0	1.9	383547	3496	top@Design	FRESH,SIGNAL	What creative ideas have you been rambling on?
+2026-08-13T14:44:50.612Z	1547026	bitcoin	1	2455	0	3	1.9	724606	12066	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	Gold and Copper on the Blockchain is Upside Only! (FT, Hodgson, Asgari, Hook)
+2026-08-13T14:44:50.612Z	1547052	news	2	1818	0	6	1.6	74100	11990	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL,SELF_POST_OPP	Recent customer data exposed in shipping provider incident - Trezor
+2026-08-13T14:44:50.612Z	1546904	bitcoin	1	1692	0	0	8.0	223678	5999	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Eligius miners aware of prayers in block headers?
+2026-08-13T14:44:50.612Z	1546942	news	2	1446	0	6	4.4	74100	11990	recent@bitcoin|top@bitcoin	HOT,SIGNAL,SELF_POST_OPP	UPDATE ON THE FUTURE OF BOLTZ 📢
+2026-08-13T14:44:50.612Z	1547018	bitcoin	1	713	0	10	2.0	280679	22917	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Removing Luke Dashjr as a BIP editor is a sign of bitcoin centralization.
+2026-08-13T14:44:50.612Z	1546989	bitcoin	1	607	0	2	2.8	934367	965	recent@bitcoin|top@bitcoin	SIGNAL	SeedSigner BIP46 support (JoinMarket timelocked fidelity bonds)
+2026-08-13T14:44:50.612Z	1546917	news	2	562	0	2	6.7	74100	11990	recent@bitcoin|top@bitcoin	SIGNAL	Metaplanet announces BitBonds
+2026-08-13T14:44:50.612Z	1546839	bitcoin	1	524	0	3	11.4	223678	5999	recent@bitcoin|top@bitcoin	SIGNAL	CEO of Breeze: 'Bitcoin is not a UTXO. Bitcoin is just a brand.'
+2026-08-13T14:44:50.612Z	1547119	lightning	1	375	0	1	0.6	263526	566	recent@lightning|top@lightning	FRESH,SIGNAL	ZEUS wallet get more Lightning liquidity after signing LOI with B HODL
+2026-08-13T14:44:50.612Z	1546995	math	2	358	0	0	2.6	74100	11990	recent@bitcoin|top@bitcoin	SIGNAL	Towards libshrincs: verified hash-based signatures for Bitcoin - remix7531
+2026-08-13T14:44:50.612Z	1547086	bitcoin	1	339	0	1	1.2	223678	5999	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Does two words per pill actually give full BIP39 entropy
+2026-08-13T14:44:50.612Z	1547023	bitcoin	1	260	0	5	1.9	74100	11990	recent@bitcoin|top@bitcoin|recent@bitdevs	FRESH,SIGNAL	nix-bitcoin 0.0.139 is the final version
+2026-08-13T14:44:50.612Z	1546924	bitcoin_Mining	1	182	0	1	5.0	263526	566	recent@bitcoin_Mining|top@bitcoin_Mining|recent@lightning	SIGNAL	after bip-110 failed to get miner support, bip-54 timewarp attack fix is next up
