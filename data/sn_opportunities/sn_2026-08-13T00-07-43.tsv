@@ -1,0 +1,75 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1546607	bitcoin	1	23439	0	6	5.2	527055	23	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Wasabi Wallet Plans
+1546435	bitcoin	1	7157	0	3	8.3	1014665	224	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Bitcoin Core v32.0 is targeted for release in October. What is in it?
+1546524	bitcoin	1	7079	0	0	6.9	74100	11977	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	BIP460: CISA for Taproot Key Path Spends in SegWit v2 - fjahr
+1546464	bitcoin	1	6564	0	0	7.9	1014665	224	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Stale blocks, quantum proposals, CISA - Bitcoin Optech Newsletter #417 Recap
+1546544	bitcoin	1	5923	0	0	6.4	74100	11977	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Payjoin Dev Kit 1.0 released
+1546642	bitcoin	1	4456	0	5	4.3	123513	3	recent@bitcoin|top@bitcoin	HOT,SIGNAL	The DIY Signing Device Revolution is Just Beginning
+1546439	lightning	1	1715	0	11	8.3	51481	4124	recent@lightning|top@lightning	HOT,SIGNAL	Zeus Wallet Balance not updating in a timely manner.
+1546660	AI	1	1021	0	0	4.0	280679	22899	recent@lightning|top@lightning|recent@AI	HOT,SIGNAL	Entering the Age of Agentic Lightning Nodes with Terminal ⚡🤖
+1546301	bitcoin	1	586	0	3	11.5	1011637	42	recent@bitcoin|top@bitcoin	SIGNAL	How to destroy bitcoin (and what happened to the 107 coins burned in May)
+1546711	bitcoin	1	508	0	6	2.2	1532836	224	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Boltz is like the phoenix.
+1546403	bitcoin	1	387	0	2	8.8	699824	162	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Roy Sheinfeld [Breez] on Stephan Livera Podcast: Breez, Lightning, and Glow ⚡️
+1546395	meta	1	354	0	7	9.1	36151	1590	recent@meta|top@meta	SIGNAL	What are you working on this week?
+1546583	bitcoin	1	349	0	7	5.8	296825	5132	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	What is with all the universal pussyfooting in the Bitcoin space?
+1546480	bitcoin	1	304	0	1	7.7	280679	22899	recent@bitcoin|top@bitcoin	SIGNAL	BIP-110 failure shows Bitcoin would be 'almost impossible to reproduce,'
+1546525	AI	1	281	0	1	6.9	280679	22899	recent@AI|top@AI	SIGNAL	Booksellers suspect AI firms are buying and then destroying rare books
+1546608	bitcoin	1	261	0	0	5.2	296825	5132	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	9K Bitcoin rescued out of Coldcard multisigs | MARA Foundation
+1546531	bitcoin	1	258	0	0	6.7	280679	22899	recent@bitcoin|top@bitcoin	SIGNAL	Russia's Central Bank Opens Bitcoin Trading on Sept. 1
+1546612	bitdevs	1	236	0	2	5.0	280679	22899	recent@bitcoinplusplus|top@bitcoinplusplus|recent@bitdevs	SIGNAL	Black Box Justice: What Bitcoin Developers Need to Know About How the U.S. Gov
+1546397	science	2	236	0	4	9.1	1532699	84	recent@tech|top@tech	SIGNAL	South Korea Just Published a Technology To-Do List for the Next Decade
+1546554	bitcoin	1	151	0	0	6.2	296825	5132	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Is Luke trying to rig the PoW function selection for his coin?
+1546366	security	1	125	0	2	9.8	280679	22899	recent@security|top@security|recent@AI	SIGNAL	How Ⓐ Security Found a Nation-State Vulnerability in Zoom in One Day
+1545902	bitcoin	1	11822	0	22	26.9	74100	11977	recent@bitcoin	HOT	How not to change your proof of work algorithm
+1545803	bitcoin	1	6399	0	51	29.9	48657	14677	recent@bitcoin	HOT	Who's a bigger bitcoin villain to you?
+1546122	bitcoin	1	3507	0	4	20.0	553	3526	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT	Floresta Roadmap 2026: From Building Capabilities to Hardening the Node
+1545899	bitcoin	1	2998	0	10	27.0	724606	12064	recent@bitcoin	HOT	The Humble Pies Begin: BIP-110 Requiem
+1545879	bitcoin	1	2224	0	7	27.8	375687	3130	recent@bitcoin_beginners	HOT	Thanks & Goodbye ⚡🤖🤝
+1545916	AI	1	1996	0	13	26.5	724606	12064	recent@AI	HOT	Will the Machines Do All the Work For Us? (Money Stuff, Matt Levine)
+1546011	security	1	1850	0	7	24.2	1	27096	recent@bitcoin|recent@bitdevs|recent@security	HOT	Coldcard: the technical autopsy of an entropy failure
+1546237	tech	1	1320	0	4	13.6	934367	963	recent@bitcoin|top@bitcoin|recent@tech	HOT	Bitcoin Airgap QR Workbench
+1546247	bitcoin	1	1289	0	1	13.1	280679	22899	recent@bitcoin|top@bitcoin	HOT	BIP-110 monitor setup
+1545403	bitcoin	1	1202	0	4	35.8	1526429	13	recent@bitcoin_Mining|recent@mempool	HOT	Roughneck Chronicles 4: Antifragility Test
+1546207	bitcoin	1	1193	0	4	14.6	184252	597	recent@bitcoin|top@bitcoin	HOT	Any good data visualization for Bitcoind?
+1546216	bitcoin_Mining	1	1176	0	16	14.2	273359	865	recent@bitcoin_Mining|top@bitcoin_Mining	HOT	Knots replay protection ACTIVATED for coinjoin descendants on the Core chain
+1546155	tech	1	1064	0	2	17.7	256599	719	recent@privacy|top@privacy|recent@tech	HOT	I didn't set a cookie.
+1546082	news	2	1023	0	2	22.1	9274	26248	recent@bitcoin_Mining|top@bitcoin_Mining	HOT	Compass Mining  Breach August 10th 2026
+1545541	bitdevs	1	783	0	4	33.7	995395	90	recent@bitdevs		@lnp2pBot  has come to an end.
+1545679	AI	1	751	0	4	32.2	401865	8369	recent@AI		New Orleans Joins Other Cities Testing AI 911 Operators
+1545961	AI	1	685	0	3	25.7	51481	4124	recent@bitcoin_Mining|recent@AI		Riot Platforms strikes deal with Anthropic as bitcoin miners shift focus to AI
+1545736	bitcoinplusplus	1	675	0	1	31.4	280679	22899	recent@bitcoinplusplus		Script Restoration - Making Bitcoin programmable again — Julian Moik | bitcoin++
+1546185	bitcoin	1	609	0	22	15.3	280679	22899	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining		Roughnecks mined the third block about three hours ago
+1546163	lightning	1	588	0	4	16.6	59330	54	recent@lightning|top@lightning		Kraken shut their node... moving
+1545778	bitcoin_beginners	1	586	0	2	30.2	296825	5132	recent@bitcoin_beginners		Twenty One Capital Issues Letter from CEO, Raphael Zagury
+1545452	lightning	1	543	0	1	34.9	440729	228	recent@lightning		Biggest Channel Opened Today (4.0 BTC) + New Node Spotlight (02ae9466d392b18a1…)
+1545694	AI	1	541	0	1	32.0	1532699	84	recent@tech|recent@AI		Morgan Stanley's SpaceX bull case is getting interesting
+1545837	bitcoin	1	444	0	1	29.1	280679	22899	recent@bitcoin_Mining		Bitcoin's Role in Ukrainian Reconstruction
+1545856	bitcoinplusplus	1	416	0	1	28.5	280679	22899	recent@bitcoinplusplus		Lifeboat and Lifejacket — Tadge Dryja | bitcoin++ Toronto, consensus edition
+1546275	AI	1	415	0	5	12.1	21800	494	recent@bitcoin|top@bitcoin|recent@lightning		402, Charted - Tracking the rise of L402, x402, and MPP
+1545505	bitcoin	1	397	0	1	34.1	74100	11977	recent@bitdevs		Ledger Bitcoin v2.5.0: human readable miniscript policies
+1545935	bitcoin_Mining	1	346	0	6	26.2	1227948	201	recent@bitcoin_Mining		[SELL] Bitaxe Gamma 601 for sale
+1546177	bitcoin_beginners	1	330	0	0	15.8	1546177	1	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		Europe holds about 273,000 BTC. Businesses own 7% of it - New Report
+1546157	bitcoin	1	323	0	0	17.6	934367	963	recent@bitcoin|top@bitcoin		Libshrincs: A C implementation with a machine-checked security proof
+1546058	AI	1	267	0	0	22.8	144357	4445	recent@tech|top@tech|recent@AI		Methodology: Rise of Agentic AI force security teams to become research aware
+1545640	AI	1	226	0	1	32.7	280679	22899	recent@AI		Mastering edge AI on Raspberry Pi with LiteRT and Gemma
+1546132	bitcoin_beginners	1	207	0	1	19.1	1433185	234	recent@bitcoin_beginners|top@bitcoin_beginners		Do it the Korean way. 🟠
+1546078	bitcoin	1	159	0	4	22.4	1532836	224	top@bitcoin|recent@bitcoin_beginners|top@bitcoin_beginners		The resurrection of @inp2bot
+1546222	meta	1	147	0	0	14.1	36151	1590	recent@meta|top@meta		This Day on SN: August 12
+1546270	AI	1	125	0	1	12.2	280679	22899	recent@AI|top@AI		OpenAI launches ChatGPT desktop app for Linux
+1545959	Music	3	118	0	0	25.8	1054143	1102	recent@AI		Spotify to distinguish AI artists from real people – and stop recommending them
+1546335	bitcoin	1	90	0	17	10.8	739506	136	recent@bitcoin|top@bitcoin		BTC vote: Who do you prefer as Brazil’s next president?
+1545719	bitcoin_beginners	1	56	0	0	31.6	734702	89	recent@bitcoin_beginners		Institutions Are Buying, Insiders Are Selling, Who Blinks First?
+1546109	bitcoin_beginners	1	47	0	1	20.7	1532836	224	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		How to participate in the Blockparty and mine a block with friends
+1546590	bitcoin_beginners	1	36	0	0	5.6	296825	5132	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		The dollar does not necessarily die first.  Its necessity does.
+1546546	art	3	36	0	1	6.4	296825	5132	recent@bitcoin_beginners|top@bitcoin_beginners		These might be the first wood filiment seed singer cases out there.
+1546173	bitcoin	1	36	0	0	15.9	296825	5132	recent@bitcoin_beginners|top@bitcoin_beginners		Blink's BTCPay Server Plugin Now Supports Non-Custodial Accounts: Here's How
+1545874	bitcoin	1	36	0	1	27.9	296825	5132	recent@bitcoin_beginners		Bitcoin has no passwords.
+1545692	bitcoin	1	36	0	1	32.1	296825	5132	recent@bitcoin_beginners|recent@bitdevs		So what's the plan for selecting Bitcoin's new POW? - Luke Dashjr
+1546377	bitcoin	1	36	0	0	9.5	1517740	15	recent@lightning|top@lightning		Prediction Markets Trends 2026
+1545730	security	1	11	0	0	31.4	416864	919	recent@security		TryHackMe HH 2026 Daily CTF Event - Day 03 - Complimentary
+1546568	bitcoin	1	0	0	0	6.0	296825	5132	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		Bitcoin’s Civil War - The BIP-110 Fork and the Fight That’s Just Beginning
+1546760	bitcoin_beginners	1	0	0	0	0.2	432090	2049	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH	What Happens In a Hard Fork?
+1546314	bitcoin_beginners	1	0	0	0	11.1	1546314	2	recent@bitcoin_beginners|top@bitcoin_beginners		What the hardest thing to do when you are starting Crypto?
+1546636	security	1	0	0	0	4.5	416864	919	recent@security|top@security		TryHackMe's HackerHotel 2026 Event - Day 04 - Packed Light
+1546205	lol	2	0	0	0	14.6	296825	5132	recent@AI|top@AI		Letter to AI
+1545394	AI	1	0	0	0	35.9	280679	22899	recent@AI		A New Trick Reveals AI Models’ Inner Thoughts
