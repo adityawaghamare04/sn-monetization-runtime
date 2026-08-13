@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-13T05:39:52.982Z; n=40
-cisa	sn:bitcoin	7.67	yes	
+# generated 2026-08-13T11:00:12.960Z; n=40
+cisa	sn:bitcoin	7.68	yes	
+what	sn:bitcoin,sn:meta	6.41	yes	
+tracking	hn,sn:AI	5.65	yes	
+boltz	sn:news,sn:bitcoin	5.01	yes	
 wasabi wallet plans	sn:bitcoin	4.37	yes	
-show	hn	3.9	no	RISING
-taproot key path spends	sn:bitcoin	3.85	yes	
+taproot key path spends	sn:bitcoin	3.87	yes	
 bitcoin core	sn:bitcoin	3.85	yes	
 october	sn:bitcoin	3.85	yes	
-what	sn:bitcoin	3.85	yes	
 stale	sn:bitcoin	3.82	yes	
 bitcoin optech newsletter	sn:bitcoin	3.82	yes	
 recap	sn:bitcoin	3.82	yes	
-payjoin dev kit	sn:bitcoin	3.77	yes	
+payjoin dev kit	sn:bitcoin	3.78	yes	
 signing device revolution	sn:bitcoin	3.66	yes	
 just beginning	sn:bitcoin	3.66	yes	
 canadian trolley problem	sn:Memes	3.51	no	RISING
 deal	sn:AskSN	3.31	no	RISING
 toxic family	sn:AskSN	3.31	no	RISING
 looking	sn:AskSN	3.31	no	RISING
-zeus wallet balance	sn:lightning	3.23	no	RISING
+zeus wallet balance	sn:lightning	3.24	no	RISING
+eligius	sn:bitcoin	3.18	yes	
 stacker sports summer league	sn:Stacker_Sports	3.17	no	RISING
 week	sn:Stacker_Sports	3.17	no	RISING
 pick	sn:Stacker_Sports	3.17	no	RISING
-bitcoin airgap	sn:tech	3.12	yes	
-workbench	sn:tech	3.12	yes	
-knots	sn:bitcoin_Mining	3.08	no	RISING
-activated	sn:bitcoin_Mining	3.08	no	RISING
-core	sn:bitcoin_Mining	3.08	no	RISING
-bitcoind	sn:bitcoin	3.08	yes	
-state	sn:Design	3.03	no	RISING
-entering	sn:AI	3.01	yes	
-agentic lightning nodes	sn:AI	3.01	yes	
-terminal	sn:AI	3.01	yes	
-tailscale traces database corruption	hn	2.96	no	RISING
-reset bug	hn	2.96	no	RISING
-daily discussion thread	sn:Music	2.93	no	RISING
-music saloon	sn:Music	2.93	no	RISING
+former	sn:Politics_And_Law	3.05	no	RISING
+splc	sn:Politics_And_Law	3.05	no	RISING
+exec arrested	sn:Politics_And_Law	3.05	no	RISING
+state	sn:Design	3.04	no	RISING
+entering	sn:AI	3.03	yes	
+agentic lightning nodes	sn:AI	3.03	yes	
+terminal	sn:AI	3.03	yes	
+year-old	hn	3.02	no	RISING
 jurassic park	sn:Design	2.88	no	RISING
-what happens in	sn:bitcoin_beginners	2.83	no	RISING
-hard fork	sn:bitcoin_beginners	2.83	no	RISING
-roughnecks	sn:bitcoin	2.79	yes	
-kraken	sn:lightning	2.77	no	RISING
+what happens in	sn:bitcoin_beginners	2.84	no	RISING
+hard fork	sn:bitcoin_beginners	2.84	no	RISING
+delta	hn	2.75	no	RISING
+grok	hn	2.75	no	RISING
+daily putt	sn:gaming	2.75	no	RISING
+play	sn:gaming	2.75	no	RISING
+putt	sn:gaming	2.75	no	RISING
+score	sn:gaming	2.75	no	RISING
