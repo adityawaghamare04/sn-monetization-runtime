@@ -1,18 +1,18 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-14T05:37:20.741Z; n=40
-what	sn:bitcoin,sn:AskSN	5.93	yes	
+# generated 2026-08-14T10:57:19.257Z; n=40
+what	hn,sn:bitcoin,sn:AskSN	7.13	yes	
 alejandro	sn:AMA	3.97	no	RISING
 torre	sn:AMA	3.97	no	RISING
 dmnd	sn:AMA	3.97	no	RISING
 bitcoin mining	sn:AMA	3.97	no	RISING
-disclosure	sn:lightning	3.6	no	RISING
+disclosure	sn:lightning	3.62	no	RISING
 recent	sn:news	3.56	yes	
 trezor	sn:news	3.56	yes	
-total	sn:charts_and_maps	3.52	no	RISING
-internet	sn:charts_and_maps	3.52	no	RISING
-iceland	sn:charts_and_maps	3.52	no	RISING
-spain	sn:charts_and_maps	3.52	no	RISING
-portugal	sn:charts_and_maps	3.52	no	RISING
+total	sn:charts_and_maps	3.55	no	RISING
+internet	sn:charts_and_maps	3.55	no	RISING
+iceland	sn:charts_and_maps	3.55	no	RISING
+spain	sn:charts_and_maps	3.55	no	RISING
+portugal	sn:charts_and_maps	3.55	no	RISING
 gold	sn:bitcoin	3.39	yes	
 copper	sn:bitcoin	3.39	yes	
 blockchain	sn:bitcoin	3.39	yes	
@@ -20,10 +20,7 @@ upside only	sn:bitcoin	3.39	yes
 hodgson	sn:bitcoin	3.39	yes	
 asgari	sn:bitcoin	3.39	yes	
 hook	sn:bitcoin	3.39	yes	
-update	sn:news	3.27	yes	
-future	sn:news	3.27	yes	
-boltz	sn:news	3.27	yes	
-eligius	sn:bitcoin	3.23	yes	
+show	hn	3.17	no	RISING
 safety	sn:bitcoin	3.16	yes	
 privacy	sn:bitcoin	3.16	yes	
 nunchuck	sn:bitcoin	3.16	yes	
@@ -32,11 +29,14 @@ well well well it looks like its fire sale time for the space cowboys	sn:Stacker
 directory node	sn:bitcoin	3.09	yes	
 throw	sn:BooksAndArticles	3.03	no	RISING
 rory sutherland	sn:BooksAndArticles	3.03	no	RISING
+gemini	hn	2.94	yes	
+flash	hn	2.94	yes	
 tether completes	sn:news	2.94	no	RISING
 largest inaugural financial audit	sn:news	2.94	no	RISING
 history	sn:news	2.94	no	RISING
 tether	sn:news	2.94	no	RISING
-removing luke dashjr	sn:bitcoin	2.89	yes	
-preseason	sn:Stacker_Sports	2.89	no	RISING
-discussion thread	sn:Stacker_Sports	2.89	no	RISING
-gemini	hn	2.86	yes	
+too little	sn:security	2.92	no	RISING
+too late	sn:security	2.92	no	RISING
+flock admits their technology needs reforms	sn:security	2.92	no	RISING
+zap cooking	sn:food_and_drinks	2.91	no	RISING
+launched	sn:food_and_drinks	2.91	no	RISING
