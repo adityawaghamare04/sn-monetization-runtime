@@ -1,15 +1,25 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-14T16:52:10.895Z; n=40
-what	sn:AskSN,sn:DIY	8.36	yes	
-show	hn	3.72	no	RISING
-channel	sn:bitcoin	3.69	yes	
-core	sn:bitcoin	3.69	yes	
-bitcoin optech newsletter	sn:bitcoin	3.69	yes	
-total	sn:charts_and_maps	3.55	no	RISING
-internet	sn:charts_and_maps	3.55	no	RISING
-iceland	sn:charts_and_maps	3.55	no	RISING
-spain	sn:charts_and_maps	3.55	no	RISING
-portugal	sn:charts_and_maps	3.55	no	RISING
+# generated 2026-08-14T22:22:16.878Z; n=40
+what	sn:AskSN,sn:DIY	6.63	yes	
+show	hn	4.82	no	RISING
+channel	sn:bitcoin	3.7	yes	
+core	sn:bitcoin	3.7	yes	
+bitcoin optech newsletter	sn:bitcoin	3.7	yes	
+luigi mangione pleads guilty to federal charges in	sn:Politics_And_Law	3.33	no	RISING
+killing	sn:Politics_And_Law	3.33	no	RISING
+book	sn:BooksAndArticles	3.31	no	RISING
+books	sn:BooksAndArticles	3.31	no	RISING
+am not your bruh	sn:BooksAndArticles	3.31	no	RISING
+george mekhail	sn:BooksAndArticles	3.31	no	RISING
+wanna stop kimi	sn:AI	3.25	yes	
+offensive agent	sn:AI	3.25	yes	
+put taiwan	sn:AI	3.25	yes	
+your	sn:AI	3.25	yes	
+tracing	sn:bitcoin	3.24	yes	
+attacker	sn:bitcoin	3.24	yes	
+steps through	sn:bitcoin	3.24	yes	
+coldcard drain	sn:bitcoin	3.24	yes	
+praveen perera	sn:bitcoin	3.24	yes	
 the empire	sn:BooksAndArticles	3.15	no	RISING
 wealth	sn:BooksAndArticles	3.15	no	RISING
 how capital made	sn:BooksAndArticles	3.15	no	RISING
@@ -17,26 +27,16 @@ modern world	sn:BooksAndArticles	3.15	no	RISING
 john gordon	sn:BooksAndArticles	3.15	no	RISING
 frontier coding	sn:AI	3.15	yes	
 emergent cyber capabilities	sn:AI	3.15	yes	
-tracing	sn:bitcoin	3.13	yes	
-attacker	sn:bitcoin	3.13	yes	
-steps through	sn:bitcoin	3.13	yes	
-coldcard drain	sn:bitcoin	3.13	yes	
-praveen perera	sn:bitcoin	3.13	yes	
-wanna stop kimi	sn:security	3.07	yes	
-offensive agent	sn:security	3.07	yes	
-put taiwan	sn:security	3.07	yes	
-your	sn:security	3.07	yes	
+the american oilman makes his arctic stand	sn:Politics_And_Law	3.04	no	RISING
+jeffrey gettleman	sn:Politics_And_Law	3.04	no	RISING
+losses climb	sn:news	3.02	yes	
+state	sn:news	3.02	yes	
+coldcard investigation	sn:news	3.02	yes	
+alex thorn	sn:news	3.02	yes	
 this little village in upstate new york is made up entirely of bookstores	sn:BooksAndArticles	3.01	no	RISING
-the american oilman makes his arctic stand	sn:Politics_And_Law	3.01	no	RISING
-jeffrey gettleman	sn:Politics_And_Law	3.01	no	RISING
+frontier	hn	3	no	RISING
 voice dictation	sn:the_stacker_muse	2.97	no	RISING
 typing	sn:the_stacker_muse	2.97	no	RISING
 politeness	sn:the_stacker_muse	2.97	no	RISING
 think clearly	sn:the_stacker_muse	2.97	no	RISING
 spectator	sn:the_stacker_muse	2.97	no	RISING
-rory	sn:the_stacker_muse	2.97	no	RISING
-frontier	hn	2.95	no	RISING
-too little	sn:security	2.95	no	RISING
-too late	sn:security	2.95	no	RISING
-flock admits their technology needs reforms	sn:security	2.95	no	RISING
-tether completes	sn:news	2.94	no	RISING
