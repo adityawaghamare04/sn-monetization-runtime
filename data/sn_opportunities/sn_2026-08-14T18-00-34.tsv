@@ -1,0 +1,101 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1547861	bitcoin	1	4970	0	2	5.5	1014665	225	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Channel jamming, static Core, tx rate limiting - Bitcoin Optech Newsletter #418
+1548046	AskSN	2	4515	0	2	1.7	1242375	158	recent@AskSN|top@AskSN	FRESH,HOT,SIGNAL	What is a piece of tech that you use today but expect not to in five years?
+1548049	gaming	3	4147	0	0	1.6	988069	280	recent@tech|top@tech|recent@BooksAndArticles	FRESH,HOT,SIGNAL	I've been thinking about some stuff, no, it's not clickbait, or is it?
+1548087	BooksAndArticles	2	2018	0	1	1.0	724606	12079	recent@econ|top@econ|recent@BooksAndArticles	FRESH,HOT,SIGNAL	BOOK on BOOKS: "I Am Not Your Bruh," by George Mekhail
+1547661	AI	1	1421	0	2	11.3	879734	8592	recent@AI|top@AI	HOT,SIGNAL	GLM-5.3: Frontier Coding with Emergent Cyber Capabilities
+1547780	bitcoin	1	1419	0	7	7.1	74100	12011	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	Tracing the Attacker’s Steps Through 1,082 BTC Coldcard Drain - Praveen Perera
+1547767	BooksAndArticles	2	1401	0	5	7.3	724606	12079	recent@econ|top@econ|recent@BooksAndArticles	HOT,SIGNAL,SELF_POST_OPP	The Empire of Wealth and How Capital Made the Modern World (WSJ, John Gordon)
+1548016	bitcoin	1	1262	0	7	2.5	272410	1174	recent@bitcoin|top@bitcoin	HOT,SIGNAL	I’ve been buying my cat’s food with sats 🐱⚡
+1547877	AI	1	1163	0	1	5.1	927054	70	recent@security|top@security|recent@AI	HOT,SIGNAL	Wanna Stop Kimi K3 Offensive Agent? Put Taiwan in Your .env...
+1547911	Politics_And_Law	3	1088	0	0	4.3	724606	12079	recent@econ|top@econ	HOT,SIGNAL	The American Oilman Makes His Arctic Stand! (NYT, Jeffrey Gettleman)
+1548064	bitcoin	1	1036	0	0	1.3	74100	12011	recent@bitcoin|top@bitcoin|recent@bitdevs	FRESH,HOT,SIGNAL	BIP-322 verifier accepts proofs signed by unrelated keys for P2WPKH, P2SH-P2WPKH
+1547857	BooksAndArticles	2	1018	0	6	5.5	30782	25468	recent@BooksAndArticles|top@BooksAndArticles	HOT,SIGNAL,SELF_POST_OPP	This Little Village In Upstate New York Is Made Up Entirely Of Bookstores (2021)
+1547802	the_stacker_muse	3	927	0	6	6.6	724606	12079	recent@econ|top@econ|recent@BooksAndArticles	SIGNAL,SELF_POST_OPP	Voice Dictation, Typing, Politeness, and How to Think Clearly (Spectator, Rory)
+1547823	DIY	3	903	0	10	6.2	280679	22955	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL,SELF_POST_OPP	What can I do with a Rudi Embedded System with NVIDIA Jetson™ TX2?
+1547894	lightning	1	663	0	0	4.7	280679	22955	recent@lightning|top@lightning	SIGNAL	ZeusLN/zeus · Release v13.2.0-alpha1
+1547654	AI	1	615	0	1	11.9	12309	3613	recent@tech|top@tech|recent@AI	SIGNAL	GLM-5.3
+1547833	AskSN	2	511	0	5	5.8	984933	2037	recent@AskSN|top@AskSN|recent@history	SIGNAL,SELF_POST_OPP	Did you know that...?
+1548022	security	1	510	0	0	2.3	51481	4128	recent@security|top@security|recent@news	SIGNAL	Liechtenstein Hunts Hackers as Data on 31,000 Funds Breached
+1547809	bitcoin_beginners	1	503	0	2	6.5	30782	25468	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Bitcoin Beginners Newsletter, Issue 112
+1547714	Construction_and_Engineering	2	405	0	4	8.9	166	37211	recent@Construction_and_Engineering|top@Construction_and_Engineering	SIGNAL	3D-printed concrete houses are already FAILING
+1547875	bitcoinplusplus	1	373	0	1	5.1	280679	22955	recent@bitcoinplusplus|top@bitcoinplusplus	SIGNAL	Tail Emissions and Demurrage — Peter Todd | bitcoin++ Toronto, consensus edition
+1547978	Stacker_Sports	3	372	0	6	3.1	402772	22200	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL,SELF_POST_OPP	PREDYX Quietly Implemented Reverse CDA/CLOB Orderbook to Solve Liquidity
+1547840	lightning	1	353	0	5	5.7	263526	570	recent@lightning|top@lightning	SIGNAL	Does running Lightning feel worth the complexity for everyday small transaction?
+1547891	lightning	1	347	0	1	4.8	440729	230	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (2.5 BTC) + New Node Spotlight (03e72b48e4250e9b8…)
+1547858	charts_and_maps	2	328	0	3	5.5	458256	4853	recent@charts_and_maps|top@charts_and_maps	SIGNAL	The Helmet Time Machine - Explore 65 years of NFL history through its helmets
+1548008	bitcoinplusplus	1	295	0	1	2.6	280679	22955	recent@bitcoinplusplus|top@bitcoinplusplus	SIGNAL	Realities of an alternative bitcoin implementation — Calvin Kim | bitcoin++
+1547744	meta	1	290	0	1	8.0	36151	1592	recent@meta|top@meta	SIGNAL	This Day on SN: August 14
+1548050	news	2	287	0	0	1.6	263596	233	recent@news|top@news	FRESH,SIGNAL	Belgian student strikes gold worth €9m while digging sewers
+1547906	AskSN	2	270	0	8	4.4	984933	2037	recent@AskSN|top@AskSN	SIGNAL,SELF_POST_OPP	What is the Pic OT of the week?
+1547664	Construction_and_Engineering	2	243	0	2	11.1	12309	3613	recent@Construction_and_Engineering|top@Construction_and_Engineering	SIGNAL	New York City Skyscraper that Contains an Amusement Park Ride
+1548119	Politics_And_Law	3	197	0	0	0.3	328182	3840	recent@econ|top@econ	FRESH,SIGNAL	Big investors aren’t the reason for high housing costs. The government is.
+1547810	AI	1	186	0	2	6.5	9274	26321	recent@AI|top@AI|recent@econ	SIGNAL	Meta & Construction Labor Unions team up!
+1547761	Stacker_Stocks	2	185	0	11	7.6	9274	26321	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Daily Stock Discussion ~Stacker_Stocks
+1547848	AI	1	178	0	0	5.6	9274	26321	recent@AI|top@AI|recent@Stacker_Stocks	SIGNAL	The siren song, valuations and skepticism
+1547735	art	3	177	0	2	8.1	724606	12079	recent@econ|top@econ|recent@BooksAndArticles	SIGNAL	"I'd Rather Be Poor": On Artists and Patrons Financing Art (TDE, Israel)
+1548121	news	2	171	0	1	0.2	74100	12011	recent@news|top@news	FRESH,SIGNAL	Losses Climb to $112m: State of Coldcard Investigation - Alex Thorn
+1548040	science	2	167	0	1	1.9	724606	12079	recent@science|top@science|recent@econ	FRESH,SIGNAL	The Insanity of the Paid-For AC Lobby (HP/WashPo, Chelsea Follett)
+1547844	lol	2	125	0	0	5.7	280679	22955	recent@AI|top@AI|recent@lol	SIGNAL	These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI
+1547832	charts_and_maps	2	105	0	0	5.8	280679	22955	recent@charts_and_maps|top@charts_and_maps	SIGNAL	Mapped: The Cost to Retire Comfortably Around the World
+1548114	lightning	1	102	0	1	0.4	163128	3746	recent@lightning|top@lightning	FRESH,SIGNAL	[TUTORIAL] how to "anonymously" purchase Bitcoin on Bisq2 using Bark's Lightning
+1547908	Design	2	102	0	0	4.3	383547	3505	recent@Design|top@Design	SIGNAL	Liquid Gooey
+1547903	lol	2	100	0	1	4.5	147412	1420	recent@lol|top@lol	SIGNAL	Honest Government Ad - A.I Data Centers
+1547150	AMA	2	9423	0	68	27.0	294868	69	recent@AMA	HOT	I'm Alejandro de la Torre, CEO of DMND StratumV2 Bitcoin Mining pool - AMA!
+1547247	lightning	1	4201	0	6	26.0	280679	22955	recent@lightning	HOT	Disclosure: LND doesn't wait for enough confirmations when closing channels
+1547052	news	2	3671	0	15	28.8	74100	12011	recent@bitcoin|recent@news	HOT,SELF_POST_OPP	Recent customer data exposed in shipping provider incident - Trezor
+1547473	charts_and_maps	2	3545	0	1	21.2	280679	22955	recent@charts_and_maps|top@charts_and_maps	HOT	Total eclipse of the Internet: traffic impacts in Iceland, Spain, and Portugal
+1547194	bitcoin	1	2970	0	11	26.6	92827	2796	recent@bitcoin	HOT	A casual acceptance of the sentiment shift
+1547427	Stacker_Sports	3	2487	0	11	22.8	48657	14689	recent@econ|top@econ|recent@Stacker_Stocks	HOT,SELF_POST_OPP	1/4 of Gen Z investors treat sports betting as deliberate part of financial plan
+1547026	bitcoin	1	2475	0	4	29.1	724606	12079	recent@bitcoin|recent@econ	HOT	Gold and Copper on the Blockchain is Upside Only! (FT, Hodgson, Asgari, Hook)
+1546942	news	2	1881	0	13	31.6	74100	12011	recent@bitcoin|recent@news	HOT,SELF_POST_OPP	UPDATE ON THE FUTURE OF BOLTZ 📢
+1546904	bitcoin	1	1713	0	0	35.3	223678	6008	recent@bitcoin|recent@history	HOT	Eligius miners aware of prayers in block headers?
+1547259	bitcoin	1	1557	0	14	25.8	1242375	158	recent@bitcoin|recent@AskSN	HOT	What does "bitcoin failed" mean?
+1547264	bitcoin	1	1448	0	5	25.7	223678	6008	recent@bitcoin	HOT	Safety/Privacy of Nunchuck (Assisted multisig wallet)
+1547119	lightning	1	1432	0	1	27.8	263526	570	recent@lightning	HOT	ZEUS wallet get more Lightning liquidity after signing LOI with B HODL
+1547292	bitcoin	1	1232	0	0	25.3	934367	968	recent@bitcoin	HOT	JoinMarket Directory Node nick hijacking vulnerability
+1547124	BooksAndArticles	2	1079	0	5	27.6	74100	12011	recent@BooksAndArticles	HOT,SELF_POST_OPP	Throw away your keyboard - Rory Sutherland
+1547086	bitcoin	1	994	0	6	28.5	223678	6008	recent@bitcoin		Does two words per pill actually give full BIP39 entropy
+1547643	security	1	886	0	2	13.1	6274	2277	recent@security|top@security|recent@privacy		Too Little, Too Late: Flock Admits Their Technology Needs Reforms } EFF
+1547454	news	2	876	0	4	21.8	74100	12011	recent@Stacker_Stocks|top@Stacker_Stocks|recent@news		Tether Completes the Largest Inaugural Financial Audit in History - Tether.io
+1547018	bitcoin	1	775	0	20	29.2	280679	22955	recent@bitcoin		Removing Luke Dashjr as a BIP editor is a sign of bitcoin centralization.
+1546989	bitcoin	1	637	0	2	30.0	934367	968	recent@bitcoin		SeedSigner BIP46 support (JoinMarket timelocked fidelity bonds)
+1546990	charts_and_maps	2	632	0	6	29.9	280679	22955	recent@charts_and_maps	SELF_POST_OPP	Air conditioning is almost universal in the US and Japan — but not elsewhere
+1546917	news	2	562	0	3	33.9	74100	12011	recent@bitcoin|recent@Stacker_Stocks|recent@news		Metaplanet announces BitBonds
+1547591	tech	1	561	0	1	16.7	900202	2670	recent@tech|top@tech		X (fka Twitter) - GitHub
+1547406	BooksAndArticles	2	556	0	0	23.6	1493819	55	recent@BooksAndArticles|top@BooksAndArticles		The Storyteller by Benjamin
+1547021	AskSN	2	542	0	4	29.2	984933	2037	recent@econ|recent@charts_and_maps|recent@AskSN		China’s marriage rate is still declining. What does it spell for the economy?
+1547610	charts_and_maps	2	515	0	1	16.0	144357	4451	recent@econ|top@econ|recent@charts_and_maps		How to Get Rich in America - Kyla’s Newsletter
+1547003	AskSN	2	470	0	7	29.6	984933	2037	recent@AskSN|recent@history	SELF_POST_OPP	Did you know that...?
+1547163	Stacker_Sports	3	437	0	3	26.9	458256	4853	recent@econ		How much were the Lakers sold for? NBA franchise fetches record $12.5 billion.
+1547539	Photography	3	432	0	6	18.4	984933	2037	recent@history|top@history	SELF_POST_OPP	A pro-Communist demonstration in New York, 1929
+1547505	bitcoin	1	394	0	4	19.9	1516345	5	recent@bitcoin|top@bitcoin		Rolling Dice to Generate Fresh Entropy on Coldcard Devices
+1547256	Stacker_Stocks	2	387	0	1	25.8	280679	22955	recent@Stacker_Stocks		Anthropic could be worth $2 trillion when it goes public
+1546995	math	2	358	0	0	29.8	74100	12011	recent@bitcoin|recent@math		Towards libshrincs: verified hash-based signatures for Bitcoin - remix7531
+1546987	Design	2	326	0	2	30.0	383547	3505	recent@Design		Why is everyone in tech so sad?
+1547436	bitcoinplusplus	1	317	0	1	22.6	280679	22955	recent@bitcoinplusplus|top@bitcoinplusplus		Input-triggered transaction expiry — Josh Doman | bitcoin++, consensus edition
+1547103	Design	2	316	0	0	28.2	383547	3505	recent@Design		Middle management roles are also a trap
+1547500	Politics_And_Law	3	307	0	4	20.0	88718	46452	recent@econ|top@econ|recent@history		How the First World War Destroyed the Gold Standard
+1546985	BooksAndArticles	2	303	0	3	30.1	1264102	61	recent@BooksAndArticles		New In Stock: The 7th Property
+1547105	Stacker_Stocks	2	281	0	1	28.1	280679	22955	recent@Stacker_Stocks		Confusion surrounds SpaceX's next share unlock
+1547412	tech	1	275	0	0	23.4	161788	10242	recent@tech|top@tech		Gemini 3.7 Flash
+1547023	bitcoin	1	260	0	5	29.2	74100	12011	recent@bitcoin|recent@bitdevs		nix-bitcoin 0.0.139 is the final version
+1547288	Memes	2	239	0	1	25.3	280679	22955	recent@bitcoinplusplus|recent@math|recent@Memes		post-quantum isogeny signatures, explained in 30 memes or less — conduition
+1547250	nostr	1	225	0	0	26.0	503703	3750	recent@nostr		0 sat zap XSS attack
+1547226	AI	1	220	0	1	26.3	642641	8280	recent@security|recent@privacy|recent@AI		Inside North Korea’s Operation to Conquer the American Job Market
+1547478	Construction_and_Engineering	2	216	0	1	21.0	280679	22955	recent@Construction_and_Engineering|top@Construction_and_Engineering|recent@Stacker_Stocks		Ford on track to complete $2B factory overhaul for Fathom EV truck
+1547281	bitcoin_beginners	1	206	0	10	25.4	1545780	19	recent@bitcoin_beginners|recent@bitcoin_Mining		My first 25 real sats came from writing, not mining
+1547328	tech	1	199	0	0	24.8	12309	3613	recent@devs		Geekom IT13 Max 2026 review: Meteor Lake rides again in a $799 mini PC
+1546924	bitcoin_Mining	1	182	0	1	32.2	263526	570	recent@bitcoin_Mining|recent@lightning		after bip-110 failed to get miner support, bip-54 timewarp attack fix is next up
+1546964	Politics_And_Law	3	176	0	1	30.8	280679	22955	recent@econ		When America's budget will break, disastrously
+1547511	econ	2	140	0	0	19.6	88718	46452	recent@econ|top@econ		Inflationary Expectations and Increases in Prices – Any Relationship?
+1547149	art	3	140	0	1	27.0	996769	46	recent@podcasts		🎙️ NEW EPISODE: Freedom, Forged in Art
+1547274	bitcoin	1	102	0	0	25.6	12315	2437	recent@econ		How Money Actually Works
+1547193	Design	2	102	0	0	26.6	383547	3505	recent@Design		Backyard designers
+1546954	Stacker_Stocks	2	98	0	22	31.1	9274	26321	recent@Stacker_Stocks		Daily Stock Discussion ~Stacker_Stocks
+1547632	AskSN	2	92	0	1	14.3	1532836	231	recent@AskSN|top@AskSN		a serious question
+1547768	Music	3	76	0	0	7.3	9274	26321	recent@Stacker_Stocks|top@Stacker_Stocks|recent@history		🥗 Green in the red - Snacks
+1547993	Politics_And_Law	3	61	0	0	2.9	280679	22955	recent@econ|top@econ		The Great Transshipment Scam
+1547410	econ	2	52	0	0	23.4	837285	1388	recent@econ|top@econ		The U.S. Just Paid Its Highest 30-Year Borrowing Cost in 25 Years
+1547775	Politics_And_Law	3	49	0	0	7.2	280679	22955	recent@econ|top@econ|recent@history		The Lesson of 1971 Was Never About Gold
+1547058	lightning	1	46	0	0	28.8	440729	230	recent@lightning		Biggest Channel Opened Today (2.5 BTC) + New Node Spotlight (031b81088e5ae3535…)
