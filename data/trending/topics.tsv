@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-14T10:57:19.257Z; n=40
-what	hn,sn:bitcoin,sn:AskSN	7.13	yes	
-alejandro	sn:AMA	3.97	no	RISING
-torre	sn:AMA	3.97	no	RISING
-dmnd	sn:AMA	3.97	no	RISING
-bitcoin mining	sn:AMA	3.97	no	RISING
-disclosure	sn:lightning	3.62	no	RISING
-recent	sn:news	3.56	yes	
-trezor	sn:news	3.56	yes	
+# generated 2026-08-14T16:52:10.895Z; n=40
+what	sn:AskSN,sn:DIY	8.36	yes	
+show	hn	3.72	no	RISING
+channel	sn:bitcoin	3.69	yes	
+core	sn:bitcoin	3.69	yes	
+bitcoin optech newsletter	sn:bitcoin	3.69	yes	
 total	sn:charts_and_maps	3.55	no	RISING
 internet	sn:charts_and_maps	3.55	no	RISING
 iceland	sn:charts_and_maps	3.55	no	RISING
 spain	sn:charts_and_maps	3.55	no	RISING
 portugal	sn:charts_and_maps	3.55	no	RISING
-gold	sn:bitcoin	3.39	yes	
-copper	sn:bitcoin	3.39	yes	
-blockchain	sn:bitcoin	3.39	yes	
-upside only	sn:bitcoin	3.39	yes	
-hodgson	sn:bitcoin	3.39	yes	
-asgari	sn:bitcoin	3.39	yes	
-hook	sn:bitcoin	3.39	yes	
-show	hn	3.17	no	RISING
-safety	sn:bitcoin	3.16	yes	
-privacy	sn:bitcoin	3.16	yes	
-nunchuck	sn:bitcoin	3.16	yes	
-assisted	sn:bitcoin	3.16	yes	
-well well well it looks like its fire sale time for the space cowboys	sn:Stacker_Sports	3.12	no	RISING
-directory node	sn:bitcoin	3.09	yes	
-throw	sn:BooksAndArticles	3.03	no	RISING
-rory sutherland	sn:BooksAndArticles	3.03	no	RISING
-gemini	hn	2.94	yes	
-flash	hn	2.94	yes	
+the empire	sn:BooksAndArticles	3.15	no	RISING
+wealth	sn:BooksAndArticles	3.15	no	RISING
+how capital made	sn:BooksAndArticles	3.15	no	RISING
+modern world	sn:BooksAndArticles	3.15	no	RISING
+john gordon	sn:BooksAndArticles	3.15	no	RISING
+frontier coding	sn:AI	3.15	yes	
+emergent cyber capabilities	sn:AI	3.15	yes	
+tracing	sn:bitcoin	3.13	yes	
+attacker	sn:bitcoin	3.13	yes	
+steps through	sn:bitcoin	3.13	yes	
+coldcard drain	sn:bitcoin	3.13	yes	
+praveen perera	sn:bitcoin	3.13	yes	
+wanna stop kimi	sn:security	3.07	yes	
+offensive agent	sn:security	3.07	yes	
+put taiwan	sn:security	3.07	yes	
+your	sn:security	3.07	yes	
+this little village in upstate new york is made up entirely of bookstores	sn:BooksAndArticles	3.01	no	RISING
+the american oilman makes his arctic stand	sn:Politics_And_Law	3.01	no	RISING
+jeffrey gettleman	sn:Politics_And_Law	3.01	no	RISING
+voice dictation	sn:the_stacker_muse	2.97	no	RISING
+typing	sn:the_stacker_muse	2.97	no	RISING
+politeness	sn:the_stacker_muse	2.97	no	RISING
+think clearly	sn:the_stacker_muse	2.97	no	RISING
+spectator	sn:the_stacker_muse	2.97	no	RISING
+rory	sn:the_stacker_muse	2.97	no	RISING
+frontier	hn	2.95	no	RISING
+too little	sn:security	2.95	no	RISING
+too late	sn:security	2.95	no	RISING
+flock admits their technology needs reforms	sn:security	2.95	no	RISING
 tether completes	sn:news	2.94	no	RISING
-largest inaugural financial audit	sn:news	2.94	no	RISING
-history	sn:news	2.94	no	RISING
-tether	sn:news	2.94	no	RISING
-too little	sn:security	2.92	no	RISING
-too late	sn:security	2.92	no	RISING
-flock admits their technology needs reforms	sn:security	2.92	no	RISING
-zap cooking	sn:food_and_drinks	2.91	no	RISING
-launched	sn:food_and_drinks	2.91	no	RISING
