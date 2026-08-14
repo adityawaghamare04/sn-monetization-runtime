@@ -1,0 +1,52 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1547861	bitcoin	1	4934	0	2	4.0	1014665	225	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Channel jamming, static Core, tx rate limiting - Bitcoin Optech Newsletter #418
+1547661	AI	1	1421	0	2	9.8	879734	8592	recent@AI|top@AI	HOT,SIGNAL	GLM-5.3: Frontier Coding with Emergent Cyber Capabilities
+1547780	bitcoin	1	1344	0	7	5.6	74100	12008	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	Tracing the Attacker’s Steps Through 1,082 BTC Coldcard Drain - Praveen Perera
+1548016	bitcoin	1	1262	0	4	1.1	272410	1172	recent@bitcoin|top@bitcoin	FRESH,HOT,SIGNAL	I’ve been buying my cat’s food with sats 🐱⚡
+1547877	security	1	1163	0	1	3.6	927054	70	recent@security|top@security|recent@AI	HOT,SIGNAL	Wanna Stop Kimi K3 Offensive Agent? Put Taiwan in Your .env...
+1547643	security	1	886	0	2	11.6	6274	2277	recent@security|top@security|recent@privacy	SIGNAL	Too Little, Too Late: Flock Admits Their Technology Needs Reforms } EFF
+1547894	lightning	1	663	0	0	3.2	280679	22955	recent@lightning|top@lightning	SIGNAL	ZeusLN/zeus · Release v13.2.0-alpha1
+1547654	AI	1	615	0	1	10.4	12309	3613	recent@tech|top@tech|recent@AI	SIGNAL	GLM-5.3
+1547823	DIY	3	567	0	8	4.8	280679	22955	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL,SELF_POST_OPP	What can I do with a Rudi Embedded System with NVIDIA Jetson™ TX2?
+1548049	gaming	3	555	0	0	0.2	988069	280	recent@tech|top@tech	FRESH,SIGNAL	I've been thinking about some stuff, no, it's not clickbait, or is it?
+1548022	security	1	510	0	0	0.9	51481	4128	recent@security|top@security	FRESH,SIGNAL	Liechtenstein Hunts Hackers as Data on 31,000 Funds Breached
+1547809	bitcoin_beginners	1	503	0	2	5.1	30782	25464	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	Bitcoin Beginners Newsletter, Issue 112
+1547875	bitcoinplusplus	1	373	0	1	3.7	280679	22955	recent@bitcoinplusplus|top@bitcoinplusplus	SIGNAL	Tail Emissions and Demurrage — Peter Todd | bitcoin++ Toronto, consensus edition
+1547840	lightning	1	353	0	5	4.3	263526	569	recent@lightning|top@lightning	SIGNAL	Does running Lightning feel worth the complexity for everyday small transaction?
+1547891	lightning	1	347	0	1	3.3	440729	230	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (2.5 BTC) + New Node Spotlight (03e72b48e4250e9b8…)
+1548008	bitcoinplusplus	1	295	0	1	1.2	280679	22955	recent@bitcoinplusplus|top@bitcoinplusplus	FRESH,SIGNAL	Realities of an alternative bitcoin implementation — Calvin Kim | bitcoin++
+1547744	meta	1	290	0	1	6.6	36151	1592	recent@meta|top@meta	SIGNAL	This Day on SN: August 14
+1547810	AI	1	186	0	2	5.1	9274	26319	recent@AI|top@AI	SIGNAL	Meta & Construction Labor Unions team up!
+1547848	AI	1	178	0	0	4.2	9274	26319	recent@AI|top@AI	SIGNAL	The siren song, valuations and skepticism
+1547844	lol	2	125	0	0	4.2	280679	22955	recent@AI|top@AI	SIGNAL	These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI
+1547247	lightning	1	4201	0	6	24.6	280679	22955	recent@lightning	HOT	Disclosure: LND doesn't wait for enough confirmations when closing channels
+1547052	news	2	3671	0	15	27.4	74100	12008	recent@bitcoin	HOT,SELF_POST_OPP	Recent customer data exposed in shipping provider incident - Trezor
+1547194	bitcoin	1	2970	0	11	25.2	92827	2796	recent@bitcoin	HOT	A casual acceptance of the sentiment shift
+1547026	bitcoin	1	2475	0	4	27.7	724606	12078	recent@bitcoin	HOT	Gold and Copper on the Blockchain is Upside Only! (FT, Hodgson, Asgari, Hook)
+1546942	news	2	1881	0	13	30.2	74100	12008	recent@bitcoin	HOT,SELF_POST_OPP	UPDATE ON THE FUTURE OF BOLTZ 📢
+1546904	bitcoin	1	1713	0	0	33.8	223678	6008	recent@bitcoin	HOT	Eligius miners aware of prayers in block headers?
+1547259	bitcoin	1	1557	0	14	24.4	1242375	158	recent@bitcoin	HOT	What does "bitcoin failed" mean?
+1547264	bitcoin	1	1448	0	5	24.3	223678	6008	recent@bitcoin	HOT	Safety/Privacy of Nunchuck (Assisted multisig wallet)
+1547292	bitcoin	1	1232	0	0	23.8	934367	968	recent@bitcoin|top@bitcoin	HOT	JoinMarket Directory Node nick hijacking vulnerability
+1547086	bitcoin	1	994	0	6	27.0	223678	6008	recent@bitcoin		Does two words per pill actually give full BIP39 entropy
+1547018	bitcoin	1	775	0	20	27.8	280679	22955	recent@bitcoin		Removing Luke Dashjr as a BIP editor is a sign of bitcoin centralization.
+1546989	bitcoin	1	637	0	2	28.6	934367	968	recent@bitcoin		SeedSigner BIP46 support (JoinMarket timelocked fidelity bonds)
+1546917	news	2	562	0	3	32.5	74100	12008	recent@bitcoin		Metaplanet announces BitBonds
+1547591	tech	1	561	0	1	15.3	900202	2670	recent@tech|top@tech		X (fka Twitter) - GitHub
+1547119	lightning	1	432	0	1	26.4	263526	569	recent@lightning		ZEUS wallet get more Lightning liquidity after signing LOI with B HODL
+1547505	bitcoin	1	394	0	4	18.4	1516345	5	recent@bitcoin|top@bitcoin		Rolling Dice to Generate Fresh Entropy on Coldcard Devices
+1546995	math	2	358	0	0	28.4	74100	12008	recent@bitcoin		Towards libshrincs: verified hash-based signatures for Bitcoin - remix7531
+1547436	bitcoinplusplus	1	317	0	1	21.2	280679	22955	recent@bitcoinplusplus|top@bitcoinplusplus		Input-triggered transaction expiry — Josh Doman | bitcoin++, consensus edition
+1547412	tech	1	275	0	0	21.9	161788	10241	recent@tech|top@tech		Gemini 3.7 Flash
+1547023	bitcoin	1	260	0	5	27.7	74100	12008	recent@bitcoin|recent@bitdevs		nix-bitcoin 0.0.139 is the final version
+1547288	Memes	2	239	0	1	23.9	280679	22955	recent@bitcoinplusplus|top@bitcoinplusplus		post-quantum isogeny signatures, explained in 30 memes or less — conduition
+1547250	nostr	1	225	0	0	24.6	503703	3750	recent@nostr		0 sat zap XSS attack
+1547226	security	1	220	0	1	24.9	642641	8280	recent@security|recent@privacy|recent@AI		Inside North Korea’s Operation to Conquer the American Job Market
+1547281	bitcoin_beginners	1	206	0	10	24.0	1545780	18	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining		My first 25 real sats came from writing, not mining
+1547328	tech	1	199	0	0	23.3	12309	3613	recent@devs|top@devs		Geekom IT13 Max 2026 review: Meteor Lake rides again in a $799 mini PC
+1546924	bitcoin_Mining	1	182	0	1	30.8	263526	569	recent@bitcoin_Mining|recent@lightning		after bip-110 failed to get miner support, bip-54 timewarp attack fix is next up
+1547058	lightning	1	46	0	0	27.3	440729	230	recent@lightning		Biggest Channel Opened Today (2.5 BTC) + New Node Spotlight (031b81088e5ae3535…)
+1547644	bitcoin	1	36	0	0	11.2	1433185	238	recent@bitcoin_beginners|top@bitcoin_beginners		Update your MOSTRO to V1.3.2
+1547368	bitcoin_Mining	1	20	0	0	22.9	280679	22955	recent@bitcoin_Mining|top@bitcoin_Mining		Mujina Open-Source Mining Firmware, Explained
+1547738	bitcoin_Mining	1	0	0	0	6.6	280679	22955	recent@bitcoin_Mining|top@bitcoin_Mining		Stratum v2 Extensions for Payout Verification and Job Size at Scale
+1546957	bitdevs	1	0	0	0	29.5	1546601	2	recent@bitdevs		SIGNALS OUT
