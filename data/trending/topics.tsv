@@ -1,13 +1,18 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-13T22:41:12.011Z; n=40
-what	sn:bitcoin,sn:AskSN	5.91	yes	
-bitcoin	sn:math,sn:bitcoin	5.28	yes	
-alejandro	sn:AMA	3.94	no	RISING
-torre	sn:AMA	3.94	no	RISING
-dmnd	sn:AMA	3.94	no	RISING
-bitcoin mining	sn:AMA	3.94	no	RISING
-recent	sn:news	3.55	yes	
-trezor	sn:news	3.55	yes	
+# generated 2026-08-14T05:37:20.741Z; n=40
+what	sn:bitcoin,sn:AskSN	5.93	yes	
+alejandro	sn:AMA	3.97	no	RISING
+torre	sn:AMA	3.97	no	RISING
+dmnd	sn:AMA	3.97	no	RISING
+bitcoin mining	sn:AMA	3.97	no	RISING
+disclosure	sn:lightning	3.6	no	RISING
+recent	sn:news	3.56	yes	
+trezor	sn:news	3.56	yes	
+total	sn:charts_and_maps	3.52	no	RISING
+internet	sn:charts_and_maps	3.52	no	RISING
+iceland	sn:charts_and_maps	3.52	no	RISING
+spain	sn:charts_and_maps	3.52	no	RISING
+portugal	sn:charts_and_maps	3.52	no	RISING
 gold	sn:bitcoin	3.39	yes	
 copper	sn:bitcoin	3.39	yes	
 blockchain	sn:bitcoin	3.39	yes	
@@ -15,28 +20,23 @@ upside only	sn:bitcoin	3.39	yes
 hodgson	sn:bitcoin	3.39	yes	
 asgari	sn:bitcoin	3.39	yes	
 hook	sn:bitcoin	3.39	yes	
-update	sn:news	3.26	yes	
-future	sn:news	3.26	yes	
-boltz	sn:news	3.26	yes	
+update	sn:news	3.27	yes	
+future	sn:news	3.27	yes	
+boltz	sn:news	3.27	yes	
 eligius	sn:bitcoin	3.23	yes	
-safety	sn:bitcoin	3.15	yes	
-privacy	sn:bitcoin	3.15	yes	
-nunchuck	sn:bitcoin	3.15	yes	
-assisted	sn:bitcoin	3.15	yes	
+safety	sn:bitcoin	3.16	yes	
+privacy	sn:bitcoin	3.16	yes	
+nunchuck	sn:bitcoin	3.16	yes	
+assisted	sn:bitcoin	3.16	yes	
 well well well it looks like its fire sale time for the space cowboys	sn:Stacker_Sports	3.12	no	RISING
-directory node	sn:bitcoin	3.07	yes	
-former	sn:Politics_And_Law	3.05	no	RISING
-splc	sn:Politics_And_Law	3.05	no	RISING
-exec arrested	sn:Politics_And_Law	3.05	no	RISING
+directory node	sn:bitcoin	3.09	yes	
 throw	sn:BooksAndArticles	3.03	no	RISING
 rory sutherland	sn:BooksAndArticles	3.03	no	RISING
-disclosure	sn:lightning	2.98	no	RISING
-removing luke dashjr	sn:bitcoin	2.88	yes	
-what happens in	sn:bitcoin_beginners	2.84	no	RISING
-hard fork	sn:bitcoin_beginners	2.84	no	RISING
-tether completes	sn:news	2.83	no	RISING
-largest inaugural financial audit	sn:news	2.83	no	RISING
-history	sn:news	2.83	no	RISING
-tether	sn:news	2.83	no	RISING
-japan	sn:charts_and_maps	2.8	no	RISING
-metaplanet	sn:news	2.75	yes	
+tether completes	sn:news	2.94	no	RISING
+largest inaugural financial audit	sn:news	2.94	no	RISING
+history	sn:news	2.94	no	RISING
+tether	sn:news	2.94	no	RISING
+removing luke dashjr	sn:bitcoin	2.89	yes	
+preseason	sn:Stacker_Sports	2.89	no	RISING
+discussion thread	sn:Stacker_Sports	2.89	no	RISING
+gemini	hn	2.86	yes	
