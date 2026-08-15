@@ -1,10 +1,10 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-14T22:22:16.878Z; n=40
-what	sn:AskSN,sn:DIY	6.63	yes	
-show	hn	4.82	no	RISING
-channel	sn:bitcoin	3.7	yes	
-core	sn:bitcoin	3.7	yes	
-bitcoin optech newsletter	sn:bitcoin	3.7	yes	
+# generated 2026-08-15T04:30:38.762Z; n=40
+what	sn:AskSN,sn:DIY	6.65	yes	
+show	hn	6.61	no	RISING
+channel	sn:bitcoin	3.71	yes	
+core	sn:bitcoin	3.71	yes	
+bitcoin optech newsletter	sn:bitcoin	3.71	yes	
 luigi mangione pleads guilty to federal charges in	sn:Politics_And_Law	3.33	no	RISING
 killing	sn:Politics_And_Law	3.33	no	RISING
 book	sn:BooksAndArticles	3.31	no	RISING
@@ -20,23 +20,23 @@ attacker	sn:bitcoin	3.24	yes
 steps through	sn:bitcoin	3.24	yes	
 coldcard drain	sn:bitcoin	3.24	yes	
 praveen perera	sn:bitcoin	3.24	yes	
+frontier coding	sn:AI	3.16	yes	
+emergent cyber capabilities	sn:AI	3.16	yes	
 the empire	sn:BooksAndArticles	3.15	no	RISING
 wealth	sn:BooksAndArticles	3.15	no	RISING
 how capital made	sn:BooksAndArticles	3.15	no	RISING
 modern world	sn:BooksAndArticles	3.15	no	RISING
 john gordon	sn:BooksAndArticles	3.15	no	RISING
-frontier coding	sn:AI	3.15	yes	
-emergent cyber capabilities	sn:AI	3.15	yes	
+vice-principal	sn:Education	3.11	no	RISING
+losses climb	sn:news	3.04	yes	
+state	sn:news	3.04	yes	
+coldcard investigation	sn:news	3.04	yes	
+alex thorn	sn:news	3.04	yes	
 the american oilman makes his arctic stand	sn:Politics_And_Law	3.04	no	RISING
 jeffrey gettleman	sn:Politics_And_Law	3.04	no	RISING
-losses climb	sn:news	3.02	yes	
-state	sn:news	3.02	yes	
-coldcard investigation	sn:news	3.02	yes	
-alex thorn	sn:news	3.02	yes	
+tail emissions	sn:bitcoinplusplus	3.03	no	RISING
+demurrage	sn:bitcoinplusplus	3.03	no	RISING
+peter todd	sn:bitcoinplusplus	3.03	no	RISING
+toronto	sn:bitcoinplusplus	3.03	no	RISING
+frontier	hn	3.02	no	RISING
 this little village in upstate new york is made up entirely of bookstores	sn:BooksAndArticles	3.01	no	RISING
-frontier	hn	3	no	RISING
-voice dictation	sn:the_stacker_muse	2.97	no	RISING
-typing	sn:the_stacker_muse	2.97	no	RISING
-politeness	sn:the_stacker_muse	2.97	no	RISING
-think clearly	sn:the_stacker_muse	2.97	no	RISING
-spectator	sn:the_stacker_muse	2.97	no	RISING
