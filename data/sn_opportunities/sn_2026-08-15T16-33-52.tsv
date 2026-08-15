@@ -1,0 +1,44 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1548539	bitcoin	1	1622	0	9	1.9	88718	46497	recent@bitcoin|top@bitcoin|recent@lightning	FRESH,HOT,SIGNAL	Endogenous Podcast Boosting
+1548397	lightning	1	556	0	1	9.8	263526	573	recent@lightning|top@lightning	SIGNAL	CLINK plugin v0.0.6 for Electrum desktop is out
+1548417	bitcoin	1	383	0	7	6.8	934367	971	recent@bitcoin|top@bitcoin	SIGNAL	WasabiWallet OS command injection in URL opener via Read More link
+1548555	AI	1	318	0	0	1.4	798714	1342	recent@bitcoin|top@bitcoin|recent@devs	FRESH,SIGNAL	Bitcoin Backed Loan Tracker
+1548518	bitcoin_beginners	1	268	0	0	2.7	1532836	242	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	Rigly Blockparty #34
+1548502	lightning	1	265	0	0	3.3	440729	231	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (4.7 BTC) + New Node Spotlight (023caa4740199ae8f…)
+1548537	bitcoin	1	241	0	0	1.9	12309	3615	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	The Insane US-Japan Currency Bailout
+1547861	bitcoin	1	5106	0	2	28.0	1014665	225	recent@bitcoin	HOT	Channel jamming, static Core, tx rate limiting - Bitcoin Optech Newsletter #418
+1548049	gaming	3	4526	0	4	24.2	988069	280	recent@tech	HOT	I've been thinking about some stuff, no, it's not clickbait, or is it?
+1547877	AI	1	1820	0	6	27.6	927054	71	recent@security|recent@AI	HOT	Wanna Stop Kimi K3 Offensive Agent? Put Taiwan in Your .env...
+1547780	bitcoin	1	1765	0	7	29.6	74100	12016	recent@bitcoin|recent@bitdevs	HOT	Tracing the Attacker’s Steps Through 1,082 BTC Coldcard Drain - Praveen Perera
+1547661	AI	1	1474	0	2	33.8	879734	8612	recent@AI	HOT	GLM-5.3: Frontier Coding with Emergent Cyber Capabilities
+1548016	bitcoin	1	1283	0	7	25.1	272410	1176	recent@bitcoin	HOT	I’ve been buying my cat’s food with sats 🐱⚡
+1548121	news	2	1113	0	12	22.7	74100	12016	recent@bitcoin|top@bitcoin	HOT,SELF_POST_OPP	Losses Climb to $112m: State of Coldcard Investigation - Alex Thorn
+1548064	bitcoin	1	1036	0	0	23.8	74100	12016	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT	BIP-322 verifier accepts proofs signed by unrelated keys for P2WPKH, P2SH-P2WPKH
+1548216	bitcoin	1	1006	0	13	20.1	74100	12016	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT	Zeus Post-Mortem: Security Update - August 5th, 2026
+1547823	DIY	3	934	0	10	28.8	280679	22955	recent@bitcoin|recent@lightning|recent@tech	SELF_POST_OPP	What can I do with a Rudi Embedded System with NVIDIA Jetson™ TX2?
+1547643	security	1	886	0	2	35.6	6274	2277	recent@security|recent@privacy		Too Little, Too Late: Flock Admits Their Technology Needs Reforms } EFF
+1548343	AI	1	873	0	1	14.7	382968	305	recent@AI|top@AI		DeepSeek Harness released: Everything is a Plugin.
+1548125	tech	1	716	0	0	22.6	328182	3843	recent@tech|top@tech		About Apple threat notifications and protecting against mercenary spyware
+1548179	bitcoin	1	694	0	1	21.5	298505	838	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining		INSIDE OCEAN MINING DURING THE BIP-110 CHAIN SPLIT | Bob Burnett Interview
+1547894	lightning	1	663	0	0	27.2	280679	22955	recent@lightning		ZeusLN/zeus · Release v13.2.0-alpha1
+1547654	AI	1	636	0	1	34.4	12309	3615	recent@tech|recent@AI		GLM-5.3
+1548022	security	1	510	0	0	24.9	51481	4128	recent@security		Liechtenstein Hunts Hackers as Data on 31,000 Funds Breached
+1547809	bitcoin_beginners	1	503	0	2	29.1	30782	25474	recent@bitcoin_beginners		Bitcoin Beginners Newsletter, Issue 112
+1548162	AskSN	2	481	0	3	22.1	296825	5136	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		Anyone know the situation with Aqua wallet LN?
+1548225	bitcoin	1	366	0	1	19.5	144357	4452	recent@bitcoin|top@bitcoin		How to Get Rich in America | SNL #237
+1547840	lightning	1	353	0	6	28.3	263526	573	recent@lightning		Does running Lightning feel worth the complexity for everyday small transaction?
+1547891	lightning	1	347	0	1	27.3	440729	231	recent@lightning		Biggest Channel Opened Today (2.5 BTC) + New Node Spotlight (03e72b48e4250e9b8…)
+1548129	bitcoin_beginners	1	309	0	2	22.5	1546838	4	recent@bitcoin_beginners|top@bitcoin_beginners		Best Lightning Wallet for a Beginner?
+1547744	meta	1	301	0	1	30.6	36151	1593	recent@meta		This Day on SN: August 14
+1548008	bitcoinplusplus	1	295	0	1	25.2	280679	22955	recent@bitcoinplusplus		Realities of an alternative bitcoin implementation — Calvin Kim | bitcoin++
+1547810	AI	1	186	0	2	29.1	9274	26352	recent@AI		Meta & Construction Labor Unions team up!
+1548174	bitcoin	1	178	0	3	21.7	1532699	156	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus		Tim Draper Says Bitcoin Is Going to “Infinity”
+1547848	AI	1	178	0	0	28.2	9274	26352	recent@AI		The siren song, valuations and skepticism
+1547844	lol	2	146	0	0	28.2	280679	22955	recent@AI		These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI
+1548114	lightning	1	113	0	2	22.9	163128	3746	recent@lightning|top@lightning		[TUTORIAL] how to "anonymously" purchase Bitcoin on Bisq2 using Bark's Lightning
+1548395	lightning	1	53	0	0	10.0	263526	573	recent@lightning|top@lightning		Andy Schroder's Distributed Charge: a Bitcoin Lightning Enabled Energy Grid
+1548563	AI	1	41	0	4	1.2	1532699	156	recent@AI|top@AI	FRESH	Your Next Boss Might Be AI, and It Can Fire You
+1548143	bitcoin	1	36	0	1	22.3	296825	5136	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitdevs		A Quantum-resistance upgrade would be terrible for Bitcoin
+1547644	bitcoin	1	36	0	0	35.2	1433185	241	recent@bitcoin_beginners		Update your MOSTRO to V1.3.2
+1547738	bitcoin_Mining	1	11	0	0	30.6	280679	22955	recent@bitcoin_Mining		Stratum v2 Extensions for Payout Verification and Job Size at Scale
+1548601	lightning	1	0	0	0	0.1	1548328	10	recent@lightning|top@lightning	FRESH	paid for coffee over lightning. it settled before my card left my pocket
