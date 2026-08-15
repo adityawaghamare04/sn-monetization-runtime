@@ -1,0 +1,48 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1548702	tech	1	4282	0	4	2.8	328182	3845	recent@tech|top@tech	HOT,SIGNAL	A 25y BR video patent just expired, ending a lingering legal headache for Linux
+1548607	bitcoin	1	1676	0	5	4.8	1014665	226	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Call to test Bitcoin Core static binaries
+1548539	bitcoin	1	1643	0	21	6.7	88718	46511	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Endogenous Podcast Boosting
+1548707	bitcoin_Mining	1	980	0	1	2.6	273359	891	recent@bitcoin_Mining|top@bitcoin_Mining|recent@mempool	SIGNAL	Mining Pool Health Report [Week 4]
+1548616	bitcoin	1	632	1000	12	4.6	1208996	426	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	OPEN_BOUNTY,SIGNAL	Asking 🤔 the stackers ⚡
+1548835	bitcoin	1	555	0	0	0.1	74100	12020	recent@bitcoin|top@bitcoin|recent@bitdevs	FRESH,SIGNAL	aeonBTC/IbisWallet awards bug bounty to Bitcoin red team
+1548813	meta	1	465	0	1	0.5	1	27140	recent@meta|top@meta	FRESH,SIGNAL	SN Saturday Newsletter 8/15/26
+1548686	tech	1	325	0	1	3.2	12309	3616	recent@tech|top@tech	SIGNAL	Study of 443,000 Backblaze hard drives ranks HGST most reliable, Toshiba least
+1548518	bitcoin_beginners	1	268	0	2	7.5	1532836	246	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	Rigly Blockparty #34
+1548502	lightning	1	265	0	1	8.2	440729	231	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (4.7 BTC) + New Node Spotlight (023caa4740199ae8f…)
+1548537	bitcoin	1	241	0	1	6.8	12309	3616	recent@bitcoin|top@bitcoin	SIGNAL	The Insane US-Japan Currency Bailout
+1548704	bitcoin_beginners	1	196	0	1	2.7	296825	5140	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	Core Lightning receives AI-generated CVE reports from multiple sources
+1547861	bitcoin	1	5106	0	3	32.9	1014665	226	recent@bitcoin	HOT	Channel jamming, static Core, tx rate limiting - Bitcoin Optech Newsletter #418
+1548049	gaming	3	4526	0	8	29.0	988069	283	recent@tech	HOT,SELF_POST_OPP	I've been thinking about some stuff, no, it's not clickbait, or is it?
+1547877	security	1	1820	0	6	32.5	927054	71	recent@security|recent@AI	HOT	Wanna Stop Kimi K3 Offensive Agent? Put Taiwan in Your .env...
+1547780	bitcoin	1	1765	0	7	34.5	74100	12020	recent@bitcoin|recent@bitdevs	HOT	Tracing the Attacker’s Steps Through 1,082 BTC Coldcard Drain - Praveen Perera
+1548016	bitcoin	1	1283	0	7	29.9	272410	1178	recent@bitcoin	HOT	I’ve been buying my cat’s food with sats 🐱⚡
+1548121	news	2	1113	0	13	27.6	74100	12020	recent@bitcoin	HOT,SELF_POST_OPP	Losses Climb to $112m: State of Coldcard Investigation - Alex Thorn
+1548064	bitcoin	1	1036	0	1	28.7	74100	12020	recent@bitcoin|recent@bitdevs	HOT	BIP-322 verifier accepts proofs signed by unrelated keys for P2WPKH, P2SH-P2WPKH
+1548216	bitcoin	1	1006	0	14	24.9	74100	12020	recent@bitcoin|recent@bitdevs|recent@lightning	HOT	Zeus Post-Mortem: Security Update - August 5th, 2026
+1547823	DIY	3	934	0	10	33.6	280679	22955	recent@bitcoin|recent@lightning|recent@tech	SELF_POST_OPP	What can I do with a Rudi Embedded System with NVIDIA Jetson™ TX2?
+1548343	AI	1	873	0	2	19.6	382968	305	recent@AI|top@AI		DeepSeek Harness released: Everything is a Plugin.
+1548125	tech	1	716	0	0	27.5	328182	3845	recent@tech		About Apple threat notifications and protecting against mercenary spyware
+1548179	bitcoin	1	694	0	1	26.4	298505	838	recent@bitcoin|recent@bitcoin_Mining		INSIDE OCEAN MINING DURING THE BIP-110 CHAIN SPLIT | Bob Burnett Interview
+1548397	lightning	1	685	0	1	14.6	263526	573	recent@lightning|top@lightning		CLINK plugin v0.0.6 for Electrum desktop is out
+1547894	lightning	1	663	0	0	32.1	280679	22955	recent@lightning		ZeusLN/zeus · Release v13.2.0-alpha1
+1548022	security	1	510	0	0	29.7	51481	4128	recent@security		Liechtenstein Hunts Hackers as Data on 31,000 Funds Breached
+1547809	bitcoin_beginners	1	503	0	2	33.9	30782	25475	recent@bitcoin_beginners		Bitcoin Beginners Newsletter, Issue 112
+1548162	AskSN	2	481	0	3	26.9	296825	5140	recent@bitcoin_beginners|recent@lightning		Anyone know the situation with Aqua wallet LN?
+1548225	bitcoin	1	366	0	1	24.4	144357	4453	recent@bitcoin		How to Get Rich in America | SNL #237
+1547840	lightning	1	353	0	6	33.1	263526	573	recent@lightning		Does running Lightning feel worth the complexity for everyday small transaction?
+1547891	lightning	1	347	0	1	32.2	440729	231	recent@lightning		Biggest Channel Opened Today (2.5 BTC) + New Node Spotlight (03e72b48e4250e9b8…)
+1548129	bitcoin_beginners	1	309	0	2	27.4	1546838	4	recent@bitcoin_beginners		Best Lightning Wallet for a Beginner?
+1547744	meta	1	301	0	1	35.4	36151	1593	recent@meta		This Day on SN: August 14
+1548008	bitcoinplusplus	1	295	0	1	30.0	280679	22955	recent@bitcoinplusplus		Realities of an alternative bitcoin implementation — Calvin Kim | bitcoin++
+1547810	AI	1	186	0	2	33.9	9274	26354	recent@AI		Meta & Construction Labor Unions team up!
+1548174	bitcoin	1	178	0	3	26.5	1532699	159	recent@bitcoin_beginners|recent@bitcoinplusplus		Tim Draper Says Bitcoin Is Going to “Infinity”
+1547848	AI	1	178	0	0	33.0	9274	26354	recent@AI		The siren song, valuations and skepticism
+1547844	lol	2	146	0	0	33.1	280679	22955	recent@AI		These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI
+1548114	lightning	1	113	0	2	27.8	163128	3746	recent@lightning		[TUTORIAL] how to "anonymously" purchase Bitcoin on Bisq2 using Bark's Lightning
+1548643	bitcoin_beginners	1	98	0	1	4.0	296825	5140	recent@bitcoin_beginners|top@bitcoin_beginners		Defending Bitcoin
+1548733	events	3	57	0	0	2.0	296825	5140	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning		Bitcoin Amsterdam
+1548395	lightning	1	53	0	0	14.9	263526	573	recent@lightning|top@lightning		Andy Schroder's Distributed Charge: a Bitcoin Lightning Enabled Energy Grid
+1548563	AI	1	41	0	13	6.0	1532699	159	recent@AI|top@AI		Your Next Boss Might Be AI, and It Can Fire You
+1548695	bitcoin	1	36	0	0	3.0	296825	5140	recent@bitcoin_beginners|top@bitcoin_beginners		Some bad news | Impôts : plus de 678 000 personnes concernées par...
+1548143	bitcoin	1	36	0	1	27.1	296825	5140	recent@bitcoin_beginners|recent@bitdevs		A Quantum-resistance upgrade would be terrible for Bitcoin
+1547738	bitcoin_Mining	1	11	0	0	35.5	280679	22955	recent@bitcoin_Mining		Stratum v2 Extensions for Payout Verification and Job Size at Scale
