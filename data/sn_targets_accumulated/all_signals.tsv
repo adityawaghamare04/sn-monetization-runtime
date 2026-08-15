@@ -33439,3 +33439,14 @@
 2026-08-15T19:57:15.342Z	1548502	lightning	1	265	0	0	6.7	440729	231	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (4.7 BTC) + New Node Spotlight (023caa4740199ae8f…)
 2026-08-15T19:57:15.342Z	1548537	bitcoin	1	241	0	0	5.3	12309	3616	recent@bitcoin|top@bitcoin	SIGNAL	The Insane US-Japan Currency Bailout
 2026-08-15T19:57:15.342Z	1548707	bitcoin_Mining	1	164	0	0	1.1	273359	891	recent@bitcoin_Mining|top@bitcoin_Mining|recent@mempool	FRESH,SIGNAL	Mining Pool Health Report [Week 4]
+2026-08-15T20:26:18.737Z	1548702	tech	1	3157	0	2	1.8	328182	3845	recent@tech|top@tech	FRESH,HOT,SIGNAL	A 25y BR video patent just expired, ending a lingering legal headache for Linux
+2026-08-15T20:26:18.737Z	1548607	bitcoin	1	1676	0	3	3.8	1014665	226	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Call to test Bitcoin Core static binaries
+2026-08-15T20:26:18.737Z	1548539	bitcoin	1	1643	0	19	5.7	88718	46505	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Endogenous Podcast Boosting
+2026-08-15T20:26:18.737Z	1548707	bitcoin_Mining	1	980	0	0	1.6	273359	891	recent@bitcoin_Mining|top@bitcoin_Mining|recent@mempool	FRESH,SIGNAL	Mining Pool Health Report [Week 4]
+2026-08-15T20:26:18.737Z	1548616	bitcoin	1	632	1000	10	3.7	1208996	425	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	OPEN_BOUNTY,SIGNAL	Asking 🤔 the stackers ⚡
+2026-08-15T20:26:18.737Z	1548417	bitcoin	1	383	0	7	10.7	934367	971	recent@bitcoin|top@bitcoin	SIGNAL	WasabiWallet OS command injection in URL opener via Read More link
+2026-08-15T20:26:18.737Z	1548686	tech	1	325	0	1	2.2	12309	3616	recent@tech|top@tech	SIGNAL	Study of 443,000 Backblaze hard drives ranks HGST most reliable, Toshiba least
+2026-08-15T20:26:18.737Z	1548518	bitcoin_beginners	1	268	0	0	6.6	1532836	242	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	Rigly Blockparty #34
+2026-08-15T20:26:18.737Z	1548502	lightning	1	265	0	0	7.2	440729	231	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (4.7 BTC) + New Node Spotlight (023caa4740199ae8f…)
+2026-08-15T20:26:18.737Z	1548537	bitcoin	1	241	0	0	5.8	12309	3616	recent@bitcoin|top@bitcoin	SIGNAL	The Insane US-Japan Currency Bailout
+2026-08-15T20:26:18.737Z	1548704	bitcoin_beginners	1	196	0	0	1.7	296825	5140	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	FRESH,SIGNAL	Core Lightning receives AI-generated CVE reports from multiple sources
