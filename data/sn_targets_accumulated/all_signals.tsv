@@ -33418,3 +33418,14 @@
 2026-08-15T19:28:55.023Z	1548707	bitcoin_Mining	1	164	0	0	0.6	273359	891	recent@bitcoin_Mining|top@bitcoin_Mining|recent@mempool	FRESH,SIGNAL	Mining Pool Health Report [Week 4]
 2026-08-15T19:28:55.023Z	1548636	AskSN	2	150	0	0	2.2	984933	2044	recent@AskSN|top@AskSN|recent@history	SIGNAL	Did you know that...?
 2026-08-15T19:28:55.023Z	1548433	Stacker_Stocks	2	142	0	2	8.4	9274	26352	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Daily Stock Discussion ~Stacker_Stocks
+2026-08-15T19:35:30.254Z	1548702	tech	1	3136	0	0	1.0	328182	3845	recent@tech|top@tech	FRESH,HOT,SIGNAL	A 25y BR video patent just expired, ending a lingering legal headache for Linux
+2026-08-15T19:35:30.254Z	1548539	bitcoin	1	1622	0	19	4.9	88718	46505	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Endogenous Podcast Boosting
+2026-08-15T19:35:30.254Z	1548607	bitcoin	1	1241	0	1	2.9	1014665	226	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Call to test Bitcoin Core static binaries
+2026-08-15T19:35:30.254Z	1548555	AI	1	691	0	3	4.4	798714	1342	recent@bitcoin|top@bitcoin|recent@devs	SIGNAL	Bitcoin Backed Loan Tracker
+2026-08-15T19:35:30.254Z	1548616	bitcoin	1	422	1000	6	2.8	1208996	425	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	OPEN_BOUNTY,SIGNAL	Asking 🤔 the stackers ⚡
+2026-08-15T19:35:30.254Z	1548417	bitcoin	1	383	0	7	9.9	934367	971	recent@bitcoin|top@bitcoin	SIGNAL	WasabiWallet OS command injection in URL opener via Read More link
+2026-08-15T19:35:30.254Z	1548686	tech	1	325	0	0	1.4	12309	3616	recent@tech|top@tech	FRESH,SIGNAL	Study of 443,000 Backblaze hard drives ranks HGST most reliable, Toshiba least
+2026-08-15T19:35:30.254Z	1548518	bitcoin_beginners	1	268	0	0	5.7	1532836	242	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	Rigly Blockparty #34
+2026-08-15T19:35:30.254Z	1548502	lightning	1	265	0	0	6.4	440729	231	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (4.7 BTC) + New Node Spotlight (023caa4740199ae8f…)
+2026-08-15T19:35:30.255Z	1548537	bitcoin	1	241	0	0	4.9	12309	3616	recent@bitcoin|top@bitcoin	SIGNAL	The Insane US-Japan Currency Bailout
+2026-08-15T19:35:30.255Z	1548707	bitcoin_Mining	1	164	0	0	0.7	273359	891	recent@bitcoin_Mining|top@bitcoin_Mining|recent@mempool	FRESH,SIGNAL	Mining Pool Health Report [Week 4]
