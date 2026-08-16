@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-16T16:24:23.442Z; n=40
-when	sn:the_stacker_muse,sn:AskSN,sn:bitcoin	8.58	yes	
-linux	sn:tech	3.66	yes	
+# generated 2026-08-16T22:20:09.580Z; n=40
+when	sn:bitcoin,sn:AskSN	6.59	yes	
 perhaps nothing is wrong	sn:mostly_harmless	3.5	yes	
 wallet	sn:lightning	3.5	no	RISING
 satoshi	sn:lightning	3.5	no	RISING
 lightning	sn:lightning	3.5	yes	
 self-custodial	sn:lightning	3.5	no	RISING
-play above all else	sn:the_stacker_muse	3.37	no	RISING
-the grasshopper	sn:the_stacker_muse	3.37	no	RISING
-weekend	sn:the_stacker_muse	3.37	no	RISING
-thi nguyen	sn:the_stacker_muse	3.37	no	RISING
-call	sn:bitcoin	3.25	yes	
-bitcoin core	sn:bitcoin	3.25	yes	
-saturday newsletter	sn:meta	3.12	yes	
-mining pool health report	sn:bitcoin_Mining	3.08	no	RISING
-week	sn:bitcoin_Mining	3.08	no	RISING
-trump	sn:Politics_And_Law	3.07	no	RISING
-left-wing	sn:Politics_And_Law	3.07	no	RISING
-edgar hoover	sn:Politics_And_Law	3.07	no	RISING
-cointelpro	sn:Politics_And_Law	3.07	no	RISING
-ken roth	sn:Politics_And_Law	3.07	no	RISING
-was adam	sn:bitdevs	2.98	no	RISING
+coldcard	sn:bitcoin	3.44	yes	
 bowling alone	sn:BooksAndArticles	2.94	no	RISING
 typing alone	sn:BooksAndArticles	2.94	no	RISING
 hidden cost	sn:BooksAndArticles	2.94	no	RISING
 revolution	sn:BooksAndArticles	2.94	no	RISING
 op-ed	sn:BooksAndArticles	2.94	no	RISING
 ungovernable	sn:bitcoin	2.94	yes	
-bitcoin	sn:bitcoin	2.93	yes	
-asking	sn:bitcoin	2.83	yes	
 bitcoin-node	sn:bitcoin	2.81	yes	
 os-fingerprint	sn:bitcoin	2.81	yes	
+asus bike booster	hn	2.78	no	RISING
+sunday survey	sn:bitcoin	2.77	yes	
 freedom	sn:Design	2.76	yes	
 tech	sn:Design	2.76	yes	
 daily freedom technology intelligence news desk	sn:Design	2.76	yes	
-asus bike booster	hn	2.74	no	RISING
 this day	sn:meta	2.74	yes	
 august	sn:meta	2.74	yes	
-joshua baez	sn:Stacker_Sports	2.71	no	RISING
 best	sn:Coinjoins	2.7	no	RISING
+autopsy bombshell	sn:aliens_and_UFOs	2.69	no	RISING
+los alamos lab worker	sn:aliens_and_UFOs	2.69	no	RISING
+death looks like murder	sn:aliens_and_UFOs	2.69	no	RISING
+firefox	hn	2.68	no	RISING
+claude	hn	2.67	no	RISING
+system prompts	hn	2.67	no	RISING
+satoshi nakamoto defended bitcoin	sn:bitcoin	2.67	yes	
+years ago today	sn:bitcoin	2.67	yes	
+game	sn:Stacker_Sports	2.67	no	RISING
+mariners	sn:Stacker_Sports	2.67	no	RISING
+astros	sn:Stacker_Sports	2.67	no	RISING
+controversy	sn:Stacker_Sports	2.67	no	RISING
+avengers	sn:videos	2.66	no	RISING
+doomsday	sn:videos	2.66	no	RISING
+trailer	sn:videos	2.66	no	RISING
+hell answers to me	sn:videos	2.66	no	RISING
+uncensored	sn:AI	2.65	yes	
