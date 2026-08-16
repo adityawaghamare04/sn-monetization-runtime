@@ -1,21 +1,19 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-16T10:22:21.167Z; n=40
+# generated 2026-08-16T16:24:23.442Z; n=40
+when	sn:the_stacker_muse,sn:AskSN,sn:bitcoin	8.58	yes	
 linux	sn:tech	3.66	yes	
 perhaps nothing is wrong	sn:mostly_harmless	3.5	yes	
-play above all else	sn:the_stacker_muse	3.36	no	RISING
-the grasshopper	sn:the_stacker_muse	3.36	no	RISING
-weekend	sn:the_stacker_muse	3.36	no	RISING
-thi nguyen	sn:the_stacker_muse	3.36	no	RISING
-when	sn:the_stacker_muse	3.34	no	RISING
+wallet	sn:lightning	3.5	no	RISING
+satoshi	sn:lightning	3.5	no	RISING
+lightning	sn:lightning	3.5	yes	
+self-custodial	sn:lightning	3.5	no	RISING
+play above all else	sn:the_stacker_muse	3.37	no	RISING
+the grasshopper	sn:the_stacker_muse	3.37	no	RISING
+weekend	sn:the_stacker_muse	3.37	no	RISING
+thi nguyen	sn:the_stacker_muse	3.37	no	RISING
 call	sn:bitcoin	3.25	yes	
 bitcoin core	sn:bitcoin	3.25	yes	
-endogenous podcast boosting	sn:bitcoin	3.23	yes	
-wallet	sn:lightning	3.19	no	RISING
-satoshi	sn:lightning	3.19	no	RISING
-lightning	sn:lightning	3.19	yes	
-self-custodial	sn:lightning	3.19	no	RISING
-qwen	hn	3.14	no	RISING
-saturday newsletter	sn:meta	3.11	yes	
+saturday newsletter	sn:meta	3.12	yes	
 mining pool health report	sn:bitcoin_Mining	3.08	no	RISING
 week	sn:bitcoin_Mining	3.08	no	RISING
 trump	sn:Politics_And_Law	3.07	no	RISING
@@ -23,20 +21,22 @@ left-wing	sn:Politics_And_Law	3.07	no	RISING
 edgar hoover	sn:Politics_And_Law	3.07	no	RISING
 cointelpro	sn:Politics_And_Law	3.07	no	RISING
 ken roth	sn:Politics_And_Law	3.07	no	RISING
-was adam	sn:bitdevs	2.97	no	RISING
-saturday share	sn:art	2.94	no	RISING
-bitcoin	sn:bitcoin	2.92	yes	
-ungovernable	sn:bitcoin	2.87	yes	
+was adam	sn:bitdevs	2.98	no	RISING
+bowling alone	sn:BooksAndArticles	2.94	no	RISING
+typing alone	sn:BooksAndArticles	2.94	no	RISING
+hidden cost	sn:BooksAndArticles	2.94	no	RISING
+revolution	sn:BooksAndArticles	2.94	no	RISING
+op-ed	sn:BooksAndArticles	2.94	no	RISING
+ungovernable	sn:bitcoin	2.94	yes	
+bitcoin	sn:bitcoin	2.93	yes	
 asking	sn:bitcoin	2.83	yes	
-books	sn:BooksAndArticles	2.73	no	RISING
-articles weekly	sn:BooksAndArticles	2.73	no	RISING
-issue	sn:BooksAndArticles	2.73	yes	
-vertical farming	sn:science	2.71	no	RISING
-jeff bezos	sn:Stacker_Sports	2.7	no	RISING
-liverpool	sn:Stacker_Sports	2.7	no	RISING
-dodge momentum index improves	sn:Construction_and_Engineering	2.7	no	RISING
-july	sn:Construction_and_Engineering	2.7	no	RISING
-dodge construction network	sn:Construction_and_Engineering	2.7	no	RISING
-best	sn:Coinjoins	2.66	yes	
-joshua baez	sn:Stacker_Sports	2.66	no	RISING
-this day	sn:meta	2.65	yes	
+bitcoin-node	sn:bitcoin	2.81	yes	
+os-fingerprint	sn:bitcoin	2.81	yes	
+freedom	sn:Design	2.76	yes	
+tech	sn:Design	2.76	yes	
+daily freedom technology intelligence news desk	sn:Design	2.76	yes	
+asus bike booster	hn	2.74	no	RISING
+this day	sn:meta	2.74	yes	
+august	sn:meta	2.74	yes	
+joshua baez	sn:Stacker_Sports	2.71	no	RISING
+best	sn:Coinjoins	2.7	no	RISING
