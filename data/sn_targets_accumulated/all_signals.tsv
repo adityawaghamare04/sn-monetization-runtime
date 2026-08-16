@@ -34267,3 +34267,14 @@
 2026-08-16T17:59:31.054Z	1549333	bitcoin	1	128	0	0	1.0	1532836	258	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	FRESH,SIGNAL	Blockparty #34 statistics
 2026-08-16T17:59:31.054Z	1549206	bitcoin	1	125	0	1	3.8	47274	143	recent@bitcoin|top@bitcoin	SIGNAL	When the news of the Coldcard hack hit the hood...
 2026-08-16T17:59:31.054Z	1549358	security	1	100	0	0	0.7	416864	925	recent@security|top@security|recent@tech	FRESH,SIGNAL	TryHackMe's HackerHolidays 2026 Event - Day 05 - Beach Bar [writeup]
+2026-08-16T18:38:48.883Z	1549045	lightning	1	3154	0	20	11.2	163128	3750	recent@lightning|top@lightning	HOT,SIGNAL	The new Wallet of Satoshi "Lightning" wallet is NOT self-custodial!
+2026-08-16T18:38:48.883Z	1549036	bitcoin	1	869	0	2	11.6	163128	3750	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	Ungovernable: A movement of resistance podcast
+2026-08-16T18:38:48.883Z	1549242	bitcoin	1	641	0	1	3.5	74100	12026	recent@bitcoin|top@bitcoin|recent@bitdevs	SIGNAL	bitcoin-node-os-fingerprint via nmap - ViniciusCestarii
+2026-08-16T18:38:48.883Z	1549100	meta	1	544	0	0	8.6	36151	1594	recent@meta|top@meta	SIGNAL	This Day on SN: August 16
+2026-08-16T18:38:48.883Z	1549050	bitcoin_beginners	1	444	0	1	10.9	296825	5152	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	[Today in History] 55 years, Nixon ended the dollar's convertibility into gold
+2026-08-16T18:38:48.883Z	1549159	tech	1	427	0	3	6.1	12309	3622	recent@privacy|top@privacy|recent@tech	SIGNAL	PBS station fears losing 50TB after being ghosted by cloud storage provider
+2026-08-16T18:38:48.883Z	1549166	gaming	3	397	0	0	5.9	12309	3622	recent@tech|top@tech	SIGNAL	Modern OLEDs are just as vulnerable to burn-in as 2017 panels
+2026-08-16T18:38:48.883Z	1549366	bitcoin	1	128	0	1	0.9	1532836	258	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	FRESH,SIGNAL	24 definitions of Bitcoin:
+2026-08-16T18:38:48.883Z	1549333	bitcoin	1	128	0	0	1.7	1532836	258	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	FRESH,SIGNAL	Blockparty #34 statistics
+2026-08-16T18:38:48.883Z	1549206	bitcoin	1	125	0	1	4.5	47274	143	recent@bitcoin|top@bitcoin	SIGNAL	When the news of the Coldcard hack hit the hood...
+2026-08-16T18:38:48.883Z	1549358	security	1	100	0	0	1.3	416864	925	recent@security|top@security|recent@tech	FRESH,SIGNAL	TryHackMe's HackerHolidays 2026 Event - Day 05 - Beach Bar [writeup]
