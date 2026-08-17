@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-17T10:31:47.649Z; n=40
-when	sn:bitcoin,sn:AskSN	6.59	yes	
-claude	hn	5.28	no	RISING
-coldcard	sn:bitcoin	3.44	yes	
-stand	sn:HealthAndFitness	3.08	no	RISING
-your desk	sn:HealthAndFitness	3.08	no	RISING
-the economist	sn:HealthAndFitness	3.08	no	RISING
+# generated 2026-08-17T16:26:54.656Z; n=40
+bitcoin	sn:bitcoin	5.97	yes	
+show	hn	5.56	no	RISING
+best	sn:bitcoin	3.71	yes	
+post-quantum	sn:bitcoin	3.26	yes	
+conduition	sn:bitcoin	3.26	yes	
+mechanic	sn:bitcoin	3.23	yes	
+years	sn:bitcoin	3.23	yes	
+dice	sn:math	3.13	yes	
+keith mukai	sn:math	3.13	yes	
+stacker sports summer league	sn:Stacker_Sports	3.1	no	RISING
+current standings	sn:Stacker_Sports	3.1	no	RISING
+stand	sn:HealthAndFitness	3.09	no	RISING
+your desk	sn:HealthAndFitness	3.09	no	RISING
+the economist	sn:HealthAndFitness	3.09	no	RISING
+last	sn:Stacker_Sports	3.09	no	RISING
 bends	sn:Stacker_Stocks	3	no	RISING
 history	sn:Stacker_Stocks	3	no	RISING
 says	sn:Stacker_Stocks	3	no	RISING
 robin wigglesworth	sn:Stacker_Stocks	3	no	RISING
-bowling alone	sn:BooksAndArticles	2.96	no	RISING
-typing alone	sn:BooksAndArticles	2.96	no	RISING
-hidden cost	sn:BooksAndArticles	2.96	no	RISING
-revolution	sn:BooksAndArticles	2.96	no	RISING
-op-ed	sn:BooksAndArticles	2.96	no	RISING
+erik cason	sn:BooksAndArticles	2.95	no	RISING
+cryptosovereignty	sn:BooksAndArticles	2.95	no	RISING
+the burritoflation debate	sn:econ	2.93	no	RISING
+mises media	sn:econ	2.93	no	RISING
 dollar-yentervention	sn:japan	2.91	no	RISING
 not quite yet	sn:japan	2.91	no	RISING
 weston nakamura	sn:japan	2.91	no	RISING
 across the spread	sn:japan	2.91	no	RISING
+when	sn:AskSN	2.87	yes	
 sunday survey	sn:bitcoin	2.87	yes	
-system prompts	hn	2.82	no	RISING
-bitcoin-node	sn:bitcoin	2.81	yes	
-os-fingerprint	sn:bitcoin	2.81	yes	
-satoshi nakamoto defended bitcoin	sn:bitcoin	2.77	yes	
-years ago today	sn:bitcoin	2.77	yes	
-tell	hn	2.72	no	RISING
-cloudflare	hn	2.72	no	RISING
-qwen	hn	2.71	no	RISING
-risc	hn	2.71	no	RISING
-they	hn	2.71	no	RISING
-autopsy bombshell	sn:aliens_and_UFOs	2.7	no	RISING
-los alamos lab worker	sn:aliens_and_UFOs	2.7	no	RISING
-death looks like murder	sn:aliens_and_UFOs	2.7	no	RISING
-game	sn:Stacker_Sports	2.69	no	RISING
-mariners	sn:Stacker_Sports	2.69	no	RISING
-astros	sn:Stacker_Sports	2.69	no	RISING
-the burritoflation debate	sn:econ	2.68	no	RISING
-mises media	sn:econ	2.68	no	RISING
-boltz swaps	sn:bitcoin	2.67	yes	
-people	sn:AI	2.63	yes	
+qwen	hn	2.85	no	RISING
+incident	hn	2.83	no	RISING
+github	hn	2.83	no	RISING
+satoshi nakamoto defended bitcoin	sn:bitcoin	2.79	yes	
+years ago today	sn:bitcoin	2.79	yes	
+anthropic	hn	2.78	yes	
+claude	hn	2.78	no	RISING
+risc	hn	2.77	no	RISING
+they	hn	2.77	no	RISING
+people	sn:AI	2.71	yes	
+protesting	sn:AI	2.71	yes	
