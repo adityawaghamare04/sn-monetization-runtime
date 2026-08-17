@@ -1,0 +1,45 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1549793	bitcoin	1	5124	5000	15	6.7	48657	14740	recent@bitcoin|top@bitcoin	OPEN_BOUNTY,HOT,SIGNAL	⚡Best tips for running a profitable lighting node?⚡
+1549904	bitcoin	1	3271	0	10	4.3	163128	3760	recent@bitcoin|top@bitcoin|recent@bitcoinplusplus	HOT,SIGNAL	Compact Block Filters for Users and Wallet Developers
+1549750	bitcoin	1	1828	0	1	7.9	1014665	227	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Bitcoin post-quantum R&D tldr - Conduition on the state of Bitcoin post-quantum
+1549796	bitcoin	1	1106	0	0	6.6	462245	299	recent@bitcoin|top@bitcoin|recent@bitcoinplusplus	HOT,SIGNAL	Stable Payjoin — Last Week in Bitcoin (Aug 10 - 16)
+1549725	AI	1	1021	0	2	9.2	440139	4261	recent@tech|top@tech|recent@AI	HOT,SIGNAL	How AI text watermarking works
+1549979	meta	1	974	0	6	2.6	48657	14740	recent@meta|top@meta	SIGNAL	Stacker News Monthly: July 2026
+1549765	bitcoin	1	803	0	2	7.1	74100	12042	recent@bitcoin|top@bitcoin|recent@bitdevs	SIGNAL	krux project has a new maintainer: JohnDoe_le_frog
+1549902	bitcoin	1	603	0	0	4.5	74100	12042	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	SIGNAL	RY3T Nova: First Product Built on Mujina - 256 Foundation
+1549774	bitcoin	1	510	0	1	7.0	341578	5918	recent@bitcoin|top@bitcoin	SIGNAL	Going live in 3 hours with Age of Abundance to talk post split Bitcoin
+1549719	Geyser_community	3	505	0	3	9.4	12393	460	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Bitcoin Culture Is Not Dead. It Just Stopped Being One Culture
+1549968	bitcoin	1	457	0	0	2.8	30782	25493	recent@bitcoin|top@bitcoin	SIGNAL	BitBox 08.2026 Dixence update
+1549805	bitcoin	1	453	0	0	6.4	178	927	recent@bitcoin|top@bitcoin	SIGNAL	Bitcoin Tech Talk #514: Incentives, Poor Zs, Fertility/Fiat, Food Importance++
+1549754	lightning	1	443	0	1	7.7	440729	233	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (4.0 BTC) + New Node Spotlight (034529b085724e127…)
+1549848	lightning	1	325	0	0	5.4	163128	3760	recent@lightning|top@lightning	SIGNAL	Torq: The node management system built for scale.
+1549709	bitcoin	1	246	0	0	9.9	74100	12042	recent@bitcoin|top@bitcoin|recent@lightning	SIGNAL	bitcoin-decoder: Decode all things bitcoin - Psycarlo
+1549978	AI	1	135	0	0	2.6	984933	2062	recent@AI|top@AI	SIGNAL	Trump crypto firm backs venture offering AI from restricted Chinese companies
+1549206	bitcoin	1	2777	0	2	30.8	47274	143	recent@bitcoin	HOT	When the news of the Coldcard hack hit the hood...
+1549657	bitcoin	1	1998	0	11	12.6	163128	3760	recent@bitcoin|top@bitcoin	HOT	Mechanic: "It's Been 15 Years, I'm Out"
+1549388	bitdevs	1	1820	0	19	26.2	12582	1661	recent@bitdevs|recent@privacy|recent@devs	HOT	my github nym has been suspended, wtf
+1549640	math	2	1663	0	6	13.8	74100	12042	recent@bitcoin|top@bitcoin	HOT,SELF_POST_OPP	Dice to seed - Keith Mukai
+1549399	bitcoin	1	736	0	4	25.9	178	927	recent@bitcoin		Sunday Survey: Did we bottom?
+1549242	bitcoin	1	641	0	2	29.8	74100	12042	recent@bitcoin|recent@bitdevs		bitcoin-node-os-fingerprint via nmap - ViniciusCestarii
+1549347	bitcoin	1	612	0	4	27.8	1504918	29	recent@bitcoin		Satoshi Nakamoto Defended Bitcoin against an overflow bug 16 Years Ago Today
+1549159	tech	1	579	0	3	32.4	12309	3622	recent@privacy|recent@tech		PBS station fears losing 50TB after being ghosted by cloud storage provider
+1549100	meta	1	544	0	0	34.9	36151	1596	recent@meta		This Day on SN: August 16
+1549587	AI	1	507	0	15	16.8	1245155	251	recent@privacy|top@privacy|recent@tech		People are Protesting the Wrong Things
+1549430	bitcoin	1	464	0	1	24.8	513690	1660	recent@bitcoin|recent@lightning		SwapMarket continues to offer Boltz Swaps
+1549663	bitcoin	1	450	0	3	12.1	133081	702	recent@bitcoin|top@bitcoin		BIP-118 vs. BIP-448: How Much Should a Bitcoin Signature Remember?
+1549166	gaming	3	407	0	0	32.2	12309	3622	recent@tech		Modern OLEDs are just as vulnerable to burn-in as 2017 panels
+1549358	security	1	367	0	0	27.6	416864	927	recent@security|recent@tech		TryHackMe's HackerHolidays 2026 Event - Day 05 - Beach Bar [writeup]
+1549509	art	3	231	0	0	21.3	798714	1355	recent@devs|top@devs|recent@tech		Text Slide Maker tool (looking for user feedback / use on Laptop)
+1549484	security	1	206	0	0	22.3	297791	7641	recent@security|top@security		Hackers exploited macOS Screen Sharing flaw to install Monero miners
+1549333	bitcoin	1	194	0	1	28.0	1532836	263	recent@bitcoin_beginners|recent@bitcoin_Mining		Blockparty #34 statistics
+1549861	security	1	42	0	0	5.2	416864	927	recent@security|top@security		TryHackMe's HackerHolidays 2026 Event - Day 7 - Overheard at Breakfast [writeup]
+1549264	bitcoin_beginners	1	36	0	0	29.6	296825	5152	recent@bitcoin_beginners		Coldcard losses have exceeded $115M (based on the price when coins were stolen)
+1549243	AI	1	28	0	1	29.8	1532699	178	recent@AI		Ford Tried AI. Then It Brought Back the "Gray Beards."
+1549910	lightning	1	21	0	0	4.0	163128	3760	recent@lightning|top@lightning		The Complete Guide to Running Your Own Bitcoin Node (Umbrel + Lightning)
+1549123	devs	1	21	0	0	33.5	5888	280	recent@devs		Leave your screen unlocked, meet developers@paypal.com — Chovy's Blog
+1549934	bitcoin	1	0	0	0	3.7	223678	6015	recent@bitcoin|top@bitcoin		Introducing Verify Wealth — Bitcoin-native financial planning
+1549288	bitcoin	1	0	0	0	29.2	296825	5152	recent@bitcoin_beginners		Safepal security vulnerability exposes data of 39,798 customers
+1549175	lightning	1	0	0	0	31.7	440729	233	recent@lightning		Biggest Channel Opened Today (2.0 BTC) + New Node Spotlight (037d0f188a3714265…)
+1549475	devs	1	0	0	0	22.7	297791	7641	recent@devs|top@devs		5 developer tools I use every day, and none of them write code
+1549761	AI	1	0	0	0	7.3	798714	1355	recent@AI|top@AI		Proof of Work (AudioBook) - Chapter 22
+1550048	openagents	1	0	0	2	0.1	534967	228	recent@openagents|top@openagents	FRESH	Episode 270: Deploying Sarah
