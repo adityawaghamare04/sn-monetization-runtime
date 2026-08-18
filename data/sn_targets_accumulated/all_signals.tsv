@@ -36169,3 +36169,23 @@
 2026-08-18T21:33:03.333Z	1550218	meta	1	118	0	0	11.5	36151	1597	recent@meta|top@meta	SIGNAL	This Day on SN: August 18
 2026-08-18T21:33:03.333Z	1550590	bitcoin_Mining	1	102	0	0	0.1	341578	5920	recent@bitcoin_Mining|top@bitcoin_Mining	FRESH,SIGNAL	Bitcoin mining renaissance with blake2b
 2026-08-18T21:33:03.333Z	1550496	science	2	100	0	0	3.4	1490792	407	recent@science|top@science	SIGNAL	CosmoCube
+2026-08-18T21:48:50.774Z	1550264	events	3	1228	0	2	9.6	74100	12057	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	Austin Bitdevs August 2026 - THIS THURSDAY at 6PM!
+2026-08-18T21:48:50.774Z	1550338	nostr	1	1095	0	3	7.6	1550338	1	recent@nostr|top@nostr	HOT,SIGNAL	Lightning FM: stream free, buy music, sats settle to the artist's own wallet
+2026-08-18T21:48:50.774Z	1550283	bitcoin	1	968	0	2	8.8	57444	15805	recent@bitcoin|top@bitcoin	SIGNAL	RFC 7282: On Consensus and Humming in the IETF
+2026-08-18T21:48:50.774Z	1550337	lol	2	895	0	3	7.6	48657	14751	recent@AI|top@AI	SIGNAL	Man tries prompt injection attack to win court case, gets caught
+2026-08-18T21:48:50.774Z	1550280	bitcoin	1	789	0	1	9.0	74100	12057	recent@bitcoin|top@bitcoin	SIGNAL	Blueberry - Overtorment
+2026-08-18T21:48:50.774Z	1550446	bitcoin	1	624	0	2	4.5	107697	125	recent@bitcoin|top@bitcoin	SIGNAL	Club Orange launches Buy Bitcoin in the US.
+2026-08-18T21:48:50.774Z	1550571	bitcoin	1	527	0	0	1.3	74100	12057	recent@bitcoin|top@bitcoin|recent@bitdevs	FRESH,SIGNAL	coco v2.0.0 - cashubtc
+2026-08-18T21:48:50.774Z	1550555	bitcoin	1	420	0	0	2.0	1014665	228	recent@bitcoin|top@bitcoin	SIGNAL	Fanquake and Martin Zumsande - Bitcoin Optech Newsletter #418 Recap Podcast
+2026-08-18T21:48:50.774Z	1550381	bitcoin	1	400	0	0	6.1	238412	223	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	The Fiat Autopsy: Why Are We Here?
+2026-08-18T21:48:50.774Z	1550302	AI	1	379	0	1	8.4	8842	480	recent@AI|top@AI	SIGNAL	Capitalizing Untethered AI Agents
+2026-08-18T21:48:50.774Z	1550241	mostly_harmless	2	359	0	6	10.5	12393	464	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL,SELF_POST_OPP	Emotional sovereignty and self-custody
+2026-08-18T21:48:50.774Z	1550582	nostr	1	261	0	0	0.8	1496326	14	recent@nostr|top@nostr|recent@privacy	FRESH,SIGNAL	New Cordn update: voice notes 🔥🎤
+2026-08-18T21:48:50.774Z	1550293	lightning	1	252	0	1	8.6	440729	234	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (3.0 BTC) + New Node Spotlight (038d4dd9b0fa7d586…)
+2026-08-18T21:48:50.774Z	1550375	lol	2	203	0	4	6.3	296825	5154	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	6 BTC sits in a wallet built to be cracked. Still unsolved.
+2026-08-18T21:48:50.774Z	1550554	bitcoin_beginners	1	184	0	0	2.0	1532836	271	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	practical advice for the block party
+2026-08-18T21:48:50.774Z	1550560	bitcoin_beginners	1	145	0	1	1.7	1532836	271	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	FRESH,SIGNAL	Projected hash rate for the blockparty this Saturday, August 22
+2026-08-18T21:48:50.774Z	1550493	bitcoin_Mining	1	134	0	0	3.8	1490792	407	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Nvidia crypto mining GPUs hacked to restore locked-away VRAM
+2026-08-18T21:48:50.774Z	1550486	bitcoin	1	133	0	0	4.0	1490792	407	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	The DIY Signing Device Revolution
+2026-08-18T21:48:50.774Z	1550218	meta	1	118	0	0	11.8	36151	1597	recent@meta|top@meta	SIGNAL	This Day on SN: August 18
+2026-08-18T21:48:50.774Z	1550590	bitcoin_Mining	1	102	0	0	0.4	341578	5920	recent@bitcoin_Mining|top@bitcoin_Mining	FRESH,SIGNAL	Bitcoin mining renaissance with blake2b
