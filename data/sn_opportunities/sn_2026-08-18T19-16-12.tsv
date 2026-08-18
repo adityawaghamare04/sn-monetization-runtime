@@ -1,0 +1,46 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1550264	events	3	1107	0	2	7.1	74100	12053	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	Austin Bitdevs August 2026 - THIS THURSDAY at 6PM!
+1550212	AI	1	1039	0	5	9.7	263596	236	recent@AI|top@AI	HOT,SIGNAL	Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+
+1550283	bitcoin	1	968	0	2	6.3	57444	15805	recent@bitcoin|top@bitcoin	SIGNAL	RFC 7282: On Consensus and Humming in the IETF
+1550337	lol	2	895	0	3	5.0	48657	14751	recent@AI|top@AI	SIGNAL	Man tries prompt injection attack to win court case, gets caught
+1550280	bitcoin	1	768	0	1	6.5	74100	12053	recent@bitcoin|top@bitcoin	SIGNAL	Blueberry - Overtorment
+1550190	nostr	1	718	0	9	11.7	263526	580	recent@lightning|top@lightning|recent@nostr	SIGNAL	Running a new independent MostroP2P instance — Shadowbip Mostro
+1550446	bitcoin	1	624	0	2	1.9	107697	125	recent@bitcoin|top@bitcoin	FRESH,SIGNAL	Club Orange launches Buy Bitcoin in the US.
+1550338	nostr	1	612	0	2	5.0	1550338	1	recent@nostr|top@nostr	SIGNAL	Lightning FM: stream free, buy music, sats settle to the artist's own wallet
+1550381	bitcoin	1	400	0	0	3.5	238412	223	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	The Fiat Autopsy: Why Are We Here?
+1550241	mostly_harmless	2	359	0	6	8.0	12393	464	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL,SELF_POST_OPP	Emotional sovereignty and self-custody
+1550302	AI	1	343	0	1	5.9	8842	480	recent@AI|top@AI	SIGNAL	Capitalizing Untethered AI Agents
+1550200	nostr	1	257	0	0	10.8	252116	17	recent@nostr|top@nostr	SIGNAL	if you love Zig and Nostr you're gonna fall in love with this library
+1550293	lightning	1	252	0	1	6.0	440729	234	recent@lightning|top@lightning	SIGNAL	Biggest Channel Opened Today (3.0 BTC) + New Node Spotlight (038d4dd9b0fa7d586…)
+1550375	lol	2	203	0	3	3.8	296825	5154	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	6 BTC sits in a wallet built to be cracked. Still unsolved.
+1550486	bitcoin	1	133	0	0	1.5	1490792	407	recent@bitcoin_beginners|top@bitcoin_beginners	FRESH,SIGNAL	The DIY Signing Device Revolution
+1550493	bitcoin_Mining	1	125	0	0	1.3	1490792	407	recent@bitcoin_Mining|top@bitcoin_Mining	FRESH,SIGNAL	Nvidia crypto mining GPUs hacked to restore locked-away VRAM
+1550218	meta	1	118	0	0	9.3	36151	1597	recent@meta|top@meta	SIGNAL	This Day on SN: August 18
+1549979	meta	1	10502	0	11	24.9	48657	14751	recent@meta	HOT	Stacker News Monthly: July 2026
+1549793	bitcoin	1	5259	5000	20	29.0	48657	14751	recent@bitcoin	OPEN_BOUNTY,HOT	⚡Best tips for running a profitable lighting node?⚡
+1549904	bitcoin	1	3352	0	10	26.6	163128	3761	recent@bitcoin|recent@bitcoinplusplus|recent@bitdevs	HOT	Compact Block Filters for Users and Wallet Developers
+1549750	bitcoin	1	2849	0	3	30.2	1014665	227	recent@bitcoin	HOT	Bitcoin post-quantum R&D tldr - Conduition on the state of Bitcoin post-quantum
+1550073	lol	2	2360	0	26	21.5	74100	12053	recent@bitcoin|top@bitcoin	HOT	BIP-110 Post Mortem - lopp
+1549657	bitcoin	1	2098	0	12	34.9	163128	3761	recent@bitcoin	HOT	Mechanic: "It's Been 15 Years, I'm Out"
+1549968	bitcoin	1	1546	0	1	25.1	30782	25497	recent@bitcoin	HOT	BitBox 08.2026 Dixence update
+1550017	bitcoin	1	1305	0	6	23.6	109384	113	recent@bitcoin|top@bitcoin	HOT	Glimpse: Regulated Bitcoin Prediction Markets
+1549796	bitcoin	1	1127	0	1	28.9	462245	299	recent@bitcoin|recent@bitcoinplusplus	HOT	Stable Payjoin — Last Week in Bitcoin (Aug 10 - 16)
+1549725	AI	1	1021	0	2	31.6	440139	4261	recent@tech|recent@AI	HOT	How AI text watermarking works
+1549765	bitcoin	1	803	0	2	29.5	74100	12053	recent@bitcoin|recent@bitdevs		krux project has a new maintainer: JohnDoe_le_frog
+1549902	bitcoin	1	643	0	0	26.8	74100	12053	recent@bitcoin|recent@bitcoin_Mining		RY3T Nova: First Product Built on Mujina - 256 Foundation
+1549774	bitcoin	1	510	0	1	29.3	341578	5918	recent@bitcoin		Going live in 3 hours with Age of Abundance to talk post split Bitcoin
+1549719	Geyser_community	3	505	0	3	31.7	12393	464	recent@bitcoin|recent@bitcoin_beginners		Bitcoin Culture Is Not Dead. It Just Stopped Being One Culture
+1549663	bitcoin	1	471	0	3	34.5	133081	702	recent@bitcoin		BIP-118 vs. BIP-448: How Much Should a Bitcoin Signature Remember?
+1549805	bitcoin	1	453	0	0	28.8	178	927	recent@bitcoin		Bitcoin Tech Talk #514: Incentives, Poor Zs, Fertility/Fiat, Food Importance++
+1549754	lightning	1	443	0	1	30.0	440729	234	recent@lightning		Biggest Channel Opened Today (4.0 BTC) + New Node Spotlight (034529b085724e127…)
+1549848	lightning	1	325	0	0	27.8	163128	3761	recent@lightning		Torq: The node management system built for scale.
+1550120	bitcoin_beginners	1	252	0	3	19.1	375687	3136	recent@bitcoin_beginners|top@bitcoin_beginners		MOSTRO VS LNP2PBOT 🧟🆚🤖
+1549709	bitcoin	1	246	0	0	32.3	74100	12053	recent@bitcoin|recent@lightning|recent@nostr		bitcoin-decoder: Decode all things bitcoin - Psycarlo
+1549978	AI	1	135	0	0	24.9	984933	2072	recent@AI		Trump crypto firm backs venture offering AI from restricted Chinese companies
+1550048	openagents	1	102	0	2	22.4	534967	228	recent@openagents|top@openagents		Episode 270: Deploying Sarah
+1550154	AI	1	73	0	0	16.9	1054143	1109	recent@AI|top@AI		Meta plan AI academy to boost Nigeria’s tech talent
+1549861	security	1	42	0	0	27.5	416864	928	recent@security		TryHackMe's HackerHolidays 2026 Event - Day 7 - Overheard at Breakfast [writeup]
+1549910	lightning	1	21	0	0	26.4	163128	3761	recent@lightning		The Complete Guide to Running Your Own Bitcoin Node (Umbrel + Lightning)
+1549761	AI	1	21	0	0	29.7	798714	1358	recent@AI		Proof of Work (AudioBook) - Chapter 22
+1549934	bitcoin	1	10	0	0	26.0	223678	6015	recent@bitcoin		Introducing Verify Wealth — Bitcoin-native financial planning
+1550155	bitcoin	1	0	0	1	16.8	47274	144	top@bitcoin		Why Bitcoin Cannot "Separate Money and State" (And Why We're Still Winning...)
