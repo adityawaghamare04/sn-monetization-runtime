@@ -1,10 +1,19 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-18T22:23:02.729Z; n=40
-bitcoin	sn:Stacker_Stocks	7.83	yes	
+# generated 2026-08-19T04:36:08.625Z; n=40
+bitcoin	sn:Stacker_Stocks,sn:bitcoin_Mining,sn:AskSN	13.74	yes	
+choose	sn:econ,sn:Politics_And_Law	6.79	no	RISING
+part	sn:econ,sn:Politics_And_Law	6.79	no	RISING
 metaplanet	sn:Stacker_Stocks	4.58	no	RISING
-good practices	sn:AskSN	3.72	no	RISING
-individuals	sn:AskSN	3.72	no	RISING
-what	sn:AskSN	3.5	yes	
+linux	hn	4	yes	
+good practices	sn:AskSN	3.74	no	RISING
+individuals	sn:AskSN	3.74	no	RISING
+what	sn:AskSN	3.51	yes	
+the economic possibilities our grandchildren didn	sn:econ	3.4	no	RISING
+the econ possibilities part	sn:the_stacker_muse	3.39	no	RISING
+you shall own nothing	sn:the_stacker_muse	3.39	no	RISING
+you shall be happy	sn:the_stacker_muse	3.39	no	RISING
+econ possibilities our grandchildren didn	sn:Politics_And_Law	3.39	no	RISING
+capital accumulation	sn:Politics_And_Law	3.39	no	RISING
 notice	sn:Stacker_Stocks	3.25	no	RISING
 trading	sn:Stacker_Stocks	3.25	no	RISING
 activated	sn:Stacker_Stocks	3.25	no	RISING
@@ -19,24 +28,15 @@ return	sn:the_stacker_muse	3.12	no	RISING
 physical books	sn:the_stacker_muse	3.12	no	RISING
 austin bitdevs august	sn:events	3.09	yes	
 thursday	sn:events	3.09	yes	
-lightning	sn:nostr	3.08	yes	
-future	sn:bitcoin	3.04	yes	
-bitcoin-core	sn:bitcoin	3.04	yes	
-motivated seller index map for homes across	sn:charts_and_maps	3.03	no	RISING
-stripe	sn:AI	3.03	yes	
+lightning	sn:nostr	3.09	yes	
+future	sn:bitcoin	3.08	yes	
+bitcoin-core	sn:bitcoin	3.08	yes	
+stripe	sn:AI	3.08	yes	
 daron acemoglu	sn:BooksAndArticles	3.03	no	RISING
 revered genius	sn:BooksAndArticles	3.03	no	RISING
 slop machine	sn:BooksAndArticles	3.03	no	RISING
 the economist	sn:BooksAndArticles	3.03	no	RISING
+the amazon	hn	3.02	no	RISING
 on consensus	sn:bitcoin	2.99	yes	
 humming	sn:bitcoin	2.99	yes	
 ietf	sn:bitcoin	2.99	yes	
-debt crisis	sn:Politics_And_Law	2.97	no	RISING
-years	sn:Politics_And_Law	2.97	yes	
-robin wigglesworth	sn:Politics_And_Law	2.97	no	RISING
-blueberry	sn:bitcoin	2.9	yes	
-overtorment	sn:bitcoin	2.9	yes	
-the amazon	hn	2.89	no	RISING
-new leaks	sn:gaming	2.88	no	RISING
-running	sn:nostr	2.86	yes	
-shadowbip mostro	sn:nostr	2.86	yes	
