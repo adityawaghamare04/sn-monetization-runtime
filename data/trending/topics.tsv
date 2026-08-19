@@ -1,9 +1,8 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-19T16:30:49.489Z; n=40
+# generated 2026-08-19T22:23:49.093Z; n=40
 choose	sn:Politics_And_Law,sn:econ	7.52	no	RISING
 part	sn:Politics_And_Law,sn:econ	7.52	no	RISING
-bitcoin	sn:lightning,sn:AskSN	6.86	yes	
-linux	hn	4.72	yes	
+bitcoin	sn:lightning,sn:AskSN	6.87	yes	
 capitalism	sn:Politics_And_Law	4.04	no	RISING
 told	sn:Politics_And_Law	4.04	no	RISING
 its enemies	sn:Politics_And_Law	4.04	no	RISING
@@ -15,28 +14,29 @@ the economic possibilities our grandchildren didn	sn:econ	3.71	no	RISING
 the econ possibilities part	sn:the_stacker_muse	3.42	no	RISING
 you shall own nothing	sn:the_stacker_muse	3.42	no	RISING
 you shall be happy	sn:the_stacker_muse	3.42	no	RISING
+stacker sports summer league	sn:Stacker_Sports	3.28	no	RISING
+week	sn:Stacker_Sports	3.28	no	RISING
+pick	sn:Stacker_Sports	3.28	no	RISING
 bitcoiners	sn:bitcoin	3.23	yes	
 goal	sn:bitcoin	3.23	yes	
 recoverable grant	sn:bitcoin	3.23	yes	
-future	sn:bitcoin	3.18	yes	
-bitcoin-core	sn:bitcoin	3.18	yes	
-the amazon	hn	3.12	no	RISING
-stacker sports summer league	sn:Stacker_Sports	3.04	no	RISING
-week	sn:Stacker_Sports	3.04	no	RISING
-pick	sn:Stacker_Sports	3.04	no	RISING
-daron acemoglu	sn:BooksAndArticles	3.04	no	RISING
-revered genius	sn:BooksAndArticles	3.04	no	RISING
-slop machine	sn:BooksAndArticles	3.04	no	RISING
-the economist	sn:BooksAndArticles	3.04	no	RISING
-new leaks	sn:gaming	2.97	no	RISING
+hardware	sn:bitcoin	3.09	yes	
+period	sn:bitcoin	3.09	yes	
+dice	sn:bitcoin	3.09	yes	
 iranian	sn:AskSN	2.85	no	RISING
-club orange	sn:bitcoin	2.83	yes	
-buy bitcoin	sn:bitcoin	2.83	yes	
-treasury	sn:Politics_And_Law	2.73	no	RISING
-bessent	sn:Politics_And_Law	2.73	no	RISING
-now chainalysis	sn:news	2.72	no	RISING
-suing	sn:news	2.72	no	RISING
-government over	sn:news	2.72	no	RISING
-record contract	sn:news	2.72	no	RISING
+treasury	sn:Politics_And_Law	2.84	no	RISING
+bessent	sn:Politics_And_Law	2.84	no	RISING
+ocean mining hot post luke	sn:bitcoin_Mining	2.75	no	RISING
+mechanic	sn:bitcoin_Mining	2.75	no	RISING
+moderna	hn	2.7	no	RISING
+phase	hn	2.7	no	RISING
+spanish naturgy	sn:bitcoin	2.7	yes	
+stripe	hn	2.68	yes	
+where	sn:art	2.68	no	RISING
 daily discussion thread	sn:Music	2.67	no	RISING
 music saloon	sn:Music	2.67	no	RISING
+the blackout that could devastate america	sn:tech	2.65	yes	
+the new york times	sn:tech	2.65	yes	
+the nordic node	sn:BooksAndArticles	2.64	no	RISING
+suitcoiner phoenix	sn:BooksAndArticles	2.64	no	RISING
+blockchains	sn:BooksAndArticles	2.64	no	RISING
