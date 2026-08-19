@@ -36354,3 +36354,32 @@
 2026-08-19T01:26:38.612Z	1550493	bitcoin_Mining	1	134	0	0	7.5	1490792	407	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Nvidia crypto mining GPUs hacked to restore locked-away VRAM
 2026-08-19T01:26:38.612Z	1550486	bitcoin	1	133	0	0	7.6	1490792	407	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	The DIY Signing Device Revolution
 2026-08-19T01:26:38.612Z	1550590	bitcoin_Mining	1	102	0	1	4.0	341578	5920	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Bitcoin mining renaissance with blake2b
+2026-08-19T01:47:53.548Z	1550624	econ	2	2522	0	3	2.9	724606	12153	recent@econ|top@econ	HOT,SIGNAL	The Economic Possibilities Our Grandchildren Didn’t Choose, Part 1
+2026-08-19T01:47:53.548Z	1550649	the_stacker_muse	3	2448	0	1	2.1	724606	12153	recent@econ|top@econ|recent@BooksAndArticles	HOT,SIGNAL	The Econ Possibilities Part 3: You Shall Own Nothing and You Shall Be Happy
+2026-08-19T01:47:53.548Z	1550646	Politics_And_Law	3	2438	0	2	2.4	724606	12153	recent@econ|top@econ	HOT,SIGNAL	Econ Possibilities Our Grandchildren Didn’t Choose, Part 2: Capital Accumulation
+2026-08-19T01:47:53.548Z	1550338	nostr	1	1240	0	3	11.5	1550338	1	recent@nostr|top@nostr	HOT,SIGNAL	Lightning FM: stream free, buy music, sats settle to the artist's own wallet
+2026-08-19T01:47:53.548Z	1550600	bitcoin	1	1198	0	0	4.0	74100	12059	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT,SIGNAL	Future of this repo - bitcoin-core/HWI
+2026-08-19T01:47:53.548Z	1550590	bitcoin_Mining	1	1123	0	1	4.4	341578	5920	recent@bitcoin_Mining|top@bitcoin_Mining	HOT,SIGNAL	Bitcoin mining renaissance with blake2b
+2026-08-19T01:47:53.548Z	1550471	BooksAndArticles	2	1073	0	0	8.1	724606	12153	recent@econ|top@econ|recent@BooksAndArticles	HOT,SIGNAL	Daron Acemoglu, Revered Genius or Slop Machine? (The Economist)
+2026-08-19T01:47:53.548Z	1550337	lol	2	895	0	3	11.5	48657	14753	recent@AI|top@AI|recent@lol	SIGNAL	Man tries prompt injection attack to win court case, gets caught
+2026-08-19T01:47:53.548Z	1550446	bitcoin	1	671	0	3	8.5	107697	125	recent@bitcoin|top@bitcoin	SIGNAL	Club Orange launches Buy Bitcoin in the US.
+2026-08-19T01:47:53.548Z	1550571	bitcoin	1	527	0	0	5.3	74100	12059	recent@bitcoin|top@bitcoin|recent@bitdevs	SIGNAL	coco v2.0.0 - cashubtc
+2026-08-19T01:47:53.548Z	1550555	bitcoin	1	420	0	0	6.0	1014665	228	recent@bitcoin|top@bitcoin	SIGNAL	Fanquake and Martin Zumsande - Bitcoin Optech Newsletter #418 Recap Podcast
+2026-08-19T01:47:53.548Z	1550528	Stacker_Stocks	2	416	0	1	6.9	1532699	179	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	De-Teasing Behind the Markets: The 4 Stocks Behind the "Flight Royalty" Pitch
+2026-08-19T01:47:53.548Z	1550381	bitcoin	1	400	0	0	10.1	238412	223	recent@bitcoin_beginners|top@bitcoin_beginners|recent@BooksAndArticles	SIGNAL	The Fiat Autopsy: Why Are We Here?
+2026-08-19T01:47:53.548Z	1550589	news	2	397	0	0	4.4	74100	12059	recent@news|top@news	SIGNAL	Now Chainalysis is Suing US Government Over a Record Contract
+2026-08-19T01:47:53.548Z	1550357	Design	2	389	0	1	10.9	383547	3522	recent@Design|top@Design	SIGNAL	Azgaar’s fantasy map generator
+2026-08-19T01:47:53.548Z	1550582	nostr	1	303	0	0	4.8	1496326	14	recent@nostr|top@nostr|recent@privacy	SIGNAL	New Cordn update: voice notes 🔥🎤
+2026-08-19T01:47:53.548Z	1550414	news	2	291	0	5	9.1	984933	2073	recent@news|top@news	SIGNAL,SELF_POST_OPP	Bill Rasmussen, founder of ESPN, has died at the age of 93.
+2026-08-19T01:47:53.548Z	1550596	Stacker_Stocks	2	278	0	0	4.1	1054143	1111	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	How 24 firms control over 70% of Nigeria’s stock market
+2026-08-19T01:47:53.548Z	1550355	BooksAndArticles	2	240	0	0	10.9	458256	4866	recent@history|top@history|recent@BooksAndArticles	SIGNAL	Other cultures have their own way of saying 'once upon a time'
+2026-08-19T01:47:53.548Z	1550375	lol	2	203	0	4	10.3	296825	5154	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lol	SIGNAL	6 BTC sits in a wallet built to be cracked. Still unsolved.
+2026-08-19T01:47:53.548Z	1550490	econ	2	199	0	2	7.9	837285	1455	recent@econ|top@econ	SIGNAL	The Real Story in Bonds: Long-Term Capital Is Expensive Again
+2026-08-19T01:47:53.548Z	1550554	bitcoin_beginners	1	184	0	0	6.0	1532836	275	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	practical advice for the block party
+2026-08-19T01:47:53.548Z	1550619	news	2	149	0	0	3.1	297791	7642	recent@news|top@news	SIGNAL	States accuse Meta of targeting children for Facebook, Instagram addiction
+2026-08-19T01:47:53.548Z	1550560	bitcoin_beginners	1	145	0	1	5.7	1532836	275	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoin_Mining	SIGNAL	Projected hash rate for the blockparty this Saturday, August 22
+2026-08-19T01:47:53.548Z	1550575	Construction_and_Engineering	2	145	0	0	5.0	9274	26461	recent@Construction_and_Engineering|top@Construction_and_Engineering|recent@Stacker_Stocks	SIGNAL	Trimble helps ensure earthworks go to plan
+2026-08-19T01:47:53.549Z	1550493	bitcoin_Mining	1	134	0	0	7.8	1490792	407	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Nvidia crypto mining GPUs hacked to restore locked-away VRAM
+2026-08-19T01:47:53.549Z	1550486	bitcoin	1	133	0	0	8.0	1490792	407	recent@bitcoin_beginners|top@bitcoin_beginners	SIGNAL	The DIY Signing Device Revolution
+2026-08-19T01:47:53.549Z	1550423	charts_and_maps	2	131	0	0	8.9	984933	2073	recent@charts_and_maps|top@charts_and_maps	SIGNAL	The Slippery Slope of women’s rights.
+2026-08-19T01:47:53.549Z	1550496	science	2	100	0	0	7.6	1490792	407	recent@science|top@science	SIGNAL	CosmoCube
