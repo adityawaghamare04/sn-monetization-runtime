@@ -1,19 +1,19 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-19T04:36:08.625Z; n=40
-bitcoin	sn:Stacker_Stocks,sn:bitcoin_Mining,sn:AskSN	13.74	yes	
-choose	sn:econ,sn:Politics_And_Law	6.79	no	RISING
-part	sn:econ,sn:Politics_And_Law	6.79	no	RISING
+# generated 2026-08-19T10:28:13.071Z; n=40
+bitcoin	sn:Stacker_Stocks,sn:AskSN	10.63	yes	
+choose	sn:econ,sn:Politics_And_Law	6.96	no	RISING
+part	sn:econ,sn:Politics_And_Law	6.96	no	RISING
 metaplanet	sn:Stacker_Stocks	4.58	no	RISING
-linux	hn	4	yes	
+linux	hn	4.46	yes	
+show	hn	3.74	no	RISING
 good practices	sn:AskSN	3.74	no	RISING
 individuals	sn:AskSN	3.74	no	RISING
-what	sn:AskSN	3.51	yes	
-the economic possibilities our grandchildren didn	sn:econ	3.4	no	RISING
-the econ possibilities part	sn:the_stacker_muse	3.39	no	RISING
-you shall own nothing	sn:the_stacker_muse	3.39	no	RISING
-you shall be happy	sn:the_stacker_muse	3.39	no	RISING
-econ possibilities our grandchildren didn	sn:Politics_And_Law	3.39	no	RISING
-capital accumulation	sn:Politics_And_Law	3.39	no	RISING
+the economic possibilities our grandchildren didn	sn:econ	3.48	no	RISING
+econ possibilities our grandchildren didn	sn:Politics_And_Law	3.47	no	RISING
+capital accumulation	sn:Politics_And_Law	3.47	no	RISING
+the econ possibilities part	sn:the_stacker_muse	3.41	no	RISING
+you shall own nothing	sn:the_stacker_muse	3.41	no	RISING
+you shall be happy	sn:the_stacker_muse	3.41	no	RISING
 notice	sn:Stacker_Stocks	3.25	no	RISING
 trading	sn:Stacker_Stocks	3.25	no	RISING
 activated	sn:Stacker_Stocks	3.25	no	RISING
@@ -23,20 +23,20 @@ eats financial markets	sn:Stacker_Stocks	3.21	no	RISING
 yum-yum-yum	sn:Stacker_Stocks	3.21	no	RISING
 katie martin	sn:Stacker_Stocks	3.21	no	RISING
 toothfairy	sn:Stacker_Stocks	3.21	no	RISING
+bitcoiners	sn:bitcoin	3.21	yes	
+goal	sn:bitcoin	3.21	yes	
+recoverable grant	sn:bitcoin	3.21	yes	
+future	sn:bitcoin	3.15	yes	
+bitcoin-core	sn:bitcoin	3.15	yes	
 slow reading	sn:the_stacker_muse	3.12	no	RISING
 return	sn:the_stacker_muse	3.12	no	RISING
 physical books	sn:the_stacker_muse	3.12	no	RISING
 austin bitdevs august	sn:events	3.09	yes	
 thursday	sn:events	3.09	yes	
 lightning	sn:nostr	3.09	yes	
-future	sn:bitcoin	3.08	yes	
-bitcoin-core	sn:bitcoin	3.08	yes	
-stripe	sn:AI	3.08	yes	
+the amazon	hn	3.07	no	RISING
 daron acemoglu	sn:BooksAndArticles	3.03	no	RISING
 revered genius	sn:BooksAndArticles	3.03	no	RISING
 slop machine	sn:BooksAndArticles	3.03	no	RISING
 the economist	sn:BooksAndArticles	3.03	no	RISING
-the amazon	hn	3.02	no	RISING
 on consensus	sn:bitcoin	2.99	yes	
-humming	sn:bitcoin	2.99	yes	
-ietf	sn:bitcoin	2.99	yes	
