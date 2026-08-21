@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-21T10:29:47.653Z; n=40
-what	sn:AskSN	6.77	yes	
-linux	hn	4.29	no	RISING
-moscow	sn:news	4.02	no	RISING
-federal	sn:privacy	3.95	no	RISING
-alaska	sn:tech	3.79	yes	
-coinos	sn:bitcoin	3.56	yes	
+# generated 2026-08-21T16:33:53.951Z; n=40
+what	sn:AskSN	6.02	yes	
+bitcoin	sn:privacy,sn:tech	5.74	yes	
+flock	hn	4.17	no	RISING
+federal	sn:privacy	3.97	no	RISING
+economics	sn:bitcoin	3.63	yes	
+peer	sn:bitcoin	3.63	yes	
+the stubborn issue	sn:bitcoin	3.63	yes	
+indexation	sn:bitcoin	3.63	yes	
+coinos	sn:bitcoin	3.57	yes	
 terence tao	sn:AI	3.55	yes	
 mathematics	sn:AI	3.55	yes	
-an unforgettable incident	sn:the_stacker_muse	3.48	no	RISING
+authenticity	sn:Design	3.46	no	RISING
+lightning transactions live flow	sn:Design	3.46	no	RISING
+node health visualization	sn:Design	3.46	no	RISING
 jacob tsimerman	sn:AI	3.41	yes	
 fields	sn:AI	3.41	yes	
-kbox	sn:bitcoin_Mining	3.3	no	RISING
-quiet hash heater	sn:bitcoin_Mining	3.3	no	RISING
+market	sn:bitcoin	3.26	yes	
+fidelity bonds	sn:bitcoin	3.26	yes	
+joinmarket-ng	sn:bitcoin	3.26	yes	
 bitcoin dev launchpad first cohort	sn:bitcoin	3.26	yes	
 alumni outlook	sn:bitcoin	3.26	yes	
-wind energy is booming anyway	sn:Politics_And_Law	3.1	no	RISING
-martha muir	sn:Politics_And_Law	3.1	no	RISING
-river	sn:bitcoin	3.08	yes	
-small	hn	3.05	no	RISING
-phishing attack after using tornado cash	sn:bitcoin	3.03	yes	
-expired official domain	sn:bitcoin	3.03	yes	
-sats	sn:AskSN	3.02	yes	
-launches complete payments stack built	sn:gaming	3.01	no	RISING
-games	sn:gaming	3.01	no	RISING
-develop	sn:gaming	3.01	no	RISING
-market	sn:bitcoin	3.01	yes	
-fidelity bonds	sn:bitcoin	3.01	yes	
-joinmarket-ng	sn:bitcoin	3.01	yes	
-how did you find your spouse	sn:AskSN	3	no	RISING
-dating	sn:AskSN	3	no	RISING
-catherine pearson	sn:AskSN	3	no	RISING
-bluetooth	hn	2.99	no	RISING
-founder	sn:news	2.98	no	RISING
-chinese	sn:news	2.98	yes	
-evergrande	sn:news	2.98	no	RISING
+how did you find your spouse	sn:AskSN	3.16	no	RISING
+dating	sn:AskSN	3.16	no	RISING
+catherine pearson	sn:AskSN	3.16	no	RISING
+tutorial	sn:privacy	3.1	no	RISING
+how to get	sn:privacy	3.1	no	RISING
+private	sn:privacy	3.1	no	RISING
+graphene	sn:privacy	3.1	no	RISING
+android	sn:privacy	3.1	no	RISING
+launches complete payments stack built	sn:gaming	3.05	no	RISING
+games	sn:gaming	3.05	no	RISING
+develop	sn:gaming	3.05	no	RISING
+bitcoin optech newsletter	sn:bitcoin	3.02	yes	
 how colleges produce socialists	sn:Education	2.94	no	RISING
-html	hn	2.91	no	RISING
-can do that	hn	2.91	no	RISING
-english	hn	2.87	no	RISING
-the august	hn	2.73	no	RISING
+daily discussion thread	sn:Music	2.82	no	RISING
+music saloon	sn:Music	2.82	no	RISING
+americans	sn:Stacker_Sports	2.76	no	RISING
+to be left alone	sn:Politics_And_Law	2.73	no	RISING
+together	sn:Politics_And_Law	2.73	no	RISING
+sweden	sn:Politics_And_Law	2.73	no	RISING
