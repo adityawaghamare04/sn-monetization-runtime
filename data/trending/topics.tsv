@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-22T16:23:22.189Z; n=40
-omacom foundation	sn:tech	6.22	yes	
-bitcoin	sn:Design,sn:bitcoin	5.82	yes	
-meta	hn,sn:tech	4.25	yes	
-nobody	sn:meta	3.79	yes	
+# generated 2026-08-22T22:21:06.690Z; n=40
+speculating	sn:bitcoin	4.01	yes	
+bitcoin-standard	sn:bitcoin	4.01	yes	
+nobody	sn:meta	3.83	yes	
 motorola	sn:security	3.73	yes	
 pixels	sn:security	3.73	yes	
-speculating	sn:bitcoin	3.6	yes	
-bitcoin-standard	sn:bitcoin	3.6	yes	
-predyx	sn:Stacker_Stocks	3.48	no	RISING
-lightning	sn:Stacker_Stocks	3.48	yes	
-latest strikes	sn:bitcoin	3.43	yes	
-august	sn:bitcoin	3.43	yes	
-what	sn:meta	3.4	yes	
-stacker news	sn:meta	3.4	yes	
+escape	sn:Travel	3.43	no	RISING
+matrix	sn:Travel	3.43	no	RISING
+natural springs	sn:Travel	3.43	no	RISING
 some	sn:privacy	3.4	no	RISING
+adam smith	sn:BooksAndArticles	3.34	no	RISING
+political economy quackery	sn:BooksAndArticles	3.34	no	RISING
+times	sn:BooksAndArticles	3.34	no	RISING
+james grant	sn:BooksAndArticles	3.34	no	RISING
 krispy kreme	sn:gaming	3.24	no	RISING
+enabling threshold custody	sn:bitcoin	3.2	yes	
+lightning network	sn:bitcoin	3.2	yes	
+nested threshold multisig	sn:bitcoin	3.2	yes	
+avalon nano	sn:AskSN	3.11	no	RISING
+non-supported	sn:AskSN	3.11	no	RISING
 grug speak	sn:bitdevs	3.1	no	RISING
 grug outside	sn:bitdevs	3.1	no	RISING
 grug happy	sn:bitdevs	3.1	no	RISING
 napstr	sn:nostr	3.1	yes	
-kagi	hn	3.08	no	RISING
 noones app	sn:bitcoin	3.08	yes	
-consensus	sn:Design	3.04	yes	
-health	sn:Design	3.04	yes	
-twitter	sn:Design	3.04	yes	
-felony	hn	2.98	no	RISING
-border	hn	2.98	no	RISING
+consensus	sn:Design	3.05	yes	
+health	sn:Design	3.05	yes	
+bitcoin	sn:Design	3.05	yes	
+twitter	sn:Design	3.05	yes	
 national	sn:Politics_And_Law	2.96	no	RISING
 erpo	sn:Politics_And_Law	2.96	no	RISING
 protective orders	sn:Politics_And_Law	2.96	no	RISING
 lifesaver or second amendment end around	sn:Politics_And_Law	2.96	no	RISING
-felony bench	hn	2.9	no	RISING
 which	sn:AskSN	2.9	no	RISING
 the last airbender	sn:AskSN	2.9	no	RISING
 french revolution was not	sn:Politics_And_Law	2.88	no	RISING
 libertarian revolution	sn:Politics_And_Law	2.88	no	RISING
-canada	hn	2.8	no	RISING
-kobo	hn	2.79	no	RISING
-hyprland	sn:tech	2.79	yes	
-bullish	sn:bitcoin	2.78	yes	
+mining pool health report	sn:bitcoin_Mining	2.77	no	RISING
+week	sn:bitcoin_Mining	2.77	no	RISING
+hate	sn:the_stacker_muse	2.73	no	RISING
+tell	sn:AskSN	2.67	no	RISING
