@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-08-22T10:22:33.549Z; n=40
+# generated 2026-08-22T16:23:22.189Z; n=40
 omacom foundation	sn:tech	6.22	yes	
-bitcoin	sn:privacy,sn:bitcoin	6.14	yes	
-what	sn:meta,sn:AskSN	5.48	yes	
-lightning network	sn:bitcoin,sn:lightning	4.2	yes	
-romania	sn:news	3.74	no	RISING
-european	sn:news	3.74	no	RISING
-economics	sn:bitcoin	3.72	yes	
-peer	sn:bitcoin	3.72	yes	
-the stubborn issue	sn:bitcoin	3.72	yes	
-indexation	sn:bitcoin	3.72	yes	
-retiree	sn:news	3.64	no	RISING
-spain	sn:news	3.64	no	RISING
-speculating	sn:bitcoin	3.59	yes	
-bitcoin-standard	sn:bitcoin	3.59	yes	
-predyx	sn:Stacker_Stocks	3.47	no	RISING
-lightning	sn:Stacker_Stocks	3.47	yes	
+bitcoin	sn:Design,sn:bitcoin	5.82	yes	
+meta	hn,sn:tech	4.25	yes	
+nobody	sn:meta	3.79	yes	
+motorola	sn:security	3.73	yes	
+pixels	sn:security	3.73	yes	
+speculating	sn:bitcoin	3.6	yes	
+bitcoin-standard	sn:bitcoin	3.6	yes	
+predyx	sn:Stacker_Stocks	3.48	no	RISING
+lightning	sn:Stacker_Stocks	3.48	yes	
 latest strikes	sn:bitcoin	3.43	yes	
 august	sn:bitcoin	3.43	yes	
+what	sn:meta	3.4	yes	
+stacker news	sn:meta	3.4	yes	
 some	sn:privacy	3.4	no	RISING
-stacker news	sn:meta	3.38	yes	
-tutorial	sn:privacy	3.36	no	RISING
-how to get	sn:privacy	3.36	no	RISING
-private	sn:privacy	3.36	no	RISING
-graphene	sn:privacy	3.36	no	RISING
-android	sn:privacy	3.36	no	RISING
 krispy kreme	sn:gaming	3.24	no	RISING
-bitcoin optech newsletter	sn:bitcoin	3.08	yes	
-kagi	hn	3.05	no	RISING
-napstr	sn:nostr	2.99	yes	
-felony	hn	2.9	no	RISING
-border	hn	2.9	no	RISING
-to be left alone	sn:Politics_And_Law	2.88	no	RISING
-together	sn:Politics_And_Law	2.88	no	RISING
-sweden	sn:Politics_And_Law	2.88	no	RISING
-nordic-socialism mentality	sn:Politics_And_Law	2.88	no	RISING
-the economist	sn:Politics_And_Law	2.88	no	RISING
-which	sn:AskSN	2.87	no	RISING
-the last airbender	sn:AskSN	2.87	no	RISING
-felony bench	hn	2.85	no	RISING
-make	sn:Stacker_Sports	2.81	no	RISING
+grug speak	sn:bitdevs	3.1	no	RISING
+grug outside	sn:bitdevs	3.1	no	RISING
+grug happy	sn:bitdevs	3.1	no	RISING
+napstr	sn:nostr	3.1	yes	
+kagi	hn	3.08	no	RISING
+noones app	sn:bitcoin	3.08	yes	
+consensus	sn:Design	3.04	yes	
+health	sn:Design	3.04	yes	
+twitter	sn:Design	3.04	yes	
+felony	hn	2.98	no	RISING
+border	hn	2.98	no	RISING
+national	sn:Politics_And_Law	2.96	no	RISING
+erpo	sn:Politics_And_Law	2.96	no	RISING
+protective orders	sn:Politics_And_Law	2.96	no	RISING
+lifesaver or second amendment end around	sn:Politics_And_Law	2.96	no	RISING
+felony bench	hn	2.9	no	RISING
+which	sn:AskSN	2.9	no	RISING
+the last airbender	sn:AskSN	2.9	no	RISING
+french revolution was not	sn:Politics_And_Law	2.88	no	RISING
+libertarian revolution	sn:Politics_And_Law	2.88	no	RISING
+canada	hn	2.8	no	RISING
+kobo	hn	2.79	no	RISING
+hyprland	sn:tech	2.79	yes	
+bullish	sn:bitcoin	2.78	yes	
